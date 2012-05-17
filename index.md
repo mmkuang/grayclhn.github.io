@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Gray Calhoun on the web
 ---
 
 Gray Calhoun
