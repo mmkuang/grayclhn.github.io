@@ -22,8 +22,10 @@ Education
 ---------
 * PhD in Economics from UC San Diego, 2003-2009.  
   Thesis title: *Limit theory for overfit models.*  
-  Advisors: Graham Elliott and Allan Timmermann  
+  Advisors: Graham Elliott and Allan Timmermann
+
 * MS in Statistics from UC San Diego, 2003-2006.
+
 * BA in Mathematics from Tufts University, 1997-2001.
 
 Research interests
@@ -36,6 +38,7 @@ Grants and awards
 * Iowa State University Strategic Initiative, Graphical Processing
   Units (GPU) for Parallel Computing, with Helle Bunzel, Jarad Niemi,
   and Mervyn Marasinghe, 2012. ($87,727.39).
+
 * Walter P. Heller Award for Outstanding Third-Year Paper, UCSD
   Economics Department, 2006.
 
