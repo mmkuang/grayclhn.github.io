@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: post
 title: Handout on software and computing
 ---
-
-Handout on software and computing
-=================================
 
 This brief handout lists and justifies some of my opinions about
 software for empirical research.  As requested, this handout focuses
