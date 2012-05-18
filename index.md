@@ -13,7 +13,8 @@ macroeconomics, and finance. See [my CV][CV] for more details.
 
 I'm in the process of moving my webpage from its old address to
 GitHub.  The old page is available at
-<http://www.econ.iastate.edu/~gcalhoun>.
+<http://www.econ.iastate.edu/~gcalhoun>.  You might be interested in
+the following items:
 
 * Publicly-available projects that I'm currently working on are
   listed on this page.  You can also find projects at
@@ -28,7 +29,10 @@ GitHub.  The old page is available at
 
 * [Graduate teaching](graduate.html)
 
-* [Miscellaneous and informal documents](documents.html)
+* [Miscellaneous and informal documents](documents.html): Assorted
+  short and under-edited essays.  Some might call them blog posts, but
+  that would overstate how frequently I write them.  You can get a
+  list of all of the documents [here](/essays/).
 
 You can reach me by email at <gcalhoun@iastate.edu>.  My office is
 Heady Hall, room 467, (515) 294-6271.  If you find any errors on my
