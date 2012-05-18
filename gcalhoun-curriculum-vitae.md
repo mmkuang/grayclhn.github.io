@@ -20,14 +20,10 @@ Academic positions
 
 Education
 ---------
-* PhD in Economics from UC San Diego, 2003-2009.
-
-    * Thesis title: *Limit theory for overfit models.*
-
-    * Advisors: Graham Elliott and Allan Timmermann
-
+* PhD in Economics from UC San Diego, 2003-2009.  
+  Thesis title: *Limit theory for overfit models.*  
+  Advisors: Graham Elliott and Allan Timmermann  
 * MS in Statistics from UC San Diego, 2003-2006.
-
 * BA in Mathematics from Tufts University, 1997-2001.
 
 Research interests
@@ -54,37 +50,36 @@ Working papers
 1. Out-of-sample comparisons of overfit models. Working Paper 11002,
    Iowa State University, 2011. (Revise and resubmit at *Review of
    Economic Studies*).
+
 2. Block bootstrap consistency under weak assumptions. Working Paper
    11017, Iowa State University, 2011. (Revise and resubmit at
    *Econometric Theory*).
+
 3. An asymptotically normal out-of-sample test of equal predictive
    accuracy for nested models.
 
 External presentations
 ----------------------
-* 2009:
+* **2009:**
+  *Hypothesis testing in linear regression when k/n is large*  
+  Federal Deposit Insurance Corporation; Federal Reserve Bank of
+  Kansas City; Iowa State University; Wayne State University.
 
-    * *Hypothesis testing in linear regression when k/n is large:*
-      Federal Deposit Insurance Corporation; Federal Reserve Bank of
-      Kansas City; Iowa State University; Wayne State University.
+* **2010:**
+  *Limit theory for comparing overfit forecasts out-of-sample*  
+  Midwest Economics Association Annual Meetings; International
+  Symposium on Forecasting; Joint Statistical Meetings
 
-* 2010:
+    *The empirical behavior of out-of-sample forecast comparisons*  
+  Annual Meetings of the Midwest Econometrics Group
 
-    * *Limit theory for comparing overfit forecasts out-of-sample:*
-       Midwest Economics Association Annual Meetings; International
-       Symposium on Forecasting; Joint Statistical Meetings
+* **2011:**
+  *An asymptotically normal out-of-sample test of equal
+  predictive accuracy for nested models*  
+  Annual Meetings of the Midwest Econometrics Group
 
-    * *The empirical behavior of out-of-sample forecast comparisons:*
-      Annual Meetings of the Midwest Econometrics Group
-
-* 2011:
-
-    * *An asymptotically normal out-of-sample test of equal predictive
-      accuracy for nested models:* Annual Meetings of the Midwest
-      Econometrics Group
-
-    * *Limit theory for comparing overfit forecasts out-of-sample:*
-       NBER/NSF Time Series Conference
+    *Limit theory for comparing overfit forecasts out-of-sample*  
+  NBER/NSF Time Series Conference
 
 Software development
 --------------------
