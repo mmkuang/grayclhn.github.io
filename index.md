@@ -29,10 +29,9 @@ the following items:
 
 * [Graduate teaching](graduate.html)
 
-* [Miscellaneous and informal documents](documents.html): Assorted
+* [Miscellaneous and informal documents](/essays/): Assorted
   short and under-edited essays.  Some might call them blog posts, but
-  that would overstate how frequently I write them.  You can get a
-  list of all of the documents [here](/essays/).
+  that would overstate how frequently I write them.
 
 You can reach me by email at <gcalhoun@iastate.edu>.  My office is
 Heady Hall, room 467, (515) 294-6271.  If you find any errors on my
