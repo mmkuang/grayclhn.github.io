@@ -37,7 +37,7 @@ the following items:
 You can reach me by email at <gcalhoun@iastate.edu>.  My office is
 Heady Hall, room 467, (515) 294-6271.  If you find any errors on my
 website, please let me know directly or open a new issue at
-<https://github.com/gcalhoun/gcalhoun.github.com/issues>.
+<https://github.com/gcalhoun/gcalhoun.github.com/issues/new>.
 
 Current working papers
 ----------------------
