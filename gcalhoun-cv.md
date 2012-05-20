@@ -15,11 +15,13 @@ Contact Information
 
 Academic positions
 ------------------
+
 * 2009-present: Assistant Professor of Economics at Iowa State
   University.
 
 Education
 ---------
+
 * PhD in Economics from UC San Diego, 2003-2009.  
   Thesis title: *Limit theory for overfit models.*  
   Advisors: Graham Elliott and Allan Timmermann
@@ -30,11 +32,13 @@ Education
 
 Research interests
 ------------------
+
 Econometric Theory, Forecasting and Time Series Econometrics, and
 Applied Macroeconomics
 
 Grants and awards
 -----------------
+
 * Iowa State University Strategic Initiative, Graphical Processing
   Units (GPU) for Parallel Computing, with Helle Bunzel, Jarad Niemi,
   and Mervyn Marasinghe, 2012. ($87,727.39).
@@ -44,22 +48,21 @@ Grants and awards
 
 Publications
 ------------
-1. Hypothesis testing in linear regression when k/n is large. *Journal
-   of Econometrics,* 165(2) (December 2011): 163-174.
 
+{% for doc in site.posts %} {% if doc.category == 'papers' %}
+1. {{ doc.title }}. {{ doc.info }}  
+    <{{ doc.link }}>
+
+{% endif %} {% endfor %}
 
 Working papers
 --------------
-1. Out-of-sample comparisons of overfit models. Working Paper 11002,
-   Iowa State University, 2011. (Revise and resubmit at *Review of
-   Economic Studies*).
 
-2. Block bootstrap consistency under weak assumptions. Working Paper
-   11017, Iowa State University, 2011. (Revise and resubmit at
-   *Econometric Theory*).
+{% for doc in site.posts %} {% if doc.category == 'working' %}
+1. {{ doc.title }}. {{ doc.info }}  
+    <{{ doc.link }}>
 
-3. An asymptotically normal out-of-sample test of equal predictive
-   accuracy for nested models.
+{% endif %} {% endfor %}
 
 External presentations
 ----------------------
@@ -87,11 +90,11 @@ External presentations
 Software development
 --------------------
 
-1. *dbframe, an R to SQL interface,* (2010-present). Available at
-   <http://github.com/gcalhoun/dbframe-R-library>.
+{% for doc in site.posts %} {% if doc.category == 'software' %}
+1. {{ doc.title }}.  {{ doc.info }}  
+   <{{ doc.link }}>
 
-2. *oosanalysis. Pseudo out-of-sample forecasting,* (2009-present).
-   Available at <http://github.com/gcalhoun/oosanalysis-R-library>.
+{% endif %} {% endfor %}
 
 Teaching
 --------
@@ -138,5 +141,7 @@ Professional activities
  -->
 <!--  LocalWords:  Marasinghe NBER dbframe SQL oosanalysis Advisor Anwen Xiying
  -->
-<!--  LocalWords:  advisor Liu Richey Ozgu Serttas Yihui Xie Econometrica
+<!--  LocalWords:  advisor Liu Richey Ozgu Serttas Yihui Xie Econometrica endif
+ -->
+<!--  LocalWords:  endfor
  -->

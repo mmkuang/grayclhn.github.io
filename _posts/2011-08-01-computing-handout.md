@@ -2,7 +2,8 @@
 layout: post
 title: Handout on software and computing
 abstract: I originally wrote this handout for my graduate econometrics class. It may be interesting to other people too, so I've moved it to this part of the webpage.
-tags: graduate, computing
+tags: [graduate, computing]
+category: essays
 ---
 
 This brief handout lists and justifies some of my opinions about
@@ -169,4 +170,14 @@ statistics packages.
 
 [VeR00]: http://www.worldcat.org/oclc/42798174 "W. N. Venables and Brian D. Ripley. S Programming.  Springer, 2000."
 
-[R12]: http://cran.r-project.org/manuals.html "R Development Core Team. Writing R Extensions. 2012"
+[R12]: http://cran.r-project.org/manuals.html "R Development Core
+Team. Writing R Extensions. 2012"
+
+<!--  LocalWords:  webpage FreeBSD XP MSys Cygwin SQLite Scriptable Matlab SAS
+ -->
+<!--  LocalWords:  Stata Fortran SQL Bea GCC KeR VeR datafiles Lut SFP PDM nd
+ -->
+<!--  LocalWords:  NumPy SciPy Beaulieu O'Reilly Friedl Kernighan Ritchie Lutz
+ -->
+<!--  LocalWords:  th brian foy Venables Springer
+ -->
