@@ -1,6 +1,5 @@
 ---
 layout: cvitem
-category: papers
 title: Hypothesis testing in linear regression when k/n is large
 info: "<i>Journal of Econometrics</i>, 165(2), 2011: 163–174."
 link: http://www.econ.iastate.edu/research/working-papers/p12216

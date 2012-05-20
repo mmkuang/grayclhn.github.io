@@ -41,22 +41,22 @@ website, please let me know directly or open a new issue at
 Current working papers
 ----------------------
 
-{% for doc in site.posts %} {% if doc.category == 'working' %}
+{% for doc in site.categories.working %}
 * {{ doc.title }}. {{ doc.info }}  
   <{{ doc.link }}>  
   {{ doc.content }}
 
-{% endif %} {% endfor %}
+{% endfor %}
 
 Software development
 --------------------
 
-{% for doc in site.posts %} {% if doc.category == 'software' %}
+{% for doc in site.categories.software %}
 * {{ doc.title }}.  {{ doc.info }}  
   <{{ doc.link }}>  
   {{ doc.content }}
 
-{% endif %} {% endfor %}
+{% endfor %}
 
 <!--  LocalWords:  Calhoun's gcalhoun html UC webpage GitHub Econom AIC Goyal
  -->

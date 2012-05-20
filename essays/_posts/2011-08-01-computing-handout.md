@@ -3,7 +3,6 @@ layout: post
 title: Handout on software and computing
 abstract: I originally wrote this handout for my graduate econometrics class. It may be interesting to other people too, so I've moved it to this part of the webpage.
 tags: [graduate, computing]
-category: essays
 ---
 
 This brief handout lists and justifies some of my opinions about

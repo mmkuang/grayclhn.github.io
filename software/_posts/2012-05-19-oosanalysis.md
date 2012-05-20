@@ -1,6 +1,5 @@
 ---
 layout: cvitem
-category: software
 title: The oosanalysis R library
 link: https://www.github.com/gcalhoun/oosanalysis-R-library
 ---

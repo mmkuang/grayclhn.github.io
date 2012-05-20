@@ -1,6 +1,5 @@
 ---
 layout: cvitem
-category: working
 title: Out-of-sample comparisons of overfit models
 info: Working Paper 11002, Iowa State University, 2011 (revising for resubmission).
 link: http://www.econ.iastate.edu/research/working-papers/p12462

@@ -49,52 +49,38 @@ Grants and awards
 Publications
 ------------
 
-{% for doc in site.posts %} {% if doc.category == 'papers' %}
+{% for doc in site.categories.papers %}
 1. {{ doc.title }}. {{ doc.info }}  
     <{{ doc.link }}>
 
-{% endif %} {% endfor %}
+{% endfor %}
 
 Working papers
 --------------
 
-{% for doc in site.posts %} {% if doc.category == 'working' %}
+{% for doc in site.categories.working %}
 1. {{ doc.title }}. {{ doc.info }}  
     <{{ doc.link }}>
 
-{% endif %} {% endfor %}
-
-External presentations
-----------------------
-* **2009:**
-  *Hypothesis testing in linear regression when k/n is large*  
-  Federal Deposit Insurance Corporation; Federal Reserve Bank of
-  Kansas City; Iowa State University; Wayne State University.
-
-* **2010:**
-  *Limit theory for comparing overfit forecasts out-of-sample*  
-  Midwest Economics Association Annual Meetings; International
-  Symposium on Forecasting; Joint Statistical Meetings
-
-    *The empirical behavior of out-of-sample forecast comparisons*  
-  Annual Meetings of the Midwest Econometrics Group
-
-* **2011:**
-  *An asymptotically normal out-of-sample test of equal
-  predictive accuracy for nested models*  
-  Annual Meetings of the Midwest Econometrics Group
-
-    *Limit theory for comparing overfit forecasts out-of-sample*  
-  NBER/NSF Time Series Conference
+{% endfor %}
 
 Software development
 --------------------
 
-{% for doc in site.posts %} {% if doc.category == 'software' %}
+{% for doc in site.categories.software %}
 1. {{ doc.title }}.  {{ doc.info }}  
    <{{ doc.link }}>
 
+{% endfor %}
+
+External presentations
+----------------------
+
+<ul>
+{% for doc in site.posts %} {% if doc.categories contains 'talks' %}
+<li>{{ doc.info }}.  <i>{{ doc.title }}</i></li>
 {% endif %} {% endfor %}
+</ul>
 
 Teaching
 --------

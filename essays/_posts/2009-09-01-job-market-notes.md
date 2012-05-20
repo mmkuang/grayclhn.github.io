@@ -3,7 +3,6 @@ layout: post
 title: An extremely subjective outline of the economics job market 
 abstract: I put together an outline of my thoughts about the economics job market, mostly to help the 2010 UCSD graduating class. It reflects only my own experience and opinion (except for a few comments by others), so it is likely to be misleading and incomplete. But, now that I've typed it up, I see no reason not to put it online. Please let me know if you have additional comments that you think should be added.
 tags: [graduate, job market]
-category: essays
 ---
 
 Introduction
