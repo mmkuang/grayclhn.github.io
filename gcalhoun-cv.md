@@ -78,7 +78,7 @@ External presentations
 
 <ul>
 {% for doc in site.posts %} {% if doc.categories contains 'talks' %}
-<li>{{ doc.info }}.  <i>{{ doc.title }}</i></li>
+<li>{{ doc.info }}.  <i>{{ doc.title }}.</i></li>
 {% endif %} {% endfor %}
 </ul>
 

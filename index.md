@@ -29,6 +29,8 @@ the following items:
 
 * [Graduate teaching](graduate.html)
 
+* [External presentations](/talks/)
+
 * [Miscellaneous and informal documents](/essays/): Assorted
   short and under-edited essays.  Some might call them blog posts, but
   that would overstate how frequently I write them.
