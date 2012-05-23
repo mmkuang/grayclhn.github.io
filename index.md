@@ -5,7 +5,7 @@ title: Gray Calhoun's homepage
 [CV]: gcalhoun-cv.html
 
 <img src='http://www.gravatar.com/avatar/f3c9878eabc83410b2d9e380cc36dfcf?s=120' 
-     style='float:left;margin:0 20px 10px 0;' alt='Profile picture' />
+     style='float:right;margin:0 0 10px 20px;' alt='Profile picture' />
 I've been an Assistant Professor in Iowa State's Economics Department
 since August, 2009. Before that, I attended UC San Diego for graduate
 school. I'm studying econometrics and am particularly interested in
