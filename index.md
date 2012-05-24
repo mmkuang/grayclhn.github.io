@@ -37,8 +37,7 @@ the following items:
   short and under-edited essays.  Some might call them blog posts, but
   that would overstate how frequently I write them.
 
-You can reach me by email at <gcalhoun@iastate.edu> and on Twitter at
-[@GrayCalhoun](https://twitter.com/#!/GrayCalhoun).  My office is
+You can reach me by email at <gcalhoun@iastate.edu>.  My office is
 Heady Hall, room 467, (515) 294-6271.  If you find any errors on my
 website, please let me know.
 
