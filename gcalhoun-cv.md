@@ -105,12 +105,13 @@ Graduate student committees
 Professional activities
 -----------------------
 ### Journal referee:
-* *American Journal of Agricultural Economics* (2012)
+* *American Journal of Agricultural Economics* (2011)
+* *Communications in Statistics—Theory and Methods* (2012)
 * *Econometrica* (2012)
 * *Handbook of Economic Forecasting* (2011)
 * *International Journal of Forecasting* (2007, 2009, 2010, 2012)
 * *Journal of Business & Economic Statistics* (2011, 2012)
-* *The Manchester School* (2012)
+* *Manchester School* (2012)
 
 ### Professional membership:
 * American Economic Association
