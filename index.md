@@ -46,6 +46,11 @@ the following items:
   short and under-edited essays.  Some might call them blog posts, but
   that would overstate how frequently I write them.
 
+* Other websites: I'm listed on [IDEAS](http://ideas.repec.org/f/pca491.html)
+  and on [Google
+  Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ).
+  I'm unsure if those sites are useful, so let me know if they are.
+
 You can reach me by email at <gcalhoun@iastate.edu>.  My office is
 Heady Hall, room 467, (515) 294-6271.  If you find any errors on my
 website, please let me know.
