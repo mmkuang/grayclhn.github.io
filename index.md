@@ -26,7 +26,7 @@ the following items:
   of my CV for internal departmental use.
 
 * [Refereed publications](/papers/): A list of publications along
-  with supplemental appendices and supporting software and other files
+  with supplemental appendices and supporting software and other files.
 
 * [Undergraduate teaching](undergraduate.html): I'm still moving
   information here.  There probably isn't a lot right now, but there
