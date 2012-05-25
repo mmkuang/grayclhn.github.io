@@ -66,7 +66,8 @@ Software development
 {% for doc in site.categories.software %}
 * {{ doc.title }}.  {{ doc.info }}  
   <{{ doc.link }}>  
-  {{ doc.content }}
+  <p>{{ doc.notes }}</p>
+  <p>{{ doc.content }}</p>
 
 {% endfor %}
 
