@@ -55,7 +55,7 @@ Current working papers
 
 {% for doc in site.categories.working %}
 * {{ doc.title }}. {{ doc.info }}  
-  {{ doc.link }}  
+  <{{ doc.link }}>  
   {{ doc.notes }}  
   {{ doc.content }}
 
@@ -66,7 +66,7 @@ Software development
 
 {% for doc in site.categories.software %}
 * {{ doc.title }}.  {{ doc.info }}  
-  {{ doc.link }}  
+  <{{ doc.link }}>  
   {{ doc.notes }}  
   {{ doc.content }}
 
