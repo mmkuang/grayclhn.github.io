@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archived informal and short documents/essays
+title: Archived informal and short documents
 ---
 
 {% for doc in site.categories.essays %}

@@ -4,7 +4,7 @@ title: Gray Calhoun's homepage
 ---
 [CV]: gcalhoun-cv.html
 
-<img src='http://www.gravatar.com/avatar/f3c9878eabc83410b2d9e380cc36dfcf?s=120' 
+<img src='http://www.gravatar.com/avatar/f3c9878eabc83410b2d9e380cc36dfcf?s=160' 
      style='float:right;margin:0 0 10px 20px;' alt='Profile picture' />
 I've been an Assistant Professor in Iowa State's Economics Department
 since August, 2009. Before that, I attended UC San Diego for graduate
@@ -25,13 +25,22 @@ the following items:
 * [Curriculum vitae][CV]: This is an especially tedious version
   of my CV for internal departmental use.
 
-* [Refereed publications](/papers/)
+* [Refereed publications](/papers/): A list of publications along
+  with supplemental appendices and supporting software and other files
 
-* [Undergraduate teaching](undergraduate.html)
+* [Undergraduate teaching](undergraduate.html): I'm still moving
+  information here.  There probably isn't a lot right now, but there
+  will be links for courses that I am teaching and have taught. I'll
+  also put other information that I think will interest undergrads here.
 
-* [Graduate teaching](graduate.html)
+* [Graduate teaching](graduate.html): This section will have links and
+  handouts for the graduate courses I teach and will have other
+  information that might interest grad students.  Right now it's
+  pretty empty, though.
 
-* [External presentations](/talks/)
+* [External presentations](/talks/): A list of external presentations 
+  that I've given or that are scheduled, as well as slides and
+  handouts for the talks.
 
 * [Miscellaneous and informal documents](/essays/): Assorted
   short and under-edited essays.  Some might call them blog posts, but
