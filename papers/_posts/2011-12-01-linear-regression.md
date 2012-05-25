@@ -3,7 +3,7 @@ layout: cvitem
 title: Hypothesis testing in linear regression when k/n is large
 info: "<i>Journal of Econometrics</i>, 165(2), 2011: 163–174."
 link: http://www.econ.iastate.edu/research/working-papers/p12216
-notes: <a href="http://www.econ.iastate.edu/~gcalhoun/software/ftestLargeK_1.0.tar.gz">R package</a> and <a href="http://www.econ.iastate.edu/~gcalhoun/software/calhoun-2010-ftest.tar.gz">additional files</a> are available
+notes: <a href="/download/ftestLargeK_1.0.tar.gz">R package</a> and <a href="/download/calhoun-2010-ftest.tar.gz">additional files</a> are available
 ---
 This paper derives the asymptotic distribution of the F-test for the
 significance of linear regression coefficients as both the number of
