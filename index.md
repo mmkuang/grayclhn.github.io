@@ -15,7 +15,7 @@ macroeconomics, and finance. See [my CV][CV] for more details.
 
 I'm in the process of moving my webpage from its old address to
 GitHub.  The old page is available at
-<http://www.econ.iastate.edu/~gcalhoun>.  You might be interested in
+<http://www.econ.iastate.edu/~gcalhoun/old.html>.  You might be interested in
 the following items:
 
 * Publicly-available projects that I'm currently working on are
