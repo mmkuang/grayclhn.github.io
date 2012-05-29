@@ -51,7 +51,8 @@ the following items:
   Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ).
   I'm not sure if those sites are useful.  Let me know if they are.
 
-You can reach me by email at <gcalhoun@iastate.edu>.  My office is
+You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
+[@GrayCalhoun](http://www.twitter.com/#!/GrayCalhoun).  My office is
 Heady Hall, room 467, (515) 294-6271.  If you find any errors on my
 website, please let me know.
 
