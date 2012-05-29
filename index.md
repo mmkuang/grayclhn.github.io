@@ -46,15 +46,16 @@ the following items:
   short and under-edited essays.  Some might call them blog posts, but
   that would overstate how frequently I write them.
 
-* Other websites: I'm listed on [IDEAS](http://ideas.repec.org/f/pca491.html)
-  and on [Google
-  Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ).
+* Other websites: 
   I'm not sure if those sites are useful.  Let me know if they are.
 
 You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
-[@GrayCalhoun](http://www.twitter.com/#!/GrayCalhoun).  My office is
-Heady Hall, room 467, (515) 294-6271.  If you find any errors on my
-website, please let me know.
+[@GrayCalhoun](http://www.twitter.com/#!/GrayCalhoun), and I have
+(mostly redundant) profiles at
+[IDEAS](http://ideas.repec.org/f/pca491.html) and [Google
+Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ)..
+My office is Heady Hall, room 467, (515) 294-6271, on the Iowa State
+campus.  If you find any errors on my website, please let me know.
 
 Current working papers
 ----------------------
@@ -82,5 +83,5 @@ Software development
  -->
 <!--  LocalWords:  Welch's Finan de Jong Jong's CLT overfit Diebold LM cv endif
  -->
-<!--  LocalWords:  McCracken's endfor
+<!--  LocalWords:  McCracken's endfor blog GrayCalhoun Google
  -->
