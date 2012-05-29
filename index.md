@@ -46,7 +46,7 @@ You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
 [@GrayCalhoun](http://www.twitter.com/#!/GrayCalhoun), and I have
 (mostly redundant) profiles at
 [IDEAS](http://ideas.repec.org/f/pca491.html), [Google
-Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ)m
+Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ)
 and on the [Economics Department
 homepage](http://www.econ.iastate.edu/people/faculty/calhoun-gray).
 My office is Heady Hall, room 467, (515) 294-6271, on the Iowa State
