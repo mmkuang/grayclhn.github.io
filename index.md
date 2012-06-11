@@ -42,14 +42,21 @@ might be interested in the following items:
   short and under-edited essays. Some might call them blog posts, but
   that would overstate how frequently I write them.
 
-You can reach me by email at <gcalhoun@iastate.edu> and I have (mostly
-redundant) profiles at [IDEAS](http://ideas.repec.org/f/pca491.html),
-[Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
-and the [Economics Department homepage](http://www.econ.iastate.edu/people/faculty/calhoun-gray).
-My office is Heady Hall, room 467, (515) 294-6271, on the Iowa State
-campus. I recently moved my homepage to GitHub; the old page is still
-available at <http://www.econ.iastate.edu/~gcalhoun/old.html>. If you
-find any errors on my website, please let me know.
+* Other websites: I have [a work-related
+  Tumblr](http://graycalhoun.tumblr.com); am on Twitter:
+  [@gfcal](http://www.twitter.com/#!gfcal); and have a personal blog
+  for photos of my kids and stuff like that (email me if you want the
+  URL).  I also have (mostly redundant) profiles at
+  [IDEAS](http://ideas.repec.org/f/pca491.html), [Google
+  Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
+  and the [Economics Department
+  homepage](http://www.econ.iastate.edu/people/faculty/calhoun-gray).
+  I recently moved my homepage to GitHub; the old page is still
+  available at <http://www.econ.iastate.edu/~gcalhoun/old.html>.
+
+You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
+[@gfcal](http://www.twitter.com/#!gfcal).  My office is Heady Hall,
+room 467, (515) 294-6271, on the Iowa State campus.
 
 Current working papers
 ----------------------
