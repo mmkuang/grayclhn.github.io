@@ -42,9 +42,10 @@ might be interested in the following items:
   short and under-edited essays. Some might call them blog posts, but
   that would overstate how frequently I write them.
 
-* [Sports-related documents](/_unsport): I'm putting together some R
-  scripts that calculate really basic statistics for different sports
-  I follow.  Whatever I've got goes here.
+* [Sports micro-blog](/unsprt/): I'm putting together some R scripts
+  that calculate really basic statistics for different sports I
+  follow, and then posting them to Twitter. This link tries to explain
+  those statistics.
 
 * Other websites: I have [a work-related
   Tumblr](http://graycalhoun.tumblr.com); am on Twitter:
