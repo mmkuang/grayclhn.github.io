@@ -1,5 +1,5 @@
 ---
-layout: twitter
+layout: tweet
 title: Untitled sports (micro-) blog
 ---
 
@@ -18,12 +18,12 @@ Here's an example (you may need to follow the links if they're not embedded):
 <blockquote class="twitter-tweet"><p>Example of the baseball graphs I'll post. I'm not 100% sure these data are correct so WATCH OUT. <a href="http://t.co/mRiXSsYh" title="http://twitter.com/_unsprt/status/223067400361345024/photo/1">twitter.com/_unsprt/status…</a></p>&mdash; untitled sports blog (@_unsprt) <a href="https://twitter.com/_unsprt/status/223067400361345024" data-datetime="2012-07-11T14:53:07+00:00">July 11, 2012</a></blockquote>
 
 These charts try show us a rough measure of each team's performance.
-percentage is a flawed measure of team performance, since teams have
-different opponents and some opponents are better than others. We
-can address that by fitting a "fixed effects" regression model, so we
-assume that there are unknown constants <i>a<sub>i</sub></i> and
-<i>b<sub>j</sub></i> (<i>i</i> and <i>j</i> index each of the 30 teams) 
-such that
+Winning percentage is a flawed measure of team performance, since
+teams have different opponents and some opponents are better than
+others. We can address that by fitting a "fixed effects" regression
+model, so we assume that there are unknown constants
+<i>a<sub>i</sub></i> and <i>b<sub>j</sub></i> (<i>i</i> and <i>j</i>
+index each of the 30 teams) such that
 
 Prob(<i>home team wins</i> given <i>team i is home</i> and <i>team j is away</i>) = <i>a<sub>i</sub></i> + <i>b<sub>j</sub></i>
 
