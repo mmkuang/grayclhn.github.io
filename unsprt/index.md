@@ -7,7 +7,10 @@ I run a few R scripts to estimate statistical charts for baseball, and
 I plan to add other sports and statistics soon. They get posted on Twitter
 through [@_unsprt](https://twitter.com/intent/user?screen_name=_unsprt),
 so go there if you want to see the actual charts. This page tries to explain
-what's going on in the charts.
+what's going on in the charts. 
+
+Note that this page is licenced under Creative Commons (see bottom of
+page), but the charts themselves are not.
 
 ### Baseball season summary
 
