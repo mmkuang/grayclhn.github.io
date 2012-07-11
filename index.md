@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tweet
 title: Gray Calhoun's homepage
 ---
 [CV]: gcalhoun-cv.html
@@ -45,12 +45,12 @@ might be interested in the following items:
 * Sports micro-blog: I'm putting together some R scripts
   that calculate really basic statistics for different sports I
   follow, and then posting them to Twitter
-  (@_unsprt)[https://twitter.com/_unsprt]. [This link](/unsprt/) tries
+  [@_unsprt](https://twitter.com/intent/user?screen_name=_unsprt). [This link](/unsprt/) tries
   to explain those statistics.
 
 * Other websites: I have [a work-related
   Tumblr](http://graycalhoun.tumblr.com); am on Twitter:
-  [@gfcal](http://www.twitter.com/#!/gfcal); and have a personal blog
+  [@gfcal](http://www.twitter.com/intent/user?screen_name=gfcal); and have a personal blog
   for photos of my kids and stuff like that (email me if you want the
   URL).  I also have (mostly redundant) profiles at
   [IDEAS](http://ideas.repec.org/f/pca491.html), [Google
@@ -61,7 +61,7 @@ might be interested in the following items:
   available at <http://www.econ.iastate.edu/~gcalhoun/old.html>.
 
 You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
-[@gfcal](http://www.twitter.com/#!/gfcal).  My office is Heady Hall,
+[@gfcal](http://www.twitter.com/intent/user?screen_name=gfcal).  My office is Heady Hall,
 room 467, (515) 294-6271, on the Iowa State campus.
 
 Current working papers
