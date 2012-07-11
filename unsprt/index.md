@@ -30,9 +30,13 @@ Prob(<i>home team wins</i> given <i>team i is home</i> and <i>team j is away</i>
 and then we estimate each <i>a<sub>i</sub></i> and
 <i>b<sub>j</sub></i> using data from the current baseball season (this
 is called <i>linear regression</i> or <i>OLS</i> and generalizes
-taking the average). Once we estimate the coefficients, we can derive
-an estimate of the probability that any team will beat any other team,
-taking home field advantage into account.
+taking the average). If we include only the <i>a<sub>i</sub></i> terms
+we'd estimate each team's winning percentage at home, and if we
+include only the <i>b<sub>j</sub></i> terms we'd estimate each team's
+road winning percentage. Including both terms lets us account for both
+teams. Once we estimate these coefficients, we can derive an estimate
+of the probability that any team will beat any other team, taking home
+field advantage into account.
 
 Now look at the table (embedded in the tweet above as a picture). 
 
