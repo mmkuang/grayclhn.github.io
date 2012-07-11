@@ -13,7 +13,6 @@ what's going on in the charts.
 
 You should be able to pull up all of these charts by 
 [searching Twitter for @_unsprt #mlb #wins](https://twitter.com/#!/search/realtime/%40_unsprt%20%23mlb%20%23wins).
-
 Here's an example (you may need to follow the links if they're not embedded):
 <blockquote class="twitter-tweet"><p>Example of the baseball graphs I'll post. I'm not 100% sure these data are correct so WATCH OUT. <a href="http://t.co/mRiXSsYh" title="http://twitter.com/_unsprt/status/223067400361345024/photo/1">twitter.com/_unsprt/status…</a></p>&mdash; untitled sports blog (@_unsprt) <a href="https://twitter.com/_unsprt/status/223067400361345024" data-datetime="2012-07-11T14:53:07+00:00">July 11, 2012</a></blockquote>
 
