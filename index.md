@@ -1,5 +1,5 @@
 ---
-layout: tweet
+layout: default
 title: Gray Calhoun's homepage
 ---
 [CV]: gcalhoun-cv.html
@@ -49,8 +49,7 @@ might be interested in the following items:
   graphs at [this link](http://untitledsports.tumblr.com/details).
 
 * Other websites: I have [a work-related
-  Tumblr](http://graycalhoun.tumblr.com); am on Twitter:
-  [@gfcal](http://www.twitter.com/intent/user?screen_name=gfcal); and have a personal blog
+  Tumblr](http://graycalhoun.tumblr.com) and have a personal blog
   for photos of my kids and stuff like that (email me if you want the
   URL).  I also have (mostly redundant) profiles at
   [IDEAS](http://ideas.repec.org/f/pca491.html), [Google
@@ -60,8 +59,7 @@ might be interested in the following items:
   I recently moved my homepage to GitHub; the old page is still
   available at <http://www.econ.iastate.edu/~gcalhoun/old.html>.
 
-You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
-[@gfcal](http://www.twitter.com/intent/user?screen_name=gfcal).  My office is Heady Hall,
+You can reach me by email at <gcalhoun@iastate.edu>.  My office is Heady Hall,
 room 467, (515) 294-6271, on the Iowa State campus.
 
 Current working papers
