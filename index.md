@@ -46,7 +46,9 @@ might be interested in the following items:
   putting together some R scripts that calculate really basic
   statistics for different sports I follow. Occasionally I put them on
   Tumblr. There's an explanation of the details behind the tables &
-  graphs at [this link](http://untitledsports.tumblr.com/details).
+  graphs at [this link](http://untitledsports.tumblr.com/details).  I
+  go back and forth on whether this should be a public or private
+  blog, so if you are asked for a password it is: gratiscool
 
 * Other websites: I have [a work-related
   Tumblr](http://graycalhoun.tumblr.com) and have a personal blog
