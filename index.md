@@ -57,13 +57,13 @@ might be interested in the following items:
   homepage](http://www.econ.iastate.edu/people/faculty/calhoun-gray).
   I recently moved my homepage to GitHub; the old page is still
   available at <http://www.econ.iastate.edu/~gcalhoun/old.html>.  I
-  also have a [Tumblr](http://gfcal.tumblr.com) and a personal blog
-  for photos of my kids and stuff like that (email me if you want the
-  URL; please remind me why I should send you the link, too).
+  also have a personal blog for photos of my kids and stuff like that
+  (email me if you want the URL; please remind me why I should send
+  you the link, too).
 
-You can reach me by email at <gcalhoun@iastate.edu> and (usually) on
-Twitter [@gfcal](https://twitter.com/gfcal).  My office is Heady Hall,
-room 467, (515) 294-6271, on the Iowa State campus.
+You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
+[@gfcal](https://twitter.com/gfcal).  My office is Heady Hall, room
+467, (515) 294-6271, on the Iowa State campus.
 
 Current working papers
 ----------------------
