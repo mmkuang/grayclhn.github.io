@@ -57,7 +57,7 @@ might be interested in the following items:
   homepage](http://www.econ.iastate.edu/people/faculty/calhoun-gray).
   I recently moved my homepage to GitHub; the old page is still
   available at <http://www.econ.iastate.edu/~gcalhoun/old.html>.  I
-  also have a [Tumblr](https://gfcal.tumblr.com) and a personal blog
+  also have a [Tumblr](http://gfcal.tumblr.com) and a personal blog
   for photos of my kids and stuff like that (email me if you want the
   URL; please remind me why I should send you the link, too).
 
