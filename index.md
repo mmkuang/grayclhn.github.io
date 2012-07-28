@@ -58,8 +58,8 @@ might be interested in the following items:
   I recently moved my homepage to GitHub; the old page is still
   available at <http://www.econ.iastate.edu/~gcalhoun/old.html>.  I
   also have a personal blog for photos of my kids and stuff like that
-  (email me if you want the URL; please remind me why I should send
-  you the link, too).
+  (email me if you want the URL and please remind me why I should send
+  it to you).
 
 You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
 [@gfcal](https://twitter.com/gfcal).  My office is Heady Hall, room
