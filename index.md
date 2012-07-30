@@ -50,6 +50,9 @@ might be interested in the following items:
   go back and forth on whether this should be a public or private
   blog, so if you are asked for a password it is: gratiscool
 
+* [What I read online](links.html): An incomplete list of websites I
+  find interesting. I'm still adding to it.
+
 * I have (mostly redundant) profiles at
   [IDEAS](http://ideas.repec.org/f/pca491.html), [Google
   Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
