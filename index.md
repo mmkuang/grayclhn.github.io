@@ -50,7 +50,7 @@ might be interested in the following items:
   go back and forth on whether this should be a public or private
   blog, so if you are asked for a password it is: gratiscool
 
-* [What I read online](links.html): An incomplete list of websites I
+* [What I read online](/links/): An incomplete list of websites I
   find interesting. I'm still adding to it.
 
 * I have (mostly redundant) profiles at
@@ -58,14 +58,15 @@ might be interested in the following items:
   Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
   and the [Economics Department
   homepage](http://www.econ.iastate.edu/people/faculty/calhoun-gray).
-  I recently moved my homepage to GitHub; the old page is still
-  available at <http://www.econ.iastate.edu/~gcalhoun/old.html>.  I
-  also have a personal blog for photos of my kids and stuff like that
-  (email me if you want the URL and please remind me why I should send
-  it to you).
+  I recently moved my homepage; the old page is still available at
+  <http://www.econ.iastate.edu/~gcalhoun/old.html>.  I also have a
+  personal blog for photos of my kids and stuff like that (email me if
+  you want the URL and please remind me why I should send it to you).
 
-You can reach me by email at <gcalhoun@iastate.edu>.  My office is
-Heady Hall, room 467, (515) 294-6271, on the Iowa State campus.
+You can reach me by email at <gcalhoun@iastate.edu> for everything
+related to the university or <gray@clhn.co> for anything else.  My
+office is Heady Hall, room 467, (515) 294-6271, on the Iowa State
+campus.
 
 Current working papers
 ----------------------

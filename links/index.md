@@ -3,15 +3,15 @@ layout: default
 title: Other interesting websites
 ---
 
-I'm still in the process of adding bookmarks here and there may be
-some overlap between the categories. This is not meant to be a
-comprehensive list of everything on the web, everything I think is
-important, or even everything that Economics students might or should
-find interesting. It's just a list of some websites. Let me know if
-there's anything else you think I'd like.
+I'm still in the process of adding bookmarks here. This is not meant
+to be a comprehensive list of everything on the web, everything I
+think is important, or even everything that Economics students might
+or should find interesting. It's just a list of some websites. Let me
+know if there's anything else you think I'd like.
 
 ### Websites
 
+* Edward Tufte, <http://www.edwardtufte.com>
 * The Economist, <http://www.economist.com>
 * Magnum Foundation, <http://www.magnumfoundation.org>
 * Magnum Photos, <http://www.magnumphotos.com>

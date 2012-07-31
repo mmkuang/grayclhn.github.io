@@ -1,7 +1,7 @@
 gcalhoun.github.com
 ===================
 
-Personal/professional web page: http://gcalhoun.github.com
+Personal/professional web page: <http://gray.clhn.co>
 
 I'm in the process of setting this website up, so the README file is a
 little terse.  I'll try to fill it in as I go.  The only important

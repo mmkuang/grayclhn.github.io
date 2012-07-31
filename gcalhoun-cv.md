@@ -11,7 +11,7 @@ Contact Information
 * Office: 467 Heady Hall, Iowa State University
 * Phone: (515) 294-6271
 * Email: <gcalhoun@iastate.edu>
-* Web: <http://gcalhoun.github.com>
+* Web: <http://gray.clhn.co>
 
 Academic positions
 ------------------
