@@ -15,6 +15,8 @@ there's anything else you think I'd like.
 * The Economist, <http://www.economist.com>
 * Magnum Foundation, <http://www.magnumfoundation.org>
 * Magnum Photos, <http://www.magnumphotos.com>
+* Jakob Nielsen's website on usable information technology, <http://www.useit.com>
+* Edward Tufte's website on presenting data, <http://www.edwardtufte.com>
 
 ### Blogs
 
