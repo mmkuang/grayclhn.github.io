@@ -64,9 +64,8 @@ might be interested in the following items:
   (email me if you want the URL and please remind me why I should send
   it to you).
 
-You can reach me by email at <gcalhoun@iastate.edu> and on Twitter
-[@gfcal](https://twitter.com/gfcal).  My office is Heady Hall, room
-467, (515) 294-6271, on the Iowa State campus.
+You can reach me by email at <gcalhoun@iastate.edu>.  My office is
+Heady Hall, room 467, (515) 294-6271, on the Iowa State campus.
 
 Current working papers
 ----------------------
