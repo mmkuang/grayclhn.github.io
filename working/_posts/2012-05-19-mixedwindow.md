@@ -1,6 +1,7 @@
 ---
 layout: cvitem
-title: An asymptotically normal out-of-sample test of equal predictive accuracy for nested models
+title: "An asymptotically normal out-of-sample test of equal
+predictive accuracy for nested models"
 info: 2011 (in progress).
 link: http://www.econ.iastate.edu/~gcalhoun/calhoun-oos-2011.pdf
 ---

@@ -1,5 +1,5 @@
 ---
-title: More information on Gray Calhoun
+title: More information
 layout: default
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: "gray.clhn.co: Gray Calhoun's website"
+title: "Gray Calhoun's website"
 layout: empty
 ---
 
 <div class="row-fluid">
   <div class="span12">
     <div class="page-header" align = "center">
-      <h1>{{ page.title }}</h1>
+      <h1>gray.clhn.co: {{ page.title }}</h1>
 </div></div></div>
 
 <div class="row-fluid">

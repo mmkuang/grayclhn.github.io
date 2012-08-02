@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "CV: Gray Calhoun"
-subtitle: Assistant Professor of Economics, Iowa State University
+title: "Curriculum Vitae"
+subtitle: Gray Calhoun, Assistant Professor of Economics, Iowa State University
 ---
 
 Contact Information
