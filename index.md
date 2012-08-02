@@ -22,7 +22,7 @@ layout: empty
 	    to set up meetings. I'll start holding regular office hours when
 	    the 2012 Fall semester starts.</li>
       </ul></li>
-      <li><a href="/talks/">Outside presentations</a> with slides</li>
+      <li><a href="/talks/">Presentations</a> with slides</li>
       <li><a href="/updates.html">Site updates and news</a> 
 	(<a href="/rss.xml">RSS/XML</a>)</li>
       <li><a href="/info.html">More information</a> and links</li>
