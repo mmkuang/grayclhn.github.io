@@ -20,3 +20,7 @@ Obviously I need to flesh this page out more.
 
 * Homepages of the [Economics Department](http://www.econ.iastate.edu)
   and [Iowa State University](http://www.iastate.edu)
+
+* Information about my [teaching](/index.html#Teaching),
+  [research](/index.html#Research), and [software
+  projects](/index.html#Software) is available on the [front page](/#index.html).

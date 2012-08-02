@@ -26,9 +26,11 @@ layout: empty
       <li><a href="/updates.html">Site updates and news</a> 
 	(<a href="/rss.xml">RSS/XML</a>)</li>
       <li><a href="/info.html">More information</a> and links</li>
+      <li>Jump to <a href="#Teaching">Teaching</a>, <a href="#Research">Research</a>, or <a href="#Software">Software</a> (for mobile)</li>
     </ul>
   </div>
 
+  <a name="Teaching"> </a>
   <div class="span3"><h1>Teaching</h1><br>
     <a name="e671"> </a>
     <strong>PhD Econometrics 1 (Econ 671)</strong>
@@ -54,6 +56,7 @@ layout: empty
     contact me if you need material.
   </div>
 
+  <a name="Research"> </a>
   <div class="span3">
     <h1>Research</h1><br>
     <ul class="unstyled"> 
@@ -76,6 +79,7 @@ layout: empty
     </ul>
   </div>
 
+  <a name="Software"> </a>
   <div class="span3"><h1>Software</h1><br>
     <p>Only stand-alone software packages are listed here.  Follow
       this link for <a href="/papers/">source code for my publications</a>
