@@ -31,8 +31,7 @@ I'll put them first:
 Since this handout reflects mostly my own experience and
 biases, I'd be happy to hear any suggestions anyone might have.
 
-Useful software for applied research
-====================================
+**Useful software for applied research**
 
 There are a few basic tools that have made my life a lot easier.  It
 can take a little while to get comfortable using them, but that
@@ -88,8 +87,7 @@ investment will pay off in increased productivity later.
   GNU Emacs and Vi (or Vim) are the best.  There are plenty of good
   online manuals for both.
 
-Recommended computing languages
-===============================
+**Recommended computing languages**
 
 I am sure that some people will disagree with this list.  Who knows,
 they might be right.  Regardless, it is important that you know
@@ -173,8 +171,7 @@ statistics packages.
 
 [VeR00]: http://www.worldcat.org/oclc/42798174 "W. N. Venables and Brian D. Ripley. S Programming.  Springer, 2000."
 
-[R12]: http://cran.r-project.org/manuals.html "R Development Core
-Team. Writing R Extensions. 2012"
+[R12]: http://cran.r-project.org/manuals.html "R Development Core Team. Writing R Extensions. 2012"
 
 <!--  LocalWords:  webpage FreeBSD XP MSys Cygwin SQLite Scriptable Matlab SAS
  -->

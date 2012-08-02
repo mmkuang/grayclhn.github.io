@@ -8,7 +8,7 @@ tags:
 ---
 
 Introduction
-============
+------------
 
 I had promised that I'd consolidate the collected "job market wisdom"
 of the 2009 graduating class and present it as a set of notes for
@@ -29,21 +29,20 @@ July, 2009.  My first job out of grad school is an Assistant
 Professorship in the Economics Department at Iowa State University.
 
 Brief time frame for job market
-===============================
+-------------------------------
 
 A basic timeline: what happens when; what you need to own or create by
 that date; and what you probably want in addition to the bare minimum.
 
-mid-October through end of November
------------------------------------
+### mid-October through end of November
 
 The deadlines for job applications largely fall in late October
 through mid November.  About a quarter of the applications are due
 after Thanksgiving.
 
-### What you need (minimum)
+* What you need (minimum)
 
-* **A generic cover letter:** Writing more than one cover letter per
+  * **A generic cover letter:** Writing more than one cover letter per
   "class" of job application is overkill; I had one cover letter for
   research positions (regardless of the department), one for private
   sector jobs, and one for teaching positions.  They got tweaked a
@@ -61,57 +60,57 @@ after Thanksgiving.
       about this by email a few times when I omitted it in the cover
       letter).
 
-* **A paper:** This should go without saying.  I was surprised by how
+  * **A paper:** This should go without saying.  I was surprised by how
   many people read my job market paper, though.  Before going through
   the process, I had the impression that job market papers were not
   actually read, but that the interview decision was made largely on
   letters of recommendation.  I was wrong.
 
-* **Three letters of recommendation.**
+  * **Three letters of recommendation.**
 
-* **A one to two page summary of your dissertation.**
+  * **A one to two page summary of your dissertation.**
 
-* **A CV:** The department will encourage you to use its template,
+  * **A CV:** The department will encourage you to use its template,
   which is (unfortunately) very ugly.  It probably doesn't matter if
   it is ugly... but I didn't use their template.
 
-* **A webpage.**
+  * **A webpage.**
 
-* **A photograph.**
+  * **A photograph.**
 
-### What you might need (Required by many schools)
+* What you might need (Required by many schools)
 
-You don't need to put much effort into these elements of your
-application, unless you badly want a teaching job.  But many schools
-will consider your application incomplete if it doesn't have these
-items included.
+  * You don't need to put much effort into these elements of your
+  application, unless you badly want a teaching job.  But many schools
+  will consider your application incomplete if it doesn't have these
+  items included.
 
-* A summary of teaching evaluations.
+  * A summary of teaching evaluations.
 
-* A one-page "statement of teaching philosophy".
+  * A one-page "statement of teaching philosophy".
 
 
-### What you want (highly recommended)
+* What you want (highly recommended)
 
-* **Another paper:** "Highly recommended" is an understatement.  I
+  * **Another paper:** "Highly recommended" is an understatement.  I
   have heard rumors that the department (UCSD) will re-evaluate where
   they'll push a candidate on completion of a second paper.
 
-* **Another letter of recommendation.**
+  * **Another letter of recommendation.**
 
-* **A resume:** If a job asks for "a resume," it does not mean "a CV".
-   A resume should have different information than a CV; for example,
-   computer skills and non-research work experience.  Obviously, if
-   you are only applying to academic jobs, you don't need a resume
-   and, knowing that, you may not want to put your resume on your
-   website (having the resume on your website signals that you're
-   applying to non-research jobs, which signals that you're not
-   confident about your ability to land a research job, which signals
-   lower ability... I'm overthinking this, but not really kidding)
+  * **A resume:** If a job asks for "a resume," it does not mean "a
+  CV".  A resume should have different information than a CV; for
+  example, computer skills and non-research work experience.
+  Obviously, if you are only applying to academic jobs, you don't need
+  a resume and, knowing that, you may not want to put your resume on
+  your website (having the resume on your website signals that you're
+  applying to non-research jobs, which signals that you're not
+  confident about your ability to land a research job, which signals
+  lower ability... I'm overthinking this, but not really kidding)
 
-### Misc points.
+* Misc points.
 
-* Other academic departments (other than economics--statistics or
+  * Other academic departments (other than economics--statistics or
   public policy, for example) may be slightly earlier or later.
   Government departments that don't hire many Ph.D. economists also
   can operate on a different application schedule (the State
@@ -120,19 +119,19 @@ items included.
   departments typically pay noticeably less than institutions that
   hire lots of economists.
 
-* There's disagreement on whether you should or should not apply for
+  * There's disagreement on whether you should or should not apply for
   jobs that are 'out of reach'.  I did.  The cost of applying to any
   given job is tiny, and it seemed like getting my paper read by as
   many people as possible had benefits on its own.  I didn't see a
   downside, and don't know what the counterargument is; but it does
   apparently exist.
 
-* It is often easier to apply for a job than to determine whether or
+  * It is often easier to apply for a job than to determine whether or
   not you are a good fit for that job.  If you find yourself agonizing
   and trying to decide whether you should apply, save yourself some
   time and apply.
 
-* Economics Department jobs are posted on JOE (the AEA's website),
+  * Economics Department jobs are posted on JOE (the AEA's website),
   ERN, FRN, Walras.org, inomics, UK-JOE.  Most business schools,
   government agencies, and private companies looking for
   Ph.D. Economists post to JOE as well.  European departments
@@ -140,19 +139,17 @@ items included.
   prestigious liberal arts colleges won't post anywhere but will have
   faculty jobs listed on their HR website.
 
-* Other types of jobs can be posted elsewhere
-    * Public Policy 
-        * <APPAM: http://www.appam.org/home.asp>
-    * Health Economics (thanks, Jason!) 
-        * AcademyHealth: <http://www.academyhealth.org/>
-     * Statistics
-	* IMS: <http://jobs.imstat.org/>
-	* ASA: <http://www.amstat.org/jobweb/index.cfm>
-	* Online Stats Job site: <http://www.stat.ufl.edu/vlib/jobs.html>
+  * Other types of jobs can be posted elsewhere
+    * Public Policy: <http://www.appam.org/home.asp> (APPAM)
+    * Health Economics: <http://www.academyhealth.org/> (AcademyHealth)
+    * Statistics:
+      * IMS: <http://jobs.imstat.org/>
+      * ASA: <http://www.amstat.org/jobweb/index.cfm>
+      * Online Stats Job site: <http://www.stat.ufl.edu/vlib/jobs.html>
 
-* This process is stressful and busy for everyone.
+  * This process is stressful and busy for everyone.
 
-* About organization: I kept an Excel file where each row contained
+  * **About organization**: I kept an Excel file where each row contained
   all of the information for a given job: deadline, department,
   contact info, JEL codes, etc.  In retrospect, this was complete
   overkill.  I made slight errors in transcribing the information, and
@@ -162,25 +159,24 @@ items included.
   were doing it over, I'd print out each job listing and keep it in a
   binder sorted by the application deadline.
 
-First two to three weeks after Thanksgiving
--------------------------------------------
+### First two to three weeks after Thanksgiving
 
 Schools will contact you about interviews at the meetings
 
-### misc points
+* misc points
 
-* This is more stressful, but not particularly busy
+  * This is more stressful, but not particularly busy
 
-* Your advisor and committee can make phone calls.  Ask them to if
+  * Your advisor and committee can make phone calls.  Ask them to if
   you're not getting interviews. This stage is the one that your
   advisor's pull matters.  They can get you interviews at the AEA
   meetings, not flyouts and certainly not jobs.
 
-* There are sales (Macy's, after Thanksgiving, etc.) that are
+  * There are sales (Macy's, after Thanksgiving, etc.) that are
   especially helpful for buying luggage and suits.  Shopping would be
   a nice way to blow off steam.
 
-* Generally, people perform worse in their first few interviews,
+  * Generally, people perform worse in their first few interviews,
   perform best in the early afternoon on the first day, and perform
   worse again as they get fatigued later in the day and on the second
   and third days.  If you could schedule your interviews to reflect
@@ -192,25 +188,24 @@ Schools will contact you about interviews at the meetings
   scheduled enough interviews to know how you should schedule them,
   it's too late.
 
-* One thing you can do is know how far it is between hotels; this is
+  * One thing you can do is know how far it is between hotels; this is
   hard to do if you haven't lived in the city, so ask someone who has.
   Last year (January of 2009), some people didn't realize that SF has hills, and walking
   up those hills is more difficult than walking down.
 
-First few days of January
--------------------------
+### First few days of January
+
 The AEA meetings
 
-### What you need
-Practice describing your job market paper and dissertation!
+* What you need: Practice describing your job market paper and dissertation!
 
-### Misc points
+* Misc points
 
-* You really are running from hotel room to hotel room for three (or
+  * You really are running from hotel room to hotel room for three (or
   more) days; one of the only things I was surprised about was how
   much my feet hurt.
 
-* You need to practice a lot for the interviews.  Practice with
+  * You need to practice a lot for the interviews.  Practice with
   friends.  There are lists online of potential questions specific to
   the Economics job market.  The basic format is:
     * you sit down, someone says, "tell us about your research"
@@ -218,14 +213,14 @@ Practice describing your job market paper and dissertation!
     * you describe your job market paper -- they may interrupt
       with questions and they may not
 
-* You want this period to be very busy.  It may or may not be stressful
+  * You want this period to be very busy.  It may or may not be stressful
 
-* If you are invited to a reception, you should go.  Even though
-   you'll be tired and feel exhausted.  I skipped some and was asked
-   (by one of them) why I didn't attend, so apparently people do
-   notice.
+  * If you are invited to a reception, you should go.  Even though
+  you'll be tired and feel exhausted.  I skipped some and was asked
+  (by one of them) why I didn't attend, so apparently people do
+  notice.
 
-* It is hard to describe how different various people's experience was
+  * It is hard to describe how different various people's experience was
   at SF last year.  Some people had a great time and enjoyed meeting
   with everyone.  Other people had interviews that they thought were
   hostile and unpleasant.  In general, the people who resolved
@@ -234,12 +229,12 @@ Practice describing your job market paper and dissertation!
   but it does mean that your experience is heavily influenced by your
   attitude even if (and I don't believe this) your outcomes are not.
 
-* If you have co-authored papers (I didn't, but this advice comes from
+  * If you have co-authored papers (I didn't, but this advice comes from
   someone who did), expect to be asked where the idea came from, who
   did what, etc.  I assume this is even more likely if it is your job
   market paper.
 
-* Some research has been done on what happens in a "bad" job market.
+  * Some research has been done on what happens in a "bad" job market.
   In short, the best candidates get more interviews and other
   candidates get fewer and worse interviews.  Whether or not you
   believe the results, this research suggests that whenever you're
@@ -251,25 +246,25 @@ Practice describing your job market paper and dissertation!
   and I hate all of my interviews," especially when you are asked the
   question during an interview.
 
-January and February
---------------------
+### January and February
+
 Flyouts and job negotiation
 
-### What you need
+* What you need
 
-* **A reliable laptop:** If you have any doubt about the reliability
+  * **A reliable laptop:** If you have any doubt about the reliability
   of your laptop, buy a new one.  The tiny netbooks only cost a few
   hundred dollars.
 
-* **Slides:** Specifically, polished job market presentation that runs
+  * **Slides:** Specifically, polished job market presentation that runs
   1:15 to 1:30 Different departments have different length seminars.
   You should be practicing a lot.  You should also be aware that the
   conference rooms vary a lot.  You're used to a short and wide
   seminar room, others can be very long and skinny.
 
-### Misc points
+* Misc points
 
-* Basic schedule of a flyout:
+  * Basic schedule of a flyout:
     * You usually arrive the day/night before
     * You'll have dinner the night you interview or the night
       before. Sometimes, the "official" dinner will be the night after
@@ -278,13 +273,13 @@ Flyouts and job negotiation
       day before if you can to keep that night's dinner free.
     * Leave town that night or the next morning
 
-* Interviews with the faculty run about half an hour to an hour.  you
+  * Interviews with the faculty run about half an hour to an hour.  you
   may talk be about your paper, maybe about the university, maybe
   about misc. topics (the Detroit lions losing, for example, or about
   the university's retirement plan).  The most fun interviews are when
   you talk about the other person's research.
 
-* Basic format of dinner:
+  * Basic format of dinner:
     * It may or may not be an 'interview,' depending on who is free
       that night.
     * If it is an interview, one standard format is to ask technical
@@ -293,7 +288,7 @@ Flyouts and job negotiation
       technical extensions to my job market paper that I'd discussed
       earlier.  So, you should not drink at dinner.
 
-* An anonymous reader had the following comment: 'It might be obvious,
+  * An anonymous reader had the following comment: 'It might be obvious,
   but the job interview is the entire time you are with potential
   colleagues on the fly-out -- this includes dinners and happy hours
   and drinks and whatever.  Some freshwater schools, in particular,
@@ -307,13 +302,13 @@ Flyouts and job negotiation
   the "colleague" means it pays to show that you are a human being
   that can be sociable, and so isn't a drag to have around.'
 
-* Contacting institutions about nearby interviews is okay.  This
+  * Contacting institutions about nearby interviews is okay.  This
   caused me some stress about what "nearby" means when you're flying
   out of San Diego, especially because people here have misconceptions
   about actual distance between cities on the east coast.  I still
   don't know.
 
-* After you get an offer, you can and should contact everyone else
+  * After you get an offer, you can and should contact everyone else
   that you interviewed with---they understand how the process works
   and understand that you're on a deadline.  If you hadn't heard from
   them since the AEA meetings, it's almost certain that they'll tell
@@ -322,18 +317,18 @@ Flyouts and job negotiation
   they'll probably say something like, "I really liked your research,"
   which will make you feel good about yourself.
 
-* Fly direct whenever possible.  There's a temptation to try to save
+  * Fly direct whenever possible.  There's a temptation to try to save
   the department paying for your flyout a little bit of money, but you
   are going to be very tired and probably sick, and missing a
   connecting flight could be a disaster.  No one ever was offered a
   job for saving the department $300 on a plane ticket.
 
-* Hopefully this is busy.  It is extremely stressful.
+  * Hopefully this is busy.  It is extremely stressful.
 
 What we did
-===========
+-----------
 
-Here are a few things we did last year that you might find helpful.
+Here are a few things we did when I was on the job market that you might find helpful.
 
 * We set up a different mailing list.  People had to opt in to it, the
   idea being that people are sometimes shy about sharing information
@@ -361,10 +356,10 @@ Here are a few things we did last year that you might find helpful.
   helpful.
 
 Other points
-============
+------------
 
-Networking
-----------
+### Networking
+
 This subsection is speculative; I didn't do many of these things,
 but in retrospect wish that I had.  So take it for what it's worth.
 
@@ -411,11 +406,10 @@ but in retrospect wish that I had.  So take it for what it's worth.
   places. So it probably makes sense to contact your advisor's
   previous advisees and ask them about their job market experience and
   what you should expect.
-     1. It's useful information on its own
-     2. You are doing similar research to your advisor's previous
-        advisees, so you should know them.  Even if you were friends
-        in grad school, it may have been a few years since you last
-        talked.
+  1. It's useful information on its own
+  2. You are doing similar research to your advisor's previous
+  advisees, so you should know them.  Even if you were friends in
+  grad school, it may have been a few years since you last talked.
 
 * For exactly the same reason, you may want to contact recent UCSD
   grads who work in your field (Micro Theory, for example).
@@ -440,8 +434,7 @@ but in retrospect wish that I had.  So take it for what it's worth.
   handling your application and to make sure that you know what the
   "right" one is for all of those variables.
 
-Misc. points
-------------
+### Misc. points
 
 * Do not isolate yourself from other grad students.  This year is
   extremely stressful, and almost no one else you know can empathize

@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Curriculum Vitae, Gray Calhoun
+title: "CV: Gray Calhoun"
+subtitle: Assistant Professor of Economics, Iowa State University
 ---
-
-Assistant Professor of Economics at Iowa State University.
 
 Contact Information
 -------------------
@@ -84,11 +83,12 @@ External presentations
 
 Teaching
 --------
+
 ### Iowa State University
 * PhD Econometrics 1 (Econ 671), Fall 2009-2011.
 * Principles of Macroeconomics (Econ 102), Spring 2010, 2011.
 
-### UC San Diego
+### UC San Diego  
 * Undergraduate Econometrics 3 (Econ 120 C), Spring 2009.
 
 Graduate student committees
@@ -104,7 +104,7 @@ Graduate student committees
 
 Professional activities
 -----------------------
-### Journal referee:
+### Journal referee
 * *American Journal of Agricultural Economics* (2011)
 * *Communications in Statistics—Theory and Methods* (2012)
 * *Econometrica* (2012)
@@ -113,7 +113,7 @@ Professional activities
 * *Journal of Business & Economic Statistics* (2011, 2012)
 * *Manchester School* (2012)
 
-### Professional membership:
+### Professional membership
 * American Economic Association
 * Econometric Society
 * Institute of Mathematical Statistics

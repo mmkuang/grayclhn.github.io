@@ -9,7 +9,8 @@ think is important, or even everything that Economics students might
 or should find interesting. It's just a list of some websites. Let me
 know if there's anything else you think I'd like.
 
-### Websites
+Websites
+--------
 
 * Edward Tufte, <http://www.edwardtufte.com>
 * The Economist, <http://www.economist.com>
@@ -18,12 +19,14 @@ know if there's anything else you think I'd like.
 * Jakob Nielsen's website on usable information technology, <http://www.useit.com>
 * Edward Tufte's website on presenting data, <http://www.edwardtufte.com>
 
-### Blogs
+Blogs
+-----
 
 * Economix (by the New York Times), <http://economix.blogs.nytimes.com>
 * Graphic Detail (by the Economist), <http://www.economist.com/blogs/graphicdetail>
 * Lens (by the New York Times), <http://lens.blogs.nytimes.com/>
 
-### Twitter
+Twitter
+-------
 
 * The New York Times Graphics Department, [@nytgraphics](https://twitter.com/nytgraphics)

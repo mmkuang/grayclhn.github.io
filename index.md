@@ -1,98 +1,98 @@
 ---
-layout: default
-title: Gray Calhoun's homepage
+title: "gray.clhn.co: Gray Calhoun's website"
+layout: empty
 ---
-[CV]: gcalhoun-cv.html
 
-<img src='http://www.gravatar.com/avatar/f3c9878eabc83410b2d9e380cc36dfcf?s=160' 
-     style='float:right;margin:0 0 10px 20px;' alt='Profile picture' />
-I've been an Assistant Professor in Iowa State's Economics Department
-since August, 2009. Before that, I attended UC San Diego for graduate
-school. I'm studying econometrics and am particularly interested in
-settings where we are considering using a complicated model that may
-be estimated imprecisely, as often happens in forecasting,
-macroeconomics, and finance. See [my CV][CV] for more details. You
-might be interested in the following items:
+<div class="row-fluid">
+  <div class="span12">
+    <div class="page-header" align = "center">
+      <h1>{{ page.title }}</h1>
+</div></div></div>
 
-* Publicly-available projects that I'm currently working on are
-  listed on this page. You can also find projects at
-  <http://github.com/gcalhoun>.
+<div class="row-fluid">
+  <div class="span3"><h2>Information</h2>
+    <ul class="unstyled">
+      <li><a href="/gcalhoun-cv.html">Curriculum Vitae</a></li>
+      <li>Contact Information<ul>
+	  <li>467 Heady Hall (office at Iowa State)</li>
+	  <li>(515) 294-6271 (office phone)</li>
+	  <li><a href="mailto:{% include univ_email %}">{% include univ_email %}</a> (unviersity email)</li>
+	  <li><a href="mailto:{% include main_email %}">{% include main_email %}</a> (all other email)</li>
+	  <li>I do not have office hours in the Summer, so please email me
+	    to set up meetings. I'll start holding regular office hours when
+	    the 2012 Fall semester starts.</li>
+      </ul></li>
+      <li><a href="/talks/">Outside presentations</a> with slides</li>
+      <li><a href="/updates.html">Site updates and news</a> 
+	(<a href="/rss.xml">RSS/XML</a>)</li>
+      <li><a href="/info.html">More information</a> and links</li>
+    </ul>
+  </div>
 
-* [Curriculum vitae][CV]: This is an especially tedious version
-  of my CV for internal departmental use.
+  <div class="span3"><h2>Teaching</h2>
+    <a name="e671"> </a>
+    <strong>PhD Econometrics 1 (Econ 671)</strong>
+    <p>I teach PhD Econometrics 1 (Economics 671) in the Fall. Material from
+      previous years is available at 
+      <a href="http://www.econ.iastate.edu/~gcalhoun/old.html">
+	http://www.econ.iastate.edu/~gcalhoun/old.html</a>
+      until I move them to this webpage.</p>
+	
+    <a name="e102"> </a>
+    <strong>Principles of Macroeconomics (Econ 102)</strong>
+    <p>I typically teach Principles of Macroeconomics each Spring and am
+      scheduled to teach it again in Spring, 2013. I’ll put relevant
+      material here as we get closer.</p>
+	
+    <a name="e674"> </a>
+    <strong>PhD Macroeconometrics (Econ 674)</strong>
+    <p>Helle Bunzel and I will teach PhD Macroeconometrics (Economics 674) in
+      Spring, 2013. I’ll post information and material for that class as I
+      develop it.</p>
 
-* [Refereed publications](/papers/): A list of publications along
-  with supplemental appendices and supporting software and other files.
+    <strong>Courses before Fall, 2012</strong> are not online. Please
+    contact me if you need material.
+  </div>
 
-* [Undergraduate teaching](undergraduate.html): I'm still moving
-  information here. There probably isn't a lot right now, but there
-  will be links for courses that I am teaching and have taught. I'll
-  also put other information that I think will interest undergrads here.
+  <div class="span3">
+    <h2>Research</h2>
+    <ul class="unstyled"> 
+      <li><p> <strong><a href="/papers/">List of publications</a></strong>
+	  with details and links to source code.</p></li>
 
-* [Graduate teaching](graduate.html): This section will have links and
-  handouts for the graduate courses I teach and will have other
-  information that might interest grad students. Right now it's
-  pretty empty, though.
+      <li><p>Citation counts and other information from 
+	  <a href="http://ideas.repec.org/f/pca491.html">
+	    <strong>IDEAS</strong></a> and 
+	  <a href="http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ">
+	    <strong>Google Scholar</strong></a></p></li>
 
-* [External presentations](/talks/): A list of external presentations 
-  that I've given or that are scheduled, as well as slides and
-  handouts for the talks.
+      {% for doc in site.categories.working %}
+      <li><p> <strong>{{ doc.title }}</strong>. {{ doc.info }}
+	  <ul><li><a href="{{ doc.url }}">More details</a></li>
+	    <li><a href="{{ doc.link }}">Download the paper</a> 
+	      (external link)</li></ul>
+      </p></li>
+      {% endfor %}
+    </ul>
+  </div>
 
-* [Miscellaneous and informal documents](/essays/): Assorted
-  short and under-edited essays. Some might call them blog posts, but
-  that would overstate how frequently I write them.
+  <div class="span3"><h2>Software</h2>
+    <p>Only stand-alone software packages are listed here.  Follow
+      this link for <a href="/papers/">source code for my publications</a>
+      and go to the details of each working paper for that paper's source
+      code.</p>
 
-* [Untitled sports blog](http://untitledsports.tumblr.com): I'm
-  putting together some R scripts that calculate really basic
-  statistics for different sports I follow. Occasionally I put them on
-  Tumblr. There's an explanation of the details behind the tables &
-  graphs at [this link](http://untitledsports.tumblr.com/details).  I
-  go back and forth on whether this should be a public or private
-  blog, so if you are asked for a password it is: gratiscool
+    <ul class="unstyled">{% for doc in site.categories.software %}
+      <li><p> <strong>{{ doc.title }}</strong>.  {{ doc.info }}  
+	  <ul>
+	    <li><a href="{{ doc.url }}">Details</a></li>
+	    <li><a href="{{ doc.link }}">Download the source code</a> 
+	      (at Github)</li>
+	  </ul>
+      </p></li>
+      
+      {% endfor %}
+    </ul>
+  </div>
 
-* [What I read online](/links/): An incomplete list of websites I
-  find interesting. I'm still adding to it.
-
-* I have (mostly redundant) profiles at
-  [IDEAS](http://ideas.repec.org/f/pca491.html), [Google
-  Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
-  and the [Economics Department
-  homepage](http://www.econ.iastate.edu/people/faculty/calhoun-gray).
-  I recently moved my homepage; the old page is still available at
-  <http://www.econ.iastate.edu/~gcalhoun/old.html>.  I also have a
-  personal blog for photos of my kids and stuff like that (email me if
-  you want the URL and please remind me why I should send it to you).
-
-You can reach me by email at <gcalhoun@iastate.edu> for everything
-related to the university or <gray@clhn.co> for anything else.  My
-office is Heady Hall, room 467, (515) 294-6271, on the Iowa State
-campus.
-
-Current working papers
-----------------------
-
-{% for doc in site.categories.working %}
-* {{ doc.title }}. {{ doc.info }}  
-  <{{ doc.link }}>  
-  {{ doc.notes }}  
-  {{ doc.content }}
-
-{% endfor %}
-
-Software development
---------------------
-
-{% for doc in site.categories.software %}
-* {{ doc.title }}.  {{ doc.info }}  
-  <{{ doc.link }}>  
-  {{ doc.notes }}  
-  {{ doc.content }}
-
-{% endfor %}
-
-<!--  LocalWords:  Calhoun's gcalhoun html UC webpage GitHub Econom AIC Goyal
- -->
-<!--  LocalWords:  Welch's Finan de Jong Jong's CLT overfit Diebold LM cv endif
- -->
-<!--  LocalWords:  McCracken's endfor blog GrayCalhoun Google
- -->
+</div>
