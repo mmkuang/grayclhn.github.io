@@ -11,7 +11,7 @@ layout: empty
 </div></div>
 
 <div class="row-fluid">
-  <div class="span3"><h1>Information</h1><br> <p>This is Gray Calhoun's
+  <div class="span3"><h1>Information</h1><hr> <p>This is Gray Calhoun's
     homepage.  I'm an Assistant Professor in the Economics Department
     at Iowa State.  I work on Econometric theory, especially time
     series and applications to forecasting and forecast evaluation.  I
@@ -34,11 +34,11 @@ layout: empty
 	(<a href="/rss.xml">RSS/XML</a>)</li>
       <li><a href="/info.html">More information</a> and links</li>
       <li>Jump to <a href="#Teaching">Teaching</a>, <a href="#Research">Research</a>, or <a href="#Software">Software</a> (for mobile)</li>
-    </ul>
+    </ul><hr>
   </div>
 
   <a name="Teaching"> </a>
-  <div class="span3"><h1>Teaching</h1><br>
+  <div class="span3"><h1>Teaching</h1><hr>
     <ul class="unstyled">
       <li><strong>PhD Econometrics 1 (Econ 671)</strong>
 	<p>I teach PhD Econometrics 1 (Economics 671) in the Fall. Material for the 2012
@@ -56,13 +56,20 @@ layout: empty
 
       <li><strong>Courses before Fall, 2012</strong> are not online. Please
 	contact me if you need material.</li>
-  </ul></div>
+  </ul><hr></div>
 
   <a name="Research"> </a>
   <div class="span3">
-    <h1>Research</h1><br>
-      <p> <strong><a href="/papers/">List of
-	  publications</a></strong> with source code.</p>
+    <h1>Research</h1><hr>
+    <h2>Publications:</h2>
+    <ul class="unstyled">
+      <li><p><a href="/papers/"><strong>Published papers</strong></a>, along with source code and other supporting material.</p></li>
+      <li><p>Citations and other information at 
+	<a href="http://ideas.repec.org/f/pca491.html">
+	  IDEAS</a> and 
+	<a href="http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ">
+	  Google Scholar</a></p></li>
+    </ul>
     <hr>
     <h2>Current working papers:</h2>
     <ul class="unstyled">
@@ -75,16 +82,9 @@ layout: empty
       {% endfor %}
     </ul>
     <hr>
-      <p>Citation counts and other information at 
-	<a href="http://ideas.repec.org/f/pca491.html">
-	  <strong>IDEAS</strong></a> and 
-	<a href="http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ">
-	  <strong>Google Scholar</strong></a></p>
-
   </div>
 
-  <a name="Software"> </a>
-  <div class="span3"><h1>Software</h1><br>
+  <div class="span3"><h1>Software</h1><hr>
     <p>Only stand-alone software packages are listed here.  Follow
       this link for <a href="/papers/">source code for my publications</a>
       and go to the details of each working paper for that paper's source
@@ -100,7 +100,7 @@ layout: empty
       </p></li>
       
       {% endfor %}
-    </ul>
+    </ul><hr>
   </div>
 
 </div>
