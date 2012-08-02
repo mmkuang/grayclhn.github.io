@@ -7,10 +7,17 @@ layout: empty
   <div class="span12">
     <div class="page-header" align = "center">
       <h1>gray.clhn.co: {{ page.title }}</h1>
-</div></div></div>
+    </div>
+</div></div>
 
 <div class="row-fluid">
-  <div class="span3"><h1>Information</h1><br>
+  <div class="span3"><h1>Information</h1><br> <p>This is Gray Calhoun's
+    homepage.  I'm an Assistant Professor in the Economics Department
+    at Iowa State.  I work on Econometric theory, especially time
+    series and applications to forecasting and forecast evaluation.  I
+    graduated with a PhD from UC San Diego in 2009, where I worked
+    with Graham Elliott and Allan Timmermann.</p>
+    <hr>
     <ul class="unstyled">
       <li><a href="/gcalhoun-cv.html">Curriculum Vitae</a></li>
       <li>Contact Information<ul>
@@ -32,40 +39,33 @@ layout: empty
 
   <a name="Teaching"> </a>
   <div class="span3"><h1>Teaching</h1><br>
-    <a name="e671"> </a>
-    <strong>PhD Econometrics 1 (Econ 671)</strong>
-    <p>I teach PhD Econometrics 1 (Economics 671) in the Fall. Material for the 2012
-    Fall semester will be available soon.</p>
+    <ul class="unstyled">
+      <li><strong>PhD Econometrics 1 (Econ 671)</strong>
+	<p>I teach PhD Econometrics 1 (Economics 671) in the Fall. Material for the 2012
+	  Fall semester will be available soon.</p></li>
+      
+      <li><strong>Principles of Macroeconomics (Econ 102)</strong>
+	<p>I typically teach Principles of Macroeconomics each Spring and am
+	  scheduled to teach it again in Spring, 2013. I’ll put relevant
+	  material here as we get closer.</p></li>
 	
-    <a name="e102"> </a>
-    <strong>Principles of Macroeconomics (Econ 102)</strong>
-    <p>I typically teach Principles of Macroeconomics each Spring and am
-      scheduled to teach it again in Spring, 2013. I’ll put relevant
-      material here as we get closer.</p>
-	
-    <a name="e674"> </a>
-    <strong>PhD Macroeconometrics (Econ 674)</strong>
-    <p>Helle Bunzel and I will teach PhD Macroeconometrics (Economics 674) in
-      Spring, 2013. I’ll post information and material for that class as I
-      develop it.</p>
+      <li><strong>PhD Macroeconometrics (Econ 674)</strong>
+	<p>Helle Bunzel and I will teach PhD Macroeconometrics (Economics 674) in
+	  Spring, 2013. I’ll post information and material for that class as I
+	  develop it.</p></li>
 
-    <strong>Courses before Fall, 2012</strong> are not online. Please
-    contact me if you need material.
-  </div>
+      <li><strong>Courses before Fall, 2012</strong> are not online. Please
+	contact me if you need material.</li>
+  </ul></div>
 
   <a name="Research"> </a>
   <div class="span3">
     <h1>Research</h1><br>
-    <ul class="unstyled"> 
-      <li><p> <strong><a href="/papers/">List of publications</a></strong>
-	  with details and links to source code.</p></li>
-
-      <li><p>Citation counts and other information from 
-	  <a href="http://ideas.repec.org/f/pca491.html">
-	    <strong>IDEAS</strong></a> and 
-	  <a href="http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ">
-	    <strong>Google Scholar</strong></a></p></li>
-
+      <p> <strong><a href="/papers/">List of
+	  publications</a></strong> with source code.</p>
+    <hr>
+    <h2>Current working papers:</h2>
+    <ul class="unstyled">
       {% for doc in site.categories.working %}
       <li><p> <strong>{{ doc.title }}</strong>. {{ doc.info }}
 	  <ul><li><a href="{{ doc.url }}">More details</a></li>
@@ -74,6 +74,13 @@ layout: empty
       </p></li>
       {% endfor %}
     </ul>
+    <hr>
+      <p>Citation counts and other information at 
+	<a href="http://ideas.repec.org/f/pca491.html">
+	  <strong>IDEAS</strong></a> and 
+	<a href="http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ">
+	  <strong>Google Scholar</strong></a></p>
+
   </div>
 
   <a name="Software"> </a>
