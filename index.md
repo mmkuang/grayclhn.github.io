@@ -34,11 +34,8 @@ layout: empty
   <div class="span3"><h1>Teaching</h1><br>
     <a name="e671"> </a>
     <strong>PhD Econometrics 1 (Econ 671)</strong>
-    <p>I teach PhD Econometrics 1 (Economics 671) in the Fall. Material from
-      previous years is available at 
-      <a href="http://www.econ.iastate.edu/~gcalhoun/old.html">
-	http://www.econ.iastate.edu/~gcalhoun/old.html</a>
-      until I move them to this webpage.</p>
+    <p>I teach PhD Econometrics 1 (Economics 671) in the Fall. Material for the 2012
+    Fall semester will be available soon.</p>
 	
     <a name="e102"> </a>
     <strong>Principles of Macroeconomics (Econ 102)</strong>
