@@ -10,7 +10,7 @@ layout: empty
 </div></div></div>
 
 <div class="row-fluid">
-  <div class="span3"><h2>Information</h2>
+  <div class="span3"><h1>Information</h1><br>
     <ul class="unstyled">
       <li><a href="/gcalhoun-cv.html">Curriculum Vitae</a></li>
       <li>Contact Information<ul>
@@ -29,7 +29,7 @@ layout: empty
     </ul>
   </div>
 
-  <div class="span3"><h2>Teaching</h2>
+  <div class="span3"><h1>Teaching</h1><br>
     <a name="e671"> </a>
     <strong>PhD Econometrics 1 (Econ 671)</strong>
     <p>I teach PhD Econometrics 1 (Economics 671) in the Fall. Material from
@@ -55,7 +55,7 @@ layout: empty
   </div>
 
   <div class="span3">
-    <h2>Research</h2>
+    <h1>Research</h1><br>
     <ul class="unstyled"> 
       <li><p> <strong><a href="/papers/">List of publications</a></strong>
 	  with details and links to source code.</p></li>
@@ -76,7 +76,7 @@ layout: empty
     </ul>
   </div>
 
-  <div class="span3"><h2>Software</h2>
+  <div class="span3"><h1>Software</h1><br>
     <p>Only stand-alone software packages are listed here.  Follow
       this link for <a href="/papers/">source code for my publications</a>
       and go to the details of each working paper for that paper's source
