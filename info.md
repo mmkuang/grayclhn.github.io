@@ -1,6 +1,6 @@
 ---
 title: More information
-layout: default
+layout: display
 ---
 
 Obviously I need to flesh this page out more.

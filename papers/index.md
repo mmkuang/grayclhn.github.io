@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: display
 title: Peer-reviewed publications
 ---
 

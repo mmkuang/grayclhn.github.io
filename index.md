@@ -33,7 +33,8 @@ layout: empty
       <li><a href="/updates.html">Site updates and news</a> 
 	(<a href="/rss.xml">RSS/XML</a>)</li>
       <li><a href="/info.html">More information</a> and links</li>
-      <li>Jump to <a href="#Teaching">Teaching</a>, <a href="#Research">Research</a>, or <a href="#Software">Software</a> (for mobile)</li>
+      <li>Jump to <a href="index.html#Teaching">Teaching</a>, <a href="index.html#Research">Research</a>, 
+	or <a href="index.html#Software">Software</a> (for mobile)</li>
     </ul><hr>
   </div>
 
@@ -84,6 +85,7 @@ layout: empty
     <hr>
   </div>
 
+  <a name="Software"> </a>
   <div class="span3"><h1>Software</h1><hr>
     <p>Only stand-alone software packages are listed here.  Follow
       this link for <a href="/papers/">source code for my publications</a>

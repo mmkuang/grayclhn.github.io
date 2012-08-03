@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: display
 title: Archived informal and short documents
 ---
 All of the documents linked to on this page are available under the 

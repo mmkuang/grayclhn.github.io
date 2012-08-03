@@ -1,16 +1,16 @@
 ---
-layout: default
+layout: display
 title: Website updates
 ---
 
-<ul class="unstyled">
+I'm going to turn this into a microblog soon.  For now, it's just a
+list of material on the site.
+
 {% for post in site.posts %}
-<li><p><a href="{{ post.url }}"><strong>{{ post.title }}</strong></a> {{ post.date | date_to_string}}<br>
+<hr>
+<p><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date_to_string}}<br>
 {% if post.categories %}Categories: {{ post.categories | array_to_sentence_string }}<br>{% endif %}
 {% if post.tags %}Tags: {{ post.tags | array_to_sentence_string }}{% endif %}<br>
-{{ post.content | truncatewords: 50 | strip_html}}
-</p></li>
-
+{{ post.content | truncatewords: 30 | strip_html}}
+</p>
 {% endfor %}
-
-</ul>
