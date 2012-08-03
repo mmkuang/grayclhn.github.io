@@ -14,12 +14,18 @@ layout: nil
 
     {% for post in site.posts %}
     <item>
-      <title>{{ post.title }}</title>
+      {% if post.title %}<title>{{ post.title }}</title>{% endif %}
       <link>http://gray.clhn.co{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>gray@clhn.co (Gray Calhoun)</author>
       <guid>http://gray.clhn.co{{ post.id }}</guid>
-      <description>{{ post.content | xml_escape }}</description>
+      <description>
+  	  {% if post.categories contains "tweets" %}
+            {{ post.content | xml_escape }}
+          {% else %}
+            {{ post.content | truncatewords: 50 | xml_escape }}
+          {% endif %}
+      </description>
     </item>
     {% endfor %}
 
