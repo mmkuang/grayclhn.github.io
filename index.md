@@ -104,5 +104,8 @@ layout: empty
       {% endfor %}
     </ul><hr>
   </div>
+</div>
 
+<div class="row-fluid">
+  <div class="span12"><hr></div>
 </div>
