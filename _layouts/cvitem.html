@@ -6,4 +6,4 @@ span: 6
 <a href="{{ page.link }}">{{ page.title }}</a>.  {{ page.info }}  
 <p>{{ page.notes }}.</p>  
   
-<p>{{ page.content }}</p>
+<p>{{ page.content | markdownify }}</p>
