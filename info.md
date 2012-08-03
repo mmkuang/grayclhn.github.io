@@ -23,4 +23,4 @@ Obviously I need to flesh this page out more.
 
 * Information about my [teaching](/index.html#Teaching),
   [research](/index.html#Research), and [software
-  projects](/index.html#Software) is available on the [front page](/#index.html).
+  projects](/index.html#Software) is available on the [front page](/index.html).
