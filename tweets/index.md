@@ -16,8 +16,8 @@ Let me know if there's anything else you think I'd like.
 <hr>
 {% if post.categories contains "tweets" %}
   {{ post.content }} 
-  {{ post.date | date_to_string}}, [permalink]({{ post.url }}),
-  tags: {{ post.tags | array_to_sentence_string }} 
+  {{ post.date | date_to_string}} // 
+  tags: {{ post.tags | array_to_sentence_string }} // [permalink]({{ post.url }})
 {% else %}
   [{{ post.title }}]({{ post.url }})  
   Categories: {{ post.categories | array_to_sentence_string }}  
