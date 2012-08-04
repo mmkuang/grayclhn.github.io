@@ -8,7 +8,7 @@ and [Jekyll](http://jekyllrb.com/) (maybe less obviously) to produce
 this website.  It is hosted at
 [NearlyFreeSpeech.net](https://www.nearlyfreespeech.net/), and the
 sourcecode is hosted by [GitHub](https://www.github.com) at
-<https://github.com/gcalhoun/gray.clhn.co.git>.
+<https://github.com/gcalhoun/gray.clhn.co>.
 
 Twitter Bootstrap is licensed under the [Apache License
 v2.0](http://www.apache.org/licenses/LICENSE-2.0) and Jekyll under the
