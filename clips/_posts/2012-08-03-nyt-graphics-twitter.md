@@ -1,5 +1,5 @@
 ---
-layout: tweet
+layout: clip
 tags:
 - twitter
 - news

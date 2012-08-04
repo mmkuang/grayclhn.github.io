@@ -20,7 +20,7 @@ layout: nil
       <author>gray@clhn.co (Gray Calhoun)</author>
       <guid>http://gray.clhn.co{{ post.id }}</guid>
       <description>
-  	  {% if post.categories contains "tweets" %}
+  	  {% if post.categories contains "clips" %}
             {{ post.content | xml_escape }}
           {% else %}
             {{ post.content | truncatewords: 50 | xml_escape }}
