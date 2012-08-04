@@ -23,6 +23,11 @@ In addition to the links elsewhere on the site, I have a few others:
 * I'm not on Facebook or Twitter any more; if you need to contact me,
   please call or email me.
 
+* The site feed, [http://gray.clhn.co/clips](/clips) or
+  [http://gray.clhn.co/rss.xml](/rss.xml), serves as a
+  microblog/linkblog.  I announce presentations, papers, etc. through
+  it, but I also post links or articles I find interesting.
+
 Information about my [teaching](/index.html#Teaching),
 [research](/index.html#Research), and [software
 projects](/index.html#Software) is available on the [front

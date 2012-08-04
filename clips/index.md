@@ -14,7 +14,7 @@ Let me know if there's anything else you think I'd like.
 
 {% for post in site.posts %}
 <hr>
-{% if post.categories contains "clipss" %}
+{% if post.categories contains "clips" %}
   {{ post.content }} 
   {{ post.date | date_to_string}} // 
   tags: {{ post.tags | array_to_sentence_string }} // [permalink]({{ post.url }})
