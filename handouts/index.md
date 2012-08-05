@@ -1,6 +1,6 @@
 ---
 layout: display
-title: Handouts and short essays
+title: Handouts and blog posts
 ---
 
 Many of the documents linked to on this page are available under the
