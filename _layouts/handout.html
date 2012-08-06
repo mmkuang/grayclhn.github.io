@@ -3,6 +3,10 @@ layout: default
 span: 10
 ---
 
+{% if page.author %} 
+<p><i>By {{ page.author }}</i></p>
+{% endif %}
+
 {{ content }}
 
 {% unless page.nocc %}

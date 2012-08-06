@@ -4,6 +4,7 @@ title: Handout on software and computing
 tags: 
   - graduate
   - computing
+author: Gray Calhoun
 ---
 
 This brief handout lists and justifies some of my opinions about

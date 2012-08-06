@@ -5,10 +5,8 @@ date: 2012-08-03
 tags: 
   - graduate
   - job market
+author: Gray Calhoun
 ---
-
-Introduction
-------------
 
 I had promised that I'd consolidate the collected "job market wisdom"
 of the 2009 graduating class and present it as a set of notes for
