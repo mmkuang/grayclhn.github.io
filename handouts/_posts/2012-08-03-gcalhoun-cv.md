@@ -23,13 +23,13 @@ Academic positions
 Education
 ---------
 
-* PhD in Economics from UC San Diego, 2003-2009.  
-  Thesis title: *Limit theory for overfit models.*  
+* PhD in Economics from UC San Diego, 2003-2009  
+  Thesis title: *Limit theory for overfit models*  
   Advisors: Graham Elliott and Allan Timmermann
 
-* MS in Statistics from UC San Diego, 2003-2006.
+* MS in Statistics from UC San Diego, 2003-2006
 
-* BA in Mathematics from Tufts University, 1997-2001.
+* BA in Mathematics from Tufts University, 1997-2001
 
 Research interests
 ------------------
@@ -42,10 +42,10 @@ Grants and awards
 
 * Iowa State University Strategic Initiative, Graphical Processing
   Units (GPU) for Parallel Computing, with Helle Bunzel, Jarad Niemi,
-  and Mervyn Marasinghe, 2012. ($87,727.39).
+  and Mervyn Marasinghe, 2012. ($87,727.39)
 
 * Walter P. Heller Award for Outstanding Third-Year Paper, UCSD
-  Economics Department, 2006.
+  Economics Department, 2006
 
 Publications
 ------------
@@ -79,7 +79,7 @@ External presentations
 
 <ul>
 {% for doc in site.posts %} {% if doc.categories contains 'talks' %}
-<li>{{ doc.info }}.  <i>{{ doc.title }}.</i></li>
+<li>{{ doc.info }}.  <i>{{ doc.title }}</i></li>
 {% endif %} {% endfor %}
 </ul>
 
@@ -87,11 +87,11 @@ Teaching
 --------
 
 ### Iowa State University
-* PhD Econometrics 1 (Econ 671), Fall 2009-2011.
-* Principles of Macroeconomics (Econ 102), Spring 2010, 2011.
+* PhD Econometrics 1 (Econ 671), Fall 2009-2011
+* Principles of Macroeconomics (Econ 102), Spring 2010, 2011
 
 ### UC San Diego  
-* Undergraduate Econometrics 3 (Econ 120 C), Spring 2009.
+* Undergraduate Econometrics 3 (Econ 120 C), Spring 2009
 
 Graduate student committees
 ---------------------------
@@ -99,10 +99,10 @@ Graduate student committees
 * [Anwen Yin](https://sites.google.com/site/anweny/) (co-advisor with Helle Bunzel), current student.
 
 ### Committee member
-* [Xiying Liu](http://www.econ.iastate.edu/people/graduate-students/liu-xiying) (Economics PhD), current student.
-* [Jeremiah Richey](https://sites.google.com/a/iastate.edu/jeremiah-richey) (Economics PhD), current student.
-* Ozgu Serttas (Economics PhD), graduated 2010.
-* [Yihui Xie](http://yihui.name/) (Statistics PhD), current student.
+* [Xiying Liu](http://www.econ.iastate.edu/people/graduate-students/liu-xiying) (Economics PhD), current student
+* [Jeremiah Richey](https://sites.google.com/a/iastate.edu/jeremiah-richey) (Economics PhD), graduated 2012
+* Ozgu Serttas (Economics PhD), graduated 2010
+* [Yihui Xie](http://yihui.name/) (Statistics PhD), current student
 
 Professional activities
 -----------------------
