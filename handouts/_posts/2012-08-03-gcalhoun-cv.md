@@ -3,6 +3,7 @@ layout: handout
 title: "Curriculum Vitae"
 subtitle: Gray Calhoun, Assistant Professor of Economics, Iowa State University
 nocc: true
+permalink: /handouts/gcalhoun-cv.html
 ---
 
 Contact Information
