@@ -16,15 +16,14 @@ Let me know if there's anything else you think I'd like.
 <hr>
 {% if post.categories contains "clips" %}
   {{ post.content }} 
-  {{ post.date | date_to_string}} // 
-  tags: {{ post.tags | array_to_sentence_string }} // [permalink]({{ post.url }})
 {% else %}
   [{{ post.title }}]({{ post.url }})  
   Categories: {{ post.categories | array_to_sentence_string }}  
-  Tags: {{ post.tags | array_to_sentence_string }}  
 
   {{ post.content | truncatewords: 30 | strip_html}}
 {% endif %}
+{{ post.date | date_to_string}} // 
+tags: {{ post.tags | array_to_sentence_string }} // [permalink]({{ post.url }})
 
 
 {% endfor %}
