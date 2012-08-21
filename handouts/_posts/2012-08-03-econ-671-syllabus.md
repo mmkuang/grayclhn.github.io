@@ -169,7 +169,7 @@ References
 <dt>Gre12</dt>
 <dd>William H. Greene. <i>Econometric Analysis</i>. Prentice Hall, 7th edition, 2012.</dd>
 
-<dt>Hay10</dt>
+<dt>Hay00</dt>
 <dd>Fumio Hayashi. <i>Econometrics</i>. Princeton University Press, 2000.</dd>
 
 <dt>KZ08</dt>
