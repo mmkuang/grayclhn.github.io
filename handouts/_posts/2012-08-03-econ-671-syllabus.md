@@ -74,7 +74,7 @@ please let me know as soon as possible.
   <dd>November 15, 2012</dd>
 
   <dt>Final exam due</dt> 
-  <dd>December 7, 2012</dd>
+  <dd>December 10, 2012</dd>
 </dl>
 
 The weekly review session will be used primarily for discussion of the
