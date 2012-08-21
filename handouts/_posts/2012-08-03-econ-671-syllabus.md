@@ -2,7 +2,6 @@
 layout: handout
 title: Econ 671 Syllabus
 subtitle: Econometrics I, Gray Calhoun
-permalink: /handouts/2012/econ-671-syllabus.html
 date: 2012-08-20
 nocc: true
 tags:
