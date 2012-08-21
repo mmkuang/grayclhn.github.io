@@ -48,15 +48,15 @@ after Thanksgiving.
   two (one example: I mentioned that "I worked closely with Dimitris
   Politis" when applying to statistics departments).  The cover letter
   needs to include this information:
-    * your field (and secondary fields if they're relevant)
-    * the position you're applying for (sometimes the letter goes to
-      HR.  Sometimes the department is hiring for several positions
-      and the same person handles all of it.  Etc.)
-    * your advisors
-    * the fact that you'll attend the AEA meetings (It is not always
-      assumed that you're attending the AEA meetings.  I was asked
-      about this by email a few times when I omitted it in the cover
-      letter).
+  * your field (and secondary fields if they're relevant)
+  * the position you're applying for (sometimes the letter goes to
+    HR.  Sometimes the department is hiring for several positions
+    and the same person handles all of it.  Etc.)
+  * your advisors
+  * the fact that you'll attend the AEA meetings (It is not always
+    assumed that you're attending the AEA meetings.  I was asked
+    about this by email a few times when I omitted it in the cover
+    letter).
 
   * **A paper:** This should go without saying.  I was surprised by how
   many people read my job market paper, though.  Before going through
@@ -70,7 +70,8 @@ after Thanksgiving.
 
   * **A CV:** The department will encourage you to use its template,
   which is (unfortunately) very ugly.  It probably doesn't matter if
-  it is ugly... but I didn't use their template.
+  it is ugly... but I didn't use their template.  I also didn't use my
+  current online CV, which is also ugly.
 
   * **A webpage.**
 
@@ -206,10 +207,12 @@ The AEA meetings
   * You need to practice a lot for the interviews.  Practice with
   friends.  There are lists online of potential questions specific to
   the Economics job market.  The basic format is:
-    * you sit down, someone says, "tell us about your research"
-      with some amusement
-    * you describe your job market paper -- they may interrupt
-      with questions and they may not
+
+  * you sit down, someone says, "tell us about your research"
+    with some amusement
+
+  * you describe your job market paper -- they may interrupt
+    with questions and they may not
 
   * You want this period to be very busy.  It may or may not be stressful
 
@@ -454,7 +457,8 @@ but in retrospect wish that I had.  So take it for what it's worth.
 * You may have noticed that this outline did not mention any of the
   economics job-market rumor boards, wikis, etc.  They don't have much
   information, people on them lie, and it's depressing and stressful
-  to read the messages.  I avoided them.
+  to read the messages.  I avoided them.  They may have improved since
+  I was on the job market, but I doubt it.
 
 Revision history
 ----------------
@@ -475,4 +479,6 @@ Revision history
 <!--  LocalWords:  AcademyHealth JEL advisor advisor's flyouts endogeneity ISU
  -->
 <!--  LocalWords:  netbooks flyout else's other's advisees APPAM
+ -->
+<!--  LocalWords:  online someone's everyone's wikis
  -->
