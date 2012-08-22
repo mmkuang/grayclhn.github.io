@@ -55,13 +55,13 @@ please let me know as soon as possible.
 
 <dl class="dl-horizontal">
   <dt>Lectures</dt>
-  <dd>Tuesdays and Thursdays, 9:00 to 10:50</dd>
+  <dd>Tuesdays and Thursdays, 9:00 to 10:50 in Lagomarcino Hall N0147</dd>
 
   <dt>Review sessions</dt>
-  <dd>Fridays, 9:00 to 11:00 (location TBD)</dd>
+  <dd>Fridays, 9:00 to 11:00 in Heady 272</dd>
 
   <dt>Instructor's OH</dt> 
-  <dd>Tuesdays and Thursdays, 11:00 to 12:00</dd>
+  <dd>Tuesdays and Thursdays, 11:00 to 12:00 in Heady 467</dd>
 
   <dt>TA OH</dt> 
   <dd>Wednesdays, 3:00 to 5:00</dd>
