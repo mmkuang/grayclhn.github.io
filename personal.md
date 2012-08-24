@@ -6,11 +6,11 @@ layout: display
 I need to fill this page in some more, but this is a start.  I'm an
 Assistant Professor at Iowa State where I teach Economics and
 Econometrics (that information is probably on the site's front page).
-Before moving to Iowa, I lived in California for 8 years; 6 in grad
-school at UC San Diego and two before that in the San Francisco bay
-area.  I went to Tufts University (outside of Boston) for undergrad
-where I majored in Mathematics and went to high school outside of
-Philadelphia.
+Before moving to Iowa, I lived in California for eight years; six in
+grad school at UC San Diego and two before that in the San Francisco
+bay area.  I went to Tufts University (it's outside Boston) for
+undergrad where I majored in Mathematics and went to high school
+outside of Philadelphia.
 
 In addition to the links elsewhere on the site, I have a few others:
 
