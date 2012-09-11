@@ -1,3 +1,5 @@
 *~
 _site/
+_rawdog/rivers/*.html
 .DS_Store
+state
