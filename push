@@ -1,0 +1,6 @@
+#! /bin/bash
+
+jekyll 
+rsync -avz --delete _site/ gcalhoun_gfcal@ssh.phx.nearlyfreespeech.net:
+
+
