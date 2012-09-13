@@ -88,7 +88,7 @@ datetimeformat %H:%M, %A, %d %B
 # You can define additional strings using "define" in this config file; for
 # example, if you say "define myname Adam Sampson", then "__myname__" will be
 # replaced by "Adam Sampson" in the output.
-template /home/gray/Desktop/gray.clhn.co/_rawdog/template.html
+template /home/gcalhoun/Desktop/gray.clhn.co/_rawdog/template.html
 define pagetitle Academic river
 
 # Similarly, the template used for each item shown. Use "rawdog -T" to
@@ -123,7 +123,7 @@ define pagetitle Academic river
 # the empty string. Ifs can be nested, and __else__ is supported. (This also
 # works for the "template" option, but it's more useful for item
 # templates.)
-itemtemplate /home/gray/Desktop/gray.clhn.co/_rawdog/itemtemplate.html
+itemtemplate /home/gcalhoun/Desktop/gray.clhn.co/_rawdog/itemtemplate.html
 
 # Where to write the output HTML to. You should place style.css in the same
 # directory. Specify this as "-" to write the HTML to stdout.

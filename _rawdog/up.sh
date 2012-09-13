@@ -1,6 +1,6 @@
 #! /bin/bash
 
-BASE=/home/gray/Desktop/gray.clhn.co/_rawdog
+BASE=$HOME/Desktop/gray.clhn.co/_rawdog
 
 ## Public rivers
 for SUBDIR in research working announcements
