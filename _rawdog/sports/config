@@ -253,7 +253,6 @@ changeconfig true
 
 feed 1h http://mlb.sbnation.com/authors/rob-neyer/rss
 feed 1d http://www.kingkaufman.com/feed/
-feed 6h http://untitledsports.tumblr.com/rss
 
 #feeddefaults
 #	http_proxy http://proxy.example.com:3128/

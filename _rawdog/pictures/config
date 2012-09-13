@@ -251,8 +251,6 @@ changeconfig true
 # (These examples have been commented out; remove the leading "#" on each line
 # to use them.)
 
-feed 1h http://api.twitter.com/1/statuses/user_timeline.rss?screen_name=nytgraphics
-feed 1h http://api.twitter.com/1/statuses/user_timeline.rss?screen_name=NYTimesVisual
 feed 6h http://xkcd.com/atom.xml
 feed 6h http://www.economist.com/blogs/graphicdetail/index.xml
 feed 6h http://stevemccurry.wordpress.com/feed/

@@ -259,7 +259,6 @@ feed 1h http://www.economist.com/feeds/print-sections/71/united-states.xml
 feed 1h http://www.slate.com/articles/news_and_politics/jurisprudence.teaser.all.10.rss
 feed 1h http://www.economist.com/blogs/graphicdetail/index.xml
 feed 1h http://www.newyorker.com/services/mrss/feeds/everything.xml
-feed 1h http://feeds.bbci.co.uk/news/rss.xml
 
 #feeddefaults
 #	http_proxy http://proxy.example.com:3128/
