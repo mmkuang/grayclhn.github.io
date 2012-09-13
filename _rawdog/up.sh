@@ -9,7 +9,7 @@ do
     mv $BASE/$SUBDIR/output.html $BASE/rivers/$SUBDIR.html
 done
 ## Private rivers (at least for now)
-for SUBDIR in news tech sports pictures politics music
+for SUBDIR in news tech sports pictures politics music econ
 do 
     rawdog -uw -d $BASE/$SUBDIR
     mv $BASE/$SUBDIR/output.html $BASE/private/$SUBDIR.html

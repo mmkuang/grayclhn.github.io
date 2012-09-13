@@ -252,7 +252,7 @@ changeconfig true
 # to use them.)
 
 feed 1h http://www.politico.com/rss/morningmoney.xml
-
+feed 1h http://www.econbrowser.com/index.xml
 #feeddefaults
 #	http_proxy http://proxy.example.com:3128/
 #feed 1h http://example.com/feed.rss
