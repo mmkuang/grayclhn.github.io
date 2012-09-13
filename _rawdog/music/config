@@ -88,7 +88,7 @@ datetimeformat %H:%M, %A, %d %B
 # You can define additional strings using "define" in this config file; for
 # example, if you say "define myname Adam Sampson", then "__myname__" will be
 # replaced by "Adam Sampson" in the output.
-template /home/gray/Desktop/gray.clhn.co/_rawdog/template.html
+template /home/gray/Desktop/gray.clhn.co/_rawdog/template_private.html
 define pagetitle Music river
 
 # Similarly, the template used for each item shown. Use "rawdog -T" to
