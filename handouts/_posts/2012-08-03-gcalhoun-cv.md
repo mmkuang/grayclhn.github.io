@@ -109,6 +109,7 @@ Professional activities
 ### Journal referee
 * *American Journal of Agricultural Economics* (2011)
 * *Communications in Statistics—Theory and Methods* (2012)
+* *Computational Statistics and Data Analysis* (2012)
 * *Econometrica* (2012)
 * *Handbook of Economic Forecasting* (2011)
 * *International Journal of Forecasting* (2007, 2009, 2010, 2012)
