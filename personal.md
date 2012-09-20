@@ -20,7 +20,7 @@ In addition to the links elsewhere on the site, I have a few others:
 * The site feed, [http://gray.clhn.co/clips](/clips) or
   [http://gray.clhn.co/rss.xml](/rss.xml) is for announcements:
   presentations, papers, etc. I used to use it as a linkblog too, but
-  I'm using Tumblr now instead: <http://graycalhoun.tumblr.com>.
+  I'm using Tumblr now instead: <http://www.pseudotrue.com>.
 
 * I'm not on Facebook or Twitter any more; if you need to contact me,
   please call or email me.
