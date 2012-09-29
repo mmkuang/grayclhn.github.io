@@ -17,13 +17,16 @@ In addition to the links elsewhere on the site, I have a few others:
 * I've set up a blog for updates on my family and kids; email me if
   you want the URL and please remind me why you should have it.
 
-* The site feed, [http://gray.clhn.co/clips](/clips) or
-  [http://gray.clhn.co/rss.xml](/rss.xml) is for announcements:
-  presentations, papers, etc. I used to use it as a linkblog too, but
-  I'm using Tumblr now instead: <http://www.pseudotrue.com>.
+* The site feed, [http://gray.clhn.co/rss.xml](/rss.xml), is for
+  announcements: presentations, papers, etc. I used to use it as a
+  linkblog too, but I'm using Tumblr now instead:
+  <http://www.pseudotrue.com>.
 
-* I'm not on Facebook or Twitter any more; if you need to contact me,
-  please call or email me.
+* I'm not on Facebook any more and I delete and reinstate my Twitter
+  account so often that I'm surprised it's not marked as spam, but if
+  it's up, it's [@gfcal](https://www.twitter.com/gfcal). If you need
+  to contact me, please call or email me. My personal email address,
+  <gray@clhn.co>, also works for IM (Jabber).
 
 Information about my [teaching](/index.html#Teaching),
 [research](/index.html#Research), and [software

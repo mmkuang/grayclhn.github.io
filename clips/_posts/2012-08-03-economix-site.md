@@ -1,7 +1,0 @@
----
-layout: clip
-tags:
-- blog
-- news
----
-Economix (by the New York Times), <http://economix.blogs.nytimes.com>
