@@ -1,4 +1,0 @@
-AuthName "Secure Area"
-AuthType Basic
-AuthUserFile /f5/gfcal/protected/.htpasswd
-require valid-user
