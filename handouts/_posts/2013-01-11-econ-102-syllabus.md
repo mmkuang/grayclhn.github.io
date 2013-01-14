@@ -14,6 +14,21 @@ etc.), including the recent financial crisis and the current economic
 slump.  And it will also give you the necessary background for future
 classes in Economics and Business.
 
+The course is divided into three parts:
+
+1. The U.S. Macroeconomy overall: what the important series are and
+   how recessions and expansions propegate.
+
+2. How macroeconomic policy is conducted, given what we discussed in
+   the first part of the course.
+
+3. Issues relevant to international (open-economy) Macroeconomics:
+   long-run economic growth; capital flows and trade between countries;
+   and exchange rates.
+
+The first two parts will be followed by midterm exams and the last
+part will be followed by the final.
+
 Contact information 
 -------------------
 
