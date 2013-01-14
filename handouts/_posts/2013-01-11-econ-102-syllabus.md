@@ -2,7 +2,6 @@
 layout: handout
 title: Econ 102 Syllabus
 subtitle: Principles of Macroeconomics, Gray Calhoun
-date: 2013-01-11
 nocc: true
 tags:
 - econ-102

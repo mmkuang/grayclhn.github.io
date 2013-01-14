@@ -12,11 +12,9 @@ under the same license if you redistribute it.
 
 {% for doc in site.categories.handouts %}
 
-[{{ doc.title }}]({{ doc.url }}) {% unless doc.nocc %}\([CC][]\){% endunless %}
---------------------------------------------------------------------------
-{{ doc.content | truncatewords: 100 | strip_html }}  
-Tags: {{ doc.tags | array_to_sentence_string }}  
-Last edited: {{ doc.date | date_to_string }}
+**[{{ doc.title }}]({{ doc.url }})** {% unless doc.nocc %}\([CC][]\){% endunless %}  
+Last edited: {{ doc.date | date_to_string }}; 
+Tags: {{ doc.tags | array_to_sentence_string }}
 
 {% endfor %}
 
