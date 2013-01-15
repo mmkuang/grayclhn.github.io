@@ -12,7 +12,7 @@ under the same license if you redistribute it.
 
 {% for doc in site.categories.handouts %}
 
-**[{{ doc.title }}]({{ doc.url }})** {% unless doc.nocc %}\([CC][]\){% endunless %}  
+* **[{{ doc.title }}]({{ doc.url }})** {% unless doc.nocc %}\([CC][]\){% endunless %}  
 Last edited: {{ doc.date | date_to_string }}; 
 Tags: {{ doc.tags | array_to_sentence_string }}
 
