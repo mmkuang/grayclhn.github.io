@@ -48,7 +48,7 @@ call me or stop by my office.  This syllabus is available online at
   <tr>
     <td>TA</td>
     <td>Xiying Liu</td>
-    <td>OH: TBD</td>
+    <td>OH: 3-4 Tuesdays</td>
     <td>xiyingl@iastate.edu</td>
     <td>280D Heady Hall</td>
     <td></td>
