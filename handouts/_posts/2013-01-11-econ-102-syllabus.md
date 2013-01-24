@@ -46,9 +46,9 @@ the instructor (me) and TAs:
   * <gcalhoun@iastate.edu>
   * OH 3-4 MW in Heady 467
 * TAs (OH will be listed later)
-  * Shufen Chen, <sfchen@iastate.edu>
-  * Nathan Miller, <nathan89@iastate.edu>
-  * Soumyadip Roy, <sroy30@iastate.edu>
+  * Shufen Chen, <sfchen@iastate.edu>; OH: 4-5 MW (80c Heady Hall)
+  * Nathan Miller, <nathan89@iastate.edu>; OH: 2-3 MW, 9:30-10:30 TuTh (help room).
+  * Soumyadip Roy, <sroy30@iastate.edu>; OH: 12-1 MW (80a Heady Hall)
   * Donggyu Yi, <dgyi@iastate.edu>
 
 If you can not make our regularly scheduled office hours, we'll all be
