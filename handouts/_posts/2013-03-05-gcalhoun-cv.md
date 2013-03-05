@@ -65,6 +65,16 @@ Working papers
 
 {% endfor %}
 
+Other research in progress
+--------------------------
+
+1. Forecasting with STAR models, 2012 (joint with Graham Elliott).
+
+1. Out-of-sample comparisons under instability, 2012 (joint with Helle Bunzel).
+
+1. A bootstrap procedure for real-time out-of-sample comparisons, 2013
+   (joint with Todd Clark and Michael McCracken).
+
 Software development
 --------------------
 
@@ -87,8 +97,9 @@ Teaching
 --------
 
 ### Iowa State University
-* PhD Econometrics 1 (Econ 671), Fall 2009-2011
-* Principles of Macroeconomics (Econ 102), Spring 2010, 2011
+* PhD Macroeconometrics (Econ 674), Spring 2013
+* PhD Econometrics 1 (Econ 671), Fall 2009-2012
+* Principles of Macroeconomics (Econ 102), Spring 2010-2013
 
 ### UC San Diego  
 * Undergraduate Econometrics 3 (Econ 120 C), Spring 2009
@@ -124,6 +135,7 @@ Professional activities
 * Midwest Economics Association
 
 ### Departmental service
+* Computer support staff hiring committee, 2012 & 2013
 * Graduate Student Admissions Committee, 2009-present
 * Computer Committee, 2009-present
 

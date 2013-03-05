@@ -1,7 +1,7 @@
 ---
 layout: research
 title: Out-of-sample comparisons of overfit models
-info: Working Paper 11002, Iowa State University, 2011 (revising for resubmission).
+info: Working Paper 11002, Iowa State University, 2012 (revising for resubmission to *The Review of Economic Studies*).
 link: http://www.econ.iastate.edu/research/working-papers/p12462
 ---
 This paper uses dimension asymptotics to study why overfit linear
