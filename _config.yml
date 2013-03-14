@@ -1,1 +1,1 @@
-permalink: /:categories/:year/:title.html
+permalink: /:categories/:year/:month/:day/:title

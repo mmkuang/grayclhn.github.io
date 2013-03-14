@@ -4,16 +4,15 @@ layout: nil
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gray.clhn.co: site updates</title>
+    <title>gray.clhn.co: Principles of Macroeconomics</title>
     <link>http://gray.clhn.co/</link>
-    <atom:link href="http://gray.clhn.co/rss.xml" rel="self" type="application/rss+xml" />
-    <description>Updates to gray.clhn.co</description>
+    <atom:link href="http://gray.clhn.co/102/rss.xml" rel="self" type="application/rss+xml" />
+    <description>New posts for Principles of Macroeconomics</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
-    {% for post in site.posts %}
-    {% unless post.categories contains '102' %}
+    {% for post in site.categories.102 %}
     <item>
       {% if post.title %}<title>{{ post.title }}</title>{% endif %}
       <link>http://gray.clhn.co{{ post.url }}</link>
@@ -24,7 +23,7 @@ layout: nil
 	{{ post.content | xml_escape }}
       </description>
     </item>
-    {% endunless %}{% endfor %}
+    {% endfor %}
 
   </channel>
 </rss>
