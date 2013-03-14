@@ -1,6 +1,7 @@
 #! /bin/bash
 
 jekyll 
+cp .htaccess _site/
 rsync -avz --delete _site/ gcalhoun_gfcal@ssh.phx.nearlyfreespeech.net:
 
 
