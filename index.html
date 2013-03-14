@@ -26,9 +26,15 @@ title: "Gray Calhoun's website"
     for a while.</p>
     <hr>
     <ul class="unstyled">
-      <li><a href="/handouts/gcalhoun-cv.html">Curriculum Vitae</a></li>
-      <li><a href="http://www.pseudotrue.com">pseudotrue.com</a> (my blog)</li>
-      <li>Contact Information<ul>
+      <li><a href="/cv">Curriculum Vitae</a></li>
+      <li><a href="http://www.pseudotrue.com">www.pseudotrue.com</a> (my blog)</li>
+      <li><a href="/blog">Other notes</a> (to be merged sometime)</li>
+      <li><a href="/about">Personal information</a> and links</li>
+      <li><a href="/rss.xml">Site feed</a> (as XML) and
+	<a href="/102/rss.xml">Econ 102 feed</a></li>
+      <li>Jump to <a href="/#Teaching">Teaching</a>, <a href="/#Research">Research</a>, 
+	or <a href="/#Software">Software</a> (for mobile)</li>
+      <li><h3>Contact Information</h3><ul>
 	  <li>{% include univ_office %} (office at Iowa State)</li>
 	  <li>{% include univ_phone %} (office phone)</li>
 	  <li><a href="mailto:{% include univ_email %}">{% include univ_email %}</a> (unviersity email)</li>
@@ -36,12 +42,6 @@ title: "Gray Calhoun's website"
 	  <li><a href="https://twitter.com/pseut">@pseut</a> (Twitter)</li>
 	  <li>Office hours: 3-4 Monday and Wednesday (Spring 2013).</li>
       </ul></li>
-      <li><a href="/handouts/">Handouts</a> for classes, etc.</li>
-      <li><a href="/research/talks/">Presentations</a> with slides</li>
-      <li><a href="/personal.html">Personal information</a> and links</li>
-      <li><a href="/rss.xml">Site feed</a> (as XML)</li>
-      <li>Jump to <a href="index.html#Teaching">Teaching</a>, <a href="index.html#Research">Research</a>, 
-	or <a href="index.html#Software">Software</a> (for mobile)</li>
     </ul><hr>
   </div>
 
@@ -50,25 +50,25 @@ title: "Gray Calhoun's website"
     <ul class="unstyled">
       <li><strong>PhD Econometrics 1 (Econ 671)</strong>
 	<p>I teach PhD Econometrics 1 (Economics 671) in the Fall:
-	 <a href="/teaching/2012/econ-671.html">course
-	page</a> and
-	  <a href="/handouts/2012/econ-671-syllabus.html">syllabus</a> for
-	  2012.</p></li>
+	 <a href="/671">course page</a> and
+	  <a href="/671/2012/syllabus">syllabus</a> for 2012.</p></li>
       
       <li><strong>Principles of Macroeconomics (Econ 102)</strong>
 	<p>I am teaching Principles of Macroeconomics (Econ 102) in Spring,
 	  2013.  Course material is on
 	  <a href="https://bb.its.iastate.edu">BlackBoard Learn</a>, but the
-	  <a href="/handouts/2013/econ-102-syllabus.html">syllabus</a> is on this
-	  website as well.</p></li>
+	  <a href="/102/2013/syllabus">syllabus</a> is on this website
+	  as well.  <a href="/102/rss.xml">This RSS feed has new
+	  handouts</a>.</p></li>
 	
       <li><strong>PhD Macroeconometrics (Econ 674)</strong>
-	<p>Helle Bunzel and I will teach PhD Macroeconometrics (Economics 674) in
-	  Spring, 2013.  <a href="/handouts/2013/econ-674-syllabus.html">The syllabus 
-          is available here</a>.</p></li>
+	<p>Helle Bunzel and I will teach PhD Macroeconometrics
+	  (Economics 674) in Spring,
+	  2013.  <a href="/674/2013/syllabus">The syllabus is
+	  available here</a>.</p></li>
 
-      <li><p><strong>Courses before Fall, 2012</strong> are not online. Please
-	contact me if you need material.  A few <a href="/handouts">handouts</a> are available.</p></li>
+      <li><p><strong>Courses before Fall, 2012</strong> are not
+	online. Please contact me if you need material.</p></li>
     </ul><hr></div>
 
   <a name="Research"> </a>
@@ -76,8 +76,8 @@ title: "Gray Calhoun's website"
     <h1 align="center">Research</h1><hr>
     <h2>Publications:</h2>
     <ul class="unstyled">
-      <li><p><a href="/research/papers/"><strong>Published papers</strong></a>, 
-	  along with source code and other supporting material.</p></li>
+      <li><p>Please see my <a href="/cv#papers">CV</a> for a list of
+      published papers with links.</p></li>
       <li><p>Citations and other information at 
 	<a href="http://ideas.repec.org/f/pca491.html">
 	  IDEAS</a> and 
@@ -87,13 +87,13 @@ title: "Gray Calhoun's website"
     <hr>
     <h2>Current working papers:</h2>
     <ul class="unstyled">
-      {% for doc in site.categories.working %}
+      {% for doc in site.categories.research %} {% if doc.tags contains 'working' %}
       <li><p> <strong>{{ doc.title }}</strong>. {{ doc.info }}
 	  <ul><li><a href="{{ doc.url }}">More details</a></li>
 	    <li><a href="{{ doc.link }}">Download the paper</a> 
 	      (external link)</li></ul>
       </p></li>
-      {% endfor %}
+      {% endif %}{% endfor %}
     </ul>
     <hr>
   </div>
@@ -101,14 +101,15 @@ title: "Gray Calhoun's website"
   <a name="Software"> </a>
   <div class="span3"><h1 align="center">Software</h1><hr>
     <p>Only stand-alone software packages are listed here.  Follow
-      this link for <a href="/research/papers/">source code for my publications</a>
+      this link for <a href="/cv#papers">source code for my publications</a>
       and go to the details of each working paper for that paper's source
       code.</p>
 
-    <p>These projects, and many others, are avaiable at
+    <p>These projects, and others, are avaiable at
       <a href="http://github.com/gcalhoun">http://github.com/gcalhoun</a>.
 
-    <ul class="unstyled">{% for doc in site.categories.software %}
+    <ul class="unstyled">
+      {% for doc in site.categories.research %} {% if doc.tags contains 'software' %}
       <li><p> <strong>{{ doc.title }}</strong>.  {{ doc.info }}  
 	  <ul>
 	    <li><a href="{{ doc.url }}">Details</a></li>
@@ -117,7 +118,7 @@ title: "Gray Calhoun's website"
 	  </ul>
       </p></li>
       
-      {% endfor %}
+      {% endif %}{% endfor %}
     </ul><hr>
   </div>
 </div>

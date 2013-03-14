@@ -1,0 +1,35 @@
+Redirect /handouts/gcalhoun-cv.html cv
+
+Redirect /handouts/2012/econ-671-syllabus.html /671/2012/syllabus
+Redirect /handouts/2013/econ-674-syllabus.html /674/2013/syllabus
+
+Redirect /handouts/2013/econ-102-ch14.html     /102/2013/03/11/ch14-handout
+Redirect /handouts/2013/econ-102-ch11a.html    /102/2013/02/15/ch11-handout
+Redirect /handouts/2013/econ-102-ch10a.html    /102/2013/02/11/ch10-handout
+Redirect /handouts/2013/econ-102-ch8b.html     /102/2013/01/30/ch08b-handout
+Redirect /handouts/2013/econ-102-ch8a.html     /102/2013/02/15/ch08a-handout
+Redirect /handouts/2013/econ-102-ch7c.html     /102/2013/01/27/ch07c-handout
+Redirect /handouts/2013/econ-102-ch7b.html     /102/2013/01/17/ch07b-handout
+Redirect /handouts/2013/econ-102-ch7a.html     /102/2013/01/16/ch07a-handout
+Redirect /handouts/2013/econ-102-01.html       /102/2013/01/13/intro-handout
+Redirect /handouts/2013/econ-102-syllabus.html /102/2013/syllabus
+Redirect /handouts /blog
+
+Redirect /handouts/2012/job-market-notes.html  /blog/2012/08/03/job-market-notes
+Redirect /handouts/2011/computing-handout.html /blog/2011/08/01/computing-handout
+
+Redirect /personal.html /about
+
+Redirect /research/papers   /research
+Redirect /research/working  /research
+Redirect /research/talks    /research
+Redirect /research/software /research
+
+Redirect /research/papers/2011/linear-regression.html /research/2011/12/01/linear-regression
+
+Redirect /research/working/2012/statboot.html         /research/2012/05/19/statboot
+Redirect /research/working/2012/oos-overfit.html      /research/2012/05/19/oos-overfit
+Redirect /research/working/2012/mixedwindow.html      /research/2012/05/19/mixed-window
+
+Redirect /research/software/2012/oosanalysis /research/2012/05/19/oosanalysis
+Redirect /research/software/2012/dbframe     /research/2012/05/19/dbframe
