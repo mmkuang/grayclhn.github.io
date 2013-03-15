@@ -1,7 +1,6 @@
 ---
 layout: handout
 title: Website reorganization
-date: 2012-08-03
 author: Gray Calhoun
 ---
 
