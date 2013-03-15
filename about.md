@@ -4,7 +4,7 @@ layout: display
 permalink: /about/index.html
 ---
 
-# About me:
+## About me:
 
 I need to fill this page in some more, but this is a start.  I'm an
 Assistant Professor at Iowa State where I teach Economics and
@@ -37,7 +37,7 @@ projects](/index.html#Software) is available on the [front
 page](/index.html), as is my [contact
 information](/index.html#Information).
 
-# About this website:
+## About this website:
 
 I use [Twitter Bootstrap](http://twitter.github.com/bootstrap)
 (obviously), [Jekyll](http://jekyllrb.com/) (maybe less obviously),

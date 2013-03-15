@@ -3,7 +3,7 @@ layout: research
 title: "An asymptotically normal out-of-sample test of equal
 predictive accuracy for nested models"
 info: 2013
-link: http://gray.clhn.co/dl/calhoun-mixed-window-2013.pdf
+link: http://gray.clhn.co/dl/calhoun-2013-mixed-window.pdf
 tags: working
 ---
 This paper proposes a modification of Clark and West's (2007,

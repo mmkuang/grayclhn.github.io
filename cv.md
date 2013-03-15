@@ -88,11 +88,10 @@ Software development
 External presentations
 ----------------------
 
-<ul>
 {% for doc in site.categories.research %} {% if doc.tags contains 'talk' %}
-<li>[{{ doc.info }}]({{ doc.url }}).  <i>{{ doc.title }}</i></li>
+* [{{ doc.info }}]({{ doc.url }}).  <i>{{ doc.title }}</i>
 {% endif %} {% endfor %}
-</ul>
+
 
 Teaching
 --------

@@ -1,9 +1,9 @@
 ---
 layout: display
-title: "Misc. posts and documents"
+title: "Misc. notes and short documents"
 ---
 
-{% for doc in site.categories.blog %}
+{% for doc in site.categories.notes %}
 * [{{ doc.title }}]({{ doc.url }}) ({{ doc.date | date_to_long_string }})
 
 {% endfor %}
