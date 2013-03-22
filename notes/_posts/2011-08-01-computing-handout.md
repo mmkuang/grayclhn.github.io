@@ -139,18 +139,15 @@ statistics packages.
   [S Programming][VeR00].  I don't know good references for Fortran and
   Matlab because I don't use those languages.
 
-* *Perl/Python/Ruby:* are (in a sense) scripting languages that you
-  should use to make changes to messy datafiles before reading them
-  into a database or statistics package.  A very basic distinction
-  between these languages is that Perl has marginally better text
-  processing capabilities (regular expressions in particular),
-  Python's syntax makes it easier to maintain and reuse code, and Ruby
-  I've never actually used but looks like fun.  For the small-scale
-  tasks that we'll use these languages for, Perl is probably the
-  better choice; however, I use these languages so infrequently that I
-  find it hard to remember and read Perl, so I am starting to use
-  Python.  I'm trying to find time to learn Ruby as well.  [Learning
-  Python][Lut09] and [Learning Perl][SFP11] are excellent
+* *Perl/Python:* are (in a sense) scripting languages that you should use to 
+  make changes to messy datafiles before reading them into a database or
+  statistics package.  A very basic distinction between these languages is that
+  Perl has marginally better text processing capabilities (regular expressions
+  in particular), Python's syntax makes it easier to maintain and reuse code.
+  For the small-scale tasks that we'll use these languages for, Perl is
+  probably the better choice; however, I use these languages so infrequently
+  that I find it hard to remember and read Perl, so I am starting to use
+  Python. Learning Python][Lut09] and [Learning Perl][SFP11] are excellent
   introductions to these languages.
 
     There are extensions to both of these languages designed to make

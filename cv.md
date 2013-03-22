@@ -111,9 +111,11 @@ Graduate student committees
 
 ### Committee member
 * [Xiying Liu](http://www.econ.iastate.edu/people/graduate-students/liu-xiying) (Economics PhD), current student
-* [Jeremiah Richey](https://sites.google.com/a/iastate.edu/jeremiah-richey) (Economics PhD), graduated 2012
+* [Jeremiah Richey](http://sites.google.com/a/iastate.edu/jeremiah-richey) (Economics PhD), graduated 2012
 * Ozgu Serttas (Economics PhD), graduated 2010
 * [Yihui Xie](http://yihui.name/) (Statistics PhD), current student
+* [Matthew Clancy](http://www.econ.iastate.edu/people/graduate-students/clancy-matthew) (Economics PhD), current student
+* [Deung Yong Heo](http://www.econ.iastate.edu/people/graduate-students/heo-deung-yong) (Economics PhD), current student
 
 Professional activities
 -----------------------
