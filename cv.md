@@ -125,7 +125,7 @@ Professional activities
 * *Computational Statistics and Data Analysis* (2012)
 * *Econometrica* (2012)
 * *Handbook of Economic Forecasting* (2011)
-* *International Journal of Forecasting* (2007, 2009, 2010, 2012)
+* *International Journal of Forecasting* (2007, 2009, 2010, 2012, 2013)
 * *Journal of Business & Economic Statistics* (2011, 2012)
 * *Manchester School* (2012)
 
