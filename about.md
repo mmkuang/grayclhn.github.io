@@ -17,11 +17,17 @@ outside of Philadelphia.
 
 In addition to the links elsewhere on the site, I have a few others:
 
+* The ambitiously-named [Econometrics Free Library
+  Project](http://www.econometricslibrary.org) was set up to develop
+  free/open-source Econometrics textbooks collaboratively.  Please see
+  the website for information on participating and downloading the
+  texts.
+
+* I've set up the website <http://visualscoreboard.com> to host
+  statistical graphics related to sports.
+
 * I've set up a blog for updates on my family and kids; email me if
   you want the URL and please remind me why you should have it.
-
-* I set up the website <http://visualscoreboard.com> that hosts
-  statistical graphics related to sports.
 
 * The site feed, [gray.clhn.co/rss.xml](/rss.xml), is for
   announcements: presentations, papers, etc. I used to use it as a
@@ -30,7 +36,7 @@ In addition to the links elsewhere on the site, I have a few others:
 
 * I'm not on Facebook any more and I delete and reinstate my Twitter
   account so often that I'm surprised it's not marked as spam, but if
-  it's up, it's [@pseut](https://www.twitter.com/psetu). If you need
+  it's up, it's [@pseut](https://www.twitter.com/pseut). If you need
   to contact me, please call or email me. My personal email address,
   <gray@clhn.co>, also works for IM (Jabber).
 
@@ -43,9 +49,8 @@ information](/index.html#Information).
 ## About this website:
 
 I use [Twitter Bootstrap](http://twitter.github.com/bootstrap)
-(obviously), [Jekyll](http://jekyllrb.com/) (maybe less obviously),
-and [rawdog](http://offog.org/code/rawdog.html) to produce this
-website.  It is hosted at
+(obviously) and [Jekyll](http://jekyllrb.com/) (maybe less obviously),
+to produce this website.  It is hosted at
 [NearlyFreeSpeech.net](https://www.nearlyfreespeech.net/).
 
 Twitter Bootstrap is licensed under the [Apache License
