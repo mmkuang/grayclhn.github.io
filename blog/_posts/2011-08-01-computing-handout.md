@@ -1,7 +1,8 @@
 ---
 layout: handout
-title: Handout on software and computing
+title: Notes on software and computing
 tags: 
+  - handout
   - graduate
   - computing
 author: Gray Calhoun

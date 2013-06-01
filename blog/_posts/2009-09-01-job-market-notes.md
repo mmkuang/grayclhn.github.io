@@ -3,6 +3,7 @@ layout: handout
 title: An extremely subjective outline of the economics job market 
 date: 2012-08-03
 tags: 
+  - handout
   - graduate
   - job market
 author: Gray Calhoun

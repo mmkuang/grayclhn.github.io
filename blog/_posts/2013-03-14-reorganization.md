@@ -1,5 +1,5 @@
 ---
-layout: handout
+layout: blog
 title: Website reorganization
 author: Gray Calhoun
 ---

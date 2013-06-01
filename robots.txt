@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /rss.xml /102/rss.xml
+Disallow: /rss.xml
