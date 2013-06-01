@@ -22,28 +22,25 @@ title: "Gray Calhoun's website"
     Econometric theory, especially time series and applications to
     forecasting and forecast evaluation.  I graduated with a PhD from
     UC San Diego in 2009, where I worked with Graham Elliott and Allan
-    Timmermann. My homepage has moved recently, but should stay here
-    for a while.</p>
+    Timmermann.</p>
     <hr>
     <ul class="unstyled">
       <li><a href="/cv">Curriculum Vitae</a></li>
+      <li><a href="/about">Personal information</a> and links</li>
+      <li><a href="http://www.econometricslibrary.org">Econometrics Free Library Project</a> (textbook development)</li>
+      <li><a href="http://visualscoreboard.com">visualscoreboard.com</a> (sports statistical graphics)</li>
+      <li><a href="https://github.com/gcalhoun">Software</a> (on GitHub).</li>
       <li><a href="/rss.xml">Site feed</a> (as XML)</li>
-      <li>Jump to <a href="/#Teaching">Teaching</a>, <a href="/#Research">Research</a>, 
-	or <a href="/#Software">Software</a> (for mobile)</li>
+      <li>Jump to <a href="/#Teaching">Teaching</a>,
+	<a href="/#Research">Research</a> or
+	<a href="/#Blog">Blog</a> (for mobile)</li>
       <li><h3>Contact Information</h3><ul>
 	  <li>{% include univ_office %} (office at Iowa State)</li>
 	  <li>{% include univ_phone %} (office phone)</li>
 	  <li><a href="mailto:{% include univ_email %}">{% include univ_email %}</a> (unviersity email)</li>
 	  <li><a href="mailto:{% include main_email %}">{% include main_email %}</a> (all other email and IM)</li>
 	  <li><a href="https://twitter.com/pseut">@pseut</a> (Twitter)</li>
-	  <li>Office hours: 3-4 Monday and Wednesday (Spring 2013).</li>
-      </ul></li>
-      <li><h3>Other links</h3><ul>
-	  <li><a href="/about">Personal information</a> and links</li>
-	  <li><a href="/notes">Informal documents and notes</a></li>
-	  <li><a href="http://pseudotrue.com">pseudotrue.com</a> (my blog)</li>
-	  <li><a href="http://visualscoreboard.com">visualscoreboard.com</a> (sports statistical graphics)</li>
-	  <li><a href="http://www.econometricslibrary.org">Econometrics Free Library Project</a> (textbook development)</li>
+	  <li>Office hours: by appointment (Summer 2013).</li>
       </ul></li>
     </ul><hr>
   </div>
@@ -101,28 +98,45 @@ title: "Gray Calhoun's website"
     <hr>
   </div>
 
-  <a name="Software"> </a>
-  <div class="span3"><h1 align="center">Software</h1><hr>
-    <p>Only stand-alone software packages are listed here.  Follow
-      this link for <a href="/cv#papers">source code for my publications</a>
-      and go to the details of each working paper for that paper's source
-      code.</p>
-
-    <p>These projects, and others, are avaiable at
-      <a href="http://github.com/gcalhoun">http://github.com/gcalhoun</a>.
-
+  <a name="Blog"> </a>
+  <div class="span3">
+    <h1 align="center">Blog</h1><hr>
+    <h2>Handouts:</h2>
     <ul class="unstyled">
-      {% for doc in site.categories.research %} {% if doc.tags contains 'software' %}
-      <li><p> <strong>{{ doc.title }}</strong>.  {{ doc.info }}  
-	  <ul>
-	    <li><a href="{{ doc.url }}">Details</a></li>
-	    <li><a href="{{ doc.link }}">Download the source code</a> 
-	      (at Github)</li>
-	  </ul>
-      </p></li>
-      
-      {% endif %}{% endfor %}
-    </ul><hr>
+      {% assign handout_count = '' %}
+      {% for doc in site.categories.blog %}
+      {% if doc.tags contains 'handout' and handout_count.size < 4 %}
+
+      <!--Increment counter-->
+      {% capture temp %}{{ handout_count }}*{% endcapture %}
+      {% assign handout_count = temp %}
+
+      <li><p><a href="{{ doc.url }}">{{ doc.title | xml_escape }}</a>,
+	{{ doc.date | date: "%d %b %Y" }}</p></li>
+      {% endif %}
+      {% endfor %}
+      <li><p><b><a href="/blog">The full archives are available
+      here</a></b>, the four latest handouts are listed above.</p></li>
+    </ul>
+    <hr>
+    <h2>Blog posts:</h2>
+    <ul class="unstyled">
+      {% assign blog_count = '' %}
+      {% for doc in site.categories.blog %}
+      {% unless doc.tags contains 'handout' or blog_count.size > 7 %}
+
+      <!-- Increment counter -->
+      {% capture temp %}{{ blog_count }}*{% endcapture %}
+      {% assign blog_count = temp %}
+
+      <li><p><a href="{{ doc.url }}">{{ doc.title | xml_escape }}</a>, 
+	{{ doc.date | date: "%d %b %Y" }}</p></li>
+      {% endunless %}
+      {% endfor %}
+      <li><p><b><a href="/blog">The full archives are available
+      here</a></b>, the eight latest posts are listed above.</p></li>
+     </ul>
+    <hr>
   </div>
 </div>
 

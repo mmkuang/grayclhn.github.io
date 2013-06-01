@@ -29,11 +29,6 @@ In addition to the links elsewhere on the site, I have a few others:
 * I've set up a blog for updates on my family and kids; email me if
   you want the URL and please remind me why you should have it.
 
-* The site feed, [gray.clhn.co/rss.xml](/rss.xml), is for
-  announcements: presentations, papers, etc. I used to use it as a
-  linkblog too, but I'm using a real blog now instead:
-  [pseudotrue.com](http://pseudotrue.com).
-
 * I'm not on Facebook any more and I delete and reinstate my Twitter
   account so often that I'm surprised it's not marked as spam, but if
   it's up, it's [@pseut](https://www.twitter.com/pseut). If you need

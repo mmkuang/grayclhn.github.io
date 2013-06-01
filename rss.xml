@@ -15,7 +15,7 @@ layout: nil
     {% for post in site.posts %}
     {% unless post.categories contains '102' %}
     <item>
-      {% if post.title %}<title>{{ post.title }}</title>{% endif %}
+      {% if post.title %}<title>{{ post.title | xml_escape }}</title>{% endif %}
       <link>http://gray.clhn.co{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>gray@clhn.co (Gray Calhoun)</author>
