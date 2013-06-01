@@ -1,7 +1,7 @@
 ---
 layout: research
 title: The oosanalysis R library
-link: https://www.github.com/gcalhoun/oosanalysis-R-library
+link: https://www.github.com/grayclhn/oosanalysis-R-library
 tags: software
 ---
 This library provides R functions to conduct pseudo out-of-sample

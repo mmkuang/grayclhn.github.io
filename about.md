@@ -31,7 +31,7 @@ In addition to the links elsewhere on the site, I have a few others:
 
 * I'm not on Facebook any more and I delete and reinstate my Twitter
   account so often that I'm surprised it's not marked as spam, but if
-  it's up, it's [@pseut](https://www.twitter.com/pseut). If you need
+  it's up, it's [@grayclhn](https://www.twitter.com/grayclhn). If you need
   to contact me, please call or email me. My personal email address,
   <gray@clhn.co>, also works for IM (Jabber).
 
