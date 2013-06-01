@@ -219,4 +219,4 @@ and suggestions would be great too.
 [Tukey]: https://en.wikiquote.org/wiki/John_Tukey
 [HAP_code]: http://www.peri.umass.edu/fileadmin/pdf/working_papers/working_papers_301-350/HAP-RR-GITD-code.zip
 [HAP_readme]: http://www.peri.umass.edu/fileadmin/pdf/working_papers/working_papers_301-350/PERI_WP322_readme.txt
-[code gist]: https://gist.github.com/gcalhoun/5446956#file-reinhart_rogoff_plot_growth-r
+[code gist]: https://gist.github.com/grayclhn/5446956#file-reinhart_rogoff_plot_growth-r
