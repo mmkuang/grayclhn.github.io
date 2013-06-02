@@ -2,7 +2,7 @@
        example html files on August 1st -->
   <head>
     <meta charset="utf-8">
-    <title>gray.clhn.co: {{ page.title }}</title>
+    <title>{{ page.title | xml_escape }} · gray.clhn.co</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ page.description }}">
     <meta name="author" content="Gray Calhoun">
