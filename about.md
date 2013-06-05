@@ -24,7 +24,8 @@ In addition to the links elsewhere on the site, I have a few others:
   texts.
 
 * I've set up the website <http://visualscoreboard.com> to host
-  statistical graphics related to sports.
+  statistical graphics related to sports and <http://pseudotrue.com>
+  as a link-sharing site for Econometrics.
 
 * I've set up a blog for updates on my family and kids; email me if
   you want the URL and please remind me why you should have it.
