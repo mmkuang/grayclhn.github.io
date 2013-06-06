@@ -37,22 +37,20 @@ In addition to the links elsewhere on the site, I have a few others:
   <gray@clhn.co>, also works for IM (Jabber).
 
 Information about my [teaching](/index.html#Teaching),
-[research](/index.html#Research), and [software
-projects](/index.html#Software) is available on the [front
-page](/index.html), as is my [contact
+[research](/index.html#Research), and [blog](/index.html#Blog) is
+available on the [front page](/index.html), as is my [contact
 information](/index.html#Information).
 
 ## About this website:
 
 I use [Twitter Bootstrap](http://twitter.github.com/bootstrap)
 (obviously) and [Jekyll](http://jekyllrb.com/) (maybe less obviously),
-to produce this website.  It is hosted at
-[NearlyFreeSpeech.net](https://www.nearlyfreespeech.net/).
+to produce this website.  It is hosted at [GitHub](https://github.com).
 
 Twitter Bootstrap is licensed under the [Apache License
 v2.0](http://www.apache.org/licenses/LICENSE-2.0) and Jekyll under the
 [MIT License](http://opensource.org/licenses/MIT), so both are freely
 available for your own work.
 
-Site updates are available at [gray.clhn.co/rss.xml](/rss.xml).  
-Please report any problems to <gray@clhn.co>.
+Site updates are available at [/rss.xml](/rss.xml).  Please report any
+problems to <gray@clhn.co>.
