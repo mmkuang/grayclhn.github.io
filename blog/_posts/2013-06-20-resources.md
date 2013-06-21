@@ -17,24 +17,26 @@ Statistics & Graphics
 This is probably not a standard list, but... I've learned an immense
 amount from:
 
-* Cleveland's books, especially [Visualizing Data] (http://amzn.com/0963488406)
-* Manski's [Identification Problems in the Social Sciences] (http://amzn.com/0674442849)
+* Cleveland's books, especially *Visualizing Data*
+* Manski's *Identification Problems in the Social Sciences*
 * Tufte's four books
-  * [The Visual Display of Quantitative Information] (http://www.edwardtufte.com/tufte/books_vdqi)
-  * [Envisioning Information] (http://www.edwardtufte.com/tufte/books_ei)
-  * [Visual Explanations] (http://www.edwardtufte.com/tufte/books_visex)
-  * [Beautiful Evidence] (http://www.edwardtufte.com/tufte/books_be)
+  * *The Visual Display of Quantitative Information*
+  * *Envisioning Information*
+  * *Visual Explanations*
+  * *Beautiful Evidence*
 * Howard Wainer's books are excellent, especially
-  [Picturing the Uncertain World] (http://amzn.com/0691152675)
+  *Picturing the Uncertain World*
+* Frank Harrell's *Regression Modeling Strategies* is very good.
 
-At first, I really disliked Stephen Few's
-[Show me the numbers: Designing Tables and Graphs to Enlighten]
-(http://amzn.com/0970601972) and viewed it as Tufte-lite.  I still
-kind of think that, but some people might need to start with
-Tufte-lite, so there's probably a role for the book.  Plus, [his blog]
-(http://www.perceptualedge.com/blog/) is enjoyably opinionated (but,
-damn, the only "sharing" options on each post are del.icio.us and Digg
-This.  Makes me feel old.)
+At first, I really disliked Stephen Few's *Show me the numbers:
+Designing Tables and Graphs to Enlighten* and viewed it as Tufte-lite.
+I still kind of think that, but some people might need to start with
+Tufte-lite, so there's probably a role for the book.  Plus,
+[his blog][0] is enjoyably opinionated (but, damn, the only "sharing"
+options on each post are del.icio.us and Digg This.  Makes me feel
+old.)
+
+[0]: http://www.perceptualedge.com/blog/
 
 Using R
 -------
@@ -45,25 +47,28 @@ These look decent, though, and are either free or cheap:
 
 Free:
 
-* Start by at least looking at the [R introductory manual]
-  (http://cran.r-project.org/doc/manuals/r-release/R-intro.html); the
-  [other manuals] (http://cran.r-project.org/manuals.html) are less
+* Start by at least looking at the [R introductory manual][1]; the
+  [other manuals][2] are less
   useful at first, but the data import/export info might be helpful.
-* And [the FAQ] (http://cran.r-project.org/doc/FAQ/R-FAQ.html), along
-  with [the platform-specific FAQ]
-  (http://cran.r-project.org/faqs.html) if you use Windows or Mac.
-  Especially read the answer to "[What documentation exists for R?]
-  (http://cran.r-project.org/doc/FAQ/R-FAQ.html#What-documentation-exists-for-R_003f)"
-* [Alzola and Harrell's overview is pretty good]
-  (http://biostat.mc.vanderbilt.edu/wiki/pub/Main/RS/sintro.pdf)
-* The R homepage has a [list of books and tutorials as well]
-  (http://cran.r-project.org/other-docs.html).
+* And [the FAQ][3], along with [the platform-specific FAQ][4] if you
+  use Windows or Mac.  Especially read the answer to
+  "[What documentation exists for R?][5]"
+* [Alzola and Harrell's overview is pretty good][6]
+* The R homepage has a [list of books and tutorials as well][7]
+
+[1]: http://cran.r-project.org/doc/manuals/r-release/R-intro.html
+[2]: http://cran.r-project.org/manuals.html
+[3]: http://cran.r-project.org/doc/FAQ/R-FAQ.html
+[4]: http://cran.r-project.org/faqs.html
+[5]: http://cran.r-project.org/doc/FAQ/R-FAQ.html#What-documentation-exists-for-R_003f
+[6]: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/RS/sintro.pdf
+[7]: http://cran.r-project.org/other-docs.html
 
 Cheap:
 
-* [The R Graphics Cookbook] (http://shop.oreilly.com/product/0636920023135.do)
-* [The R Cookbook] (http://shop.oreilly.com/product/9780596809164.do)
-* [R in Action] (http://www.manning.com/kabacoff/)
+* *The R Graphics Cookbook*
+* *The R Cookbook*
+* *R in Action*
 
 I should note that the Iowa State Library claims to have online access
 for all three of them.  The "cookbooks" really have a "cookbook"
@@ -73,12 +78,13 @@ in R.
 Both
 ----
 
-* [Data analysis and graphics using R: an example-based approach]
-  (http://amzn.com/0521762936) looks interesting and Cambridge
-  University Press publishes some pretty spectacular and reasonably
-  priced textbooks, so it may be worth checking out.
-* I've heard good things about Gelman and Hill's
-  [Data Analysis Using Regression and Multilevel/Hierarchical Models]
-  (http://www.stat.columbia.edu/~gelman/arm/), and I like
-  [Gelman's blog] (http://andrewgelman.com/), so it might be worth
+* *Data analysis and graphics using R: an example-based approach*
+  looks interesting and Cambridge University Press publishes some
+  pretty spectacular and reasonably priced textbooks, so it may be
+  worth checking out.
+* I've heard good things about Gelman and Hill's Data Analysis Using
+  *Regression and Multilevel/Hierarchical Models* , and I like
+  [Gelman's blog][8], so it might be worth
   looking at more.
+
+[8]: http://andrewgelman.com/
