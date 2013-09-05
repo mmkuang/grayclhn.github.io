@@ -10,7 +10,8 @@ we move through the semester.
 * [Course syllabus](/671/2013/syllabus)
 
 * Homework:
-  * [Assignment 1](/671/2013/hw1)
+    * [Assignment 1](/671/2013/hw1)
+    * [Assignment 2](/671/2013/hw2)
 
 * Exams from previous years:
     * 2012 exams will be put online soon.
