@@ -14,7 +14,6 @@ Documents
 
 {% for doc in site.categories.671 %}
 * <a href="{{ doc.url }}">{{ doc.title | xml_escape }}</a>
-
 {% endfor %}
 
 Exams from previous years
