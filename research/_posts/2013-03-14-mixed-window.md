@@ -1,7 +1,7 @@
 ---
 layout: research
 title: "An asymptotically normal out-of-sample test of equal predictive accuracy for nested models"
-info: 2013 (submitted to <i>Econometrica</i>)
+info: 2013.
 link: http://gray.clhn.co/dl/calhoun-2013-mixed-window.pdf
 tags: working
 ---
