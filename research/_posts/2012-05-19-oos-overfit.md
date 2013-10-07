@@ -1,7 +1,7 @@
 ---
 layout: research
 title: Out-of-sample comparisons of overfit models
-info: Working Paper 11002, Iowa State University, 2012 (revising for resubmission to <i>The Review of Economic Studies</i>).
+info: Working Paper 11002, Iowa State University, 2012.
 link: http://www.econ.iastate.edu/research/working-papers/p12462
 tags: working
 ---
