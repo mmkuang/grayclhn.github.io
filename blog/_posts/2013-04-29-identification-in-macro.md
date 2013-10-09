@@ -45,4 +45,4 @@ future grad students, and a few professors at various stages in their
 careers.  So this process doesn’t require any established economist to
 change his or her mind (thank god).
 
-[RR post]: /blog/2013/04/24/reinhart-rogoff-thoughts
+[RR post]: http://pseudotrue.com/2013/04/24/some-thoughts-on-the-reinhart-and-rogoff-debate/
