@@ -40,7 +40,7 @@ whenever the quasi-MLE is).
 2. Often the density of a standard frequentist estimator changes
 dramatically over the parameter space in a way that kills inference
 (for example, think about confidence intervals for the autoregressive
-coefficient ρ in an AR(1) when ρ is near 1). If the Bayesian estimator
+coefficient $ρ$ in an AR(1) when $ρ$ is near 1). If the Bayesian estimator
 is not badly behaved too, that makes me nervous.
 
 3. The second point’s been debated in the past; see Sims and Uhlig

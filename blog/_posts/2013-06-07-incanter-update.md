@@ -20,7 +20,7 @@ Obviously my first reaction to the email was astonishment that
 anyone's read my blog.  But I think my original point still stands.
 Looking for a variable named `xtxi` used to estimate OLS is a quick
 and dirty way to evaluate a statistics package, because inverting the
-*X'X* matrix is numerically unsound compared to other methods of
+$X'X$ matrix is numerically unsound compared to other methods of
 estimating OLS—R, for example, does not use solve for OLS, [it uses
 the QR decomposition][3b].
 
@@ -29,7 +29,7 @@ the QR decomposition][3b].
 Here's some R code where the difference matters (I don't know Clojure,
 but this uses the same algorithms).  This isn't quite linear
 regression, it's a comparison of different methods for constructing
-projection matrices, *P = X (X'X)⁻¹ X'* (so it's basically identical
+projection matrices, $P = X (X'X)^{-1} X'$ (so it's basically identical
 to linear regression).  Here are three different methods:
 
     projection.LU1 <- function(x) x %*% solve(crossprod(x)) %*% t(x)
@@ -41,14 +41,14 @@ to linear regression).  Here are three different methods:
       tcrossprod(qr.Q(QR)[, QR$pivot[seq_len(QR$rank)], drop = FALSE])
     }
 
-The first inverts *X'X* using the same algorithm in Incanter; the
+The first inverts $X'X$ using the same algorithm in Incanter; the
 second uses a slightly better version but is basically the same, and
 the third uses the QR decomposition, just like R.
 
-From the mathematical definition, we can see that *P= PP*, a property
+From the mathematical definition, we can see that $P= PP$, a property
 called idempotence, which is an easy property to verify numerically.
-Here's a set of 51 observations for 11 regressors (each column is *z*
-raised to the *p*th power for *p = 0, 1, 2,...,10* and *z* between
+Here's a set of 51 observations for 11 regressors (each column is $z$
+raised to the $p$th power for $p = 0, 1, 2,...,10$ and $z$ between
 zero and one).
 
     X <- outer(seq(0, 1, 0.02), 0:10, "^")
@@ -68,7 +68,7 @@ All of the code is available for download here:
 <https://gist.github.com/grayclhn/5717763>
 
 You can see (and verify it for yourself by downloading the code) that
-the first two methods of calculating *P*, which invert *X'X* using the
+the first two methods of calculating $P$, which invert $X'X$ using the
 LU factorization *just like Incanter*, are not idempotent.  The third
 method, which uses the QR decomposition *just like R*, is idempotent.
 So in this example, the QR decomposition works and the LU
@@ -96,7 +96,7 @@ why....
 It's obvious, right?  This is something I've personally screwed up
 before.  An early version of my job-market paper had fantastic
 empirical results that turned out to be entirely an artifact of using
-*(X'X)⁻¹* to calculate the F-test statistic instead of using the QR
+$(X'X)^{-1}$ to calculate the F-test statistic instead of using the QR
 decomposition and the "projection.QR" function in the code example is
 copied directly from that project (a later version).  I was lucky and
 paranoid enough to catch it before circulating the paper but the event
