@@ -5,7 +5,7 @@ author: Gray Calhoun
 ---
 
 [lp]: http://en.wikipedia.org/wiki/Literate_programming
-[dk]: http://www-cs-faculty.stanford.edu/~knuth/‎
+[dk]: http://www-cs-faculty.stanford.edu/~knuth/
 [noweb]: http://www.cs.tufts.edu/~nr/noweb/
 [Sweave]: http://en.wikipedia.org/wiki/Sweave
 [Knitr]: http://yihui.name/knitr/
