@@ -33,7 +33,7 @@ available without using dedicated Literate Programming tools. R
 packages, for example, let you organize code logically and will get
 the order "correct" when it's time to call them.
 
-But one thing I miss is the construction (using R's syntax):
+But one thing I miss is the construction (using R and Noweb's syntax):
 
     myfunction <- function(argument) {
       <<extensive error checking of arguments>>
