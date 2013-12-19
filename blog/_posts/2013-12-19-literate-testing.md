@@ -13,7 +13,7 @@ author: Gray Calhoun
 [advr]: http://adv-r.had.co.nz
 
 I've played around with [Literate Programming][lp] since early in grad
-school. Literate Programming was developed by [Don Knuth](dk) (who
+school. Literate Programming was developed by [Don Knuth][dk] (who
 also developed TeX and was generally a hugely influential computer
 scientist) and is grounded in the idea of embedding a computer program
 inside its documentation, rather than the other way around. A lot of
@@ -35,7 +35,7 @@ the order "correct" when it's time to call them.
 
 But one thing I miss is the construction (using R's syntax):
 
-    myfunction <- function(arguments) {
+    myfunction <- function(argument) {
       <<extensive error checking of arguments>>
       # Code that does the analysis goes here
       # ...
@@ -45,27 +45,26 @@ But one thing I miss is the construction (using R's syntax):
       # Make sure that the arguments make sense, and reformat
       # them if necessary. 
       # For example:
-      arguments <- as.data.frame(arguments)
+      argument <- as.data.frame(argument)
     @
 
 and then call
 
-    myfunction(xarguments)
+    myfunction(xargument)
 
 where (if you're not familiar with LP syntax), the code between
 `<<extensive error checking of arguments>>=` and `@` will be written
 into the appropriate part of `myfunction` before the code is executed.
-This might include commands like `x <- as.matrix(x)`, etc.  From my
-experience, separating this code visually makes it easier to understand
-the logic in `myfunction` and encourages me to write more error
-checking, since it won't pollute the main function.  (I've read this in
-a Knuth interview too, but I can't find the source right now.)
+In my experience, separating this code visually makes it easier to
+understand the logic in `myfunction` and encourages me to write more
+error checking, since it won't pollute the main function.  (I've read
+this in a Knuth interview too, but I can't find the source right now.)
 
 But R is flexible, and we can mimic that structure by abusing
 environments. So I've written some code to do that. Using that code,
 we can write
 
-    myfunction <- function(arguments) {
+    myfunction <- function(argument) {
       ExtensiveChecking()
       # Code that does the analysis goes here
       # ...
@@ -75,14 +74,14 @@ we can write
       # Make sure that the arguments make sense, and reformat
       # them if necessary. 
       # For example:
-      arguments <- as.data.frame(arguments)
+      argument <- as.data.frame(argument)
     })
 
 and call
 
-    myfunction(xarguments)
+    myfunction(xargument)
 
-where the line `arguments <- as.data.frame(arguments)` executes inside
+where the line `argument <- as.data.frame(argument)` executes inside
 `myfunction`.  `raincheck` is obviously a cute name to construct these
 sort of functions.
 
@@ -112,27 +111,26 @@ come from the top function, e.g. if we had written
       # Make sure that the arguments make sense, and reformat
       # them if necessary. 
       # For example:
-      arguments <- as.data.frame(arguments)
+      argument <- as.data.frame(argument)
       scold("<error message>")
     })
-    myfunction(xarguments)
+    myfunction(xargument)
 
 we would get
 
     Warning message:
-    In myfunction(xarguments) : <error message>
+    In myfunction(xargument) : <error message>
 
 instead of
 
     Warning message:
-    In ExtensiveChecking() : <error message>
+    In eval(expr, envir, enclos) : <error message>
 
-(or even something more cryptic), which makes the messages more
-informative to end users. (They will have called
-`myfunction(xarguments)` themselves, but may have no idea where
-`ExtensiveChecking()` comes from.) The `scold` function uses
-information from Hadley's (2013) book, [*Advanced R
-Programming*][advr], especially the chapter on [exceptions and
+if we had used `warning("<error message>")`, which makes the messages
+more informative to end users — `eval(expr, envir, enclos)` could be
+anywhere. The `scold` function uses information from Hadley's (2013)
+book, [*Advanced R Programming*][advr], especially the chapter on
+[exceptions and
 debugging](http://adv-r.had.co.nz/Exceptions-Debugging.html).
 
 Obviously this was more of an educational exercise than anything else,
