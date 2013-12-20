@@ -1,6 +1,6 @@
 ---
 layout: display
-title: "Archived posts and handouts"
+title: "Archived news and handouts"
 ---
 
 <dl class="dl-horizontal">
