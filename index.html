@@ -104,8 +104,11 @@ title: "Gray Calhoun's website"
   <a name="Blog"> </a>
   <div class="span3">
     <h1 align="center">News and misc.</h1><hr>
-    <h2>Handouts:</h2>
+    <h2>Most recent handouts and announcements:</h2>
     <ul class="unstyled">
+      <li><p><b><a href="/blog">The full archives are available
+      here</a></b>, the last eight posts are listed below.</p></li>
+
       {% assign handout_count = '' %}
       {% for doc in site.categories.blog %}
       {% if handout_count.size < 8 %}
@@ -118,8 +121,6 @@ title: "Gray Calhoun's website"
 	{{ doc.date | date: "%d %b %Y" }}</p></li>
       {% endif %}
       {% endfor %}
-      <li><p><b><a href="/blog">The full archives are available
-      here</a></b>, the last eight posts are listed above.</p></li>
     </ul>
     <hr>
   </div>
