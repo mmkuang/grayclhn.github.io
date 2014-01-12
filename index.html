@@ -103,12 +103,12 @@ title: "Gray Calhoun's website"
 
   <a name="Blog"> </a>
   <div class="span3">
-    <h1 align="center">News, etc.</h1><hr>
+    <h1 align="center">News and misc.</h1><hr>
     <h2>Handouts:</h2>
     <ul class="unstyled">
       {% assign handout_count = '' %}
       {% for doc in site.categories.blog %}
-      {% if doc.tags contains 'handout' and handout_count.size < 20 %}
+      {% if handout_count.size < 8 %}
 
       <!--Increment counter-->
       {% capture temp %}{{ handout_count }}*{% endcapture %}
@@ -119,26 +119,8 @@ title: "Gray Calhoun's website"
       {% endif %}
       {% endfor %}
       <li><p><b><a href="/blog">The full archives are available
-      here</a></b>, the latest handouts are listed above.</p></li>
+      here</a></b>, the last eight posts are listed above.</p></li>
     </ul>
-    <hr>
-    <h2>Announcements:</h2>
-    <ul class="unstyled">
-      {% assign blog_count = '' %}
-      {% for doc in site.categories.blog %}
-      {% unless doc.tags contains 'handout' or blog_count.size > 20 %}
-
-      <!-- Increment counter -->
-      {% capture temp %}{{ blog_count }}*{% endcapture %}
-      {% assign blog_count = temp %}
-
-      <li><p><a href="{{ doc.url }}">{{ doc.title | xml_escape }}</a>, 
-	{{ doc.date | date: "%d %b %Y" }}</p></li>
-      {% endunless %}
-      {% endfor %}
-      <li><p><b><a href="/blog">The full archives are available
-      here</a></b>, the latest posts are listed above.</p></li>
-     </ul>
     <hr>
   </div>
 </div>
