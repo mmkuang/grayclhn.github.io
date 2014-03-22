@@ -123,10 +123,10 @@ Professional activities
 * *American Journal of Agricultural Economics* (2011)
 * *Communications in Statistics—Theory and Methods* (2012)
 * *Computational Statistics and Data Analysis* (2012)
-* *Econometrica* (2012)
+* *Econometrica* (2012, 2013)
 * *Handbook of Economic Forecasting* (2011)
 * *International Journal of Forecasting* (2007, 2009, 2010, 2012, 2013)
-* *Journal of Business & Economic Statistics* (2011, 2012)
+* *Journal of Business & Economic Statistics* (2011, 2012, 2013)
 * *Manchester School* (2012)
 
 ### Professional membership
@@ -137,8 +137,9 @@ Professional activities
 * Midwest Economics Association
 
 ### Departmental service
+* Hiring committee, 2013 – 2014
 * Computer support staff hiring committee, 2012 & 2013
-* Graduate Student Admissions Committee, 2009-present
+* Graduate Student Admissions Committee, 2009-2013
 * Computer Committee, 2009-present
 
 <!--  LocalWords:  UC overfit Advisors GPU Helle Bunzel Jarad Niemi Mervyn UCSD
