@@ -117,6 +117,7 @@ Graduate student committees
 * [Yihui Xie](http://yihui.name/) (Statistics PhD), graduated 2013
 * [Matthew Clancy](http://www.econ.iastate.edu/people/graduate-students/clancy-matthew) (Economics PhD), current student
 * [Deung Yong Heo](https://sites.google.com/site/deungyongheo/) (Economics PhD), current student
+* Nathan Zimmerman (Statistics MS), graduated 2013
 * [Zabid Iqbal](http://www.econ.iastate.edu/people/graduate-students/iqbal-md-zabid) (Economics PhD), current student
 
 Professional activities
