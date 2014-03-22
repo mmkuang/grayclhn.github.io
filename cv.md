@@ -108,14 +108,16 @@ Graduate student committees
 ---------------------------
 ### Advisor
 * [Anwen Yin](https://sites.google.com/site/anweny/) (co-advisor with Helle Bunzel), current student.
+* [Matt Simpson](http://www.themattsimpson.com/) (Econ and Statistics PhD), current student; joint advisor with [Jarad Niemi](http://jarad.me/)
 
 ### Committee member
 * [Xiying Liu](http://www.econ.iastate.edu/people/graduate-students/liu-xiying) (Economics PhD), current student
 * [Jeremiah Richey](http://sites.google.com/a/iastate.edu/jeremiah-richey) (Economics PhD), graduated 2012
 * Ozgu Serttas (Economics PhD), graduated 2010
-* [Yihui Xie](http://yihui.name/) (Statistics PhD), current student
+* [Yihui Xie](http://yihui.name/) (Statistics PhD), graduated 2013
 * [Matthew Clancy](http://www.econ.iastate.edu/people/graduate-students/clancy-matthew) (Economics PhD), current student
-* [Deung Yong Heo](http://www.econ.iastate.edu/people/graduate-students/heo-deung-yong) (Economics PhD), current student
+* [Deung Yong Heo](https://sites.google.com/site/deungyongheo/) (Economics PhD), current student
+* [Zabid Iqbal](http://www.econ.iastate.edu/people/graduate-students/iqbal-md-zabid) (Economics PhD), current student
 
 Professional activities
 -----------------------
