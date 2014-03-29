@@ -1,2 +1,2 @@
-permalink: /:categories/:year/:month/:day/:title
+permalink: pretty
 markdown: rdiscount

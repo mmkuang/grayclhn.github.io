@@ -1,3 +1,89 @@
+---
+title: Econ 674 Syllabus, Spring 2013
+layout: default
+---
+
+Macroeconometrics is important; this class will help you get started.
+The semester will be split into three parts.  Gray Calhoun will teach
+the first and third part and Helle Bunzel will teach the middle part.
+So this syllabus mainly applies to the first four weeks of the
+semester and you may be given supplemental syllabi later on.  There is
+no assigned textbook for the class, but the textbooks assigned for the
+core Econometrics sequence cover some of the material.
+
+Contact information 
+-------------------
+
+If you have questions about the course material, the best times to
+address them are in the scheduled lectures or during office hours.  We
+can probably resolve questions or concerns about the course
+administration over email, but if you have urgent questions please
+call me or stop by my office..
+
+<table class="table">
+  <tr>
+    <td>Instructor</td> 
+    <td>Gray Calhoun</td>
+    <td>OH: 3-4 Mondays and Wednesdays</td>
+    <td>gcalhoun@iastate.edu</td>
+    <td>467 Heady Hall</td>
+  </tr>
+  <tr>
+    <td>Instructor</td>
+    <td>Helle Bunzel</td>
+    <td>OH: TBD</td>
+    <td>hbunzel@iastate.edu</td>
+    <td>373 Heady Hall</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TA</td>
+    <td>Xiying Liu</td>
+    <td>OH: 3-4 Tuesdays</td>
+    <td>xiyingl@iastate.edu</td>
+    <td>280D Heady Hall</td>
+    <td></td>
+  </tr>
+</table>
+
+Grading
+-------
+
+Your final grade for the semester will be based on an original
+research paper due in July.  You will be required to submit a proposal
+and a first draft during the semester, and Helle or I will discuss
+your proposal with you after you submit it.  Your course grade will be
+listed as "incomplete" until you turn in the paper, and the quality of
+the proposal and the first draft will factor into your grade on the
+paper.
+
+<dl>
+  <dt>Paper proposal due</dt>
+  <dd>March 25th</dd>
+
+  <dt>First draft of paper due</dt>
+  <dd>May 3rd</dd>
+
+  <dt>Final draft of paper due</dt>
+  <dd>July 15th</dd>
+</dl>
+
+Course outline
+--------------
+
+The first four weeks will cover basic time series concepts--weak
+dependence concepts, stationarity, ARMA models, etc.--as well as
+vector autoregressions (VARs).  The next seven and a half weeks will
+cover special issues introduced by economic time series: deterministic
+and stochastic trends in the data, variance estimation in the presence
+of serial correlation, and bootstrapping dependent processes, among
+other topics.  The remaining three and a half weeks will cover
+macroeconometric modeling: estimation of DSGE models and
+cointegration.  References will be supplied throughout the semester.
+
+University policies
+-------------------
+
 The following policies apply to *every* course at Iowa State
 University. They are listed here for your convenience and reference.
 
@@ -67,3 +153,13 @@ Equal Opportunity and Compliance.
 
 If you feel that any of your rights as a student have been violated,
 please email <academicissues@iastate.edu>.
+
+This syllabus is in the public domain. You may copy and reuse it as you see fit
+-------------------------------------------------------------------------------
+To the extent possible under law, Gray Calhoun (the author) has waived
+all copyright and related or neighboring rights to this work.
+
+<a rel="license"
+ href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+</a>
