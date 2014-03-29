@@ -1,11 +1,6 @@
 ---
-layout: handout
 title: Econ 102 Syllabus, Spring 2014 (section 3)
-subtitle: Principles of Macroeconomics, Gray Calhoun
-nocc: true
-permalink: /102/2014/syllabus3
-tags: 
-  - handout
+layout: default
 ---
 
 This class has two main goals. It will train you to better understand
@@ -47,30 +42,24 @@ over email, but if you have urgent questions please stop by my office.
 The next table lists basic contact information for the instructor (me)
 and TAs:
 
-* Instructor: Gray Calhoun
-  * <gcalhoun@iastate.edu>
-  * Office hours 12-12:45 MW in Heady 467
-* TAs (OH will be listed later)
-  * Mr. Kit Kooiker
-    * <kkooiker@iastate.edu>
-    * Office hours 5–6 MW in Heady 77
-  * Mr. Sandip Agarwal
-    * <sandip@iastate.edu>
-    * Office hours 9:30–11 TuTh in Heady 169
-  * Mr. Dong-Jin Pyo
-    * <djpyo@iastate.edu>
-    * Office hours 2–3:30 M in Heady 280B
-  * Mr. Chao Li
-    * <chaoli@iastate.edu>
-    * Office hours 2–4 F in Heady 80B
+### Instructor: Gray Calhoun
+* <gcalhoun@iastate.edu>
+* OH 12-12:45 MW in Heady 467
+
+### TAs
+* Mr. Kit Kooiker: <kkooiker@iastate.edu>, office hours 5–6 MW in
+  Heady 77
+* Mr. Sandip Agarwal: <sandip@iastate.edu>, office hours 9:30–11 TuTh
+  in Heady 169
+* Mr. Dong-Jin Pyo: <djpyo@iastate.edu>, office hours 2–3:30 M in
+  Heady 280B
+* Mr. Chao Li: <chaoli@iastate.edu>, office hours 2–4 F in Heady 80B
 
 If you can not make our regularly scheduled office hours, we'll all be
 happy to schedule other appointments by email.
 
 I will use [BlackBoard Learn](https://bb.its.iastate.edu) to
-distribute grades, announcements, and handouts. This syllabus will
-also be available on my website at
-<http://gray.clhn.co/102/2014/syllabus3>.
+distribute grades, announcements, and handouts.
 
 Grades
 ------
@@ -81,16 +70,13 @@ see <http://www.elo.iastate.edu/online-testing-center/>, and we will
 discuss the tests in more detail as they get closer. I will also give
 opportunities in class for students to earn extra credit.
 
-* Homework: 20% of grade
-* Midterm 1: 20% of grade
-  - available February 17th through 21st
-  - covers ch. 6-8 and 10-12
-* Midterm 2: 20% of grade
-  - available April 7th through 11th
-  - covers ch. 13-17
-* Final exam: 40% of grade
-  - available May 2nd and 5th through 9th
-  - covers ch. 6-17, 19
+* Homework: 20% of your grade.
+* Midterm 1: 20% of grade. You can take it February 17th through 21st
+  and it covers ch. 6-8 and 10-12.
+* Midterm 2: 20% of grade. You can take it April 7th through 11th and
+  it covers ch. 13-17
+* Final exam: 40% of grade. You can take it May 2nd and 5th through
+  9th. It will cover covers ch. 6-17, 19
 
 The "chapters covered" refers to the required textbook,
 *Macroeconomics* by Paul Krugman and Robin Wells.
@@ -153,4 +139,82 @@ objectives in particular this academic year:
 University policies
 -------------------
 
-{% include university-policies.md %}
+The following policies apply to *every* course at Iowa State
+University. They are listed here for your convenience and reference.
+
+### Academic dishonesty
+
+The class will follow Iowa State University's policy on academic
+dishonesty.  Anyone suspected of academic dishonesty will be reported
+to the Dean of Students Office,
+<http://www.dso.iastate.edu/ja/academic/misconduct.html>.
+
+### Disability accommodation
+
+This material can be provided to you in alternative format. Anyone who
+anticipates difficulties with the content or format of the course due
+to a physical or learning disability should see me immediately in
+order to work out a plan. You may also want to contact the Disability
+Resources (DR) office, located on the main floor of the Student
+Services Building, Room 1076 or call them at 515-294-7220.
+
+### Dead week
+
+For academic programs, the last week of classes is considered to be a
+normal week in the semester except that in developing their syllabi
+faculty shall consider the following guidelines:
+
+* Mandatory final examinations in any course may not be given during
+  Dead Week except for laboratory courses and for those classes
+  meeting once a week only and for which there is no contact during
+  the normal final exam week. Take home final exams and small quizzes
+  are generally acceptable. (For example, quizzes worth no more than
+  10 percent of the final grade and/or that cover no more than
+  one-fourth of assigned reading material in the course could be
+  given).
+
+* Major course assignments should be assigned prior to Dead Week
+  (major assignments include major research papers, projects,
+  etc.). Any modifications to assignments should be made in a timely
+  fashion to give students adequate time to complete the assignments.
+
+* Major course assignments should be due no later than the Friday
+  prior to Dead Week. Exceptions include class presentations by
+  students, semester-long projects such as a design project in lieu of
+  a final, and extensions of the deadline requested by students.
+
+### Harassment and discrimination
+
+Iowa State University strives to maintain our campus as a place of
+work and study for faculty, staff, and students that is free of all
+forms of prohibited discrimination and harassment based upon race,
+ethnicity, sex (including sexual assault), pregnancy, color, religion,
+national origin, physical or mental disability, age, marital status,
+sexual orientation, gender identity, genetic information, or status as
+a U.S. veteran. Any student who has concerns about such behavior
+should contact his/her instructor, Student Assistance at 515-294-1020,
+or the Office of Equal Opportunity and Compliance at 515-294-7612.
+
+### Religious accommodation
+
+If an academic or work requirement conflicts with your religious
+practices and/or observances, you may request reasonable
+accommodations. Your request must be in writing, and your instructor
+or supervisor will review the request.  You or your instructor may
+also seek assistance from the Dean of Students Office or the Office of
+Equal Opportunity and Compliance.
+
+### Contact information
+
+If you feel that any of your rights as a student have been violated,
+please email <academicissues@iastate.edu>.
+
+This syllabus is in the public domain. You may copy and reuse it as you see fit
+-------------------------------------------------------------------------------
+To the extent possible under law, Gray Calhoun (the author) has waived
+all copyright and related or neighboring rights to this work.
+
+<a rel="license"
+ href="http://creativecommons.org/publicdomain/zero/1.0/">
+ <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+</a>
