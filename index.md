@@ -41,16 +41,17 @@ contribute to).
 ## Working papers
 1. [Improved stepdown methods for asymptotic control of generalized
    error rates](dl/calhoun-stepdown.pdf)
-   with [repo](https://github.com/grayclhn/stepdown-paper).
+   with [repo](https://github.com/grayclhn/stepdown-paper)
 1. [An asymptotically normal out-of-sample test of equal predictive
    accuracy for nested models](dl/calhoun-mixed-window.pdf)
    with [repo](https://github.com/grayclhn/mixedwindow)
 1. [Block bootstrap consistency under weak
    assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
-   with [repo](https://github.com/grayclhn/statboot-paper).
+   with [repo](https://github.com/grayclhn/statboot-paper)
 1. [Out-of-sample comparisons of overfit
    models](http://www.econ.iastate.edu/research/working-papers/p12462)
-   with [repo](https://github.com/grayclhn/oos-overfit)
+   with [repo](https://github.com/grayclhn/oos-overfit) and
+   [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 
 ## Other short documents
 * [An extremely subjective guide to the economics job
