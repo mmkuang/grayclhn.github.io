@@ -15,17 +15,25 @@ on the project's homepage](http://www.econometricslibrary.com/core).
 Recommended resources
 ---------------------
 
-* David Freedman's *Statistical Models: Theory and practice* (2009)
-* Jane Miller's *The Chicago Guide to Writing about Multivariate
-  Analysis* (2005).
-* Edward Tufte's *Envisioning Information* (1990) and *The Visual
-  Display of Quantitative Information* (2nd edition, 2001)
-* William Cleveland' *Visualizing Data* (1993)
-* Charles Manski's *Identification for Prediction and Decision* (2007)
+### Books and lectures
+
+* Cleveland' *Visualizing Data* (1993)
+* Freedman's *Statistical Models: Theory and practice* (2009)
+* Gallant's *Introduction to Econometric Theory* (1997)
+* Hansen's [free econometrics
+  textbook](http://www.ssc.wisc.edu/~bhansen/econometrics/).
+* Manski's *Identification for Prediction and Decision* (2007)
+* Miller's *The Chicago Guide to Writing about Multivariate Analysis* (2005).
 * [NBER Summer Institute Econometric
   Lectures](http://www.nber.org/SI_econometrics_lectures.html)
-* Bruce Hansen's [free econometrics
-  textbook](http://www.ssc.wisc.edu/~bhansen/econometrics/).
+* Tufte's *Envisioning Information* (1990) and *The Visual Display of
+  Quantitative Information* (2nd edition, 2001)
+
+### Software
+
+* [Julia Language](http://julialang.org/)
+* [R Project for Statistical Computing](http://www.r-project.org)
+* [SciPy](http://www.scipy.org/) (Scientific python)
 
 <hr />
 
