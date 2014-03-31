@@ -14,30 +14,20 @@ on the project's homepage](http://www.econometricslibrary.com/core).
 
 Recommended resources
 ---------------------
-I could list so many! The first two are books that directly relate to
-the material we cover in 671, and will help you undertand and apply it
-better:
 
-* David A. Freedman's *Statistical Models: Theory and practice* (2009)
-* Jane E. Miller's *The Chicago Guide to Writing about Multivariate
+* David Freedman's *Statistical Models: Theory and practice* (2009)
+* Jane Miller's *The Chicago Guide to Writing about Multivariate
   Analysis* (2005).
-
-The next books have been very influential in how I think about data
-analysis and would probably be fun to read and good for your
-intellectual development too.
-
 * Edward Tufte's *Envisioning Information* (1990) and *The Visual
   Display of Quantitative Information* (2nd edition, 2001)
 * William Cleveland' *Visualizing Data* (1993)
 * Charles Manski's *Identification for Prediction and Decision* (2007)
+* [NBER Summer Institute Econometric
+  Lectures](http://www.nber.org/SI_econometrics_lectures.html)
+* Bruce Hansen's [free econometrics
+  textbook](http://www.ssc.wisc.edu/~bhansen/econometrics/).
 
-Finally,
-
-* the NBER has put together several [instructional lectures on
-  developments in
-  econometrics](http://www.nber.org/SI_econometrics_lectures.html)
-* [Bruce Hansen has put a free econometrics textbook
-  online](http://www.ssc.wisc.edu/~bhansen/econometrics/).
+<hr />
 
 Material from previous years
 ----------------------------
