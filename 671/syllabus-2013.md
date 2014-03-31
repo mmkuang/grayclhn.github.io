@@ -20,18 +20,14 @@ can probably resolve questions or concerns about the course
 administration over email, but if you have urgent questions please
 call me or stop by my office.
 
-Instructor:
-
-* Gray Calhoun
+### Gray Calhoun, instructor:
 * <gcalhoun@iastate.edu>
 * 467 Heady Hall
 * (515) 294-6271
 * Office hours after lecture (11 to ~12 Tuesdays and Thursdays)
   and by appointment
 
-TA:
-
-* Shufen Chen
+### Shufen Chen, TA:
 * <sfchen@iastate.edu>
 * 80C Heady Hall
 * Office hours TBD.
