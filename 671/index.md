@@ -3,9 +3,15 @@ layout: default
 title: Economics 671 course page
 ---
 
+[leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
+
 This is the course webpage for Economics 671 at Iowa State (Fall
 2013). It has a few links, and that's about it.  I haven't finalized
 the 2014 syllabus yet, but I will post it here when it is ready.
+
+Before emailing me or the TA about this class, please read [these
+email guidelines](/dl/email-instructions).
+([written by Michael Leddy][leddy].)
 
 I'm in the process of converting my lecture notes for this class into
 a free textbook.  You are certainly welcome to contribute and any
