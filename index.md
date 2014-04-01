@@ -57,8 +57,7 @@ contribute to).
 * [An extremely subjective guide to the economics job
   market](http://pseudotrue.com/2009/08/29/job-market-guide/) (2009)
 
-* [Some thoughts on the Reinhart and Rogoff debate]
-  (http://pseudotrue.com/2013/04/24/some-thoughts-on-the-reinhart-and-rogoff-debate)
+* [Some thoughts on the Reinhart and Rogoff debate](http://pseudotrue.com/2013/04/24/some-thoughts-on-the-reinhart-and-rogoff-debate)
   (2013, blog)
 
 ## Publications
