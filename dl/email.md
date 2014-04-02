@@ -44,6 +44,7 @@ English classes; she or he still needs to know which one is yours.
 Consider, in light of this advice, the following examples:
 
 > * An e-mail from "qtpie2005" with the subject line "question."
+
 > * An e-mail from a university account with the subject line "question
     about English 2011 essay."
 
