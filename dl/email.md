@@ -105,9 +105,10 @@ So what would a good e-mail to a professor look like?
 
     Hi Professor Leddy,
     
-    I'm working on my essay on William Carlos Williams and I'm not
-    sure what to make of the last stanza of "Spring and All." I'm
-    stuck trying to figure out what "It" is. Do you have a suggestion?
+    I'm working on my essay on William Carlos Williams and
+    I'm not sure what to make of the last stanza of "Spring
+    and All." I'm stuck trying to figure out what "It" is.
+    Do you have a suggestion?
     Thanks!
      
     Maggie Simpson
@@ -115,8 +116,9 @@ So what would a good e-mail to a professor look like?
 
 And a subsequent note of thanks:
 
-    >"It" is most likely spring, or life itself. But have you looked
-    >up "quicken"? That'll probably make "It" much clearer.
+    > "It" is most likely spring, or life itself. But have
+    > you looked up "quicken"? That'll probably make "It"
+    > much clearer.
     
     It sure did. Thanks for your help, Professor.
     
