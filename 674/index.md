@@ -10,7 +10,7 @@ Bunzel and I are co-teaching it in Fall 2014, but haven't finalized
 the 2014 syllabus yet.
 
 Before emailing me or the TAs about this class, please read [these
-email guidelines](/dl/email-instructions).
+email guidelines](/dl/email).
 ([written by Michael Leddy][leddy].)
 
 Material from previous years
