@@ -10,7 +10,7 @@ This is the course webpage for Economics 671 at Iowa State (Fall
 the 2014 syllabus yet, but I will post it here when it is ready.
 
 Before emailing me or the TA about this class, please read [these
-email guidelines](/dl/email-instructions).
+email guidelines](/dl/email).
 ([written by Michael Leddy][leddy].)
 
 I'm in the process of converting my lecture notes for this class into
