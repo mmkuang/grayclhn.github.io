@@ -70,8 +70,8 @@ the best possible light.
 
 **Sign with your full name, course number, and meeting time.**
 
-> Maggie Simpson
-> English 3703, MWF 10:00
+    Maggie Simpson
+    English 3703, MWF 10:00
 
 Signing is an obvious courtesy, and it eliminates the need for stilted
 self-identification ("I am a student in your such-and-such class").
@@ -103,21 +103,21 @@ e-mail). Leave just enough to make the original context clear.
 
 So what would a good e-mail to a professor look like?
 
-> Hi Professor Leddy,
-> 
-> I'm working on my essay on William Carlos Williams and I'm not sure
-> what to make of the last stanza of "Spring and All." I'm stuck
-> trying to figure out what "It" is. Do you have a suggestion? Thanks!
-> 
-> Maggie Simpson
-> Eng 3703, MWF 10:00
+    Hi Professor Leddy,
+    
+    I'm working on my essay on William Carlos Williams and I'm not
+    sure what to make of the last stanza of "Spring and All." I'm
+    stuck trying to figure out what "It" is. Do you have a suggestion?
+    Thanks!
+     
+    Maggie Simpson
+    Eng 3703, MWF 10:00
 
 And a subsequent note of thanks:
 
-> \>"It" is most likely spring, or life itself. But have you  
-> \>looked up "quicken"? That'll probably make  
-> \>"It" much clearer.
-> 
-> It sure did. Thanks for your help, Professor.
->
-> Maggie Simpson
+    \>"It" is most likely spring, or life itself. But have you looked
+    \>up "quicken"? That'll probably make "It" much clearer.
+    
+    It sure did. Thanks for your help, Professor.
+    
+    Maggie Simpson
