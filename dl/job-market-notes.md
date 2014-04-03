@@ -21,6 +21,8 @@ went on the job market in the 2008-2009 academic year and defended in
 July, 2009.  My first job out of grad school is an Assistant
 Professorship in the Economics Department at Iowa State University.
 
+— Gray Calhoun
+
 <hr />
 
 Brief time frame for job market
