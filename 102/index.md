@@ -55,6 +55,15 @@ Recommended resources
 * [The Financial Times](http://www.ft.com), a daily newspaper.
 * [The Economist](http://www.economist.com), a weekly news magazine.
 * [FT Alphaville](http://ftalphaville.ft.com/) (free but requires registration)
-* [Economist’s View](http://economistsview.typepad.com) (aggregator)
+* [Economist’s View](http://economistsview.typepad.com) (aggregator
+  with some analysis)
 * [Counterparties](http://counterparties.com/) (another aggregator)
 * [Free Exchange](http://www.economist.com/blogs/freeexchange) (the Economist's blog)
+
+### Information and advice
+
+* [Complete guide to getting into and economics PhD
+  program](http://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/),
+  for students who think that a lifetime of economics might be fun.   
+  Written by [Miles Kimball](http://blog.supplysideliberal.com/)
+  and [Noah Smith](http://noahpinionblog.blogspot.com/)
