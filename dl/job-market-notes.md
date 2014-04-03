@@ -1,5 +1,6 @@
 ---
 title: An extremely subjective outline of the economics job market 
+layout: default
 ---
 
 I had promised that I'd consolidate the collected "job market wisdom"
