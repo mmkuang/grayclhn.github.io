@@ -64,6 +64,7 @@ Recommended resources
 
 * [Complete guide to getting into and economics PhD
   program](http://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/),
-  for students who think that a lifetime of economics might be fun.
-  Written by [Miles Kimball](http://blog.supplysideliberal.com/)
+  for students who think that a lifetime of economics might be fun,
+  written by [Miles Kimball](http://blog.supplysideliberal.com/)
   and [Noah Smith](http://noahpinionblog.blogspot.com/)
+* [My less positive advice on going to grad school](http://wp.me/p3mnog-iY)
