@@ -23,6 +23,7 @@ contribute to).
   [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
   [GitHub](https://github.com/grayclhn),
   [Twitter](https://twitter.com/grayclhn),
+  [Linked In](https://linkedin.com/in/grayclhn)
   and [my blog](http://pseudotrue.com).
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
