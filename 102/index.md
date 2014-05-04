@@ -54,12 +54,3 @@ Recommended resources
 * [Counterparties](http://counterparties.com/) (another aggregator)
 * [Free Exchange](http://www.economist.com/blogs/freeexchange) (the Economist's blog)
 * [The Upshot](http://www.nytimes.com/upshot) (the NY Times's economics and politics blog)
-
-### Information and advice
-
-* [Complete guide to getting into an economics PhD
-  program](http://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/),
-  for students who think that a lifetime of economics might be fun,
-  written by [Miles Kimball](http://blog.supplysideliberal.com/)
-  and [Noah Smith](http://noahpinionblog.blogspot.com/)
-* [My less positive advice on going to grad school](http://wp.me/p3mnog-iY)
