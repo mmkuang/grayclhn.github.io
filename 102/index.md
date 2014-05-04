@@ -53,6 +53,7 @@ Recommended resources
   with some analysis)
 * [Counterparties](http://counterparties.com/) (another aggregator)
 * [Free Exchange](http://www.economist.com/blogs/freeexchange) (the Economist's blog)
+* [The Upshot](http://www.nytimes.com/upshot) (the NY Times's economics and politics blog)
 
 ### Information and advice
 
