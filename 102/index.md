@@ -23,16 +23,10 @@ This is the course webpage for Economics 102 at Iowa State (Spring
 Recommended resources
 ---------------------
 
-### Textbooks
 * I've typically assigned Krugman and Wells's *Macroeconomics* as the
   main reading for the class.
 * Martha Olney's *Macroeconomics as a second language* is a great
   resource as well.
-* "Openstax College," which is affiliated with Rice University, has
-  recently put out a free [principles of Macroeconomics
-  textbook](http://cnx.org/contents/4061c832-098e-4b3c-a1d9-7eb593a2cb31)
-  ([pdf](http://openstaxcollege.org/files/textbook_version/hi_res_pdf/27/col11613-op.pdf)).
-  I think the other two are better books, but this one is free....
 
 ### Less mathematically technical overviews
 
