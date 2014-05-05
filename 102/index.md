@@ -67,18 +67,21 @@ old exams as "practice tests," because I change aspects of the
 material and the order of the material every year. Most of the exams
 have an answer key for the multiple choice questions on the last page.
 
-* [Midterm 1 for Spring, 2010](test1-2010.pdf) (missing an answer key)
-* [Midterm 2 for Spring, 2010](test2-2010.odt) (ODT format, missing an answer key)
-* [Final exam for Spring, 2010](test-final-2010.odt) (ODT format)
-* [Midterm 1 for Spring, 2011](test1-2011.pdf)
-* [Midterm 2 for Spring, 2011](test2-2011.pdf)
-* [Midterm 3 for Spring, 2011](test3-2011.pdf)
-* [Final exam for Spring, 2011](test-final-2011.pdf)
-* [Midterm 1 for Spring, 2012](test1-2012.pdf) (this is the only test
-  available for 2012)
-* [Midterm 1 for Spring, 2013](test1-2013.pdf)
-* [Midterm 2 for Spring, 2013](test2-2013.pdf)
-* [Final exam for Spring, 2013](test-final-2013.pdf)
+* Spring, 2010:
+  [midterm 1](test1-2010.pdf),
+  [midterm 2](test2-2010.odt), and
+  [final](test-final-2010.odt).
+  The midterms are missing answer keys.
+* Spring, 2011:
+  [midterm 1](test1-2011.pdf),
+  [midterm 2](test2-2011.pdf),
+  [midterm 3](test3-2011.pdf), and
+  [final](test-final-2011.pdf).
+* Spring, 2012: [midterm 1](test1-2012.pdf) only.
+* Spring, 2013:
+  [midterm 1](test1-2013.pdf),
+  [midterm 2](test2-2013.pdf), and
+  [final](test-final-2013.pdf).
 
 I administered computer-based exams through the university test center
 when I taught in 2014, so copies of those tests aren't avaialble.
