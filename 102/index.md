@@ -14,7 +14,7 @@ This is the course webpage for Economics 102 at Iowa State (Spring
   Center](http://www.elo.iastate.edu/online-testing-center/)
 * Before emailing the instructor or the TAs, please read [these
   email guidelines](/dl/email).
-  ([written by Michael Leddy][leddy].)
+  ([Written by Michael Leddy][leddy].)
 * [Syllabus for section 3 (meets 1–2 MWF)](syllabus-2014-s3)
 * [Syllabus for section 4 (meets 2–3 MWF)](syllabus-2014-s4)
 
