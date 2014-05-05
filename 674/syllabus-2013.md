@@ -18,33 +18,22 @@ If you have questions about the course material, the best times to
 address them are in the scheduled lectures or during office hours.  We
 can probably resolve questions or concerns about the course
 administration over email, but if you have urgent questions please
-call me or stop by my office..
+call me or stop by my office.
 
-<table class="table">
-  <tr>
-    <td>Instructor</td> 
-    <td>Gray Calhoun</td>
-    <td>OH: 3-4 Mondays and Wednesdays</td>
-    <td>gcalhoun@iastate.edu</td>
-    <td>467 Heady Hall</td>
-  </tr>
-  <tr>
-    <td>Instructor</td>
-    <td>Helle Bunzel</td>
-    <td>OH: TBD</td>
-    <td>hbunzel@iastate.edu</td>
-    <td>373 Heady Hall</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>TA</td>
-    <td>Xiying Liu</td>
-    <td>OH: 3-4 Tuesdays</td>
-    <td>xiyingl@iastate.edu</td>
-    <td>280D Heady Hall</td>
-    <td></td>
-  </tr>
-</table>
+### Helle Bunzel (co-instructor)
+* hbunzel at iastate.edu
+* 373 Heady Hall
+* office hours TBD
+
+### Gray Calhoun (co-instructor)
+* gcalhoun at iastate.edu
+* 467 Heady Hall
+* office hours 3-4 Mondays and Wednesdays
+
+### Xiying Liu (TA)
+* xiyingl at iastate.edu  
+* 280D Heady Hall  
+* office hours 3-4 Tuesdays
 
 Grading
 -------
@@ -57,16 +46,9 @@ listed as "incomplete" until you turn in the paper, and the quality of
 the proposal and the first draft will factor into your grade on the
 paper.
 
-<dl>
-  <dt>Paper proposal due</dt>
-  <dd>March 25th</dd>
-
-  <dt>First draft of paper due</dt>
-  <dd>May 3rd</dd>
-
-  <dt>Final draft of paper due</dt>
-  <dd>July 15th</dd>
-</dl>
+* March 25th: paper proposal due
+* May 3rd: first draft of the paper due
+* July 15th: final draft of the paper due 
 
 Course outline
 --------------
