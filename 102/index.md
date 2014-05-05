@@ -68,17 +68,22 @@ material and the order of the material every year. Most of the exams
 have an answer key for the multiple choice questions on the last page.
 
 * Spring, 2010:
+  [syllabus](syllabus-2010.pdf),
   [midterm 1](test1-2010.pdf),
   [midterm 2](test2-2010.odt), and
   [final](test-final-2010.odt).
   The midterms are missing answer keys.
 * Spring, 2011:
+  [syllabus](syllabus-2011.pdf),
   [midterm 1](test1-2011.pdf),
   [midterm 2](test2-2011.pdf),
   [midterm 3](test3-2011.pdf), and
   [final](test-final-2011.pdf).
-* Spring, 2012: [midterm 1](test1-2012.pdf) only.
+* Spring, 2012:
+  [syllabus](syllabus-2012.pdf) and
+  [midterm 1](test1-2012.pdf) only.
 * Spring, 2013:
+  [syllabus](syllabus-2013),
   [midterm 1](test1-2013.pdf),
   [midterm 2](test2-2013.pdf), and
   [final](test-final-2013.pdf).
