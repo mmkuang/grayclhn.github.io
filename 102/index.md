@@ -18,31 +18,6 @@ This is the course webpage for Economics 102 at Iowa State (Spring
 * [Syllabus for section 3 (meets 1–2 MWF)](syllabus-2014-s3)
 * [Syllabus for section 4 (meets 2–3 MWF)](syllabus-2014-s4)
 
-### Material from previous semesters
-
-Since many students will have access to old exams, etc., from previous
-times that I've taught this class, it seems only fair that I make some
-of that material available to everyone. You probably should not treat
-old exams as "practice tests," because I change aspects of the
-material and the order of the material every year. Most of the exams
-have an answer key for the multiple choice questions on the last page.
-
-* [Midterm 1 for Spring, 2010](test1-2010.pdf) (missing an answer key)
-* [Midterm 2 for Spring, 2010](test2-2010.odt) (ODT format, missing an answer key)
-* [Final exam for Spring, 2010](test-final-2010.odt) (ODT format)
-* [Midterm 1 for Spring, 2011](test1-2011.pdf)
-* [Midterm 2 for Spring, 2011](test2-2011.pdf)
-* [Midterm 3 for Spring, 2011](test3-2011.pdf)
-* [Final exam for Spring, 2011](test-final-2011.pdf)
-* [Midterm 1 for Spring, 2012](test1-2012.pdf) (this is the only test
-  available for 2012)
-* [Midterm 1 for Spring, 2013](test1-2013.pdf)
-* [Midterm 2 for Spring, 2013](test2-2013.pdf)
-* [Final exam for Spring, 2013](test-final-2013.pdf)
-
-I administered computer-based exams through the university test center
-when I taught in 2014, so copies of the tests aren't avaialble.
-
 <hr />
 
 Recommended resources
@@ -79,3 +54,29 @@ Recommended resources
 * [Counterparties](http://counterparties.com/) (another aggregator)
 * [Free Exchange](http://www.economist.com/blogs/freeexchange) (the Economist's blog)
 * [The Upshot](http://www.nytimes.com/upshot) (the NY Times' economics and politics blog)
+
+Material from previous semesters
+--------------------------------
+
+Since many students will have access to old exams, etc., from previous
+times that I've taught this class, it seems only fair that I make some
+of that material available to everyone. You probably should not treat
+old exams as "practice tests," because I change aspects of the
+material and the order of the material every year. Most of the exams
+have an answer key for the multiple choice questions on the last page.
+
+* [Midterm 1 for Spring, 2010](test1-2010.pdf) (missing an answer key)
+* [Midterm 2 for Spring, 2010](test2-2010.odt) (ODT format, missing an answer key)
+* [Final exam for Spring, 2010](test-final-2010.odt) (ODT format)
+* [Midterm 1 for Spring, 2011](test1-2011.pdf)
+* [Midterm 2 for Spring, 2011](test2-2011.pdf)
+* [Midterm 3 for Spring, 2011](test3-2011.pdf)
+* [Final exam for Spring, 2011](test-final-2011.pdf)
+* [Midterm 1 for Spring, 2012](test1-2012.pdf) (this is the only test
+  available for 2012)
+* [Midterm 1 for Spring, 2013](test1-2013.pdf)
+* [Midterm 2 for Spring, 2013](test2-2013.pdf)
+* [Final exam for Spring, 2013](test-final-2013.pdf)
+
+I administered computer-based exams through the university test center
+when I taught in 2014, so copies of those tests aren't avaialble.
