@@ -55,6 +55,8 @@ Recommended resources
 * [Free Exchange](http://www.economist.com/blogs/freeexchange) (the Economist's blog)
 * [The Upshot](http://www.nytimes.com/upshot) (the NY Times' economics and politics blog)
 
+<hr />
+
 Material from previous semesters
 --------------------------------
 
