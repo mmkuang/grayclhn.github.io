@@ -50,19 +50,22 @@ I've changed the order of the material substantially from year to year,
 so don't use past exams as study guides. But the old exams might help
 you learn what sort of questions I find interesting.
 
-* 2013 [syllabus](syllabus-2013) and [final exam](test-final-2013.pdf)
+* 2013 [syllabus](syllabus-2013) and [final exam](test-final-2013.pdf).
 * 2012 [syllabus](syllabus-2012),
   [midterm 1](test1-2012.pdf),
   [midterm 2](test2-2012.pdf), and
-  [final](test-final-2012.pdf)
+  [final](test-final-2012.pdf).
 * 2011 [syllabus](syllabus-2011.pdf),
   [midterm](test1-2011.pdf), and
-  [final](test-final-2011.pdf)
+  [final](test-final-2011.pdf).
 * 2010 [syllabus](syllabus-2010.pdf),
   [midterm](test1-2010.pdf), and
-  [final](test-final2010.pdf)
+  [final](test-final2010.pdf).
 * 2009 [syllabus](syllabus-2009.pdf),
   [midterm](test1-2009.pdf), and
-  [final](test-final-2009.pdf)
+  [final](test-final-2009.pdf).
+
+Feel free to use any of this material if you are teaching a similar
+class.
 
 [CC]: http://creativecommons.org/licenses/by-sa/3.0/
