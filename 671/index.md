@@ -45,19 +45,24 @@ Recommended resources
 
 Material from previous years
 ----------------------------
-* [2013 syllabus](syllabus-2013)
-* [2012 syllabus](syllabus-2012)
 
 I've changed the order of the material substantially from year to year,
 so don't use past exams as study guides. But the old exams might help
 you learn what sort of questions I find interesting.
 
-* 2012 exams will be put online soon.
-* 2011 [midterm](econ-671-2011-midterm.pdf) and 
-  [final](econ-671-2011-final.pdf)
-* 2010 [midterm](econ-671-2010-midterm.pdf) and 
-  [final](econ-671-2010-final.pdf)
-* 2009 [final](econ-671-2009-final.pdf) (I've misplaced
-  the midterm)
+* 2013 [syllabus](syllabus-2013) and [final exam](test-final-2013.pdf)
+* 2012 [syllabus](syllabus-2012),
+  [midterm 1](test1-2012.pdf),
+  [midterm 2](test2-2012.pdf), and
+  [final](test-final-2012.pdf)
+* 2011 [syllabus](syllabus-2011.pdf),
+  [midterm](test1-2011.pdf), and
+  [final](test-final-2011.pdf)
+* 2010 [syllabus](syllabus-2010.pdf),
+  [midterm](test1-2010.pdf), and
+  [final](test-final2010.pdf)
+* 2009 [syllabus](syllabus-2009.pdf),
+  [midterm](test1-2009.pdf), and
+  [final](test-final-2009.pdf)
 
 [CC]: http://creativecommons.org/licenses/by-sa/3.0/
