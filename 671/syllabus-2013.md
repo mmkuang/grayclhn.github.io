@@ -104,7 +104,7 @@ accompanies this book, called the *AER* package.
 * George Casella and Roger L. Berger. *Statistical
   Inference*. Duxbury, 2nd edition, 2002.
 
-* A. Ronald Gallant. *An Introduction to Econometric
+* Ronald Gallant. *An Introduction to Econometric
   Theory*. Princeton University Press, 1997.
 
 * William H. Greene. *Econometric Analysis*. Prentice Hall, 7th
