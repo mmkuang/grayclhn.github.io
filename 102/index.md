@@ -6,17 +6,47 @@ title: Economics 102 course page
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
 
 This is the course webpage for Economics 102 at Iowa State (Spring
-2014). It has a few links, and that's about it.
+2014). Some general notes:
 
+* Before emailing the instructor or the TAs, please read [these
+  email guidelines](/dl/email).
+  ([Written by Michael Leddy][leddy].)
 * The class will be administered through
   [Blackboard](https://bb.its.iastate.edu/)
 * All of our exams will be administered at the [ELO Testing
   Center](http://www.elo.iastate.edu/online-testing-center/)
-* Before emailing the instructor or the TAs, please read [these
-  email guidelines](/dl/email).
-  ([Written by Michael Leddy][leddy].)
 * [Syllabus for section 3 (meets 1–2 MWF)](syllabus-2014-s3)
 * [Syllabus for section 4 (meets 2–3 MWF)](syllabus-2014-s4)
+
+## Instructor contact information (Gray Calhoun)
+* <gcalhoun@iastate.edu>
+* OH 12-12:45 MW in Heady 467
+* I'll often post material related to the class on [my
+  blog](http://pseudotrue.com/category/102/) or on
+  [twitter](https://twitter.com/grayclhn)
+* Feel free to add me on [LinkedIn](https://linkedin.com/in/grayclhn);
+  I mostly use it to keep up with former students and
+  classmates. Please mention that you're taking my class or I might
+  accidentally ignore the message.
+
+## TAs for Section 3 (meets 1:10 – 2 in 1002 Gilman)
+* Mr. Kit Kooiker: <kkooiker@iastate.edu>, office hours 5–6 MW in
+  Heady 77
+* Mr. Sandip Agarwal: <sandip@iastate.edu>, office hours 9:30–11 TuTh
+  in Heady 169
+* Mr. Dong-Jin Pyo: <djpyo@iastate.edu>, office hours 2–3:30 M in
+  Heady 280B
+* Mr. Chao Li: <chaoli@iastate.edu>, office hours 2–4 F in Heady 80B
+
+## TAs for Section 4 (meets 2:10 – 3 in 1002 Gilman)
+* Ms. Shufen Chen: <sfchen@iastate.edu>, office hours 10–11 W in Heady
+  180
+* Mr. James Whitmore: <jwhit@iastate.edu>, office hours 12–1 MWF and
+  11–11:30 TuTh in Heady 180
+* Mr. Soumyadip Roy: <sroy30@iastate.edu>, office hours 11-1 W in
+  Heady 78
+* Mr. Yoonho Choi: <ecoyoon@iastate.edu>, office hours 10–12 F in
+  Heady 169
 
 <hr />
 
