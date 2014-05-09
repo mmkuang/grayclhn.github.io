@@ -6,7 +6,7 @@ title: Economics 102 course page
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
 
 This is the course webpage for Economics 102 at Iowa State (Spring
-2014). Some general notes:
+2014).
 
 * Before emailing the instructor or the TAs, please read [these
   email guidelines](/dl/email).
@@ -21,8 +21,8 @@ This is the course webpage for Economics 102 at Iowa State (Spring
 ## Instructor contact information (Gray Calhoun)
 * <gcalhoun@iastate.edu>
 * OH 12-12:45 MW in Heady 467
-* I'll often post material related to the class on [my
-  blog](http://pseudotrue.com/category/102/) or on
+* I'll occasionally post material related to the class on my
+  [blog](http://pseudotrue.com/category/102/) or
   [twitter](https://twitter.com/grayclhn)
 * Feel free to add me on [LinkedIn](https://linkedin.com/in/grayclhn);
   I mostly use it to keep up with former students and
