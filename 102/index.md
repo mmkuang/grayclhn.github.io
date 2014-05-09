@@ -18,18 +18,18 @@ This is the course webpage for Economics 102 at Iowa State (Spring
 * [Syllabus for section 3 (meets 1–2 MWF)](syllabus-2014-s3)
 * [Syllabus for section 4 (meets 2–3 MWF)](syllabus-2014-s4)
 
-## Instructor contact information (Gray Calhoun)
-* <gcalhoun@iastate.edu>
-* OH 12-12:45 MW in Heady 467
+### Instructor contact information (Gray Calhoun)
+* Email <gcalhoun@iastate.edu>.
+* Office hours 12-12:45 MW in Heady 467.
 * I'll occasionally post material related to the class on my
   [blog](http://pseudotrue.com/category/102/) or
-  [twitter](https://twitter.com/grayclhn)
+  [twitter](https://twitter.com/grayclhn).
 * Feel free to add me on [LinkedIn](https://linkedin.com/in/grayclhn);
   I mostly use it to keep up with former students and
   classmates. Please mention that you're taking my class or I might
   accidentally ignore the message.
 
-## TAs for Section 3 (meets 1:10 – 2 in 1002 Gilman)
+### TAs for Section 3 (meets 1:10 – 2 in 1002 Gilman)
 * Mr. Kit Kooiker: <kkooiker@iastate.edu>, office hours 5–6 MW in
   Heady 77
 * Mr. Sandip Agarwal: <sandip@iastate.edu>, office hours 9:30–11 TuTh
@@ -38,7 +38,7 @@ This is the course webpage for Economics 102 at Iowa State (Spring
   Heady 280B
 * Mr. Chao Li: <chaoli@iastate.edu>, office hours 2–4 F in Heady 80B
 
-## TAs for Section 4 (meets 2:10 – 3 in 1002 Gilman)
+### TAs for Section 4 (meets 2:10 – 3 in 1002 Gilman)
 * Ms. Shufen Chen: <sfchen@iastate.edu>, office hours 10–11 W in Heady
   180
 * Mr. James Whitmore: <jwhit@iastate.edu>, office hours 12–1 MWF and
