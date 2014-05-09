@@ -9,29 +9,12 @@ This is the course webpage for Economics 102 at Iowa State (Spring
 2014). I am teaching two sections of 102 this spring, the [syllabus
 for section 3 (meets 1–2 MWF) is here](syllabus-2014-s3) and the
 [syllabus for section 4 (meets 2–3 MWF)is here](syllabus-2014-s4).
-
 Before emailing the instructor or the TAs, please read [these email
 guidelines](/dl/email).  ([Written by Michael Leddy][leddy].)  The
 class is administered through
 [Blackboard](https://bb.its.iastate.edu/) and all of our exams are
 administered at the [ELO Testing
 Center](http://www.elo.iastate.edu/online-testing-center/)
-
-If you like this class (or even if you don't) you might want to
-consider majoring or minoring in economics. There is [more information
-on the department
-website](http://www.econ.iastate.edu/undergraduate-programs).  [A
-minor in
-economics](http://www.econ.iastate.edu/undergraduate-programs/economics/economics-minor)
-requires econ 301 (intermediate micro) and 6 more credits in addition
-to econ 101 and 102, so you're almost halfway done already. The other
-options are majoring in [economics (LAS
-college)](www.econ.iastate.edu/undergraduate-programs/economics),
-[agricultural business
-(ALS)](http://www.econ.iastate.edu/undergraduate-programs/agricultural-business)
-or [business
-economics](http://www.econ.iastate.edu/undergraduate-programs/business-economics)
-(business college).
 
 ### Instructor contact information (Gray Calhoun)
 * Email <gcalhoun@iastate.edu>.
@@ -62,6 +45,23 @@ economics](http://www.econ.iastate.edu/undergraduate-programs/business-economics
   Heady 78
 * Mr. Yoonho Choi: <ecoyoon@iastate.edu>, office hours 10–12 F in
   Heady 169
+
+### Further studies
+
+If you like this class (or even if you don't!) you might want to
+consider majoring or minoring in economics. [A minor in
+economics](http://www.econ.iastate.edu/undergraduate-programs/economics/economics-minor)
+requires econ 301 (intermediate micro) and 6 more credits in addition
+to econ 101 and 102, so you're almost halfway done already. Other
+options are majoring in [economics (LAS
+college)](www.econ.iastate.edu/undergraduate-programs/economics),
+[agricultural business
+(ALS)](http://www.econ.iastate.edu/undergraduate-programs/agricultural-business)
+or [business
+economics](http://www.econ.iastate.edu/undergraduate-programs/business-economics)
+(business college). [The department website has more information
+about all of our undergraduate programs
+](http://www.econ.iastate.edu/undergraduate-programs).
 
 <hr />
 
