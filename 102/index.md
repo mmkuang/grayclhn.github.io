@@ -60,8 +60,7 @@ college)](www.econ.iastate.edu/undergraduate-programs/economics),
 or [business
 economics](http://www.econ.iastate.edu/undergraduate-programs/business-economics)
 (business college). [The department website has more information
-about all of our undergraduate programs
-](http://www.econ.iastate.edu/undergraduate-programs).
+about all of our undergraduate programs](http://www.econ.iastate.edu/undergraduate-programs).
 
 <hr />
 
