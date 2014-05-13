@@ -20,7 +20,7 @@ Center](http://www.elo.iastate.edu/online-testing-center/)
 * Email <gcalhoun@iastate.edu>.
 * Office hours 12-12:45 MW in Heady 467.
 * I'll occasionally post material related to the class on my
-  [blog](http://pseudotrue.com/category/102/) or
+  [blog](http://pseudotrue.com/tag/macroeconomics/) or
   [twitter](https://twitter.com/grayclhn).
 * Feel free to add me on [LinkedIn](https://linkedin.com/in/grayclhn);
   I mostly use it to keep up with former students and
