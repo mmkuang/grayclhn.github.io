@@ -42,7 +42,7 @@ code, pre {
   font-family:"Source Code Pro", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", mono;
 }
 
-blockquote {
+code, blockquote {
   padding-left: 1.5em;
   border-left:3px solid #888888;
 }
