@@ -34,15 +34,16 @@ ul {
  padding-left:0;
 }
 
-ol {
- padding-left:0;
-}
+/* ol { */
+/*  padding-left:0; */
+/* } */
 
 code, pre {
   font-family:"Source Code Pro", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", mono;
 }
 
 pre, blockquote {
+  margin-left: 1.5em;
   border-left:3px solid #888888;
 }
 
