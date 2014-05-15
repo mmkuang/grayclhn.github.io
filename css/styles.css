@@ -43,7 +43,7 @@ code, pre {
 }
 
 blockquote {
-  border-left:1.5px solid #F0F8FF;
+  border-left:1.5px solid #888888;
 }
 
 section {
@@ -53,7 +53,7 @@ section {
 
 hr {
   border:0;
-  background:#F0F8FF;
+  background:#888888;
   height:1.5px;
   margin:0 0 16px;
 }
