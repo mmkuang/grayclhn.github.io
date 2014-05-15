@@ -43,8 +43,8 @@ code, pre {
 }
 
 pre, blockquote {
-  margin-left: -1.5em;
-  padding-left: 1.5em;
+  margin-left: -.75em;
+  padding-left: .75em;
   border-left:3px solid #888888;
 }
 
