@@ -43,9 +43,9 @@ code, pre {
 }
 
 pre, blockquote {
-  margin-left: -.75em;
-  padding-left: .75em;
-  border-left:3px solid #888888;
+  margin-left: -1ex;
+  padding-left: 1ex;
+  border-left:3px solid #003366;
 }
 
 section {
@@ -55,7 +55,7 @@ section {
 
 hr {
   border:0;
-  background:#888888;
+  background:#003366;
   height:1px;
   margin:0 0 16px;
 }
