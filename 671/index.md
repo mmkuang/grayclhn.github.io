@@ -66,6 +66,7 @@ you learn what sort of questions I find interesting.
   [final](test-final-2009.pdf).
 
 Feel free to use any of this material if you are teaching a similar
-class.
+class. I will try to help out with lecture notes, etc., if you
+email, <gcalhoun@iastate.edu>
 
 [CC]: http://creativecommons.org/licenses/by-sa/3.0/
