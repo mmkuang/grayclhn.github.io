@@ -29,9 +29,8 @@ Elliott and Allan Timmermann.
 
 ## Course pages
 * [Principles of Macroeconomics (Econ 102)](102)
-  (Spring 2014)
-* [PhD Econometrics 1 (Econ 671)](671) (Fall 2014)
-* [PhD Macroeconometrics (Econ 674)](674) (Fall 2014)
+* [PhD Econometrics 1 (Econ 671)](671)
+* [PhD Macroeconometrics (Econ 674)](674)
 
 <hr />
 
@@ -59,6 +58,5 @@ Elliott and Allan Timmermann.
 
 ## Short essays and handouts
 * [An extremely subjective guide to the economics job
-  market](/dl/job-market-notes) (2009)
+  market](/dl/job-market-notes)
 * [Some thoughts on the Reinhart and Rogoff debate](http://pseudotrue.com/2013/04/24/some-thoughts-on-the-reinhart-and-rogoff-debate)
-  (2013, blog)
