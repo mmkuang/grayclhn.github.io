@@ -19,8 +19,9 @@ Elliott and Allan Timmermann.
   [LinkedIn](https://linkedin.com/in/grayclhn),
   [GitHub](https://github.com/grayclhn),
   and [Twitter](https://twitter.com/grayclhn).
-* [Econometrics Free Library Project][EFLP], a free/open-access
-  textbook development project that you should contribute to.
+  Also check out the [Econometrics Free Library Project][EFLP],
+  a free/open-access textbook development project that you
+  should contribute to.
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
@@ -29,7 +30,8 @@ Elliott and Allan Timmermann.
 
 ## Course pages
 * [Principles of Macroeconomics (Econ 102)](102)
-* [PhD Econometrics 1 (Econ 671)](671)
+* [PhD Econometrics 1 -- introduction to statistics
+  and regression (Econ 671)](671)
 * [PhD Macroeconometrics (Econ 674)](674)
 
 <hr />
