@@ -9,11 +9,6 @@ and applications to forecasting and forecast evaluation. I graduated
 with a PhD from UC San Diego in 2009, where I worked with Graham
 Elliott and Allan Timmermann.
 
-This page has research and teaching links. Everything else is at my
-blog, <http://pseudotrue.com>, or at the [Econometrics Free Library
-Project][EFLP] (a free textbook development project that you should
-contribute to).
-
 * **Email:** gcalhoun at iastate dot edu (university) and gray at clhn
   dot co [sic] (all other email and IM)
 * **Office:** 467 Heady Hall, (515) 294-6271.
@@ -21,10 +16,11 @@ contribute to).
 * **Links:** [Curriculum vitae][cv],
   [IDEAS](http://ideas.repec.org/f/pca491.html),
   [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
+  [LinkedIn](https://linkedin.com/in/grayclhn),
   [GitHub](https://github.com/grayclhn),
-  [Twitter](https://twitter.com/grayclhn),
-  [LinkedIn](https://linkedin.com/in/grayclhn)
-  and [my blog](http://pseudotrue.com).
+  and [Twitter](https://twitter.com/grayclhn).
+* [Econometrics Free Library Project][EFLP], a free/open-access
+  textbook development project that you should contribute to.
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
@@ -54,15 +50,15 @@ contribute to).
    with [repo](https://github.com/grayclhn/oos-overfit) and
    [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 
-## Other short documents
-* [An extremely subjective guide to the economics job
-  market](/dl/job-market-notes) (2009)
-* [Some thoughts on the Reinhart and Rogoff debate](http://pseudotrue.com/2013/04/24/some-thoughts-on-the-reinhart-and-rogoff-debate)
-  (2013, blog)
-
 ## Publications
 1. Hypothesis testing in linear regression when k/n is large. *Journal
    of Econometrics*, 165(2), 2011: 163–174.
    [Link](http://www.econ.iastate.edu/research/working-papers/p12216), 
    [R package](/dl/ftestLargeK_1.0.tar.gz), and 
    [additional files](/dl/calhoun-2010-ftest.tar.gz)
+
+## Short essays and handouts
+* [An extremely subjective guide to the economics job
+  market](/dl/job-market-notes) (2009)
+* [Some thoughts on the Reinhart and Rogoff debate](http://pseudotrue.com/2013/04/24/some-thoughts-on-the-reinhart-and-rogoff-debate)
+  (2013, blog)
