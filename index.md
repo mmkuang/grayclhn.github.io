@@ -30,7 +30,7 @@ Elliott and Allan Timmermann.
 
 ## Course pages
 * [Principles of Macroeconomics (Econ 102)](102)
-* [PhD Econometrics 1 -- introduction to statistics
+* [PhD Econometrics 1 — introduction to statistics
   and regression (Econ 671)](671)
 * [PhD Macroeconometrics (Econ 674)](674)
 
