@@ -65,3 +65,7 @@ That said, here are some more thoughts, in no particular order.
 * [Chris Blattman is more specific](http://chrisblattman.com/about/contact/gradschool/)
 * [Susan Athey's advice on applying to grad schools](http://kuznets.fas.harvard.edu/~athey/gradadv.html)
   looks great and you should definitely read it.
+
+<hr />
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
