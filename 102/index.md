@@ -68,7 +68,8 @@ Recommended resources
 ---------------------
 
 * I've typically assigned Krugman and Wells's *Macroeconomics* as the
-  main reading for the class.
+  main reading for the class. There's also a study guide avaiable for
+  the book that is pretty good.
 * Martha Olney's *Macroeconomics as a second language* is a great
   resource as well.
 
