@@ -8,13 +8,13 @@ title: Economics 102 course page
 This is the course webpage for Economics 102 at Iowa State (Spring
 2014). I am teaching two sections of 102 this spring, the [syllabus
 for section 3 (meets 1–2 MWF) is here](syllabus-2014-s3) and the
-[syllabus for section 4 (meets 2–3 MWF)is here](syllabus-2014-s4).
+[syllabus for section 4 (meets 2–3 MWF) is here](syllabus-2014-s4).
 Before emailing the instructor or the TAs, please read [these email
 guidelines](/dl/email).  ([Written by Michael Leddy][leddy].)  The
 class is administered through
 [Blackboard](https://bb.its.iastate.edu/) and all of our exams are
 administered at the [ELO Testing
-Center](http://www.elo.iastate.edu/online-testing-center/)
+Center](http://www.elo.iastate.edu/online-testing-center/).
 
 ### Instructor contact information (Gray Calhoun)
 * Email <gcalhoun@iastate.edu>.
@@ -46,7 +46,7 @@ Center](http://www.elo.iastate.edu/online-testing-center/)
 * Mr. Yoonho Choi: <ecoyoon@iastate.edu>, office hours 10–12 F in
   Heady 169
 
-### Further studies
+### Future coursework
 
 If you like this class (or even if you don't!) you might want to
 consider majoring or minoring in economics. [A minor in
@@ -74,14 +74,17 @@ Recommended resources
 
 ### Less mathematically technical overviews
 
-* Ben Bernanke, Fed Chair until Jan 2013, gave [four lectures on "The
-  Federal Reserve and the Financial Crisis" that are available
+* Ben Bernanke, Fed Chair until Jan 2013, gave [four lectures on “The
+  Federal Reserve and the Financial Crisis” that are available
   online](http://www.federalreserve.gov/newsevents/lectures/about.htm). The
   lectures are free, but they're also available [as a
   book](http://press.princeton.edu/titles/9928.html). If you're a fast
   reader, the book might be cost effective.
 * [The Little Book of Economics, 2nd edition](http://gregip.wordpress.com/),
   by Greg Ip; a general overview of macro.
+* [The Undercover Economist Strikes Back: How to Run — or Ruin — an Economy](http://www.amazon.com/The-Undercover-Economist-Strikes-Back/dp/1594631409)
+  A “fun” (but reasonably accurate) introduction/overview of
+  macroeconomics. No equations as far as I know.
 * [Diary of a Very Bad Year: Confessions of an Anonymous Hedge Fund
   Manager](http://shop.nplusonemag.com/products/diary-of-a-very-bad-year-confessions-of-an-anonymous-hedge-fund-manager),
   by Keith Gessen; a series of interviews that the editor of a
@@ -96,8 +99,13 @@ Recommended resources
 * [Economist’s View](http://economistsview.typepad.com) (aggregator
   with some analysis)
 * [Counterparties](http://counterparties.com/) (another aggregator)
+* [Morning Money](http://www.politico.com/morningmoney) a more
+  politically focused daily news summary
 * [Free Exchange](http://www.economist.com/blogs/freeexchange) (the Economist's blog)
 * [The Upshot](http://www.nytimes.com/upshot) (the NY Times' economics and politics blog)
+* [Joe Weisenthal](http://www.businessinsider.com/author/joe-weisenthal) aka *The Stalwart*
+* [Calculated Risk](http://www.calculatedriskblog.com) data-heavy analysis
+* [Econbrowser](http://www.econbrowser.com/)
 
 <hr />
 
