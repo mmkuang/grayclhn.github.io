@@ -19,12 +19,12 @@ Center](http://www.elo.iastate.edu/online-testing-center/).
 ### Instructor contact information (Gray Calhoun)
 * Email <gcalhoun@iastate.edu>.
 * Office hours 12-12:45 MW in Heady 467.
-* I'll occasionally post material related to the class on my
+* I’ll occasionally post material related to the class on my
   [blog](http://pseudotrue.com/tag/macroeconomics/) or
   [twitter](https://twitter.com/grayclhn).
 * Feel free to add me on [LinkedIn](https://linkedin.com/in/grayclhn);
   I mostly use it to keep up with former students and
-  classmates. Please mention that you're taking my class or I might
+  classmates. Please mention that you’re taking my class or I might
   accidentally ignore the message.
 
 ### TAs for Section 3 (meets 1:10 – 2 in 1002 Gilman)
@@ -48,11 +48,11 @@ Center](http://www.elo.iastate.edu/online-testing-center/).
 
 ### Future coursework
 
-If you like this class (or even if you don't!) you might want to
+If you like this class (or even if you don’t!) you might want to
 consider majoring or minoring in economics. [A minor in
 economics](http://www.econ.iastate.edu/undergraduate-programs/economics/economics-minor)
 requires econ 301 (intermediate micro) and 6 more credits in addition
-to econ 101 and 102, so you're almost halfway done already. Other
+to econ 101 and 102, so you’re almost halfway done already. Other
 options are majoring in [economics (LAS
 college)](www.econ.iastate.edu/undergraduate-programs/economics),
 [agricultural business
@@ -67,10 +67,10 @@ about all of our undergraduate programs](http://www.econ.iastate.edu/undergradua
 Recommended resources
 ---------------------
 
-* I've typically assigned Krugman and Wells's *Macroeconomics* as the
-  main reading for the class. There's also a study guide avaiable for
+* I’ve typically assigned Krugman and Wells’s *Macroeconomics* as the
+  main reading for the class. There’s also a study guide avaiable for
   the book that is pretty good.
-* Martha Olney's *Macroeconomics as a second language* is a great
+* Martha Olney’s *Macroeconomics as a second language* is a great
   resource as well.
 
 ### Less mathematically technical overviews
@@ -78,8 +78,8 @@ Recommended resources
 * Ben Bernanke, Fed Chair until Jan 2013, gave [four lectures on “The
   Federal Reserve and the Financial Crisis” that are available
   online](http://www.federalreserve.gov/newsevents/lectures/about.htm). The
-  lectures are free, but they're also available [as a
-  book](http://press.princeton.edu/titles/9928.html). If you're a fast
+  lectures are free, but they’re also available [as a
+  book](http://press.princeton.edu/titles/9928.html). If you’re a fast
   reader, the book might be cost effective.
 * [The Little Book of Economics, 2nd edition](http://gregip.wordpress.com/),
   by Greg Ip; a general overview of macro.
@@ -102,8 +102,8 @@ Recommended resources
 * [Counterparties](http://counterparties.com/) (another aggregator)
 * [Morning Money](http://www.politico.com/morningmoney) a more
   politically focused daily news summary
-* [Free Exchange](http://www.economist.com/blogs/freeexchange) (the Economist's blog)
-* [The Upshot](http://www.nytimes.com/upshot) (the NY Times' economics and politics blog)
+* [Free Exchange](http://www.economist.com/blogs/freeexchange) (the Economist’s blog)
+* [The Upshot](http://www.nytimes.com/upshot) (the NY Times’ economics and politics blog)
 * [Joe Weisenthal](http://www.businessinsider.com/author/joe-weisenthal) aka *The Stalwart*
 * [Calculated Risk](http://www.calculatedriskblog.com) data-heavy analysis
 * [Econbrowser](http://www.econbrowser.com/)
@@ -114,9 +114,9 @@ Material from previous semesters
 --------------------------------
 
 Since many students will have access to old exams, etc., from previous
-times that I've taught this class, it seems only fair that I make some
+times that I’ve taught this class, it seems only fair that I make some
 of that material available to everyone. You probably should not treat
-old exams as "practice tests," because I change aspects of the
+old exams as “practice tests,” because I change aspects of the
 material and the order of the material every year. Most of the exams
 have an answer key for the multiple choice questions on the last page.
 
