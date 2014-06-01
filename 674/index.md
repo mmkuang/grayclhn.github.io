@@ -7,11 +7,11 @@ title: Economics 674 course page
 
 This is the course webpage for Economics 674 at Iowa State. Helle
 Bunzel and I are co-teaching it in Fall 2014, but haven’t finalized
-nthe 2014 syllabus yet.
+the 2014 syllabus yet.
 
-Before emailing me or the TAs about this class, please read [these
-email guidelines](/dl/email).
-([written by Michael Leddy][leddy].)
+Before emailing me, the TA, or the other instructor about this class,
+please read [these email guidelines](/dl/email). ([Written by Michael
+Leddy][leddy].)
 
 Recommended resources
 ---------------------
