@@ -57,6 +57,8 @@ Recommended resources
   for
   Econometrics](http://www.kevinsheppard.com/Python_for_Econometrics)
 
+<hr />
+
 Material from previous years
 ----------------------------
 * [2013 syllabus](syllabus-2013)
