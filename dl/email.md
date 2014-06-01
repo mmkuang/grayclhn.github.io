@@ -117,7 +117,7 @@ So what would a good e-mail to a professor look like?
 And a subsequent note of thanks:
 
     > “It” is most likely spring, or life itself. But have
-    > you looked up “quicken?” That’ll probably make “It”
+    > you looked up “quicken”? That’ll probably make “It”
     > much clearer.
     
     It sure did. Thanks for your help, Professor.
