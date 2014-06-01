@@ -29,7 +29,7 @@ Contact information
 
 The class meets Monday, Wednesday, and Friday from 2:10 to 3:00 in
 Coover 2245 and my office hours are Monday and Wednesday from 3:00 to
-4:00 in Heady 467.  The TAs' office hours haven't been set
+4:00 in Heady 467.  The TAs’ office hours haven’t been set
 yet but will be announced on Blackboard Learn when they are available.
 If you have questions about the course material, the best times to
 address them are in the scheduled lectures or during office hours. We
@@ -48,7 +48,7 @@ the instructor (me) and TAs:
 * Soumyadip Roy, <sroy30@iastate.edu>
 * Donggyu Yi, <dgyi@iastate.edu>
 
-If you can not make our regularly scheduled office hours, we'll all be
+If you can not make our regularly scheduled office hours, we’ll all be
 happy to schedule other appointments by email.
 
 I will use [BlackBoard Learn](https://bb.its.iastate.edu) to
@@ -76,7 +76,7 @@ opportunities in class for students to earn extra credit.
   - May 7th, 12-2pm
   - covers ch. 6-17, 19
 
-The "chapters covered" refers to the required textbook,
+The “chapters covered” refers to the required textbook,
 *Macroeconomics* by Paul Krugman and Robin Wells.  I do not give make
 up exams, but we can make arrangements if you have a legitimate reason
 for missing a test.
@@ -127,7 +127,7 @@ University. They are listed here for your convenience and reference.
 
 ### Academic dishonesty
 
-The class will follow Iowa State University's policy on academic
+The class will follow Iowa State University’s policy on academic
 dishonesty.  Anyone suspected of academic dishonesty will be reported
 to the Dean of Students Office,
 <http://www.dso.iastate.edu/ja/academic/misconduct.html>.

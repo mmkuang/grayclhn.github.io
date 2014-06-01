@@ -42,7 +42,7 @@ Your final grade for the semester will be based on an original
 research paper due in July.  You will be required to submit a proposal
 and a first draft during the semester, and Helle or I will discuss
 your proposal with you after you submit it.  Your course grade will be
-listed as "incomplete" until you turn in the paper, and the quality of
+listed as “incomplete” until you turn in the paper, and the quality of
 the proposal and the first draft will factor into your grade on the
 paper.
 
@@ -71,7 +71,7 @@ University. They are listed here for your convenience and reference.
 
 ### Academic dishonesty
 
-The class will follow Iowa State University's policy on academic
+The class will follow Iowa State University’s policy on academic
 dishonesty.  Anyone suspected of academic dishonesty will be reported
 to the Dean of Students Office,
 <http://www.dso.iastate.edu/ja/academic/misconduct.html>.

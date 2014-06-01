@@ -1,9 +1,9 @@
 ---
-title: Gray Calhoun's academic homepage
+title: Gray Calhoun’s academic homepage
 layout: default
 ---
 
-I'm Gray Calhoun, an Assistant Professor in the Economics Department
+I’m Gray Calhoun, an Assistant Professor in the Economics Department
 at Iowa State. I work on Econometric theory, especially time series
 and applications to forecasting and forecast evaluation. I graduated
 with a PhD from UC San Diego in 2009, where I worked with Graham

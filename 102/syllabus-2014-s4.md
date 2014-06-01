@@ -33,7 +33,7 @@ Contact information
 
 The class meets Monday, Wednesday, and Friday from 2:10 to 3:00 in
 Gilman 1002 and my office hours are Monday and Wednesday from 12:00 to
-12:45 in Heady 467.  The TAs' office hours haven't been set yet but
+12:45 in Heady 467.  The TAs’ office hours haven’t been set yet but
 will be announced on Blackboard Learn when they are available.  If you
 have questions about the course material, the best times to address
 them are in the scheduled lectures or during office hours. We can
@@ -55,7 +55,7 @@ and TAs:
 * Mr. Yoonho Choi: <ecoyoon@iastate.edu>, office hours 10–12 F in
   Heady 169
 
-If you can not make our regularly scheduled office hours, we'll all be
+If you can not make our regularly scheduled office hours, we’ll all be
 happy to schedule other appointments by email.
 
 I will use [BlackBoard Learn](https://bb.its.iastate.edu) to
@@ -78,7 +78,7 @@ opportunities in class for students to earn extra credit.
 * Final exam: 40% of grade. You can take it May 2nd and 5th through
   9th. It will cover covers ch. 6-17, 19
 
-The "chapters covered" refers to the required textbook,
+The “chapters covered” refers to the required textbook,
 *Macroeconomics* by Paul Krugman and Robin Wells.
 
 Textbooks
@@ -122,8 +122,8 @@ strong coverage of Economics:
 Continuous improvement initiative
 ---------------------------------
 
-As part of the university's and department's "continuous improvement
-initiative," all sections of Economics 102 are measuring two learning
+As part of the university’s and department’s “continuous improvement
+initiative,” all sections of Economics 102 are measuring two learning
 objectives in particular this academic year:
 
 1. Students will learn the concept of “Gross Domestic Product” (GDP)
@@ -144,7 +144,7 @@ University. They are listed here for your convenience and reference.
 
 ### Academic dishonesty
 
-The class will follow Iowa State University's policy on academic
+The class will follow Iowa State University’s policy on academic
 dishonesty.  Anyone suspected of academic dishonesty will be reported
 to the Dean of Students Office,
 <http://www.dso.iastate.edu/ja/academic/misconduct.html>.

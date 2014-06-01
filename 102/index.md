@@ -73,7 +73,7 @@ Recommended resources
 * Martha Olney’s *Macroeconomics as a second language* is a great
   resource as well.
 
-### Less mathematically technical overviews
+### Less mathematically rigorous books
 
 * Ben Bernanke, Fed Chair until Jan 2013, gave [four lectures on “The
   Federal Reserve and the Financial Crisis” that are available
