@@ -22,8 +22,8 @@ The following textbooks are recommended for the class:
 
 [Econometric Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
 
-* Freedman’s *[Statistical Models: Theory and practice][]* (second edition)
-* Gallant’s *[Introduction to Econometric Theory][]*
+* Freedman’s *[Statistical Models: Theory and practice][]* (2009, second edition)
+* Gallant’s *[Introduction to Econometric Theory][]* (1997)
 
 [Statistical Models: Theory and practice]: http://www.stat.berkeley.edu/~census
 [Introduction to Econometric Theory]: http://www.aronaldg.org/courses/econ501
