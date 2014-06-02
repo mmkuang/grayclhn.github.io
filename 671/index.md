@@ -13,33 +13,69 @@ Before emailing me or the TA about this class, please read [these
 email guidelines](/dl/email).
 ([written by Michael Leddy][leddy].)
 
-I’m in the process of converting my lecture notes for this class into
-a free textbook.  You are certainly welcome to contribute and any
-feedback is appreciated. [You can read more about it
-on the project’s homepage](http://www.econometricslibrary.com/core).
+The required textbooks for the class are:
+
+* Greene’s *[Econometrics Analysis][]* (7th edition). This book will be used in Econ 672 as well.
+* Casella and Berger’s *[Statistical Inference][]* (second edition).
+
+I also recommend the following textbooks, which are much better than
+the required texts, but don't cover enough of the material we need:
+
+[Econometrics Analysis]: http://www.amazon.com/Econometric-Analysis-Edition-William-Greene/dp/0131395386
+[Statistical Inference]: www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126
+
+* Freedman’s *[Statistical Models: Theory and practice][]* (second edition)
+* Gallant’s *[Introduction to Econometric Theory][]*
+
+[Statistical Models: Theory and practice]: www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850
+[Introduction to Econometric Theory]: www.amazon.com/Introduction-Econometric-Theory-Ronald-Gallant/dp/0691016453
+
+I’m also in the process of converting my lecture notes for this class
+into a free textbook.  You are certainly welcome to contribute and any
+feedback is appreciated. [You can read more about it on the project’s
+homepage](http://www.econometricslibrary.com/core).
+
+<hr />
 
 Recommended resources
 ---------------------
 
 ### Books and lectures
 
+These are great. Read them all.
+
 * Cleveland’s *Visualizing Data* (1993)
-* Freedman’s *Statistical Models: Theory and practice* (2009)
-* Gallant’s *Introduction to Econometric Theory* (1997)
-* Hansen’s [free econometrics
-  textbook](http://www.ssc.wisc.edu/~bhansen/econometrics/).
+* Geweke's *Complete and Incomplete Econometric Models* (2010)
+* Jaynes's *Probability Theory: The Logic of Science* (2003)
 * Manski’s *Identification for Prediction and Decision* (2007)
-* Miller’s *The Chicago Guide to Writing about Multivariate Analysis* (2005).
-* [NBER Summer Institute Econometric
-  Lectures](http://www.nber.org/SI_econometrics_lectures.html)
 * Tufte’s *Envisioning Information* (1990) and *The Visual Display of
   Quantitative Information* (2nd edition, 2001)
+
+The NBER holds a lecture/instruction series on new econometrics
+developments and puts video and slides online. A list of the topics is
+[available here](http://www.nber.org/SI_econometrics_lectures.html).
 
 ### Software
 
 * [Julia Language](http://julialang.org/)
 * [R Project for Statistical Computing](http://www.r-project.org)
 * [SciPy](http://www.scipy.org/) (Scientific python)
+
+### Writing advice
+
+At some point you’ll be expected to write a dissertation. The advice
+in these books is pretty good. They’re listed in the order they should
+be read.
+
+* Strunk and White’s *[The Elements of Style][]* (4th edition)
+* Miller’s *[The Chicago Guide to Writing about Multivariate Analysis][]*
+  (second edition)
+* Williams and Bizup’s *[Style: The Basics of Clarity and Grace][]*
+  (5th edition)
+
+[The Elements of Style]: www.amazon.com/The-Elements-Style-Fourth-Edition/dp/020530902X
+[The Chicago Guide to Writing about Multivariate Analysis]: www.amazon.com/Chicago-Writing-Multivariate-Analysis-Publishing/dp/0226527875
+[Style: The Basics of Clarity and Grace]: www.amazon.com/Style-Basics-Clarity-Grace-5th/dp/0321953304
 
 <hr />
 
