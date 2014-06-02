@@ -15,19 +15,18 @@ email guidelines](/dl/email).
 
 The required textbooks for the class are:
 
-* Greene’s *[Econometrics Analysis][]* (7th edition). This book will be used in Econ 672 as well.
-* Casella and Berger’s *[Statistical Inference][]* (second edition).
+* Greene’s *[Econometric Analysis][]* (2011, 7th edition). This book will be used in Econ 672 as well.
+* Casella and Berger’s *Statistical Inference* (2001, second edition).
 
 The following textbooks are recommended for the class:
 
-[Econometrics Analysis]: http://www.amazon.com/Econometric-Analysis-Edition-William-Greene/dp/0131395386
-[Statistical Inference]: www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126
+[Econometrics Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
 
 * Freedman’s *[Statistical Models: Theory and practice][]* (second edition)
 * Gallant’s *[Introduction to Econometric Theory][]*
 
-[Statistical Models: Theory and practice]: www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850
-[Introduction to Econometric Theory]: www.amazon.com/Introduction-Econometric-Theory-Ronald-Gallant/dp/0691016453
+[Statistical Models: Theory and practice]: http://www.stat.berkeley.edu/~census
+[Introduction to Econometric Theory]: http://www.aronaldg.org/courses/econ501
 
 I’m also in the process of converting my lecture notes for this class
 into a free textbook.  You are certainly welcome to contribute and any
@@ -69,12 +68,11 @@ be read.
 * Strunk and White’s *[The Elements of Style][]* (4th edition)
 * Miller’s *[The Chicago Guide to Writing about Multivariate Analysis][]*
   (second edition)
-* Williams and Bizup’s *[Style: The Basics of Clarity and Grace][]*
+* Williams and Bizup’s *Style: The Basics of Clarity and Grace*
   (5th edition)
 
-[The Elements of Style]: www.amazon.com/The-Elements-Style-Fourth-Edition/dp/020530902X
-[The Chicago Guide to Writing about Multivariate Analysis]: www.amazon.com/Chicago-Writing-Multivariate-Analysis-Publishing/dp/0226527875
-[Style: The Basics of Clarity and Grace]: www.amazon.com/Style-Basics-Clarity-Grace-5th/dp/0321953304
+[The Elements of Style]: http://en.wikipedia.org/wiki/The_Elements_of_Style
+[The Chicago Guide to Writing about Multivariate Analysis]: http://www.press.uchicago.edu/books/miller/multivariate/index.html
 
 <hr />
 
