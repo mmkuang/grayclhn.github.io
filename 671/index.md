@@ -20,7 +20,7 @@ The required textbooks for the class are:
 
 The following textbooks are recommended for the class:
 
-[Econometrics Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
+[Econometric Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
 
 * Freedman’s *[Statistical Models: Theory and practice][]* (second edition)
 * Gallant’s *[Introduction to Econometric Theory][]*
