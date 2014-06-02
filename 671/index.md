@@ -18,8 +18,7 @@ The required textbooks for the class are:
 * Greene’s *[Econometrics Analysis][]* (7th edition). This book will be used in Econ 672 as well.
 * Casella and Berger’s *[Statistical Inference][]* (second edition).
 
-I also recommend the following textbooks, which are much better than
-the required texts, but don't cover enough of the material we need:
+The following textbooks are recommended for the class:
 
 [Econometrics Analysis]: http://www.amazon.com/Econometric-Analysis-Edition-William-Greene/dp/0131395386
 [Statistical Inference]: www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126
@@ -37,8 +36,8 @@ homepage](http://www.econometricslibrary.com/core).
 
 <hr />
 
-Recommended resources
----------------------
+Additional recommendations
+--------------------------
 
 ### Books and lectures
 
