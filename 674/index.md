@@ -13,22 +13,18 @@ Before emailing me, the TA, or the other instructor about this class,
 please read [these email guidelines](/dl/email). ([Written by Michael
 Leddy][leddy].)
 
-Recommended resources
----------------------
+The required textbook for this class is [Jim
+Hamilton’s](http://econweb.ucsd.edu/~jhamilton/) *[Time Series
+Analysis](http://press.princeton.edu/titles/5386.html)* (1994)
 
-### Books
-* Canova’s *Methods for Applied Macroeconomic Research* (2007)
-* Davidson’s *Stochastic Limit Theory* (1994)
-* DeJong and Dave’s *Structural Macroeconometrics*, second edition (2011)
-* Hamilton’s *Time Series Analysis* (1994) is the required text for
-  the class
-* The *Handbook of Economic Forecasting*, volumes 1 and 2
-* Lütkepohl’s *New Introduction to Multiple Time Series Analysis*
+The following books and lectures are recommended for the class:
 
-### Lectures and lecture notes
-* The Nobel Prize Committee’s [summary of Sargent’s and Sims’s
-  research][Nobel11] for the 2011 prize is very good. [Sargent’s
-  lecture][] and [Sims’s lecture][] are also very informative.
+* [Fabio Canova’s](http://apps.eui.eu/Personal/Canova/) *[Methods for
+  Applied Macroeconomic
+  Research](http://press.princeton.edu/titles/8434.html)* (2007)
+* Helmut Lütkepohl’s *[New Introduction to Multiple Time Series
+  Analysis](http://www.springer.com/economics/econometrics/book/978-3-540-40172-8)*
+  (2005)
 * Anna Mikusheva’s [lecture notes for Time Series Analysis][Mikusheva]
   (taught in 2008, licensed CC BY-NC-SA)
 * Stock and Watson’s [NBER Summer Institute lectures: What’s new in
@@ -38,9 +34,32 @@ Recommended resources
 [Mikusheva]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2008
 [NBER08]: http://www.nber.org/minicourse_2008.html
 
+<hr />
+
+Additional recommendations:
+---------------------------
+
+* [James Davidson’s](http://people.exeter.ac.uk/jehd201/) [*Stochastic
+  Limit Theory*
+  (1994)](http://www.oxfordscholarship.com/view/10.1093/0198774036.001.0001/acprof-9780198774037)
+  is a good overview of asymptotic theory for dependent variables
+* Much of what we study in this class originates with
+  [Thomas Sargent](https://files.nyu.edu/ts43/public/) and
+  [Chris Sims’s](http://www.princeton.edu/~sims/)
+  Nobel prize winning research. So it’s worth reading The Nobel Prize
+  Committee’s [summary of that research][Nobel11] as well as their
+  individual Nobel Lectures. ([Sargent’s lecture][], [Sims’s
+  lecture][]) [Lars Peter Hansen’s](http://www.larspeterhansen.org/)
+  [Nobel Lecture][LPHnobel] — for GMM — is also very interesting.
+* [John Geweke’s](http://www.uts.edu.au/staff/john.geweke)
+  [*Complete and Incomplete Econometric Models* (2010)][http://www.jstor.org/stable/j.ctt7t5jp]
+* There are other books listed on my [671 course page](/671)
+  (PhD Econometrics I)
+
 [Nobel11]: http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2011/advanced-economicsciences2011.pdf
 [Sargent’s lecture]: https://files.nyu.edu/ts43/public/research/Sargent_Sweden_final.pdf
 [Sims’s lecture]: http://sims.princeton.edu/yftp/Nobel/NobelLect.pdf
+[LPHnobel]: http://www.larspeterhansen.org/documents/FC_2014_Nobel_Uncertainty.pdf
 
 ### Software
 
