@@ -51,8 +51,7 @@ Additional recommendations:
   individual Nobel Lectures. ([Sargent’s lecture][], [Sims’s
   lecture][]) [Lars Peter Hansen’s](http://www.larspeterhansen.org/)
   [Nobel Lecture][LPHnobel] — for GMM — is also very interesting.
-* [John Geweke’s](http://www.uts.edu.au/staff/john.geweke)
-  [*Complete and Incomplete Econometric Models* (2010)][http://www.jstor.org/stable/j.ctt7t5jp]
+* John Geweke’s [*Complete and Incomplete Econometric Models*][http://www.jstor.org/stable/j.ctt7t5jp] (2010)
 * There are other books listed on my [671 course page](/671)
   (PhD Econometrics I)
 
