@@ -39,10 +39,8 @@ The following books and lectures are recommended for the class:
 Additional recommendations:
 ---------------------------
 
-* [James Davidson’s](http://people.exeter.ac.uk/jehd201/) [*Stochastic
-  Limit Theory*
-  (1994)](http://www.oxfordscholarship.com/view/10.1093/0198774036.001.0001/acprof-9780198774037)
-  is a good overview of asymptotic theory for dependent variables
+These are interesting and should be broadly accessible.
+
 * Much of what we study in this class originates with
   [Thomas Sargent](https://files.nyu.edu/ts43/public/) and
   [Chris Sims’s](http://www.princeton.edu/~sims/)
