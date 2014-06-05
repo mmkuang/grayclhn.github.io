@@ -83,7 +83,7 @@ Recommended resources
   reader, the book might be cost effective.
 * [The Little Book of Economics, 2nd edition](http://gregip.wordpress.com/),
   by Greg Ip; a general overview of macro.
-* [The Undercover Economist Strikes Back: How to Run — or Ruin — an Economy](http://timharford.com/books/undercovereconomist-strikes-back/)
+* [The Undercover Economist Strikes Back: How to Run — or Ruin — an Economy](http://timharford.com/books/undercovereconomist-strikes-back/).
   A “fun” (but reasonably accurate) introduction/overview of
   macroeconomics. No equations as far as I know.
 * [Diary of a Very Bad Year: Confessions of an Anonymous Hedge Fund
@@ -96,18 +96,16 @@ Recommended resources
 
 * Radford, Robert A. “The economic organisation of a POW camp.”
   *Economica* (1945): 189-201. ([JSTOR](http://www.jstor.org/stable/2550133))
-
 * Sweeney, Joan, and Richard James Sweeney. “Monetary theory and the
   great Capitol Hill Baby Sitting Co-op crisis: comment.” *Journal of
   Money, Credit and Banking* (1977):
   86-89. ([JSTOR](http://www.jstor.org/stable/1992001))
-
 * Lucas Jr, Robert E. “Econometric policy evaluation: A critique.” In
   Carnegie-Rochester conference series on public policy, vol. 1,
-  pp. 19-46. North-Holland, 1976. ([dl](http://scholar.google.com/scholar?cluster=10502475625744058059&hl)
-
-  This paper is more difficult to read than the others, but it is
-  absurdly famous and influential. Give it a try!
+  pp. 19-46. North-Holland,
+  1976. ([dl](http://scholar.google.com/scholar?cluster=10502475625744058059&hl)
+  *This paper is more difficult to read than the others, but it is
+  absurdly famous and influential. Give it a try!*
 
 ### News and blogs
 
