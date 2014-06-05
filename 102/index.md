@@ -103,7 +103,7 @@ Recommended resources
 * Lucas Jr, Robert E. “Econometric policy evaluation: A critique.” In
   Carnegie-Rochester conference series on public policy, vol. 1,
   pp. 19-46. North-Holland, 1976.
-  ([dl](http://scholar.google.com/scholar?cluster=10502475625744058059&hl)
+  ([dl](http://scholar.google.com/scholar?cluster=10502475625744058059&hl))
   This paper is more difficult to read than the others, but it is
   absurdly famous and influential. Give it a try!
 
