@@ -33,7 +33,7 @@ class:
 I’m also in the process of converting my lecture notes for this class
 into a free textbook.  You are certainly welcome to contribute and any
 feedback is appreciated. [You can read more about it on the project’s
-homepage](http://www.econometricslibrary.com/core).
+homepage](http://www.econometricslibrary.org/core).
 
 <hr />
 
