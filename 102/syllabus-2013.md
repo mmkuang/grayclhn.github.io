@@ -54,7 +54,7 @@ happy to schedule other appointments by email.
 I will use [BlackBoard Learn](https://bb.its.iastate.edu) to
 distribute grades, announcements, and handouts before each class.  This
 syllabus will also be available on my website at
-<http://gray.clhn.co/handouts/2013/econ-102-syllabus.html>.
+<http://gray.clhn.org/handouts/2013/econ-102-syllabus.html>.
 
 Grades
 ------
