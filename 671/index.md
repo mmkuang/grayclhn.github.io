@@ -3,37 +3,33 @@ layout: default
 title: Economics 671 course page
 ---
 
-[leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
+This is the course webpage for Economics 671 at Iowa State, PhD
+Econometrics (Fall 2014). The class meets 9–11 in Heady 272. The TA
+this Fall is Yang He. Before emailing me or the TA about this class,
+please read [these email guidelines](../dl/email). ([Written by
+Michael Leddy][leddy].)
 
-This is the course webpage for Economics 671 at Iowa State (Fall
-2013). It has a few links, and that’s about it.  I haven’t finalized
-the 2014 syllabus yet, but I will post it here when it is ready.
-
-Before emailing me or the TA about this class, please read [these
-email guidelines](../dl/email).
-([written by Michael Leddy][leddy].)
-
-The required textbooks for the class are:
-
-* Greene’s *[Econometric Analysis][]* (2011, 7th edition). This book will be used in Econ 672 as well.
-* Casella and Berger’s *Statistical Inference* (2001, second edition).
-
-[This zipfile](reading_2014.zip) has other papers that you're required
-to read for the class. The following textbooks are recommended for the
-class:
-
-[Econometric Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
-
-* Freedman’s *[Statistical Models: Theory and practice][]* (2009, second edition)
-* Gallant’s *[Introduction to Econometric Theory][]* (1997)
-
-[Statistical Models: Theory and practice]: http://www.stat.berkeley.edu/~census
-[Introduction to Econometric Theory]: http://www.aronaldg.org/courses/econ501
+* [Course syllabus](syllabus-2014.pdf) ([LaTeX](syllabus-2014.tex))
+  with contact information and class details.
+* Required textbooks:
+  * Greene’s *[Econometric Analysis][]* (2011, 7th edition). This book
+    will be used in Econ 672 as well.
+  * Casella and Berger’s *Statistical Inference* (2001, second
+    edition).
+* [Additional required reading](reading-2014.zip) (password protected)
+* Recommended textbooks:
+  * Freedman’s *[Statistical Models: Theory and practice][]* (2009, second edition)
+  * Gallant’s *[Introduction to Econometric Theory][]* (1997)
 
 I’m also in the process of converting my lecture notes for this class
 into a free textbook.  You are certainly welcome to contribute and any
 feedback is appreciated. [You can read more about it on the project’s
 homepage](http://www.econometricslibrary.org/core).
+
+[leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
+[Econometric Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
+[Statistical Models: Theory and practice]: http://www.stat.berkeley.edu/~census
+[Introduction to Econometric Theory]: http://www.aronaldg.org/courses/econ501
 
 <hr />
 
@@ -102,6 +98,6 @@ you learn what sort of questions I find interesting.
 
 Feel free to use any of this material if you are teaching a similar
 class. I will try to help out with lecture notes, etc., if you
-email, <gcalhoun@iastate.edu>
+email me: <gcalhoun@iastate.edu>.
 
 [CC]: http://creativecommons.org/licenses/by-sa/3.0/
