@@ -1,59 +1,3 @@
-\documentclass[nofonts]{tufte-handout}
-\title[Econ 674 syllabus]{Econ 674, PhD Macroeconometrics}
-\author{Helle Bunzel and Gray Calhoun}
-\date{Fall semester, 2014}
-
-\morefloats
-\usepackage{
-  booktabs,
-  enumitem,
-  fancyvrb,
-  fancyhdr,
-  tabularx,
-  url,
-  verbatim,
-  xcolor,
-}
-\usepackage[T1]{fontenc}
-\usepackage[utf8x]{inputenc}
-\usepackage[bitstream-charter]{mathdesign}
-\usepackage[letterspace=35]{microtype}
-\usepackage[osf]{sourcecodepro}
-\usepackage{sourcesanspro}
-
-% Change to ragged-right without inline math breaks; this helps avoid
-% awkward line breaks or extensions into the right margin in math or
-% code.
-\RaggedRight
-\relpenalty=10000
-\binoppenalty=10000
-\setlength{\parindent}{1em}
-
-\renewcommand{\smallcaps}[1]{\allcaps{#1}}
-\renewcommand{\allcaps}[1]{\textls{\MakeUppercase{#1}}}
-
-\renewcommand{\FancyVerbFormatLine}[1]{\hspace{\leftmargini}#1}
-\fvset{frame=leftline,rulecolor=\color{lightgray}}
-
-\urlstyle{same}
-\DeclareUrlCommand\url{%
-\def\UrlLeft{\guilsinglleft}%
-\def\UrlRight{\guilsinglright}%
-\urlstyle{same}}
-
-\DisableLigatures{family = tt*}
-\frenchspacing
-
-\newcommand{\email}[1]{\href{mailto:#1}{\nolinkurl{#1}}}
-\newcommand{\DSGE}{\allcaps{DSGE}}
-\newcommand{\TA}{\allcaps{TA}}
-\newcommand{\VAR}{\allcaps{VAR}}
-
-\renewcommand{\labelitemi}{{$\circ$}}
-\renewcommand{\labelitemii}{\footnotesize$\circ$}
-\renewcommand{\labelitemiii}{\textperiodcentered}
-\renewcommand{\labelitemiv}{\footnotesize\textperiodcentered}
-
 \begin{filecontents}{syllabus-2014.bib}
 @book{Ca07,
   title =	 {Methods for Applied Macroeconomic Research},
@@ -170,6 +114,63 @@
 }
 \end{filecontents}
 
+\documentclass[nofonts,nols]{tufte-handout}
+\title[Econ 674 syllabus]{Econ 674, PhD Macroeconometrics}
+\author{Helle Bunzel and Gray Calhoun}
+\date{Fall semester, 2014}
+
+\morefloats
+\usepackage{
+  booktabs,
+  enumitem,
+  fancyvrb,
+  fancyhdr,
+  marginfix,
+  tabularx,
+  url,
+  verbatim,
+  xcolor,
+}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage[letterspace=35]{microtype}
+\usepackage[osf]{sourcecodepro}
+\usepackage{sourcesanspro}
+
+% Change to ragged-right without inline math breaks; this helps avoid
+% awkward line breaks or extensions into the right margin in math or
+% code.
+\RaggedRight
+\relpenalty=10000
+\binoppenalty=10000
+\setlength{\parindent}{1em}
+
+\renewcommand{\smallcaps}[1]{\allcaps{#1}}
+\renewcommand{\allcaps}[1]{\textls{\MakeUppercase{#1}}}
+
+\renewcommand{\FancyVerbFormatLine}[1]{\hspace{\leftmargini}#1}
+\fvset{frame=leftline,rulecolor=\color{lightgray}}
+
+\urlstyle{same}
+\DeclareUrlCommand\url{%
+\def\UrlLeft{\guilsinglleft}%
+\def\UrlRight{\guilsinglright}%
+\urlstyle{same}}
+
+\DisableLigatures{family = tt*}
+\frenchspacing
+
+\newcommand{\email}[1]{\href{mailto:#1}{\nolinkurl{#1}}}
+\newcommand{\DSGE}{\allcaps{DSGE}}
+\newcommand{\TA}{\allcaps{TA}}
+\newcommand{\VAR}{\allcaps{VAR}}
+
+\renewcommand{\labelitemi}{{$\circ$}}
+\renewcommand{\labelitemii}{\footnotesize$\circ$}
+\renewcommand{\labelitemiii}{\textperiodcentered}
+\renewcommand{\labelitemiv}{\footnotesize\textperiodcentered}
+
 \begin{document}
 \maketitle
 
@@ -181,19 +182,18 @@
   email  & gcalhoun@iastate.edu & hbunzel@iastate.edu & panliu@iastate.edu   \\
   office & 467 Heady            & 373 Heady           & 280B Heady           \\
   OH     & Tu 2--3:30           & \allcaps{TBD}       & \allcaps{MW} 2--3:30 \\
-  \bottomrule                                                                \\
+  \bottomrule
 \end{tabularx}
 \caption{Instructor and TA contact information.}
 \end{table*}
 
 \noindent%
 This is the syllabus for the first part of Econ 674, a
-macroeconometrics elective.
-If you have questions about the course material, the best times to
-address them are in the scheduled class meetings or during office
-hours. We can probably resolve questions or concerns about the course
-administration over email, but if you have urgent questions please
-call me or stop by my office.
+macroeconometrics elective.  If you have questions about the course
+material, the best times to address them are in the scheduled class
+meetings or during office hours. We can probably resolve questions or
+concerns about the course administration over email, but if you have
+urgent questions please stop by my office.
 
 The required textbook for this class is Jim Hamilton's \emph{Time
   Series Analysis},\cite{Ha94} which is quite dated in some areas but

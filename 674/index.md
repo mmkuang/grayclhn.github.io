@@ -7,34 +7,35 @@ title: Economics 674 course page
 [Blackboard]: https://bb.its.iastate.edu
 
 This is the course webpage for Economics 674 at Iowa State. Helle
-Bunzel and I are co-teaching it in the Fall semester, 2014, and [Pan
-Liu](https://sites.google.com/site/liupan1217/) is our TA.  Before
-emailing me, Helle, or the TA, about this class, please read [these
-email guidelines](../dl/email). ([Written by Michael Leddy][leddy].)
+Bunzel and I are co-teaching it in the Fall, 2014, and [Pan
+Liu](https://sites.google.com/site/liupan1217/) is our TA.
+Before emailing me, Helle, or the TA, about this class, please read
+[these email guidelines](../dl/email). ([Written by Michael
+Leddy][leddy].)
 Helle will use [Blackboard][] to distribute any handouts, etc. and
 I'll use this webpage.
 
 * [Course syllabus](syllabus-2014.pdf) with contact information.
   ([LaTeX](syllabus-2014.tex)). We will update the syllabus with more
   details later in the semester.
-* [Required readings](reading-2014.zip) (incomplete)
-
-The required textbook for this class is [Jim
-Hamilton’s](http://econweb.ucsd.edu/~jhamilton/) *[Time Series
-Analysis](http://press.princeton.edu/titles/5386.html)* (1994)
-and the following books and lectures are also recommended:
-
-* [Fabio Canova’s](http://apps.eui.eu/Personal/Canova/) *[Methods for
-  Applied Macroeconomic
-  Research](http://press.princeton.edu/titles/8434.html)* (2007)
-* Helmut Lütkepohl’s *[New Introduction to Multiple Time Series
-  Analysis](http://www.springer.com/economics/econometrics/book/978-3-540-40172-8)*
+* Required textbook:
+  * [Jim Hamilton’s](http://econweb.ucsd.edu/~jhamilton/) *[Time
+  Series Analysis](http://press.princeton.edu/titles/5386.html)*
+  (1994)
+* [Additional required reading](reading-2014.zip) (incomplete,
+  password protected)
+* Recommended textbooks and lectures
+  * [Fabio Canova’s](http://apps.eui.eu/Personal/Canova/) *[Methods for
+    Applied Macroeconomic
+    Research](http://press.princeton.edu/titles/8434.html)* (2007)
+  * Helmut Lütkepohl’s *[New Introduction to Multiple Time Series
+    Analysis](http://www.springer.com/economics/econometrics/book/978-3-540-40172-8)*
   (2005)
-* Anna Mikusheva’s [lecture notes for Time Series Analysis][Mikusheva]
-  (taught in 2013, licensed CC BY-NC-SA)
-* Stock and Watson’s [NBER Summer Institute lectures: What’s new in
-  econometrics—time series][NBER08] (taught in 2008; videos and slides
-  available at the link)
+  * Anna Mikusheva’s [lecture notes for Time Series Analysis][Mikusheva]
+    (taught in 2013, licensed CC BY-NC-SA)
+  * Stock and Watson’s [NBER Summer Institute lectures: What’s new in
+    econometrics—time series][NBER08] (taught in 2008; videos and slides
+    available at the link)
 
 [Mikusheva]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013
 [NBER08]: http://www.nber.org/minicourse_2008.html
