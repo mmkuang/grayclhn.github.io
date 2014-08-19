@@ -18,12 +18,10 @@ I'll use this webpage.
   ([LaTeX](syllabus-2014.tex)). We will update the syllabus with more
   details later in the semester.
 
-The required textbook for this class is:
-
-* [Jim Hamilton’s](http://econweb.ucsd.edu/~jhamilton/) *[Time Series
-  Analysis](http://press.princeton.edu/titles/5386.html)* (1994)
-
-The following books and lectures are recommended for the class:
+The required textbook for this class is [Jim
+Hamilton’s](http://econweb.ucsd.edu/~jhamilton/) *[Time Series
+Analysis](http://press.princeton.edu/titles/5386.html)* (1994)
+and the following books and lectures are also recommended:
 
 * [Fabio Canova’s](http://apps.eui.eu/Personal/Canova/) *[Methods for
   Applied Macroeconomic

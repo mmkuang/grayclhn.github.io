@@ -1,2 +1,4 @@
 permalink: pretty
 markdown: rdiscount
+exclude: ['*.aux', '*.bbl', '*.blg', '*.log', '*.out', '*.fdb_latexmk',
+	 '*.fls', '674/*.bib']
