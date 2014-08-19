@@ -23,7 +23,7 @@ Elliott and Allan Timmermann.
   a free/open-access textbook development project that you
   should contribute to.
 
-This page is mirrored at <http://www.econ.iastate.edu/~gcalhoun> and
+This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <http://gray.clhn.org>. They should be identical.
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
