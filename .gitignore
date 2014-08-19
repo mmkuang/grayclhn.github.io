@@ -1,6 +1,7 @@
 _site/
 671/reading_2014
 674/*.bib
+674/reading/
 
 *~
 *.aux
