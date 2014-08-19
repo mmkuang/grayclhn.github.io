@@ -1,3 +1,12 @@
-*~
 _site/
 671/reading_2014
+674/*.bib
+
+*~
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
