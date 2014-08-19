@@ -17,6 +17,7 @@ I'll use this webpage.
 * [Course syllabus](syllabus-2014.pdf) with contact information.
   ([LaTeX](syllabus-2014.tex)). We will update the syllabus with more
   details later in the semester.
+* [Required readings](reading-2014.zip) (incomplete)
 
 The required textbook for this class is [Jim
 Hamilton’s](http://econweb.ucsd.edu/~jhamilton/) *[Time Series
