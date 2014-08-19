@@ -1,5 +1,6 @@
 _site/
-671/reading_2014
+671/*.bib
+671/reading-2014
 674/*.bib
 674/reading-2014/
 
@@ -7,6 +8,7 @@ _site/
 *.aux
 *.bbl
 *.blg
+*.dvi
 *.fdb_latexmk
 *.fls
 *.log

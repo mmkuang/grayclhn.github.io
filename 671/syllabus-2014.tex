@@ -1,0 +1,497 @@
+\begin{filecontents}{syllabus-2014.bib}
+@book{CB02,
+  title =	 {Statistical Inference},
+  author =	 {Casella, George and Berger, Roger L},
+  year =	 2002,
+  publisher =	 {Duxbury Press},
+  edition =	 {2nd}
+}
+
+@Article{Fi26,
+  author =	 {R.A. Fisher},
+  title =	 {The Arrangement of Field Experiments},
+  journal =	 {Journal of the Ministry of Agriculture of Great
+                  Britain},
+  year =	 1926,
+  volume =	 33,
+  pages =	 {503-513},
+  note =	 {Available at
+                  \url{http://digital.library.adelaide.edu.au/dspace/handle/2440/15191}}
+}
+
+@Book{Fr09,
+  author =	 {David A. Freedman},
+  title =	 {Statistical Models: Theory and Practice},
+  publisher =	 {Cambridge University Press},
+  year =	 2009,
+  edition =	 {revised}
+}
+
+@article{Fr91,
+  author =	 {Freedman, David A.},
+  title =	 {Statistical Models and Shoe Leather},
+  journal =	 {Sociological Methodology},
+  volume =	 21,
+  pages =	 {291-313},
+  note =	 {Available at
+                  \url{http://www.jstor.org/stable/270939}},
+  year =	 1991,
+}
+
+@book{GH07,
+  title =	 {Data Analysis Using Regression and
+                  Multilevel/Hierarchical Models},
+  author =	 {Gelman, Andrew and Hill, Jennifer},
+  year =	 2007,
+  publisher =	 {Cambridge University Press}
+}
+
+@Book{Ga97,
+  author =	 {A. Ronald Gallant},
+  title =	 {An Introduction to Econometric Theory},
+  publisher =	 {Princeton University Press},
+  year =	 1997
+}
+
+@Book{Gr12,
+  author =	 {William H. Greene},
+  title =	 {Econometric Analysis},
+  publisher =	 {Prentice Hall},
+  year =	 2012,
+  edition =	 {7th}
+}
+
+@Article{IW09,
+  author =	 {Guido W. Imbens and Jeffrey M. Wooldridge},
+  title =	 {Recent Developments in the Econometrics of Program
+                  Evaluation},
+  journal =	 {Journal of Economic Literature},
+  year =	 2009,
+  volume =	 47,
+  number =	 1,
+  pages =	 {5-86},
+  month =	 {March},
+  note =	 {Available at
+                  \url{http://ideas.repec.org/a/aea/jeclit/v47y2009i1p5-86.html}}
+}
+
+@book{Ro09,
+  title =	 {Design of Observational Studies},
+  author =	 {Rosenbaum, Paul R.},
+  year =	 2009,
+  publisher =	 {Springer}
+}
+
+@article{Ru05,
+  title =	 {Causal inference using potential outcomes},
+  author =	 {Rubin, Donald B.},
+  journal =	 {Journal of the American Statistical Association},
+  volume =	 100,
+  number =	 469,
+  year =	 2005,
+  note =	 {Available at
+                  \url{http://www.jstor.org/stable/27590541}}
+}
+
+@Book{eflp-core,
+  author =	 {Gray Calhoun},
+  title =	 {Core Econometrics},
+  publisher =	 {Econometrics Free Library Project,
+                  \url{http://www.econometricslibrary.org}},
+  year =	 2014,
+  note =	 {Version 0.7.2}
+}
+\end{filecontents}
+
+\documentclass[nofonts,nols]{tufte-handout}
+
+\makeatletter
+\newlength{\fullwidthlength}
+\AtBeginDocument{\setlength{\fullwidthlength}{\@tufte@fullwidth}}
+\makeatother
+
+\title[Econ 671 Syllabus, Fall 2014]{Economics 671, PhD Econometrics I}
+\date{Fall 2014. Course homepage: \protect\homepage}
+
+\morefloats
+\usepackage{
+  booktabs,
+  enumitem,
+  fancyvrb,
+  fancyhdr,
+  tabularx,
+  url,
+  verbatim,
+  xcolor,
+}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage[letterspace=35]{microtype}
+\usepackage[osf]{sourcecodepro}
+\usepackage{sourcesanspro}
+
+% Change to ragged-right without inline math breaks; this helps avoid
+% awkward line breaks or extensions into the right margin in math or
+% code.
+\RaggedRight
+\relpenalty=10000
+\binoppenalty=10000
+\setlength{\parindent}{1em}
+
+\renewcommand{\smallcaps}[1]{\allcaps{#1}}
+\renewcommand{\allcaps}[1]{\textls{\MakeUppercase{#1}}}
+
+\renewcommand{\FancyVerbFormatLine}[1]{\hspace{\leftmargini}#1}
+\fvset{frame=leftline,rulecolor=\color{lightgray}}
+
+\urlstyle{same}
+\DeclareUrlCommand\url{%
+\def\UrlLeft{\guillemotleft}%
+\def\UrlRight{\guillemotright}%
+\urlstyle{same}}
+
+\DisableLigatures{family = tt*}
+\frenchspacing
+
+\newcommand{\homepage}{\url{http://www.econ.iastate.edu/~gcalhoun/671}}
+\newcommand{\RAT}{\allcaps{RAT}}
+\newcommand{\TA}{\allcaps{TA}}
+\newcommand{\TBD}{\allcaps{TBD}}
+\newcommand{\TBL}{\allcaps{TBL}}
+
+\renewcommand{\labelitemi}{{$\circ$}}
+\renewcommand{\labelitemii}{\footnotesize$\circ$}
+\renewcommand{\labelitemiii}{\textperiodcentered}
+\renewcommand{\labelitemiv}{\footnotesize\textperiodcentered}
+
+\begin{document}
+\noindent%
+\begin{minipage}{\fullwidthlength}
+\maketitle
+\end{minipage}
+
+\begin{table}[h]
+\begin{tabularx}{\textwidth}{rXX}
+  \toprule
+         & Gray Calhoun         & Yang He (\TA)       \\
+  \midrule
+  email  & gcalhoun@iastate.edu & yanghe@iastate.edu  \\
+  phone  & (515) 294-6271       & Don't call the \TA! \\
+  office & 467 Heady            & 271 Heady           \\
+  OH     & Tu 2--3:30           & \TBD                \\
+  \bottomrule
+\end{tabularx}
+\caption{Instructor and \TA\ contact information.}
+\end{table}
+
+\noindent%
+Welcome to Econ 671! This class has three goals. You are going to
+study and learn fundamental techniques in econometrics and statistics
+so that you can use them in your future research.  You are also going
+to learn some of the basic theoretical concepts in econometrics so
+that you can understand new techniques when you encounter them in
+future classes and later in your career.  And, finally, you're going
+to learn how to use a computer to do statistical and econometric
+analysis.
+
+If you have questions about the course material, the best times to
+address them are in the scheduled class meetings or during office
+hours. We can probably resolve questions or concerns about the course
+administration over email, but if you have urgent questions please
+call me or stop by my office.
+
+\section{Textbooks and software}
+
+This class has two required textbooks, \citep{CB02} and \citep{Gr12},
+and two recommended textbooks, \citep{Ga97} and \citep{Fr09}.%
+\footnote{There is a bibliography with full citations later in the
+  syllabus.} %
+These are all available at the university bookstore but can be
+purchased cheaper online. There are a few other required readings that
+are available through the course homepage. Additionally,
+\citep{eflp-core} is a disorganized collection of notes from previous
+years that I've taught this class and is available for free download
+online at \url{http://www.econometricslibrary.org}. These notes are
+neither required nor necessarily recommended, but you may find them
+helpful.  The course \emph{Reading guide} has a short overview of the
+different readings.
+
+You are also going to start to learn computer programming in this
+class. The \TA\ will teach R, a specialized language that's designed
+for statistical analysis, in some of the Friday discussion sessions.%
+\footnote{R can be downloaded for free from
+  \url{http://www.r-project.org}.} %
+You may also want to look at Julia and Python,%
+\footnote{Julia is available for free at \url{http://julialang.org}.}%
+\footnote{For Python, you'll especially want the packages at
+  \url{http://www.scipy.org}.} %
+they are also free software and are also designed for statistical and
+scientific computing, but have different strengths than R.
+
+\section{Grading}
+
+This course uses the \emph{Team-Based Learning} (\TBL) instructional
+strategy, which is probably different from instruction styles you've
+had before. Most of the content is covered individually with readings
+and short problems completed outside of class.  Most of the activities
+and projects, which would conventionally be done as out-of-class
+homework and group projects, are done in teams during class.
+
+There will be six short multiple-choice \emph{Readiness-Assurance
+  Tests} (\RAT s) at the \textbf{beginning} of each unit of material;
+these will be taken as individuals first, then as a team. There will
+also be six main team projects at the end of each unit, and an
+individual midterm and final exam. For team tests and projects, all
+members of the team will receive the same score.
+
+Scores in three areas will determine the grades: \emph{Individual
+  Performance}, \emph{Team Performance} and constructive behavior as
+determined by \emph{Peer Evaluations}.
+
+\subsection{Setting Grade Weights}
+
+Representatives from each team will set the percentage of the course
+grade that will be determined by scores in each of the major
+performance areas during the first class period. Team representatives
+will also decide on the relative weight of the Readiness Assurance
+Tests and the exams within the Individual Performance area.
+
+Grade weights will be set for the class using the following
+procedures:
+\begin{enumerate}
+\item Each team will set preliminary weights and select a member to
+  meet with other teams' representatives.
+\item Team representatives will meet in the center of the room and
+  develop a consensus (i.e., every representative has to be in
+  agreement) about the grade weights for the class as a whole.
+\item The only limitations on your grade weight decisions are listed
+  in the table:
+  \begin{enumerate}
+  \item A minimum of 20\% of the total grade must be assigned to each
+    major performance area.
+  \item Within the individual performance area, at least 20\% of the
+    grade must be based on each exam and on the total of the
+    individual \RAT s.
+  \end{enumerate}
+\end{enumerate}
+Table~\ref{weights} summarizes these rules and provides space to enter
+the weights that you all agree on.
+
+\begin{table}[t]
+\newcommand{\rl}{\rule{.75cm}{.4pt}}
+\begin{tabularx}{\textwidth}{Xccc}
+\toprule
+Component                       & Weight & Min. (\%) & Max (\%) \\
+\midrule
+                                                                \\
+\textbf{Individual performance} & \rl    & 20        & 60       \\
+\cmidrule(r){1-1}
+Individual \RAT s               & \rl    & 20        & 60       \\
+Midterm exam                    & \rl    & 20        & 60       \\
+Final exam                      & \rl    & 20        & 60       \\
+                                                                \\
+\textbf{Team performance}       & \rl    & 20        & 60       \\
+\cmidrule(r){1-1}
+Team \RAT s                     & 30\%                          \\
+Team projects                   & 70\%                          \\
+                                                                \\
+\textbf{Peer evaluations}       & \rl    & 20        & 60       \\
+\bottomrule                                                     \\
+\end{tabularx}
+\caption{Weights for each component of the course grades --- the
+  specific weights will be determined by the class as described in
+  the syllabus. The three components of ``individual performance''
+  must add up to 100\%, with a minimum weight of 20\% on each exam
+  and on the overall individual \RAT\ scores. The weights of the three
+  main performance areas (in bold) must also add up to 100\% and must
+  each be at least 20\%.}
+\label{weights}
+\end{table}
+
+\subsection{Peer evaluations}
+Each individual will rate the contributions all of the other members
+of their teams during the final exam.  Individual Peer Evaluation
+scores will be the average of the points they receive from the members
+of their team.  Assuming arbitrarily that: 1) constructive behavior is
+worth 10 points, and 2) that there six members in a team, an example
+of this procedure would be as follows:
+
+Each individual must assign a total of 50 points to the other five
+members in their team.  Raters must differentiate some scores in their
+ratings (This means that each rater would have to give at least one
+score of 11 or higher --- with a maximum of 15 --- and at least one
+score of 9 or lower --- with a minimum of 5). The Team Maintenance
+scores will produce differences in grades only within teams.  As a
+result, team-members can't help everyone in their team get an A by
+giving them a high peer evaluation scores.  The only way for everyone
+in a team to earn an A is by doing an outstanding job on the
+individual exams and team exams and projects.
+
+\subsection{Determination of final grades}
+
+The final grades will be determined as follows:
+\begin{enumerate}
+\item A raw total score will be computed for each student in each
+  major performance area. (In the Individual Performance area, this
+  will be a weighted combination of the sum of the individual
+  Readiness Assurance Test scores and the final exam score, in the
+  Team Performance area, this will be the sum of the scores on each of
+  the graded team assignments and the Team Maintenance score will be
+  the average of the peer evaluations received from the other members
+  of his or her team.)
+\item Students' total scores will be computed by multiplying the raw
+  scores in each area by the grade ``weight'' set by the class (see
+  above).
+\item Course grades will be based on each student's standing in the
+  overall distribution of total individual scores within the class.
+  The actual impact of any score on an individual student's final
+  grade depends on both his or her actual score and also how high or
+  low he or she scores relative to other members of the class.  The
+  conventional practice of 90\% is an A, 80\% is a B, etc. simply does
+  not apply.
+\end{enumerate}
+
+\section{Planned schedule}
+
+The course is broken up into six parts with required reading for each
+one, as listed in Table~\ref{tab1}. Additional ungraded prep work may
+be assigned as the semester goes along.
+
+\begin{table*}[t]
+  \begin{tabularx}{\textwidth}{lrX}
+    \toprule
+    Topic                                         & \RAT  & Required reading                                                                                          \\
+    \midrule
+    Probability                                   & 9/02  & \citep{Gr12} B, D; \citep{CB02} 5.1--5.3, 5.5                                                             \\
+    Statistical estimation                        & 9/23  & \citep{CB02} 7, 10.1, 10.2                                                                                \\
+    Statistical inference                         & 10/07 & \citep{CB02} 8, 9, 10.3, 10.4                                                                             \\
+    Linear regression                             & 10/21 & \citep{Gr12} 2--4, 5.1--5.7, 9.1, 9.2                                                                     \\
+    Regression modeling                           & 11/11 & \citep{Gr12} 5.8--5.11, 6, 9.1--9.3, 10.1--10.3; \citep{GH07} 6                                           \\
+    Program evaluation                            & 12/02 & \citep{Gr12} 8.1--8.3; \citep{Fi26}; \citep{Fr91}; \citep{IW09} 1--4, 5.1--5.3, 5.11--5.13; \citep{Ru05}; \\
+                                                  &       & \citep{Ro09} 1, 19, Summary                                                                               \\
+                                                                                                                                                                      \\
+    Exam                                          & Date  & Exam time                                                                                                 \\
+    \midrule
+    \multicolumn{2}{l}{Midterm \hfill Fri. 10/24} & 9:00a -- 11:00                                                                                                    \\
+    \multicolumn{2}{l}{Final \hfill Mon. 12/15}   & 7:30a -- 9:30 (sucks, I know)                                                                                     \\
+   \bottomrule
+  \end{tabularx}
+  \caption{List of major units and required reading for the class.
+    There is a bibliography with full citations elsewhere in the syllabus.}
+  \label{tab1}
+\end{table*}
+
+The Friday meetings will usually cover programming and software
+development. They will often be unrelated to the main class --- think
+of them as a parallel class --- but we will sometimes use those
+sessions for review or to continue a team project. A tentative plan
+for the sessions is listed in Table~\ref{tab2}.
+
+\begin{table}[t]
+  \caption{Tentative list of topics covered during Friday review
+    session. Classes that are \emph{emphasized} will be held in the
+    regular classroom; the rest will be held in the computer lab.}
+  \label{tab2}
+  \begin{tabular}{lrlr}
+    \toprule
+    First half of semester          & Week & Second half                & Week      \\
+    \midrule
+    Intro to computing resources    & 1    & Intro to the Unix shell    & 10        \\
+    Programming in R                & 2    & Version control with Git   & 11        \\
+    Graphics in R                   & 3    & More Git                   & 12        \\
+    Data management in R            & 4    & \emph{Class meeting}       & \emph{13} \\
+    LaTeX                           & 5    & \TBD\ --- discuss with \TA & 14        \\
+    Reproducible research  \& Knitr & 6    & \emph{Final exam review}   & \emph{15} \\
+    Databases and \allcaps{SQL}     & 7                                             \\
+    \emph{Midterm review}           & \emph{8}                                      \\
+    \emph{Midterm}                  & \emph{9}                                      \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\section{License and copyright}
+
+To the extent possible under law, Gray Calhoun, the author, has waived
+all copyright and related or neighboring rights to this
+document. Anyone is free to reuse some or all of this syllabus to
+teach a similar class, or for any other purpose. You can download the
+LaTeX source code for this file from the course homepage, \homepage.
+
+\bibliographystyle{alpha}
+\bibliography{syllabus-2014}
+
+\newpage
+\section{University policies}
+
+The following policies apply to \emph{every} course at Iowa State
+University. They are listed here for your convenience and reference.
+
+\subsection{Academic dishonesty}
+
+The class will follow Iowa State University's policy on academic
+dishonesty.  Anyone suspected of academic dishonesty will be reported
+to the Dean of Students Office,
+\url{http://www.dso.iastate.edu/ja/academic/misconduct.html}.
+
+\subsection{Disability accommodation}
+
+This material can be provided to you in alternative format. Anyone who
+anticipates difficulties with the content or format of the course due
+to a physical or learning disability should see me immediately in
+order to work out a plan. You may also want to contact the Disability
+Resources (\allcaps{DR}) office, located on the main floor of the
+Student Services Building, Room 1076 or call them at 515-294-7220.
+
+\subsection{Dead week}
+
+For academic programs, the last week of classes is considered to be a
+normal week in the semester except that in developing their syllabi
+faculty shall consider the following guidelines:
+
+\begin{itemize}
+\item Mandatory final examinations in any course may not be given
+  during Dead Week except for laboratory courses and for those classes
+  meeting once a week only and for which there is no contact during
+  the normal final exam week. Take home final exams and small quizzes
+  are generally acceptable. (For example, quizzes worth no more than
+  10 percent of the final grade and/or that cover no more than
+  one-fourth of assigned reading material in the course could be
+  given.)
+\item Major course assignments should be assigned prior to Dead Week
+  (major assignments include major research papers, projects,
+  etc.). Any modifications to assignments should be made in a timely
+  fashion to give students adequate time to complete the assignments.
+\item Major course assignments should be due no later than the Friday
+  prior to Dead Week. Exceptions include class presentations by
+  students, semester-long projects such as a design project in lieu of
+  a final, and extensions of the deadline requested by students.
+\end{itemize}
+
+\subsection{Harassment and discrimination}
+
+Iowa State University strives to maintain our campus as a place of
+work and study for faculty, staff, and students that is free of all
+forms of prohibited discrimination and harassment based upon race,
+ethnicity, sex (including sexual assault), pregnancy, color, religion,
+national origin, physical or mental disability, age, marital status,
+sexual orientation, gender identity, genetic information, or status as
+a U.S. veteran. Any student who has concerns about such behavior
+should contact his/her instructor, Student Assistance at 515-294-1020,
+or the Office of Equal Opportunity and Compliance at 515-294-7612.
+
+\subsection{Religious accommodation}
+
+If an academic or work requirement conflicts with your religious
+practices and/or observances, you may request reasonable
+accommodations. Your request must be in writing, and your instructor
+or supervisor will review the request.  You or your instructor may
+also seek assistance from the Dean of Students Office or the Office of
+Equal Opportunity and Compliance.
+
+\subsection{Contact information}
+
+If you feel that any of your rights as a student have been violated,
+please email \url{academicissues@iastate.edu}.
+
+\end{document}
