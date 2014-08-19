@@ -55,7 +55,7 @@ These are interesting and should be broadly accessible.
   lecture][]) [Lars Peter Hansen’s](http://www.larspeterhansen.org/)
   [Nobel Lecture][LPHnobel] — for GMM — is also very interesting.
 * John Geweke’s [*Complete and Incomplete Econometric Models*](http://www.jstor.org/stable/j.ctt7t5jp) (2010)
-* There are other books listed on my [671 course page](/671)
+* There are other books listed on my [671 course page](../671)
   (PhD Econometrics I)
 
 [Nobel11]: http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2011/advanced-economicsciences2011.pdf

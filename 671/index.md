@@ -10,7 +10,7 @@ This is the course webpage for Economics 671 at Iowa State (Fall
 the 2014 syllabus yet, but I will post it here when it is ready.
 
 Before emailing me or the TA about this class, please read [these
-email guidelines](/dl/email).
+email guidelines](../dl/email).
 ([written by Michael Leddy][leddy].)
 
 The required textbooks for the class are:

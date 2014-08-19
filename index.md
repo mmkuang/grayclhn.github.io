@@ -58,10 +58,10 @@ This page is mirrored at <http://www.econ.iastate.edu/~gcalhoun> and
 1. Hypothesis testing in linear regression when k/n is large. *Journal
    of Econometrics*, 165(2), 2011: 163–174.
    [Link](http://www.econ.iastate.edu/research/working-papers/p12216), 
-   [R package](/dl/ftestLargeK_1.0.tar.gz), and 
-   [additional files](/dl/calhoun-2010-ftest.tar.gz)
+   [R package](dl/ftestLargeK_1.0.tar.gz), and 
+   [additional files](dl/calhoun-2010-ftest.tar.gz)
 
 ## Short essays/notes
 * [Some thoughts on the Reinhart and Rogoff debate](http://pseudotrue.com/2013/04/24/some-thoughts-on-the-reinhart-and-rogoff-debate)
-* [An extremely subjective guide to the economics job market](/dl/job-market-notes)
-* [Quick thoughts and advice on whether to get a PhD in economics](/dl/econ-grad-school)
+* [An extremely subjective guide to the economics job market](dl/job-market-notes)
+* [Quick thoughts and advice on whether to get a PhD in economics](dl/econ-grad-school)
