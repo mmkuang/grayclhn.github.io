@@ -4,14 +4,19 @@ title: Economics 674 course page
 ---
 
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
+[Blackboard]: https://bb.its.iastate.edu
 
 This is the course webpage for Economics 674 at Iowa State. Helle
-Bunzel and I are co-teaching it in Fall 2014, but haven’t finalized
-the 2014 syllabus yet.
+Bunzel and I are co-teaching it in the Fall semester, 2014, and [Pan
+Liu](https://sites.google.com/site/liupan1217/) is our TA.  Before
+emailing me, Helle, or the TA, about this class, please read [these
+email guidelines](../dl/email). ([Written by Michael Leddy][leddy].)
+Helle will use [Blackboard][] to distribute any handouts, etc. and
+I'll use this webpage.
 
-Before emailing me, the TA, or the other instructor about this class,
-please read [these email guidelines](/dl/email). ([Written by Michael
-Leddy][leddy].)
+* [Course syllabus](syllabus-2014.pdf) with contact information.
+  ([LaTeX](syllabus-2014.tex)). We will update the syllabus with more
+  details later in the semester.
 
 The required textbook for this class is [Jim
 Hamilton’s](http://econweb.ucsd.edu/~jhamilton/) *[Time Series
@@ -26,12 +31,12 @@ The following books and lectures are recommended for the class:
   Analysis](http://www.springer.com/economics/econometrics/book/978-3-540-40172-8)*
   (2005)
 * Anna Mikusheva’s [lecture notes for Time Series Analysis][Mikusheva]
-  (taught in 2008, licensed CC BY-NC-SA)
+  (taught in 2013, licensed CC BY-NC-SA)
 * Stock and Watson’s [NBER Summer Institute lectures: What’s new in
   econometrics—time series][NBER08] (taught in 2008; videos and slides
   available at the link)
 
-[Mikusheva]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2008
+[Mikusheva]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013
 [NBER08]: http://www.nber.org/minicourse_2008.html
 
 <hr />
