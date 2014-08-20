@@ -35,38 +35,37 @@ Michael Leddy][leddy].)
 Additional recommendations
 --------------------------
 
-### Books and lectures
+* Books and lectures  
 
-These are great. Read them all.
+  These are great. Read them all.
 
-* Cleveland’s *Visualizing Data* (1993)
-* Geweke's *Complete and Incomplete Econometric Models* (2010)
-* Jaynes's *Probability Theory: The Logic of Science* (2003)
-* Manski’s *Identification for Prediction and Decision* (2007)
-* Tufte’s *Envisioning Information* (1990) and *The Visual Display of
-  Quantitative Information* (2nd edition, 2001)
+  * Cleveland’s *Visualizing Data* (1993)
+  * Geweke's *Complete and Incomplete Econometric Models* (2010)
+  * Jaynes's *Probability Theory: The Logic of Science* (2003)
+  * Manski’s *Identification for Prediction and Decision* (2007)
+  * Tufte’s *Envisioning Information* (1990) and *The Visual Display of
+    Quantitative Information* (2nd edition, 2001)
 
-The NBER holds a lecture/instruction series on new econometrics
-developments and puts video and slides online. A list of the topics is
-[available here](http://www.nber.org/SI_econometrics_lectures.html).
+  The NBER holds a lecture/instruction series on new econometrics
+  developments and puts video and slides online. A list of the topics is
+  [available here](http://www.nber.org/SI_econometrics_lectures.html).
 
-### Software
+* Software
+  * [Julia Language](http://julialang.org/)
+  * [R Project for Statistical Computing](http://www.r-project.org)
+  * [SciPy](http://www.scipy.org/) (Scientific python)
 
-* [Julia Language](http://julialang.org/)
-* [R Project for Statistical Computing](http://www.r-project.org)
-* [SciPy](http://www.scipy.org/) (Scientific python)
+* Writing advice  
 
-### Writing advice
+  At some point you’ll be expected to write a dissertation. The advice
+  in these books is pretty good. They’re listed in the order they should
+  be read.
 
-At some point you’ll be expected to write a dissertation. The advice
-in these books is pretty good. They’re listed in the order they should
-be read.
-
-* Strunk and White’s *[The Elements of Style][]* (4th edition)
-* Miller’s *[The Chicago Guide to Writing about Multivariate Analysis][]*
-  (second edition)
-* Williams and Bizup’s *Style: The Basics of Clarity and Grace*
-  (5th edition)
+  * Strunk and White’s *[The Elements of Style][]* (4th edition)
+  * Miller’s *[The Chicago Guide to Writing about Multivariate Analysis][]*
+    (second edition)
+  * Williams and Bizup’s *Style: The Basics of Clarity and Grace*
+    (5th edition)
 
 [The Elements of Style]: http://en.wikipedia.org/wiki/The_Elements_of_Style
 [The Chicago Guide to Writing about Multivariate Analysis]: http://www.press.uchicago.edu/books/miller/multivariate/index.html
