@@ -20,16 +20,15 @@ Michael Leddy][leddy].)
 * Recommended textbooks:
   * Freedman’s *[Statistical Models: Theory and practice][]* (2009, second edition)
   * Gallant’s *[Introduction to Econometric Theory][]* (1997)
-
-I’m also in the process of converting my lecture notes for this class
-into a free textbook.  You are certainly welcome to contribute and any
-feedback is appreciated. [You can read more about it on the project’s
-homepage](http://www.econometricslibrary.org/core).
+* [Notes based on my lectures from previous years][notes].
+* [A list of additional free econometrics resources][EFLP]
 
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
 [Econometric Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
 [Statistical Models: Theory and practice]: http://www.stat.berkeley.edu/~census
 [Introduction to Econometric Theory]: http://www.aronaldg.org/courses/econ501
+[notes]: https://github.com/EconometricsLibrary/core/releases
+[EFLP]: http://www.econometricslibrary.org
 
 <hr />
 
