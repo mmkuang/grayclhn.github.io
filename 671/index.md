@@ -6,8 +6,8 @@ title: Economics 671 course page
 This is the course webpage for Economics 671 at Iowa State, PhD
 Econometrics (Fall 2014). The class meets 9–11 in Heady 272. The TA
 this Fall is Yang He. Before emailing me or the TA about this class,
-please read [these email guidelines](../dl/email). ([Written by
-Michael Leddy][leddy].)
+please read [these email guidelines](../dl/email) ([written by
+Michael Leddy][leddy]).
 
 * [Course syllabus](syllabus-2014.pdf) ([LaTeX](syllabus-2014.tex))
   with contact information and class details.

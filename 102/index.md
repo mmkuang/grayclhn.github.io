@@ -10,7 +10,7 @@ This is the course webpage for Economics 102 at Iowa State (Spring
 for section 3 (meets 1–2 MWF) is here](syllabus-2014-s3) and the
 [syllabus for section 4 (meets 2–3 MWF) is here](syllabus-2014-s4).
 Before emailing the instructor or the TAs, please read [these email
-guidelines](../dl/email).  ([Written by Michael Leddy][leddy].)  The
+guidelines](../dl/email) ([written by Michael Leddy][leddy]). The
 class is administered through
 [Blackboard](https://bb.its.iastate.edu/) and all of our exams are
 administered at the [ELO Testing
