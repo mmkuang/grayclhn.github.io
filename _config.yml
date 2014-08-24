@@ -11,4 +11,5 @@ exclude: ['*~',
           '*.out',
           '671/*.bib',
           '674/*.bib',
-          'CNAME']
+          'CNAME',
+          'econupload.sh']
