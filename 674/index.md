@@ -36,9 +36,11 @@ I'll use this webpage.
   * Stock and Watson’s [NBER Summer Institute lectures: What’s new in
     econometrics—time series][NBER08] (taught in 2008; videos and slides
     available at the link)
+* [A list of additional free econometrics resources][EFLP]
 
 [Mikusheva]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013
 [NBER08]: http://www.nber.org/minicourse_2008.html
+[EFLP]: http://www.econometricslibrary.org/#3
 
 <hr />
 
