@@ -10,8 +10,8 @@ This is the course webpage for Economics 674 at Iowa State. Helle
 Bunzel and I are co-teaching it in the Fall, 2014, and [Pan
 Liu](https://sites.google.com/site/liupan1217/) is our TA.
 Before emailing me, Helle, or the TA, about this class, please read
-[these email guidelines](../dl/email). ([Written by Michael
-Leddy][leddy].)
+[these email guidelines](../dl/email) ([written by Michael
+Leddy][leddy]).
 Helle will use [Blackboard][] to distribute any handouts, etc. and
 I'll use this webpage.
 
