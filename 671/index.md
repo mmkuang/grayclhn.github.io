@@ -29,7 +29,7 @@ Michael Leddy][leddy]).
 [Statistical Models: Theory and practice]: http://www.stat.berkeley.edu/~census
 [Introduction to Econometric Theory]: http://www.aronaldg.org/courses/econ501
 [notes]: https://github.com/EconometricsLibrary/core/releases
-[EFLP]: http://www.econometricslibrary.org
+[EFLP]: http://www.econometricslibrary.org/#1
 
 <hr />
 
