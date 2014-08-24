@@ -11,6 +11,7 @@ Michael Leddy][leddy]).
 
 * [Course syllabus](syllabus-2014.pdf) ([LaTeX](syllabus-2014.tex))
   with contact information and class details.
+* [Slides for introductory lecture](intro-slides-2014.pdf)
 * Required textbooks:
   * Greene’s *[Econometric Analysis][]* (2011, 7th edition). This book
     will be used in Econ 672 as well.
