@@ -9,9 +9,11 @@ this Fall is Yang He. Before emailing me or the TA about this class,
 please read [these email guidelines](../dl/email) ([written by
 Michael Leddy][leddy]).
 
-* [Course syllabus](syllabus-2014.pdf) ([LaTeX](syllabus-2014.tex))
+* [Course syllabus](syllabus-2014.pdf)
   with contact information and class details.
-* [Slides for introductory lecture](intro-slides-2014.pdf)
+* [Slides for introductory lecture](slides-2014.pdf)
+* [Reading guide](readingguide-2014.pdf)
+* [LaTeX source for the previous three documents](source-2014.zip)
 * Required textbooks:
   * Greene’s *[Econometric Analysis][]* (2011, 7th edition). This book
     will be used in Econ 672 as well.
