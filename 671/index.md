@@ -25,13 +25,15 @@ Michael Leddy][leddy]).
   * Gallant’s *[Introduction to Econometric Theory][]* (1997)
 * [Notes based on my lectures from previous years][notes].
 * [A list of additional free econometrics resources][EFLP]
+  ([relevant material][EFLP2])
 
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
 [Econometric Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
 [Statistical Models: Theory and practice]: http://www.stat.berkeley.edu/~census
 [Introduction to Econometric Theory]: http://www.aronaldg.org/courses/econ501
 [notes]: https://github.com/EconometricsLibrary/core/releases
-[EFLP]: http://www.econometricslibrary.org/#1
+[EFLP]: http://www.econometricslibrary.org/
+[EFLP2]: http://www.econometricslibrary.org/#1
 
 <hr />
 
