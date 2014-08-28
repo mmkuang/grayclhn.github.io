@@ -12,11 +12,11 @@ Michael Leddy][leddy]).
 * [Course syllabus](syllabus-2014.pdf)
   with contact information and class details.
 * Grade weights for the semester (see the syllabus for details)
-  * 50% Individual performance
+  * 50% Individual performance, broken down as:
     * 25% Individual RAT
     * 40% Midterm exam
     * 35% Final exam
-  * 30% Team performance
+  * 30% Team performance, broken down as:
     * 30% Team RAT
     * 70% Team projects
   * 20% Peer evaluations
