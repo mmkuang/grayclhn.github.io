@@ -37,12 +37,12 @@ I'll use this webpage.
     econometrics—time series][NBER08] (taught in 2008; videos and slides
     available at the link)
 * [A list of additional free econometrics resources][EFLP]
-  ([relevant material][EFLP2])
+  (and [especially relevant material][EFLP2])
 
 [Mikusheva]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013
 [NBER08]: http://www.nber.org/minicourse_2008.html
 [EFLP]: http://www.econometricslibrary.org/
-[EFLP2]: http://www.econometricslibrary.org/#3
+[EFLP2]: http://www.econometricslibrary.org/#timeseries
 
 <hr />
 
