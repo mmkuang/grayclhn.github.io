@@ -20,6 +20,9 @@ Michael Leddy][leddy]).
     * 30% Team RAT scores
     * 70% Team projects
   * 20% Peer evaluations
+* You can use [Blackboard Learn][] to check your grade throughout the
+  semester and to send messages to your team. But all of the course
+  material will be put on this webpage.
 * [Slides for introductory lecture](slides-2014.pdf)
 * [Reading guide](readingguide-2014.pdf)
 * [LaTeX source for the previous three documents](source-2014.zip)
@@ -36,6 +39,7 @@ Michael Leddy][leddy]).
 * [A list of additional free econometrics resources][EFLP]
   (and [especially relevant material][EFLP2])
 
+[Blackboard Learn]: https://bb.its.iastate.edu
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
 [Econometric Analysis]: http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm
 [Statistical Models: Theory and practice]: http://www.stat.berkeley.edu/~census
