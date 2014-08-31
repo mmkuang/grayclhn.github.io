@@ -53,8 +53,8 @@ Michael Leddy][leddy]).
 Additional recommendations
 --------------------------
 
-* Books and lectures  
-  These are great. Read them all.  
+* Books and lectures
+  These are great. Read them all.
   * Cleveland’s *Visualizing Data* (1993)
   * Geweke's *Complete and Incomplete Econometric Models* (2010)
   * Jaynes's *Probability Theory: The Logic of Science* (2003)
@@ -71,10 +71,10 @@ Additional recommendations
   * [R Project for Statistical Computing](http://www.r-project.org)
   * [SciPy](http://www.scipy.org/) (Scientific python)
 
-* Writing advice  
+* Writing advice
   At some point you’ll be expected to write a dissertation. The advice
   in these books is pretty good. They’re listed in the order they should
-  be read.  
+  be read.
   * Strunk and White’s *[The Elements of Style][]* (4th edition)
   * Miller’s *[The Chicago Guide to Writing about Multivariate Analysis][]*
     (second edition)
