@@ -44,6 +44,20 @@ I'll use this webpage.
 [EFLP]: http://www.econometricslibrary.org/
 [EFLP2]: http://www.econometricslibrary.org/#timeseries
 
+Partial lecture notes
+---------------------
+
+Please let me know when you find errors. The documents in this section
+are licensed under the [GNU Free Documentation License][FDL] v1.3
+
+* [Estimating and using VARs][VAR1] (Sept. 9th, 2014, with [source code][VAR1src])
+* [Local copy of the license][FDL_local].
+
+[VAR1]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.4/var_forecasts.ipynb
+[VAR1src]: https://github.com/grayclhn/674/blob/v0.2.4/var_forecasts.ipynb
+[FDL]: http://www.gnu.org/copyleft/fdl.html
+[FDL_local]: GNU_FDL.html
+
 <hr />
 
 Additional recommendations:
