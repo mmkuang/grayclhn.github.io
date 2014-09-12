@@ -48,18 +48,19 @@ Partial lecture notes
 ---------------------
 
 Please let me know when you find errors. The documents in this section
-are licensed under the [GNU Free Documentation License][FDL] v1.3
+are copyright 2014 by Gray Calhoun, and licensed under the [GNU Free
+Documentation License][FDL] v1.3
 
 * [Estimating and using VARs][VAR1] (Sept. 9th, 2014, with [source code][VAR1src] and [data][VAR1data])
 * [Structural VARs][VAR2] (Sept. 11th, 2014, with [source code][VAR2src] and [data][VAR2data])
 * [Local copy of the license][FDL_local].
 
-[VAR1]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.4/var_forecasts.ipynb
-[VAR2]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.5/svar_lecture.ipynb
-[VAR1src]: https://github.com/grayclhn/674/blob/v0.2.4/var_forecasts.ipynb
-[VAR2src]: https://github.com/grayclhn/674/blob/v0.2.5/svar_lecture.ipynb
-[VAR1data]: https://github.com/grayclhn/674/blob/v0.2.4/data/bivariate_example.csv
-[VAR2data]: https://github.com/grayclhn/674/blob/v0.2.5/data/bivariate_example2.csv
+[VAR1]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.6/var_forecasts.ipynb
+[VAR2]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.6/svar_lecture.ipynb
+[VAR1src]: https://github.com/grayclhn/674/blob/v0.2.6/var_forecasts.ipynb
+[VAR2src]: https://github.com/grayclhn/674/blob/v0.2.6/svar_lecture.ipynb
+[VAR1data]: https://github.com/grayclhn/674/blob/v0.2.6/data/bivariate_example.csv
+[VAR2data]: https://github.com/grayclhn/674/blob/v0.2.6/data/bivariate_example2.csv
 [FDL]: http://www.gnu.org/copyleft/fdl.html
 [FDL_local]: GNU_FDL/
 
