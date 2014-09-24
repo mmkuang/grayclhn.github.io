@@ -31,7 +31,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <hr />
 
-## Course pages
+## Teaching
 * [Principles of Macroeconomics (Econ 102)](102)
 * [PhD Econometrics 1 — introduction to statistics
   and regression (Econ 671)](671)
