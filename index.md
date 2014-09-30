@@ -24,7 +24,7 @@ Elliott and Allan Timmermann.
   should contribute to.
 
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
-<http://gray.clhn.org>. They should be identical.
+<http://pseudotrue.com>. They should be identical.
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
