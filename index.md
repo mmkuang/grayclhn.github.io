@@ -41,6 +41,11 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 * [PhD Econometrics 1 — introduction to statistics
   and regression (Econ 671)](671)
 * [PhD Macroeconometrics (Econ 674)](674)
+* [Topics in statistical computing (Stat 590f)][590f] ([Heike Hofmann][]
+  is teaching it; I'm attending.)
+
+[590f]: https://github.com/heike/stat590f
+[Heike Hofmann]: http://hofmann.public.iastate.edu/
 
 <hr />
 
