@@ -10,7 +10,7 @@ with a PhD from UC San Diego in 2009, where I worked with Graham
 Elliott and Allan Timmermann.
 
 * **Email:** gcalhoun at iastate dot edu (university) and gray at clhn
-  dot org [sic] (all other email and IM)
+  dot org [sic] (personal email and IM)
 * **Office:** 467 Heady Hall, (515) 294-6271.
   Office hours are 12-12:45 on Mondays and Wednesdays for spring, 2014.
 * **Links:** [Curriculum vitae][cv],
@@ -22,6 +22,11 @@ Elliott and Allan Timmermann.
   Also check out the [Econometrics Free Library Project][EFLP],
   a free/open-access textbook development project that you
   should contribute to.
+
+I'm consolidating several different (old) websites right now; in
+particular, I'm killing my old blog and will move some of its posts
+and graphs here, and I need to set up an RSS feed still. Please let me
+know of any dead links, etc.
 
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <http://pseudotrue.com>. They should be identical.
