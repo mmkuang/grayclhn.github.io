@@ -9,8 +9,8 @@ and applications to forecasting and forecast evaluation. I graduated
 with a PhD from UC San Diego in 2009, where I worked with Graham
 Elliott and Allan Timmermann.
 
-* **Email:** gcalhoun at iastate dot edu (university) and gray at clhn
-  dot org [sic] (personal email and IM)
+* **Email:** «gcalhoun at iastate dot edu» (university) and «gray at clhn
+  dot org» (personal email and IM)
 * **Office:** 467 Heady Hall, (515) 294-6271.
   Office hours are 12-12:45 on Mondays and Wednesdays for spring, 2014.
 * **Links:** [Curriculum vitae][cv],
