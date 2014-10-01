@@ -71,6 +71,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
    [R package](dl/ftestLargeK_1.0.tar.gz), and 
    [additional files](dl/calhoun-2010-ftest.tar.gz)
 
+<hr />
+
 ## Ephemera
 * [Some thoughts on the Reinhart and Rogoff debate](dl/reinhart-rogoff-thoughts)
 * [An extremely subjective guide to the economics job market](dl/job-market-notes)
