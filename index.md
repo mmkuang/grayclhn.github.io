@@ -18,6 +18,7 @@ Elliott and Allan Timmermann.
   [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
   [LinkedIn](https://linkedin.com/in/grayclhn),
   [GitHub](https://github.com/grayclhn),
+  [Tumblr](http://gray.clhn.org),
   and [Twitter](https://twitter.com/grayclhn).
   Also check out the [Econometrics Free Library Project][EFLP],
   a free/open-access textbook development project that you
