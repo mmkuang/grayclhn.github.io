@@ -23,11 +23,6 @@ Elliott and Allan Timmermann.
   a free/open-access textbook development project that you
   should contribute to.
 
-I'm consolidating several different (old) websites right now; in
-particular, I'm killing my old blog and will move some of its posts
-and graphs here, and I need to set up an RSS feed still. Please let me
-know of any dead links, etc.
-
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <http://pseudotrue.com>. They should be identical.
 
@@ -74,7 +69,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <hr />
 
 ## Ephemera
-* [Some thoughts on the Reinhart and Rogoff debate](dl/reinhart-rogoff-thoughts)
-* [An extremely subjective guide to the economics job market](dl/job-market-notes)
-* [Quick thoughts and advice on whether to get a PhD in economics](dl/econ-grad-school)
-* [Slowly moving to Julia from R](dl/julia-intro)
+* [Slowly moving to Julia from R](dl/julia-intro) (February, 2014)
+* [Quick thoughts and advice on whether to get a PhD in economics](dl/econ-grad-school) (June, 2013)
+* [Some thoughts on the Reinhart and Rogoff debate](dl/reinhart-rogoff-thoughts) (April, 2013)
+* [An extremely subjective guide to the economics job market](dl/job-market-notes) (August, 2009)
