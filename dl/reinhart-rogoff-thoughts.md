@@ -262,3 +262,5 @@ going to develop this new theory, it’s the current grad students,
 future grad students, and a few professors at various stages in their
 careers.  So this process doesn’t require any established economist to
 change his or her mind (thank god).
+
+{% include cc.html %}
