@@ -20,16 +20,16 @@ Python/Matlab/other languages?)
   function TrickyAlgorithm(aThing, bThing)
   ```
 
-  differently to depend on whether `aThing` is a matrix of real numbers
-  and `bThing` is is a vector, or `aThing` is a vector and `bThing` is a
+  differently to depend on whether “aThing” is a matrix of real numbers
+  and “bThing” is is a vector, or “aThing” is a vector and “bThing” is a
   matrix, or any other combinations of data types. And you can do this
   without lots of tedious, potentially slow, and confusing (to people
   reading and maintaining the code) argument checks and conversion
   within the function.
 
   This is a form of Object Oriented Programming, but in typical OOP
-  `TrickyAlgorithm` would need to be a method of `aThing` or
-  `bThing`. Also note that multiple dispatch is present in R as well.
+  “TrickyAlgorithm” would need to be a method of “aThing” or
+  “bThing”. Also note that multiple dispatch is present in R as well.
 
 * Homoiconicity — the code can be operated on by other parts of the
   code. Again, R kind of has this too! Kind of, because I’m unaware of
@@ -54,8 +54,8 @@ Python/Matlab/other languages?)
 
   (This example and code is from [Dahua Lin’s blog post, “Fast Numeric
   Computation in Julia.”][4]) Note that “evaluates as” does not mean “gives
-  the same answer as,” it means that the code `r = exp(-abs(x-y))` is
-  replaced with the loop by `@devec` and then the loop is what’s run.
+  the same answer as,” it means that the code “r = exp(-abs(x-y))” is
+  replaced with the loop by “@devec” and then the loop is what’s run.
 
 * Decent speed. Definitely faster than well written R; I don’t have a
   great feel for how well it compares to highly optimized R (using
@@ -115,9 +115,8 @@ supposed to be fast). Calling it gives
 
 ```R
 R> system.time(rstats(runif, 500))
-
-[out]:  user  system elapsed 
-       0.341   0.002   0.377
+###     user  system elapsed 
+###    0.341   0.002   0.377
 ```
 
 For comparison to the Julia results, we’re going to care about the
@@ -125,11 +124,10 @@ For comparison to the Julia results, we’re going to care about the
 here.  Calling it for more observations and more simulations (50,000
 of each) gives
 
-```R
+```
 R> system.time(rstats(runif, 50000, 50000))
-
-[out]:   user  system elapsed 
-      204.184   0.217 215.526
+###      user  system elapsed 
+###   204.184   0.217 215.526
 ```
 
 so 216 seconds overall. And, just to preempt criticism, I ran these
@@ -164,8 +162,7 @@ We can time  (after loading the Distributions packages):
 
 ```julia
 julia> @elapsed rmeans(Uniform(), 500)
-
-[out]: 0.093662961
+### 0.093662961
 ```
 
 so 0.09 seconds, or about a quarter the time as R. But (I forgot to
@@ -175,8 +172,7 @@ gives
 
 ```julia
 julia>  @elapsed rmeans(Uniform(), 500)
-
-[out]: 0.004334132
+### 0.004334132
 ```
 
 which (as a reader had to point out to me) is 1/20th the time
@@ -186,8 +182,7 @@ Running the larger simulation, we have
 
 ```julia
 julia> @elapsed rmeans_loop(Uniform(), 50000, nsims = 50000)
-
-[out]: 77.318591953
+### 77.318591953
 ```
 
 so the R code is a little less than three times slower here. (The
