@@ -77,6 +77,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 ## 
 
+* [Cobbling together parallel random number generation in Julia](ephemera/parallel-rng-in-julia) (July, 2014)
 * [Slowly moving to Julia from R](ephemera/julia-intro) (February, 2014)
 * [Quick thoughts and advice on whether to get a PhD in economics](ephemera/econ-grad-school) (June, 2013)
 * [Some thoughts on the Reinhart and Rogoff debate](ephemera/reinhart-rogoff-thoughts) (April, 2013)
