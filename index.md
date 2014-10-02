@@ -46,26 +46,26 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <hr />
 
 ## Working papers
-1. [Improved stepdown methods for asymptotic control of generalized
-   error rates](dl/calhoun-stepdown.pdf)
-   with [repo](https://github.com/grayclhn/stepdown-paper)
-1. [An asymptotically normal out-of-sample test of equal predictive
-   accuracy for nested models](dl/calhoun-mixed-window.pdf)
-   with [repo](https://github.com/grayclhn/mixedwindow)
-1. [Block bootstrap consistency under weak
-   assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
-   with [repo](https://github.com/grayclhn/statboot-paper)
-1. [Out-of-sample comparisons of overfit
-   models](http://www.econ.iastate.edu/research/working-papers/p12462)
-   with [repo](https://github.com/grayclhn/oos-overfit) and
-   [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
+* [Improved stepdown methods for asymptotic control of generalized
+  error rates](dl/calhoun-stepdown.pdf) with
+  [repo](https://github.com/grayclhn/stepdown-paper)
+* [An asymptotically normal out-of-sample test of equal predictive
+  accuracy for nested models](dl/calhoun-mixed-window.pdf) with
+  [repo](https://github.com/grayclhn/mixedwindow)
+* [Block bootstrap consistency under weak
+  assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
+  with [repo](https://github.com/grayclhn/statboot-paper)
+* [Out-of-sample comparisons of overfit
+  models](http://www.econ.iastate.edu/research/working-papers/p12462)
+  with [repo](https://github.com/grayclhn/oos-overfit) and
+  [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 
 ## Publications
-1. Hypothesis testing in linear regression when k/n is large. *Journal
-   of Econometrics*, 165(2), 2011: 163–174.
-   [Link](http://www.econ.iastate.edu/research/working-papers/p12216), 
-   [R package](dl/ftestLargeK_1.0.tar.gz), and 
-   [additional files](dl/calhoun-2010-ftest.tar.gz)
+* Hypothesis testing in linear regression when k/n is large. *Journal
+  of Econometrics*, 165(2), 2011: 163–174.
+  [Link](http://www.econ.iastate.edu/research/working-papers/p12216),
+  [R package](dl/ftestLargeK_1.0.tar.gz), and [additional
+  files](dl/calhoun-2010-ftest.tar.gz)
 
 <hr />
 
