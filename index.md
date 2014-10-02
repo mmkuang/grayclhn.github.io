@@ -70,6 +70,13 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <hr />
 
 ## Ephemera
+
+{% for doc in site.categories.blog %}
+* [{{ doc.title }}]({{ doc.url }}) ({{ doc.date | date_to_string }})
+{% endfor %}
+
+## 
+
 * [Slowly moving to Julia from R](ephemera/julia-intro) (February, 2014)
 * [Quick thoughts and advice on whether to get a PhD in economics](ephemera/econ-grad-school) (June, 2013)
 * [Some thoughts on the Reinhart and Rogoff debate](ephemera/reinhart-rogoff-thoughts) (April, 2013)

@@ -1,6 +1,7 @@
 ---
 title: Quick thoughts and advice on whether to get a PhD in economics
 layout: default
+author: Gray Calhoun
 ---
 
 A friend emailed me to ask about grad school; I thought I might as
