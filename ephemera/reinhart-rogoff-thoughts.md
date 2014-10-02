@@ -88,10 +88,16 @@ A first step, and I’m going to argue that for my purposes (writing a
 blog post) this is a sufficient step, is to look at the data.  I
 downloaded the dataset and Herndon, Ash, and Polin’s code
 [here][HAP_code], plus see [their readme.txt][HAP_readme], and
-generated some very basic plots.  The first gallery plots the GDP
+generated some very basic plots.  First we plot the GDP
 growth rate over time for each country, but using line color to show
 the years in which debt was higher than 90% of GDP (those years are
 red).
+
+The inline graph plots the data for all of the countries. There are
+graphs that plot GDP growth for each country individually at the end
+of the post → [here](#growth).
+
+![GDP Growth, all countries](/ephemera/pictures/2013_RR/growth_01.png =540x)
 
 And, look.  For countries where the 90% threshold is exceeded, it
 happens at the very beginning of the sample (i.e. WWII deescalation
@@ -104,63 +110,20 @@ pictures makes me especially concerned about debt over 90% of GDP
 similar results).  The R code used to generate these plots is
 straightforward and is [available here][code gist].
 
-Remember, each plot shows annual GDP growth for the listed country,
-with red indicating years where the debt/GDP ratio is greater than 90%.
+Now we can flip the roles of growth and debt and plot the debt/GDP
+ratio for each country and uses red to indicate years where GDP growth
+was below 1%. A graph with all countries' data is presented inline,
+and individual graphs are availabe at the end of the post → [here](#debt).
 
-![GDP Growth, all countries](/ephemera/pictures/2013_RR/growth_01.png =360x)
-![GDP Growth, Australia](/ephemera/pictures/2013_RR/growth_02.png =360x)
-![GDP Growth, Austria](/ephemera/pictures/2013_RR/growth_03.png =360x)
-![GDP Growth, Belgium](/ephemera/pictures/2013_RR/growth_04.png =360x)
-![GDP Growth, Canada](/ephemera/pictures/2013_RR/growth_05.png =360x)
-![GDP Growth, Denmark](/ephemera/pictures/2013_RR/growth_06.png =360x)
-![GDP Growth, Finland](/ephemera/pictures/2013_RR/growth_07.png =360x)
-![GDP Growth, France](/ephemera/pictures/2013_RR/growth_08.png =360x)
-![GDP Growth, Germany](/ephemera/pictures/2013_RR/growth_09.png =360x)
-![GDP Growth, Greece](/ephemera/pictures/2013_RR/growth_10.png =360x)
-![GDP Growth, Ireland](/ephemera/pictures/2013_RR/growth_11.png =360x)
-![GDP Growth, Italy](/ephemera/pictures/2013_RR/growth_12.png =360x)
-![GDP Growth, Japan](/ephemera/pictures/2013_RR/growth_13.png =360x)
-![GDP Growth, Netherlands](/ephemera/pictures/2013_RR/growth_14.png =360x)
-![GDP Growth, New Zealand](/ephemera/pictures/2013_RR/growth_15.png =360x)
-![GDP Growth, Norway](/ephemera/pictures/2013_RR/growth_16.png =360x)
-![GDP Growth, Portugal](/ephemera/pictures/2013_RR/growth_17.png =360x)
-![GDP Growth, Spain](/ephemera/pictures/2013_RR/growth_18.png =360x)
-![GDP Growth, Sweden](/ephemera/pictures/2013_RR/growth_19.png =360x)
-![GDP Growth, UK](/ephemera/pictures/2013_RR/growth_20.png =360x)
-![GDP Growth, US](/ephemera/pictures/2013_RR/growth_21.png =360x)
+![Debt/GDP, all countries](/ephemera/pictures/2013_RR/debt_01.png =540x)
 
-Now we can flip the roles of growth and debt.  The next gallery plots
-the debt/GDP ratio for each country and uses red to indicate years
-where GDP growth was below 1%.  The figures are below; the red line
-indicates the low growth periods.  Unlike before, the low growth
-periods are scattered through the series.  We also see results that
-are at least suggestive: for many countries (Denmark, Canada, Belgium,
-the US, Sweden, and others), low growth in the early 80s was followed
-by an increase in the debt/GDP ratio.  Same thing with Sweden,
-Finland, and Japan in the 90s.  But, again, this doesn’t disprove the
-confidence fairy.  [The R code for these plots is here as well][code gist].
-
-![Debt/GDP, all countries](/ephemera/pictures/2013_RR/debt_01.png =360x)
-![GDP Growth, Australia](/ephemera/pictures/2013_RR/debt_02.png =360x)
-![Debt/GDP, Austria](/ephemera/pictures/2013_RR/debt_03.png =360x)
-![GDP Growth, Belgium](/ephemera/pictures/2013_RR/debt_04.png =360x)
-![Debt/GDP, Canada](/ephemera/pictures/2013_RR/debt_05.png =360x)
-![GDP Growth, Denmark](/ephemera/pictures/2013_RR/debt_06.png =360x)
-![Debt/GDP, Finland](/ephemera/pictures/2013_RR/debt_07.png =360x)
-![GDP Growth, France](/ephemera/pictures/2013_RR/debt_08.png =360x)
-![Debt/GDP, Germany](/ephemera/pictures/2013_RR/debt_09.png =360x)
-![GDP Growth, Greece](/ephemera/pictures/2013_RR/debt_10.png =360x)
-![Debt/GDP, Ireland](/ephemera/pictures/2013_RR/debt_11.png =360x)
-![GDP Growth, Italy](/ephemera/pictures/2013_RR/debt_12.png =360x)
-![Debt/GDP, Japan](/ephemera/pictures/2013_RR/debt_13.png =360x)
-![GDP Growth, Netherlands](/ephemera/pictures/2013_RR/debt_14.png =360x)
-![Debt/GDP, New Zealand](/ephemera/pictures/2013_RR/debt_15.png =360x)
-![GDP Growth, Norway](/ephemera/pictures/2013_RR/debt_16.png =360x)
-![Debt/GDP, Portugal](/ephemera/pictures/2013_RR/debt_17.png =360x)
-![GDP Growth, Spain](/ephemera/pictures/2013_RR/debt_18.png =360x)
-![Debt/GDP, Sweden](/ephemera/pictures/2013_RR/debt_19.png =360x)
-![GDP Growth, UK](/ephemera/pictures/2013_RR/debt_20.png =360x)
-![Debt/GDP, US](/ephemera/pictures/2013_RR/debt_21.png =360x)
+Unlike before, the low growth periods are scattered through the
+series.  We also see results that are at least suggestive: for many
+countries (Denmark, Canada, Belgium, the US, Sweden, and others), low
+growth in the early 80s was followed by an increase in the debt/GDP
+ratio.  Same thing with Sweden, Finland, and Japan in the 90s.  But,
+again, this doesn’t disprove the confidence fairy.  [The R code for
+these plots is here as well][code gist].
 
 But we actually can learn something new from these plots.  Notice that
 GDP growth moves in broadly the same direction across different
@@ -202,8 +165,8 @@ the last 20 years or so and draw conclusions from that.  The aggregate
 statistical evidence is probably best as supporting, not primary,
 evidence.
 
-Please let me know when you find errors (email below); other comments
-and suggestions would be great too.
+Please let me know when you find errors. Other comments and
+suggestions would be great too.
 
 [RR]: http://ideas.repec.org/a/aea/aecrev/v100y2010i2p573-78.html
 [umass]: http://www.peri.umass.edu/236/hash/31e2ff374b6377b2ddec04deaa6388b1/publication/566/
@@ -220,7 +183,7 @@ and suggestions would be great too.
 [code gist]: https://gist.github.com/grayclhn/5446956#file-reinhart_rogoff_plot_growth-r
 
 Addendum (on April 29, 2013)
-============================
+----------------------------
 
 A student made the following comment about the conclusion of this
 post: “Looking at the data in order to determine your identification
@@ -262,5 +225,64 @@ going to develop this new theory, it’s the current grad students,
 future grad students, and a few professors at various stages in their
 careers.  So this process doesn’t require any established economist to
 change his or her mind (thank god).
+
+<hr />
+<a id="growth"> </a>
+
+Full set of GDP growth plots
+----------------------------
+
+Remember, each plot shows annual GDP growth for the listed country,
+with red indicating years where the debt/GDP ratio is greater than 90%.
+
+![GDP Growth, Australia](/ephemera/pictures/2013_RR/growth_02.png =540x)
+![GDP Growth, Austria](/ephemera/pictures/2013_RR/growth_03.png =540x)
+![GDP Growth, Belgium](/ephemera/pictures/2013_RR/growth_04.png =540x)
+![GDP Growth, Canada](/ephemera/pictures/2013_RR/growth_05.png =540x)
+![GDP Growth, Denmark](/ephemera/pictures/2013_RR/growth_06.png =540x)
+![GDP Growth, Finland](/ephemera/pictures/2013_RR/growth_07.png =540x)
+![GDP Growth, France](/ephemera/pictures/2013_RR/growth_08.png =540x)
+![GDP Growth, Germany](/ephemera/pictures/2013_RR/growth_09.png =540x)
+![GDP Growth, Greece](/ephemera/pictures/2013_RR/growth_10.png =540x)
+![GDP Growth, Ireland](/ephemera/pictures/2013_RR/growth_11.png =540x)
+![GDP Growth, Italy](/ephemera/pictures/2013_RR/growth_12.png =540x)
+![GDP Growth, Japan](/ephemera/pictures/2013_RR/growth_13.png =540x)
+![GDP Growth, Netherlands](/ephemera/pictures/2013_RR/growth_14.png =540x)
+![GDP Growth, New Zealand](/ephemera/pictures/2013_RR/growth_15.png =540x)
+![GDP Growth, Norway](/ephemera/pictures/2013_RR/growth_16.png =540x)
+![GDP Growth, Portugal](/ephemera/pictures/2013_RR/growth_17.png =540x)
+![GDP Growth, Spain](/ephemera/pictures/2013_RR/growth_18.png =540x)
+![GDP Growth, Sweden](/ephemera/pictures/2013_RR/growth_19.png =540x)
+![GDP Growth, UK](/ephemera/pictures/2013_RR/growth_20.png =540x)
+![GDP Growth, US](/ephemera/pictures/2013_RR/growth_21.png =540x)
+
+<hr />
+<a id="debt"> </a>
+
+Full set of Debt/GDP ratio plots
+--------------------------------
+
+The red line indicates the low growth periods.  
+
+![Debt/GDP, Australia](/ephemera/pictures/2013_RR/debt_02.png =540x)
+![Debt/GDP, Austria](/ephemera/pictures/2013_RR/debt_03.png =540x)
+![Debt/GDP, Belgium](/ephemera/pictures/2013_RR/debt_04.png =540x)
+![Debt/GDP, Canada](/ephemera/pictures/2013_RR/debt_05.png =540x)
+![Debt/GDP, Denmark](/ephemera/pictures/2013_RR/debt_06.png =540x)
+![Debt/GDP, Finland](/ephemera/pictures/2013_RR/debt_07.png =540x)
+![Debt/GDP, France](/ephemera/pictures/2013_RR/debt_08.png =540x)
+![Debt/GDP, Germany](/ephemera/pictures/2013_RR/debt_09.png =540x)
+![Debt/GDP, Greece](/ephemera/pictures/2013_RR/debt_10.png =540x)
+![Debt/GDP, Ireland](/ephemera/pictures/2013_RR/debt_11.png =540x)
+![Debt/GDP, Italy](/ephemera/pictures/2013_RR/debt_12.png =540x)
+![Debt/GDP, Japan](/ephemera/pictures/2013_RR/debt_13.png =540x)
+![Debt/GDP, Netherlands](/ephemera/pictures/2013_RR/debt_14.png =540x)
+![Debt/GDP, New Zealand](/ephemera/pictures/2013_RR/debt_15.png =540x)
+![Debt/GDP, Norway](/ephemera/pictures/2013_RR/debt_16.png =540x)
+![Debt/GDP, Portugal](/ephemera/pictures/2013_RR/debt_17.png =540x)
+![Debt/GDP, Spain](/ephemera/pictures/2013_RR/debt_18.png =540x)
+![Debt/GDP, Sweden](/ephemera/pictures/2013_RR/debt_19.png =540x)
+![Debt/GDP, UK](/ephemera/pictures/2013_RR/debt_20.png =540x)
+![Debt/GDP, US](/ephemera/pictures/2013_RR/debt_21.png =540x)
 
 {% include cc.html %}
