@@ -71,6 +71,11 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 ## Ephemera
 
+<blockquote class="twitter-tweet" lang="en" width="700">
+<p>5.9% <a href="https://twitter.com/hashtag/unemployment?src=hash">#unemployment</a> rate announced for Sept. Same general trend as before <a href="http://t.co/ZjH8YxasdQ">pic.twitter.com/ZjH8YxasdQ</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518048843846651904">October 3, 2014</a>
+</blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <ul>
 {% for doc in site.categories.blog %}
 <li><a href="{{ doc.url }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})</li>
