@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset='utf-8' />
-    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="{{ site.url }}css/styles.css">
     <meta name="robots" content="noindex" />
     <title>{{ page.title }}</title>
   </head>
@@ -15,7 +15,7 @@
 
 	<p align="right">— {{ page.author }}, {{ page.date | date_to_string }}</p>
 	<hr>
-	<a href="/">Home</a>
+	<a href="{{ site.url }}">Home</a>
       </section>
     </div>
   </body>
