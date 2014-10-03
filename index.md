@@ -76,9 +76,6 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 </blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" lang="en"><p>For some degree of closure, a graph of updated Q2 <a href="https://twitter.com/hashtag/GDP?src=hash">#GDP</a> <a href="http://t.co/rXf8ridFqF">pic.twitter.com/rXf8ridFqF</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518138257696370688">October 3, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <ul>
 {% for doc in site.categories.blog %}
 <li><a href="{{ doc.url }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})</li>
@@ -90,3 +87,6 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 * [Quick thoughts and advice on whether to get a PhD in economics](ephemera/econ-grad-school) (June, 2013)
 * [Some thoughts on the Reinhart and Rogoff debate](ephemera/reinhart-rogoff-thoughts) (April, 2013)
 * [An extremely subjective guide to the economics job market](ephemera/job-market-notes) (August, 2009)
+
+<blockquote class="twitter-tweet" lang="en"><p>For some degree of closure, a graph of updated Q2 <a href="https://twitter.com/hashtag/GDP?src=hash">#GDP</a> <a href="http://t.co/rXf8ridFqF">pic.twitter.com/rXf8ridFqF</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518138257696370688">October 3, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
