@@ -73,12 +73,12 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <ul>
 {% for doc in site.categories.blog %}
-<li><a href="{{ doc.url }}">{{ doc.title }}</a> ({{ doc.date | date_to_string }})</li>
+<li><a href="{{ doc.url }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})</li>
 {% endfor %}
 </ul>
 
-* [Cobbling together parallel random number generation in Julia](ephemera/parallel-rng-in-julia) (July, 2014)
-* [Slowly moving to Julia from R](ephemera/julia-intro) (February, 2014)
+* [Short note: Cobbling together parallel random number generation in Julia](ephemera/parallel-rng-in-julia) (July, 2014)
+* [Short note: Slowly moving to Julia from R](ephemera/julia-intro) (February, 2014)
 * [Quick thoughts and advice on whether to get a PhD in economics](ephemera/econ-grad-school) (June, 2013)
 * [Some thoughts on the Reinhart and Rogoff debate](ephemera/reinhart-rogoff-thoughts) (April, 2013)
 * [An extremely subjective guide to the economics job market](ephemera/job-market-notes) (August, 2009)
