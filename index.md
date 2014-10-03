@@ -88,5 +88,6 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 * [Some thoughts on the Reinhart and Rogoff debate](ephemera/reinhart-rogoff-thoughts) (April, 2013)
 * [An extremely subjective guide to the economics job market](ephemera/job-market-notes) (August, 2009)
 
-<blockquote class="twitter-tweet" lang="en"><p>For some degree of closure, a graph of updated Q2 <a href="https://twitter.com/hashtag/GDP?src=hash">#GDP</a> <a href="http://t.co/rXf8ridFqF">pic.twitter.com/rXf8ridFqF</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518138257696370688">October 3, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Graph of the US unemployment rate](ephemera/unemployment.png =600x)
+
+![Graph of US GDP rate](ephemera/gdp.png =600x)
