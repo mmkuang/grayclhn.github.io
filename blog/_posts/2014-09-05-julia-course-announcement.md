@@ -1,5 +1,5 @@
 ---
-title: Belated course announcement: Heike Hofmann's Julia seminar
+title: "Belated course announcement: Heike Hofmann's Julia seminar"
 layout: blog
 author: Gray Calhoun
 ---
