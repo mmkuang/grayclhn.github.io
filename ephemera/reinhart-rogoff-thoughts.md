@@ -97,7 +97,7 @@ The inline graph plots the data for all of the countries. There are
 graphs that plot GDP growth for each country individually at the end
 of the post → [here](#growth).
 
-![GDP Growth, all countries](/ephemera/pictures/2013_RR/growth_01.png =540x)
+![GDP Growth, all countries](../pictures/2013_RR/growth_01.png =540x)
 
 And, look.  For countries where the 90% threshold is exceeded, it
 happens at the very beginning of the sample (i.e. WWII deescalation
@@ -115,7 +115,7 @@ ratio for each country and uses red to indicate years where GDP growth
 was below 1%. A graph with all countries' data is presented inline,
 and individual graphs are availabe at the end of the post → [here](#debt).
 
-![Debt/GDP, all countries](/ephemera/pictures/2013_RR/debt_01.png =540x)
+![Debt/GDP, all countries](../pictures/2013_RR/debt_01.png =540x)
 
 Unlike before, the low growth periods are scattered through the
 series.  We also see results that are at least suggestive: for many
@@ -235,26 +235,45 @@ Full set of GDP growth plots
 Remember, each plot shows annual GDP growth for the listed country,
 with red indicating years where the debt/GDP ratio is greater than 90%.
 
-![GDP Growth, Australia](/ephemera/pictures/2013_RR/growth_02.png =540x)
-![GDP Growth, Austria](/ephemera/pictures/2013_RR/growth_03.png =540x)
-![GDP Growth, Belgium](/ephemera/pictures/2013_RR/growth_04.png =540x)
-![GDP Growth, Canada](/ephemera/pictures/2013_RR/growth_05.png =540x)
-![GDP Growth, Denmark](/ephemera/pictures/2013_RR/growth_06.png =540x)
-![GDP Growth, Finland](/ephemera/pictures/2013_RR/growth_07.png =540x)
-![GDP Growth, France](/ephemera/pictures/2013_RR/growth_08.png =540x)
-![GDP Growth, Germany](/ephemera/pictures/2013_RR/growth_09.png =540x)
-![GDP Growth, Greece](/ephemera/pictures/2013_RR/growth_10.png =540x)
-![GDP Growth, Ireland](/ephemera/pictures/2013_RR/growth_11.png =540x)
-![GDP Growth, Italy](/ephemera/pictures/2013_RR/growth_12.png =540x)
-![GDP Growth, Japan](/ephemera/pictures/2013_RR/growth_13.png =540x)
-![GDP Growth, Netherlands](/ephemera/pictures/2013_RR/growth_14.png =540x)
-![GDP Growth, New Zealand](/ephemera/pictures/2013_RR/growth_15.png =540x)
-![GDP Growth, Norway](/ephemera/pictures/2013_RR/growth_16.png =540x)
-![GDP Growth, Portugal](/ephemera/pictures/2013_RR/growth_17.png =540x)
-![GDP Growth, Spain](/ephemera/pictures/2013_RR/growth_18.png =540x)
-![GDP Growth, Sweden](/ephemera/pictures/2013_RR/growth_19.png =540x)
-![GDP Growth, UK](/ephemera/pictures/2013_RR/growth_20.png =540x)
-![GDP Growth, US](/ephemera/pictures/2013_RR/growth_21.png =540x)
+![GDP Growth, Australia](../pictures/2013_RR/growth_02.png =540x)
+
+![GDP Growth, Austria](../pictures/2013_RR/growth_03.png =540x)
+
+![GDP Growth, Belgium](../pictures/2013_RR/growth_04.png =540x)
+
+![GDP Growth, Canada](../pictures/2013_RR/growth_05.png =540x)
+
+![GDP Growth, Denmark](../pictures/2013_RR/growth_06.png =540x)
+
+![GDP Growth, Finland](../pictures/2013_RR/growth_07.png =540x)
+
+![GDP Growth, France](../pictures/2013_RR/growth_08.png =540x)
+
+![GDP Growth, Germany](../pictures/2013_RR/growth_09.png =540x)
+
+![GDP Growth, Greece](../pictures/2013_RR/growth_10.png =540x)
+
+![GDP Growth, Ireland](../pictures/2013_RR/growth_11.png =540x)
+
+![GDP Growth, Italy](../pictures/2013_RR/growth_12.png =540x)
+
+![GDP Growth, Japan](../pictures/2013_RR/growth_13.png =540x)
+
+![GDP Growth, Netherlands](../pictures/2013_RR/growth_14.png =540x)
+
+![GDP Growth, New Zealand](../pictures/2013_RR/growth_15.png =540x)
+
+![GDP Growth, Norway](../pictures/2013_RR/growth_16.png =540x)
+
+![GDP Growth, Portugal](../pictures/2013_RR/growth_17.png =540x)
+
+![GDP Growth, Spain](../pictures/2013_RR/growth_18.png =540x)
+
+![GDP Growth, Sweden](../pictures/2013_RR/growth_19.png =540x)
+
+![GDP Growth, UK](../pictures/2013_RR/growth_20.png =540x)
+
+![GDP Growth, US](../pictures/2013_RR/growth_21.png =540x)
 
 <hr />
 <a id="debt"> </a>
@@ -264,25 +283,44 @@ Full set of Debt/GDP ratio plots
 
 The red line indicates the low growth periods.  
 
-![Debt/GDP, Australia](/ephemera/pictures/2013_RR/debt_02.png =540x)
-![Debt/GDP, Austria](/ephemera/pictures/2013_RR/debt_03.png =540x)
-![Debt/GDP, Belgium](/ephemera/pictures/2013_RR/debt_04.png =540x)
-![Debt/GDP, Canada](/ephemera/pictures/2013_RR/debt_05.png =540x)
-![Debt/GDP, Denmark](/ephemera/pictures/2013_RR/debt_06.png =540x)
-![Debt/GDP, Finland](/ephemera/pictures/2013_RR/debt_07.png =540x)
-![Debt/GDP, France](/ephemera/pictures/2013_RR/debt_08.png =540x)
-![Debt/GDP, Germany](/ephemera/pictures/2013_RR/debt_09.png =540x)
-![Debt/GDP, Greece](/ephemera/pictures/2013_RR/debt_10.png =540x)
-![Debt/GDP, Ireland](/ephemera/pictures/2013_RR/debt_11.png =540x)
-![Debt/GDP, Italy](/ephemera/pictures/2013_RR/debt_12.png =540x)
-![Debt/GDP, Japan](/ephemera/pictures/2013_RR/debt_13.png =540x)
-![Debt/GDP, Netherlands](/ephemera/pictures/2013_RR/debt_14.png =540x)
-![Debt/GDP, New Zealand](/ephemera/pictures/2013_RR/debt_15.png =540x)
-![Debt/GDP, Norway](/ephemera/pictures/2013_RR/debt_16.png =540x)
-![Debt/GDP, Portugal](/ephemera/pictures/2013_RR/debt_17.png =540x)
-![Debt/GDP, Spain](/ephemera/pictures/2013_RR/debt_18.png =540x)
-![Debt/GDP, Sweden](/ephemera/pictures/2013_RR/debt_19.png =540x)
-![Debt/GDP, UK](/ephemera/pictures/2013_RR/debt_20.png =540x)
-![Debt/GDP, US](/ephemera/pictures/2013_RR/debt_21.png =540x)
+![Debt/GDP, Australia](../pictures/2013_RR/debt_02.png =540x)
+
+![Debt/GDP, Austria](../pictures/2013_RR/debt_03.png =540x)
+
+![Debt/GDP, Belgium](../pictures/2013_RR/debt_04.png =540x)
+
+![Debt/GDP, Canada](../pictures/2013_RR/debt_05.png =540x)
+
+![Debt/GDP, Denmark](../pictures/2013_RR/debt_06.png =540x)
+
+![Debt/GDP, Finland](../pictures/2013_RR/debt_07.png =540x)
+
+![Debt/GDP, France](../pictures/2013_RR/debt_08.png =540x)
+
+![Debt/GDP, Germany](../pictures/2013_RR/debt_09.png =540x)
+
+![Debt/GDP, Greece](../pictures/2013_RR/debt_10.png =540x)
+
+![Debt/GDP, Ireland](../pictures/2013_RR/debt_11.png =540x)
+
+![Debt/GDP, Italy](../pictures/2013_RR/debt_12.png =540x)
+
+![Debt/GDP, Japan](../pictures/2013_RR/debt_13.png =540x)
+
+![Debt/GDP, Netherlands](../pictures/2013_RR/debt_14.png =540x)
+
+![Debt/GDP, New Zealand](../pictures/2013_RR/debt_15.png =540x)
+
+![Debt/GDP, Norway](../pictures/2013_RR/debt_16.png =540x)
+
+![Debt/GDP, Portugal](../pictures/2013_RR/debt_17.png =540x)
+
+![Debt/GDP, Spain](../pictures/2013_RR/debt_18.png =540x)
+
+![Debt/GDP, Sweden](../pictures/2013_RR/debt_19.png =540x)
+
+![Debt/GDP, UK](../pictures/2013_RR/debt_20.png =540x)
+
+![Debt/GDP, US](../pictures/2013_RR/debt_21.png =540x)
 
 {% include cc.html %}
