@@ -1,6 +1,6 @@
 ---
 title: Quick thoughts and advice on whether to get a PhD in economics
-layout: default
+layout: blog
 author: Gray Calhoun
 ---
 

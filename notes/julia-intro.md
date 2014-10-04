@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Slowly moving to Julia from R
 author: Gray Calhoun
 ---

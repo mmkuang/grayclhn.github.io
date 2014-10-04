@@ -13,7 +13,7 @@
 	<hr>
 	{{ content }}
 
-	<p align="right">— {{ page.author }}, {{ page.date | date_to_string }}</p>
+	<p align="right">— {{ page.author }}{% if page.date %}, {{ page.date | date_to_string }}{% endif %}</p>
 	<hr>
 	<a href="{{ site.url }}/">Home</a>
       </section>
