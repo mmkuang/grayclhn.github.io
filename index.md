@@ -32,7 +32,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <hr />
 
-## Teaching
+<a id="teaching"> </a>
+## Teaching ([link](#teaching))
 * [Principles of Macroeconomics (Econ 102)](102)
 * [PhD Econometrics 1 — introduction to statistics
   and regression (Econ 671)](671)
@@ -45,7 +46,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <hr />
 
-## Working papers
+<a id="workingpapers"> </a>
+## Working papers ([link](#workingpapers))
 * [Improved stepdown methods for asymptotic control of generalized
   error rates](dl/calhoun-stepdown.pdf) with
   [repo](https://github.com/grayclhn/stepdown-paper)
@@ -60,7 +62,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
   with [repo](https://github.com/grayclhn/oos-overfit) and
   [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 
-## Publications
+<a id="publications"> </a>
+## Publications ([link](#publications))
 * Hypothesis testing in linear regression when k/n is large. *Journal
   of Econometrics*, 165(2), 2011: 163–174.
   [Link](http://www.econ.iastate.edu/research/working-papers/p12216),
@@ -69,7 +72,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <hr />
 
-## Ephemera
+<a id="ephemera"> </a>
+## Ephemera ([link](#ephemera))
 
 <ul>
 {% for doc in site.categories.notes %}
