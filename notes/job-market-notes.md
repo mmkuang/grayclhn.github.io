@@ -1,6 +1,6 @@
 ---
 title: An extremely subjective outline of the economics job market 
-layout: default
+layout: blog
 author: Gray Calhoun
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Cobbling together parallel random number generation in Julia
-layout: default
+layout: blog
 author: Gray Calhoun
 ---
 
