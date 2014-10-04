@@ -33,7 +33,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <hr />
 
 <a id="teaching"> </a>
-## Teaching ([link](#teaching))
+## Teaching ([anchor](#teaching))
 * [Principles of Macroeconomics (Econ 102)](102)
 * [PhD Econometrics 1 — introduction to statistics
   and regression (Econ 671)](671)
@@ -47,7 +47,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <hr />
 
 <a id="workingpapers"> </a>
-## Working papers ([link](#workingpapers))
+## Working papers ([anchor](#workingpapers))
 * [Improved stepdown methods for asymptotic control of generalized
   error rates](dl/calhoun-stepdown.pdf) with
   [repo](https://github.com/grayclhn/stepdown-paper)
@@ -63,7 +63,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
   [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 
 <a id="publications"> </a>
-## Publications ([link](#publications))
+## Publications ([anchor](#publications))
 * Hypothesis testing in linear regression when k/n is large. *Journal
   of Econometrics*, 165(2), 2011: 163–174.
   [Link](http://www.econ.iastate.edu/research/working-papers/p12216),
@@ -73,7 +73,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <hr />
 
 <a id="ephemera"> </a>
-## Ephemera ([link](#ephemera))
+## Ephemera ([anchor](#ephemera))
 
 <ul>
 {% for doc in site.categories.notes %}
@@ -92,5 +92,3 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p>For some degree of closure, a graph of updated Q2 <a href="https://twitter.com/hashtag/GDP?src=hash">#GDP</a> <a href="http://t.co/rXf8ridFqF">pic.twitter.com/rXf8ridFqF</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518138257696370688">October 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-([More twitter](https://twitter.com/grayclhn).)
