@@ -322,5 +322,3 @@ The red line indicates the low growth periods.
 ![Debt/GDP, UK](../pictures/2013_RR/debt_20.png =540x)
 
 ![Debt/GDP, US](../pictures/2013_RR/debt_21.png =540x)
-
-{% include cc.html %}

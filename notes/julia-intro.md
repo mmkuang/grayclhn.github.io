@@ -204,5 +204,3 @@ ps: and it’s open source! Can’t forget that.
 [2]: http://www.wired.com/wiredenterprise/2014/02/julia/
 [3]: http://www.paulgraham.com/avg.html
 [4]: http://julialang.org/blog/2013/09/fast-numeric/
-
-{% include cc.html %}

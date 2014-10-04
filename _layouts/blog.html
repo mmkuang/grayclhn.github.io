@@ -14,8 +14,12 @@
 	{{ content }}
 
 	<p align="right">— {{ page.author }}{% if page.date %}, {{ page.date | date_to_string }}{% endif %}</p>
-	<hr>
-	<a href="{{ site.url }}/">Home</a>
+
+	<hr />
+
+	{% include cc.html %}
+
+	<p><a href="{{ site.url }}/">Home</a></p>
       </section>
     </div>
   </body>
