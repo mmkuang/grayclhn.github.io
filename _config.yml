@@ -13,4 +13,4 @@ exclude: ['*~',
           '674/*.bib',
           'CNAME',
           'econupload.sh']
-url: '/'
+url: ''
