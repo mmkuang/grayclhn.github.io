@@ -1,6 +1,6 @@
 ---
 title: Gray Calhoun’s academic homepage
-layout: default
+layout: front
 ---
 
 I’m Gray Calhoun, an Assistant Professor in the Economics Department
