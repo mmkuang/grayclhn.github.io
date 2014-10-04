@@ -87,9 +87,6 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 * [Some thoughts on the Reinhart and Rogoff debate](notes/reinhart-rogoff-thoughts) (April, 2013)
 * [An extremely subjective guide to the economics job market](notes/job-market-notes) (August, 2009)
 
-<blockquote class="twitter-tweet" lang="en"><p>1/ Bullets from my <a href="https://twitter.com/hashtag/teambasedlearning?src=hash">#teambasedlearning</a> talk yesterday on &quot;open-ended team activities&quot;</p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518451662852083712">October 4, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" lang="en"><p>5.9% <a href="https://twitter.com/hashtag/unemployment?src=hash">#unemployment</a> rate announced for Sept. Same general trend as before <a href="http://t.co/ZjH8YxasdQ">pic.twitter.com/ZjH8YxasdQ</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518048843846651904">October 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
