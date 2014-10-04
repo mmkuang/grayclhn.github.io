@@ -1,6 +1,6 @@
 ---
 title: U.S. unemployment rate
-layout: blog
+layout: graph
 author: Gray Calhoun
 ---
 
