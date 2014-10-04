@@ -72,7 +72,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 ## Ephemera
 
 <ul>
-{% for doc in site.categories.blog %}
+{% for doc in site.categories.notes %}
 <li><a href="{{ site.url}}{{ doc.url }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})</li>
 {% endfor %}
 </ul>
