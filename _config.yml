@@ -1,4 +1,4 @@
-permalink: pretty
+permalink: /notes/:title
 markdown: rdiscount
 exclude: ['*~',
           '*.aux',
