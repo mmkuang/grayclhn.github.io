@@ -1,4 +1,4 @@
-permalink: ephemera/:title.html
+permalink: pretty
 markdown: rdiscount
 exclude: ['*~',
           '*.aux',
