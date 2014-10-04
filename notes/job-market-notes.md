@@ -470,5 +470,3 @@ Closing thoughts
   information, people on them lie, and it’s depressing and stressful
   to read the messages.  I avoided them.  They may have improved since
   I was on the job market, but I doubt it.
-
-{% include cc.html %}
