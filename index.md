@@ -82,3 +82,11 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 * [Quick thoughts and advice on whether to get a PhD in economics](notes/econ-grad-school) (June, 2013)
 * [Some thoughts on the Reinhart and Rogoff debate](notes/reinhart-rogoff-thoughts) (April, 2013)
 * [An extremely subjective guide to the economics job market](notes/job-market-notes) (August, 2009)
+
+<blockquote class="twitter-tweet" lang="en"><p>5.9% <a href="https://twitter.com/hashtag/unemployment?src=hash">#unemployment</a> rate announced for Sept. Same general trend as before <a href="http://t.co/ZjH8YxasdQ">pic.twitter.com/ZjH8YxasdQ</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518048843846651904">October 3, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p>For some degree of closure, a graph of updated Q2 <a href="https://twitter.com/hashtag/GDP?src=hash">#GDP</a> <a href="http://t.co/rXf8ridFqF">pic.twitter.com/rXf8ridFqF</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518138257696370688">October 3, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+([More twitter](https://twitter.com/grayclhn).)
