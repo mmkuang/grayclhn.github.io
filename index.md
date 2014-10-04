@@ -78,7 +78,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <ul>
 {% for doc in site.categories.blog %}
-<li><a href="{{ doc.url }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})</li>
+<li><a href="{{ site.url}}{{ doc.url }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})</li>
 {% endfor %}
 </ul>
 
