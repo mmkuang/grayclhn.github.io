@@ -50,17 +50,17 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 ## Working papers
 * [Improved stepdown methods for asymptotic control of generalized
   error rates](dl/calhoun-stepdown.pdf) with
-  [repo](https://github.com/grayclhn/stepdown-paper)
+  [repo](https://github.com/grayclhn/stepdown-paper/tree/jeconom_submission)
 * [An asymptotically normal out-of-sample test of equal predictive
   accuracy for nested models](dl/calhoun-mixed-window.pdf) with
-  [repo](https://github.com/grayclhn/mixedwindow)
+  [repo](https://github.com/grayclhn/mixedwindow/tree/ecma-sub)
 * [Block bootstrap consistency under weak
   assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
   with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
-  [repo](https://github.com/grayclhn/statboot-paper)
+  [repo](https://github.com/grayclhn/statboot-paper/tree/ET_submission_3)
 * [Out-of-sample comparisons of overfit
   models](http://www.econ.iastate.edu/research/working-papers/p12462)
-  with [repo](https://github.com/grayclhn/oos-overfit) and
+  with [repo](https://github.com/grayclhn/oos-overfit/tree/REStud) and
   [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 
 <a id="publications"> </a>
