@@ -12,6 +12,6 @@ resubmission deadline. The revised copy is now online at:
 
 and it has a separate appendix that is available at
 
-<{{ site.url }}dl/calhoun-bootstrap-appendix.pdf>
+[dl/calhoun-bootstrap-appendix.pdf](dl/calhoun-bootstrap-appendix.pdf)
 
 Let me know if you find any errors or have any comments. Thanks!
