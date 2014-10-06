@@ -56,7 +56,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
   [repo](https://github.com/grayclhn/mixedwindow)
 * [Block bootstrap consistency under weak
   assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
-  with [repo](https://github.com/grayclhn/statboot-paper)
+  with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
+  [repo](https://github.com/grayclhn/statboot-paper)
 * [Out-of-sample comparisons of overfit
   models](http://www.econ.iastate.edu/research/working-papers/p12462)
   with [repo](https://github.com/grayclhn/oos-overfit) and
