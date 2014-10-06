@@ -2,6 +2,7 @@
 title: New version of my paper, "Block bootstrap consistency under weak assumptions"
 author: Gray Calhoun
 layout: blog
+link: http://www.econ.iastate.edu/research/working-papers/p14313
 ---
 
 Hi everyone, I've just sent a revised copy of my block bootstrap paper
