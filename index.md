@@ -78,8 +78,6 @@ updates.
 <a id="ephemera"> </a>
 ## Ephemera
 
-You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
-
 <ul>
 {% for doc in site.categories.notes %}
 <li><a href="{{ site.url}}{{ doc.url }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})</li>
@@ -91,6 +89,8 @@ You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
 * [Quick thoughts and advice on whether to get a PhD in economics](notes/econ-grad-school) (June, 2013)
 * [Some thoughts on the Reinhart and Rogoff debate](notes/reinhart-rogoff-thoughts) (April, 2013)
 * [An extremely subjective guide to the economics job market](notes/job-market-notes) (August, 2009)
+
+You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
 
 <blockquote class="twitter-tweet" lang="en"><p>5.9% <a href="https://twitter.com/hashtag/unemployment?src=hash">#unemployment</a> rate announced for Sept. Same general trend as before <a href="http://t.co/ZjH8YxasdQ">pic.twitter.com/ZjH8YxasdQ</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518048843846651904">October 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
