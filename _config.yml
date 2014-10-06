@@ -1,6 +1,6 @@
 name: "Pseudotrue news"
 description: "Updates from Gray Calhoun's homepage"
-permalink: /notes/:title
+permalink: /:category/:title
 markdown: rdiscount
 exclude: ['*~',
           '*.aux',
