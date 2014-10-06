@@ -19,13 +19,15 @@ Elliott and Allan Timmermann.
   [LinkedIn](https://linkedin.com/in/grayclhn),
   [GitHub](https://github.com/grayclhn),
   [Tumblr](http://gray.clhn.org),
-  and [Twitter](https://twitter.com/grayclhn).
+  and [Twitter](https://twitter.com/grayclhn)
   Also check out the [Econometrics Free Library Project][EFLP],
   a free/open-access textbook development project that you
   should contribute to.
 
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
-<http://pseudotrue.com>. They should be identical.
+<http://pseudotrue.com>. They should be identical. You can also
+subscribe to the [site’s newsfeed]({{ site.main}}/feed.xml) for
+updates.
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
@@ -39,7 +41,7 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
   and regression (Econ 671)](671)
 * [PhD Macroeconometrics (Econ 674)](674)
 * [Topics in statistical computing (Stat 590f)][590f] ([Heike Hofmann][]
-  is teaching it; I'm attending.)
+  is teaching it; I’m attending.)
 
 [590f]: https://github.com/heike/stat590f
 [Heike Hofmann]: http://hofmann.public.iastate.edu/
@@ -75,6 +77,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <a id="ephemera"> </a>
 ## Ephemera
+
+You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
 
 <ul>
 {% for doc in site.categories.notes %}
