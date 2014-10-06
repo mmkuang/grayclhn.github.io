@@ -1,3 +1,5 @@
+name: "Pseudotrue news"
+description: "Updates from Gray Calhoun's homepage"
 permalink: /notes/:title
 markdown: rdiscount
 exclude: ['*~',
@@ -14,3 +16,4 @@ exclude: ['*~',
           'CNAME',
           'econupload.sh']
 url: ''
+main: 'http://pseudotrue.com'
