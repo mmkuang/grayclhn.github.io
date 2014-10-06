@@ -21,29 +21,22 @@ contents of this outline, but as slides.
   experience with "open ended and poorly defined problems," which
   will help them in their research
 
-## Example of an team activity
-+ Slide 1/4:
+## Example of one team activity
 
   <a href="../pictures/forecasting1.png">
   <img alt="TBL Activity Slide 1" src="../pictures/forecasting1.png"
   width="500" border="1"/>
   </a>
 
-+ Slide 2/4:
-
   <a href="../pictures/forecasting2.png">
   <img alt="TBL Activity Slide 2" src="../pictures/forecasting2.png"
   width="500" border="1"/>
   </a>  
 
-+ Slide 3/4
-
   <a href="../pictures/forecasting3.png">
   <img alt="TBL Activity Slide 3" src="../pictures/forecasting3.png"
   width="500" border="1"/>
   </a>
-
-+ Slide 4/4
 
   <a href="../pictures/forecasting4.png">
   <img alt="TBL Activity Slide 4" src="../pictures/forecasting4.png"
