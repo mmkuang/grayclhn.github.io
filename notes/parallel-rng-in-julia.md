@@ -70,9 +70,8 @@ Instead, I’ve written an extremely small function that wraps Julia’s
 default RNG, calls it from the main process alone to generate random
 numbers, and then sends those random numbers to each of the other
 processes/cores where the rest of the simulation code runs. The
-function’s really simple:
-
-```julia	
+function’s really simple.
+{% highlight julia %}
 function replicate(sim::Function, dgp::Function, n::Integer)
     function rvproducer()
         for i=1:n
@@ -81,22 +80,22 @@ function replicate(sim::Function, dgp::Function, n::Integer)
     end
     return(pmap(sim, Task(rvproducer)))
 end
-```
+{% endhighlight %}
 
 That’s all. If you’re not used to Julia, you can ignore the
-`::Function` and the `::Integer` parts of the arguments. Those just
+“::Function” and the “::Integer” parts of the arguments. Those just
 identify the datatype of the argument and you can read it as
-`dgp_function` if you want (and explicitly providing the types like
-this is optional anyway). So, you give `replicate` two functions:
-`dgp` generates the random numbers and `sim` does the remaining
-calculations; `n` is the number of simulations to do. All of the work
-is done in `[pmap][5]` which parcels out the random numbers and sends
+“dgp_function” if you want (and explicitly providing the types like
+this is optional anyway). So, you give “replicate” two functions:
+“dgp” generates the random numbers and “sim” does the remaining
+calculations; “n” is the number of simulations to do. All of the work
+is done in “[pmap][5]” which parcels out the random numbers and sends
 them to different processors. (There’s a simplified version of the
-source code for `pmap` at that link.)
+source code for “pmap” at that link.)
 
 And that’s it. Each time a processor finishes one iteration, pmap
-calls `dgp()` again to generate more random numbers and passes them
-along. It automatically waits for `dgp()` to finish, so there are no
+calls “dgp()” again to generate more random numbers and passes them
+along. It automatically waits for “dgp()” to finish, so there are no
 race conditions and it produces the exact same sequence of random
 numbers every time. The code is shockingly concise. (It shocked me! I
 wrote it up assuming it would fail so I could understand pmap better
@@ -105,12 +104,12 @@ and I was pretty surprised when it worked.)
 A quick example might help clear up it’s usage. We’ll write a DGP for
 the bootstrap:
 
-```julia
+{% highlight julia %}
 const n = 200     # Number of observations for each simulation
 const nboot = 299 # Number of bootstrap replications
 addprocs(7)       # Start the other 7 cores
 dgp() = (randn(n), rand(1:n, (n, nboot)))
-```
+{% endhighlight %}
 
 The data are iid Normal, (the “randn(n)” component) and it’s an iid
 nonparametric bootstrap (the “rand(1:n, (n, nboot))”, which draws
@@ -118,8 +117,7 @@ independent values from 1 to n and fills them into an n by nboot
 matrix).
 
 We’ll use a proxy for some complicated processing step:
-
-```julia	
+{% highlight julia %}
 @everywhere function sim(x)
     nboot = size(x[2], 2)
     bootvals = Array(Float64, nboot)
@@ -130,36 +128,32 @@ We’ll use a proxy for some complicated processing step:
     sleep(3) # not usually recommended!
     return(confint[1] < 0 < confint[2])
 end
-```
-
-So `sim` calculates the mean of each bootstrap sample and calculates
+{% endhighlight %}
+So “sim” calculates the mean of each bootstrap sample and calculates
 the 5th and 95th percentile of those simulated means, giving a
 two-sided 90% confidence interval for the true mean. Then it checks
 whether the interval contains the true mean (0). And it also wastes 3
 seconds sleeping, which is a proxy for more complicated calculations
-but usually shouldn’t be in your code. The initial `@everywhere` is a
+but usually shouldn’t be in your code. The initial “@everywhere” is a
 Julia macro that loads this function into each of the separate
 processes so that it’s available for parallelization. (This is
 probably as good a place as any to link to Julia’s “Parallel
 Computing” documentation.)
 
 Running a short Monte Carlo is simple:
-
-```julia	
+{% highlight julia %}
 julia> srand(84537423); # Initialize the default RNG!!!
 julia> @time mc1 = mean(replicate(sim, dgp, 500))
- 
+
 elapsed time: 217.705639 seconds (508892580 bytes allocated, 0.13% gc time)
 0.896 # = 448/500
-```
-
+{% endhighlight %}
 So, about 3.6 minutes and the confidence intervals have coverage
 almost exactly 90%.
 
 It’s also useful to compare the execution time to a purely sequential
 approach. We can do that by using a simple for loop:
-
-```julia	
+{% highlight julia %}
 function dosequential(nsims)
     boots = Array(Float64, nsims)
     for i=1:nsims
@@ -167,18 +161,16 @@ function dosequential(nsims)
     end
     return boots
 end
-```
-
+{% endhighlight %}
 And, to time it:
-
-```julia	
+{% highlight julia %}
 julia> dosequential(1); # Force compilation before timing
 julia> srand(84537423); # Reinitialize the default RNG!!!
 julia> @time mc2 = mean(dosequential(500))
- 
+
 elapsed time: 1502.038961 seconds (877739616 bytes allocated, 0.03% gc time)
 0.896 # = 448/500
-```
+{% endhighlight %}
 
 This takes a lot longer: over 25 minutes, 7 times longer than the
 parallel approach (exactly what we’d hope for, since the parallel
@@ -189,10 +181,10 @@ So this approach to parallelization is great… sometimes.
 
 This approach should work pretty well when there aren’t that many
 random numbers being passed to each processor, and when there aren’t
-that many simulations being run; i.e. when `sim` is an inherently
+that many simulations being run; i.e. when “sim” is an inherently
 complex calculation. Otherwise, the overhead of passing the random
 numbers to each process can start to matter a lot. In extreme cases,
-`dosequential` can be faster than `replicate` because the overhead of
+“dosequential” can be faster than “replicate” because the overhead of
 managing the simulations and passing around random variables dominates
 the other calculations. In those applications, a real parallel RNG
 becomes a lot more important.
