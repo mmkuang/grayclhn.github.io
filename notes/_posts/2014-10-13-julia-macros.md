@@ -377,9 +377,10 @@ So now the code
 {% endhighlight %}
 
 runs as fast and with the same memory allocation as the explicitly
-devectorized code from before. (Obvious caveats are that the code is
-probably pretty fragile and you’d probably need to make it more robust
-if you use it for real.)
+devectorized code from before. You can download all of the code for
+this post [here][gist]. (Obvious caveats are that the code is probably
+pretty fragile and you’d probably need to make it more robust if you
+use it for real.)
 
 ## Are macros just about performance?
 
