@@ -2,6 +2,7 @@ name: "Pseudotrue news"
 description: "Updates from Gray Calhoun's homepage"
 permalink: /:categories/:title
 markdown: rdiscount
+highlighter: pygments
 exclude: ['*~',
           '*.aux',
           '*.bbl',
