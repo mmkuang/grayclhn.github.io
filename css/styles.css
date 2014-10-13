@@ -1,3 +1,4 @@
+@import "syntax.css";
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 
@@ -38,7 +39,8 @@ ol {
  padding-left:0;
 }
 
-code, pre {
+pre, code {
+  background-color: #f8f8ff;
   font-family:"Source Code Pro", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", mono;
 }
 
