@@ -495,7 +495,7 @@ the table without a real macro system.
 
 ## Update (10/17)
 The talk's been postponed until next week, but here are links to the
-[slides]({{ site.url }}/dl/macros_etc.df),
+[slides]({{ site.url }}/dl/macros_etc.pdf),
 [julia code]({{ site.url }}/dl/macros_etc.jl), and
 their [source code](https://github.com/heike/stat590f/tree/master/macros).
 
