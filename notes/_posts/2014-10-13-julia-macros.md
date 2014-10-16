@@ -493,6 +493,12 @@ well.
 And obviously, performance-oriented macros like `@our_devec` are off
 the table without a real macro system.
 
+## Update (10/17)
+The talk's been postponed until next week, but here are links to the
+[slides]({{ site.url }}/dl/macros_etc.df),
+[julia code]({{ site.url }}/dl/macros_etc.jl), and
+their [source code](https://github.com/heike/stat590f/tree/master/macros).
+
 ## Other things to read
 
 * [Julia’s metaprogramming documentation][0] (it’s unfortunately
