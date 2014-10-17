@@ -493,16 +493,13 @@ well.
 And obviously, performance-oriented macros like `@our_devec` are off
 the table without a real macro system.
 
-## Update (10/17)
-The talk's been postponed until next week, but here are links to the
-[slides]({{ site.url }}/dl/macros_etc.pdf),
-[julia code]({{ site.url }}/dl/macros_etc.jl), and
-their [source code](https://github.com/heike/stat590f/tree/master/macros).
-
 ## Other things to read
 
 * [Julia’s metaprogramming documentation][0] (it’s unfortunately
   sparse.)
+
+* [JuMP.jl][] and [DataFramesMeta.jl][] heavily use macros and are
+  probably going to be interesting to people who have read this far.
 
 * Given Lisp’s clear influence on Julia’s macro system, it’s probably
   worth reading the [special volume on Lisp-Stat of the *Journal of
@@ -511,6 +508,14 @@ their [source code](https://github.com/heike/stat590f/tree/master/macros).
 
 * [Paul Graham’s *On Lisp*][3] is widely recommended and also
   free. I’ve only read the first chapter on macros so far.
+
+* My talk's been postponed until next week, but here are links to the
+  [slides]({{ site.url }}/dl/macros_etc.pdf),
+  [julia code]({{ site.url }}/dl/macros_etc.jl), and
+  their [source code](https://github.com/heike/stat590f/tree/master/macros).
+
+* I've started a short file with some basic macros and utility
+  functions on GitHub: <https://gist.github.com/grayclhn/5e70f5f61d91606ddd93>
 
 [0]: http://julia.readthedocs.org/en/latest/manual/metaprogramming/
 [1]: http://www.jstatsoft.org/v13
@@ -521,6 +526,8 @@ their [source code](https://github.com/heike/stat590f/tree/master/macros).
 [6]: http://en.wikipedia.org/wiki/Regular_expression
 [7]: http://www.r-project.org/doc/Rnews/Rnews_2001-3.pdf#section*.31
 
+[JuMP.jl]: https://github.com/JuliaOpt/JuMP.jl
+[DataFramesMeta.jl]: https://github.com/JuliaStats/DataFramesMeta.jl
 [gist]: https://gist.github.com/grayclhn/2e43a628e67c007446e0
 [Match.jl]: https://matchjl.readthedocs.org/en/latest/
 [PatternDispatch.jl]: https://github.com/toivoh/PatternDispatch.jl

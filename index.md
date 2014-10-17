@@ -84,6 +84,7 @@ updates.
 {% endfor %}
 </ul>
 
+* [Short macros and utility functions for Julia](https://gist.github.com/grayclhn/5e70f5f61d91606ddd93) (October, 2014)
 * [Short note: Cobbling together parallel random number generation in Julia](notes/parallel-rng-in-julia) (July, 2014)
 * [Short note: Slowly moving to Julia from R](notes/julia-intro) (February, 2014)
 * [Quick thoughts and advice on whether to get a PhD in economics](notes/econ-grad-school) (June, 2013)
