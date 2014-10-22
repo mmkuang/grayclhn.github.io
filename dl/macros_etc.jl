@@ -38,6 +38,24 @@ h(x, y) = x, y # Fallback definition (the default)
 # Should define this as well (first)
 h(x::Int64, g::Function) = x
 
+# Defining new objects is easy, use the
+# 'type' keyword
+type MyObject
+    x::Integer
+    y::Integer
+end
+
+a = MyObject(32, 59)
+a + a
+#> ERROR: `+` has no method matching
+#> +(::MyObject, ::MyObject)
+
++(a::MyObject, b::MyObject) =
+    MyObject(a.x+b.x, a.y+b.y)
+
+a + a
+#> MyObject(64,118)
+
 # The `Symbol' object type is used for variable
 # names. Symbols start with a `:'
 
@@ -74,6 +92,25 @@ eval(:(height + 23))
 f(height) = eval(:(height + 23))
 f(12)
 #> 93
+
+# A useful idiom: if you absolutely _need_ local
+# eval, you can create an anonymous function with
+# eval and then call it
+
+f_bad(height) = eval(:(height + 23))
+f_bad(12)
+#> 93
+
+function f_good(height)
+    tempf = eval(:(x -> x + 23))
+    tempf(height)
+end
+
+f_good(12)
+#> 35
+
+# This should be a _last resort_, there are
+# better alternatives
 
 # Expressions have two (main) fields
 # - head: the `type' of the expression
