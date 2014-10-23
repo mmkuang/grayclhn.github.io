@@ -509,10 +509,11 @@ the table without a real macro system.
 * [Paul Graham’s *On Lisp*][3] is widely recommended and also
   free. I’ve only read the first chapter on macros so far.
 
-* My talk's been postponed until next week, but here are links to the
+* Here are links to the
   [slides]({{ site.url }}/dl/macros_etc.pdf),
   [julia code]({{ site.url }}/dl/macros_etc.jl), and
-  their [source code](https://github.com/heike/stat590f/tree/master/macros).
+  their [source code](https://github.com/heike/stat590f/tree/master/macros)
+  from the talk itself (given on 10/22)
 
 * I've started a short file with some basic macros and utility
   functions on GitHub: <https://gist.github.com/grayclhn/5e70f5f61d91606ddd93>
