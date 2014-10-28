@@ -237,8 +237,7 @@ nevermind that for now...)
 
 {% highlight julia %}
 getvecs(s::Symbol) = s
-getvecs(e::Expr) =
-                 [[getvecs(a) for a in e.args[2:end]]...]
+getvecs(e::Expr) = [[getvecs(a) for a in e.args[2:end]]...]
 {% endhighlight %}
 
 which will recurse down a nested expression until it finds the symbols
@@ -253,8 +252,7 @@ macro our_devec_p2(e)
   vecs = getvecs(e.args[2])
   check_lengths = Expr(:comparison)
   check_lengths.args = Array(Any, 2 * length(vecs) - 1)
-  check_lengths.args[1:2:end] =
-                  map(s -> Expr(:call, :length, s), vecs)
+  check_lengths.args[1:2:end] = map(s -> Expr(:call, :length, s), vecs)
   check_lengths.args[2:2:end] = :(==)
   :($check_lengths)
 end
@@ -294,12 +292,10 @@ macro our_devec_part3(e)
     vecs = getvecs(e.args[2])
     quote
         if length($(vecs[1])) > 1
-            $(esc(e.args[1])) =
-                    similar($(vecs[1]), typeof(firstval))
+            $(esc(e.args[1])) = similar($(vecs[1]), typeof(firstval))
             $(esc(e.args[1]))[1] = firstval
             for i = 2:length($(vecs[1]))
-                $(esc(e.args[1]))[i] =
-                               $(getindex(e.args[2], :i))
+                $(esc(e.args[1]))[i] = $(getindex(e.args[2], :i))
             end
         end
     end
@@ -320,20 +316,17 @@ macro our_devec(e)                        # Final version
 
     check_lengths = Expr(:comparison)            # Part 2
     check_lengths.args = Array(Any, 2 * length(vecs) - 1)
-    check_lengths.args[1:2:end] =
-                  map(s -> Expr(:call, :length, s), vecs)
+    check_lengths.args[1:2:end] = map(s -> Expr(:call, :length, s), vecs)
     check_lengths.args[2:2:end] = :(==)
 
     quote
         @assert $check_lengths
         firstval = $(getindex(e.args[2], 1))     # Part 1
         if length($(vecs[1])) > 1                # Part 3
-            $(esc(e.args[1])) =
-                    similar($(vecs[1]), typeof(firstval))
+            $(esc(e.args[1])) = similar($(vecs[1]), typeof(firstval))
             $(esc(e.args[1]))[1] = firstval
             @inbounds for i = 2:length($(vecs[1]))
-                $(esc(e.args[1]))[i] =
-                               $(getindex(e.args[2], :i))
+                $(esc(e.args[1]))[i] = $(getindex(e.args[2], :i))
             end
         else
             $(esc(e.args[1])) = firstval   # new but easy
