@@ -40,8 +40,12 @@ ol {
 }
 
 pre, code {
-  background-color: #f8f8ff;
   font-family:"Source Code Pro", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", mono;
+}
+
+li pre, p pre, p code, li code {
+  border: 1px solid #d0d0d0;
+  border-radius: 1px;
 }
 
 pre, blockquote {
