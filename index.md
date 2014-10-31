@@ -93,11 +93,11 @@ updates.
 
 You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
 
-<blockquote class="twitter-tweet" lang="en"><p>1.2% <a href="https://twitter.com/hashtag/inflation?src=hash">#inflation</a> in Sept. (Annualized &amp; seasonally adjusted) Persistently low.&#10;<a href="http://t.co/kDM6e7fhBb">http://t.co/kDM6e7fhBb</a> <a href="http://t.co/9i9adu5Brb">pic.twitter.com/9i9adu5Brb</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/525087913512411138">October 23, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Yesterday&#39;s real <a href="https://twitter.com/hashtag/gdp?src=hash">#gdp</a> release: 3.5% for Q3 (annualized, seaonally adjusted) <a href="http://t.co/79L8Td5v0P">pic.twitter.com/79L8Td5v0P</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/528078256637874176">October 31, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p>1.2% <a href="https://twitter.com/hashtag/inflation?src=hash">#inflation</a> in Sept. (Annualized &amp; seasonally adjusted) Persistently low.&#10;<a href="http://t.co/kDM6e7fhBb">http://t.co/kDM6e7fhBb</a> <a href="http://t.co/9i9adu5Brb">pic.twitter.com/9i9adu5Brb</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/525087913512411138">October 23, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p>5.9% <a href="https://twitter.com/hashtag/unemployment?src=hash">#unemployment</a> rate announced for Sept. Same general trend as before <a href="http://t.co/ZjH8YxasdQ">pic.twitter.com/ZjH8YxasdQ</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518048843846651904">October 3, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en" data-cards="hidden"><p>For some degree of closure, a graph of updated Q2 <a href="https://twitter.com/hashtag/GDP?src=hash">#GDP</a> <a href="http://t.co/rXf8ridFqF">pic.twitter.com/rXf8ridFqF</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/518138257696370688">October 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
