@@ -53,7 +53,8 @@ Documentation License][FDL] v1.3
 
 * [Estimating and using VARs][VAR1] (Sept. 9th, 2014, with [source code][VAR1src] and [data][VAR1data])
 * [Structural VARs][VAR2] (Sept. 11th, 2014, with [source code][VAR2src] and [data][VAR2data])
-* [Local copy of the license][FDL_local].
+* [Stochastic integrals and spurious regression][spurious] (Nov. 4th, 2014, with [document source][spurious_source])
+* [Local copy of the license][FDL_local]
 
 [VAR1]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.6/var_forecasts.ipynb
 [VAR2]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.6/svar_lecture.ipynb
@@ -61,6 +62,8 @@ Documentation License][FDL] v1.3
 [VAR2src]: https://github.com/grayclhn/674/blob/v0.2.6/svar_lecture.ipynb
 [VAR1data]: https://github.com/grayclhn/674/blob/v0.2.6/data/bivariate_example.csv
 [VAR2data]: https://github.com/grayclhn/674/blob/v0.2.6/data/bivariate_example2.csv
+[spurious]: stochastic_integration_slides_2014.pdf
+[spurious_source]: https://github.com/grayclhn/674/blob/v0.3.2/lectures/stochastic_integration.org
 [FDL]: http://www.gnu.org/copyleft/fdl.html
 [FDL_local]: GNU_FDL/
 
