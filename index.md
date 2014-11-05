@@ -35,6 +35,19 @@ updates.
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
 
+## PhD Students on the 2014 job market
+
+**Anwen Yin** (Econ PhD, [Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and I are co-advisors)  
+[CV](http://anwenyin.weebly.com/cv.html),
+[job market paper](http://anwenyin.weebly.com/uploads/4/1/6/0/41609955/cv_model_averaging_20141104.pdf),
+[homepage](http://anwenyin.weebly.com/),
+[LinkedIn](http://www.linkedin.com/pub/anwen-yin/27/650/970).
+
+**Matt Simpson** (Econ and Stats PhD; [Jarad Niemi](http://www.jarad.me/) and I are co-advisors)  
+[CV](http://www.themattsimpson.com/wp-content/uploads/2014/10/CV.pdf),
+[research](http://www.themattsimpson.com/research-2/),
+[homepage](http://www.themattsimpson.com/).
+
 <hr />
 
 <a id="teaching"> </a>
@@ -75,66 +88,6 @@ updates.
   [Link](http://www.econ.iastate.edu/research/working-papers/p12216),
   [R package](dl/ftestLargeK_1.0.tar.gz), and [additional
   files](dl/calhoun-2010-ftest.tar.gz)
-
-<a id="students"> </a>
-## Students
-
-* PhD students on the 2014 job market (mine):
-  - Anwen Yin (co-advisor with Helle Bunzel):
-    [CV](http://anwenyin.weebly.com/cv.html),
-    [job market paper](http://anwenyin.weebly.com/uploads/4/1/6/0/41609955/cv_model_averaging_20141104.pdf),
-    [homepage](http://anwenyin.weebly.com/),
-    [LinkedIn](http://www.linkedin.com/pub/anwen-yin/27/650/970).
-  - Matt Simpson (Econ and Statistics PhD; co-advisor with
-    Jarad Niemi):
-    [CV](http://www.themattsimpson.com/wp-content/uploads/2014/10/CV.pdf),
-    [research](http://www.themattsimpson.com/research-2/),
-    [homepage](http://www.themattsimpson.com/).
-* Other students on the 2014 job market (I'm on their committees)
-  - Matt Clancy (Economics PhD):
-    [CV](http://matt-clancy.com/wp/wp-content/uploads/2014/07/Academic-CV-7-2-2014.pdf),
-    [homepage](http://matt-clancy.com/).
-  - Deung-Yong Heo (Economics PhD):
-    [CV](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkZXVuZ3lvbmdoZW98Z3g6MzFiZDc3ZjBjYWVhZTRkMA),
-    [homepage](https://sites.google.com/site/deungyongheo/).
-* Other current students (committee member)
-  - Zabid Iqbal (Economics PhD):
-    [LinkedIn](http://www.linkedin.com/pub/zabid-iqbal/8b/b85/18a).
-  - Xiying Liu (Economics PhD):
-    [homepage](https://www.econ.iastate.edu/people/graduate-students/liu-xiying).
-  - Sam Helmich (Statistics MS):
-    [LinkedIn](http://www.linkedin.com/pub/helmich-sam/77/bb3/769).
-  - Ziran Li (Economics PhD):
-    [LinkedIn](http://www.linkedin.com/pub/ziran-li/12/774/275).
-  - Soumnyadip Roy (Economics PhD):
-    [LinkedIn](http://www.linkedin.com/pub/soumyadip-roy/15/533/178).
-  - Carson Sievert (Statistics PhD):
-    [CV](http://cpsievert.github.io/cv.html),
-    [homepage](http://cpsievert.github.io/).
-* Past students (committee member)
-  - Özgü Serttaş (Economics PhD, 2010). "Essays on infinite-variance
-    stable errors and robust estimation procedures."
-    [CV](http://www.ybu.edu.tr/siyasalbilgiler/contents/files/Yrd_Doc_Dr_FatmaSERTTASTCV.pdf).
-  - [Jeremiah Richey][] (Economics PhD, 2012). "Essays on the
-    identification of treatment effects with applications to the labor
-    market."
-    [RePEc](https://ideas.repec.org/f/pri320.html),
-    [LinkedIn](http://kr.linkedin.com/pub/jeremiah-richey/3b/a26/506).
-  - Nathan Zimmerman (Statistics MS, 2013):
-    [LinkedIn](http://www.linkedin.com/pub/nathan-zimmerman/86/566/814).
-  - [Yihui Xie][] (Statistics PhD, 2013). "Dynamic graphics and reporting
-    for statistics."
-    [Homepage](http://yihui.name/en/),
-    [LinkedIn](http://www.linkedin.com/in/yihuixie).
-
-**Note for potential students:** I'm probably on more committees right
-now than is ideal. My research interests are time-series econometrics
-and forecasting, and I'm also interested in statistical graphics and
-computing. Economics students who want to work with me (either as an
-advisor or a committee member) should plan to take macroeconometrics
-(Econ 674), which I co-teach with Helle Bunzel. I'm more flexible for
-students from other departments, because finding an outside committee
-member can be difficult.
 
 <hr />
 
