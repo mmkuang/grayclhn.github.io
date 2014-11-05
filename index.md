@@ -9,20 +9,23 @@ and applications to forecasting and forecast evaluation. I graduated
 with a PhD from UC San Diego in 2009, where I worked with Graham
 Elliott and Allan Timmermann.
 
-* **Email:** «gcalhoun at iastate dot edu» (university) and «gray at clhn
-  dot org» (personal email and IM)
-* **Office:** 467 Heady Hall, (515) 294-6271.
-  Office hours are 12-12:45 on Mondays and Wednesdays for spring, 2014.
-* **Links:** [Curriculum vitae][cv],
-  [IDEAS](http://ideas.repec.org/f/pca491.html),
-  [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
-  [LinkedIn](https://linkedin.com/in/grayclhn),
-  [GitHub](https://github.com/grayclhn),
-  [Tumblr](http://gray.clhn.org),
-  and [Twitter](https://twitter.com/grayclhn)
-  Also check out the [Econometrics Free Library Project][EFLP],
-  a free/open-access textbook development project that you
-  should contribute to.
+**Email:** «gcalhoun at iastate dot edu» (university) and «gray at clhn
+dot org» (personal email and IM)
+
+**Office:** 467 Heady Hall, (515) 294-6271.
+Office hours are 12-12:45 on Mondays and Wednesdays for spring, 2014.
+
+**Links:** [Curriculum vitae][cv],
+[IDEAS](http://ideas.repec.org/f/pca491.html),
+[Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
+[LinkedIn](https://linkedin.com/in/grayclhn),
+[GitHub](https://github.com/grayclhn),
+[Tumblr](http://gray.clhn.org),
+and [Twitter](https://twitter.com/grayclhn)
+
+Also check out the [Econometrics Free Library Project][EFLP],
+a free/open-access textbook development project that you
+should contribute to.
 
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 <http://pseudotrue.com>. They should be identical. You can also
