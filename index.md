@@ -58,6 +58,10 @@ updates.
 * [PhD Macroeconometrics (Econ 674)](674)
 * [Topics in statistical computing (Stat 590f)][590f] ([Heike Hofmann][]
   is teaching it; I’m attending.)
+* MA Creative Component (Econ 599): Section CG,
+  reference number 3154027
+* Research for thesis or dissertation (Econ 699): Section CG,
+  reference number 3171027
 
 [590f]: https://github.com/heike/stat590f
 [Heike Hofmann]: http://hofmann.public.iastate.edu/
