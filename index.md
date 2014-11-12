@@ -107,6 +107,9 @@ updates.
 {% endfor %}
 </ul>
 
+* [A visual analysis of some macroeconomic
+  series](dl/graphics_slides.pdf) (slides for November 11th, 2014 talk
+  at the statistics visualization working group)
 * [Short macros and utility functions for Julia](https://gist.github.com/grayclhn/5e70f5f61d91606ddd93) (October, 2014)
 * [Short note: Cobbling together parallel random number generation in Julia](notes/parallel-rng-in-julia) (July, 2014)
 * [Short note: Slowly moving to Julia from R](notes/julia-intro) (February, 2014)
