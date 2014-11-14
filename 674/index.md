@@ -55,8 +55,14 @@ Documentation License][FDL] v1.3
 * [Structural VARs][VAR2] (Sept. 11th, 2014, with [source code][VAR2src] and [data][VAR2data])
 * [Stochastic integrals and spurious regression][spurious] (Nov. 4th, 2014, with [document source][spurious_source])
 * [Basics of estimating cointegrated time series][coint1] (Nov. 6th, 2014, with [document source][coint1_source])
+* [Inference in cointegrated time series][coint2] (Nov. 11th, 2014, with [document source][coint2_source])
+* [Stepdown multiple testing procedures][stepdown] (Nov. 13th, 2014, with [document source][stepdown_source])
 * [Local copy of the license][FDL_local]
 
+[stepdown_source]: https://github.com/grayclhn/674/blob/v0.6.0/testing/overview.org
+[stepdown]: multiple_testing_slides_2014.pdf
+[coint2_source]: https://github.com/grayclhn/674/blob/v0.5.0/cointegration/estimation_basics.org
+[coint2]: cointegration_inference_slides_2014.pdf
 [coint1_source]: https://github.com/grayclhn/674/blob/v0.4.0/cointegration/estimation_basics.org
 [coint1]: cointegration_estimation_slides_2014.pdf
 [VAR1]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.6/var_forecasts.ipynb
