@@ -16,8 +16,8 @@ Helle will use [Blackboard][] to distribute any handouts, etc. and
 I'll use this webpage.
 
 * [Course syllabus](syllabus-2014.pdf) with contact information.
-  ([LaTeX](syllabus-2014.tex)). We will update the syllabus with more
-  details later in the semester.
+  ([LaTeX](syllabus-2014.tex)).
+* [List of final exam topics](exam-topics-2014.pdf) for Fall, 2014.
 * Required textbook:
   * [Jim Hamilton’s](http://econweb.ucsd.edu/~jhamilton/) *[Time
   Series Analysis](http://press.princeton.edu/titles/5386.html)*
