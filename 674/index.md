@@ -56,10 +56,13 @@ Documentation License][FDL] v1.3
 * [Stochastic integrals and spurious regression][spurious] (Nov. 4th, 2014, with [document source][spurious_source])
 * [Basics of estimating cointegrated time series][coint1] (Nov. 6th, 2014, with [document source][coint1_source])
 * [Inference in cointegrated time series][coint2] (Nov. 11th, 2014, with [document source][coint2_source])
-* [Stepdown multiple testing procedures][stepdown] (Nov. 13th, 2014, with [document source][stepdown_source])
+* [Stepdown multiple testing procedures][stepdown] (Nov. 13th and 18th, 2014, with [document source][stepdown_source]
+  and code samples: [file1][stepdown_1], [file2][stepdown_2]; updated on Nov. 18)
 * [Local copy of the license][FDL_local]
 
-[stepdown_source]: https://github.com/grayclhn/674/blob/v0.6.0/testing/overview.org
+[stepdown_2]: https://github.com/grayclhn/674/blob/v0.6.2/inference/pretest2.R
+[stepdown_1]: https://github.com/grayclhn/674/blob/v0.6.2/inference/pretest1.R
+[stepdown_source]: https://github.com/grayclhn/674/blob/v0.6.2/inference/selection.org
 [stepdown]: multiple_testing_slides_2014.pdf
 [coint2_source]: https://github.com/grayclhn/674/blob/v0.5.0/cointegration/estimation_basics.org
 [coint2]: cointegration_inference_slides_2014.pdf
