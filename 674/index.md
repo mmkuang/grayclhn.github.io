@@ -47,7 +47,7 @@ I'll use this webpage.
 Partial lecture notes
 ---------------------
 
-Please let me know when you find errors. The documents in this section
+Please let me know when you find errors or broken links. The documents in this section
 are copyright 2014 by Gray Calhoun, and licensed under the [GNU Free
 Documentation License][FDL] v1.3
 
@@ -58,8 +58,13 @@ Documentation License][FDL] v1.3
 * [Inference in cointegrated time series][coint2] (Nov. 11th, 2014, with [document source][coint2_source])
 * [Stepdown multiple testing procedures][stepdown] (Nov. 13th and 18th, 2014, with [document source][stepdown_source]
   and code samples: [file1][stepdown_1], [file2][stepdown_2]; updated on Nov. 18)
+* [Introduction to Bayesian inference][bayes] (Nov. 20th, 2014, with [document source][bayes_source]
+  and [code sample][bayes_R])
 * [Local copy of the license][FDL_local]
 
+[bayes]: bayes_intro_slides_2014.pdf
+[bayes_source]: https://github.com/grayclhn/674/blob/v0.8.1/inference/bayesian.org
+[bayes_R]: https://github.com/grayclhn/674/blob/v0.8.1/inference/bayesian_example.R
 [stepdown_2]: https://github.com/grayclhn/674/blob/v0.6.2/inference/pretest2.R
 [stepdown_1]: https://github.com/grayclhn/674/blob/v0.6.2/inference/pretest1.R
 [stepdown_source]: https://github.com/grayclhn/674/blob/v0.6.2/inference/selection.org
