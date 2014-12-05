@@ -119,9 +119,5 @@ updates.
 
 You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
 
-<blockquote class="twitter-tweet" lang="en"><p>5.8% <a href="https://twitter.com/hashtag/unemployment?src=hash">#unemployment</a> rate for october (seasonally adjusted)&#10;<a href="http://t.co/2jnZho5lGr">http://t.co/2jnZho5lGr</a> <a href="http://t.co/iqRvV0cBJH">pic.twitter.com/iqRvV0cBJH</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/530759755375992832">November 7, 2014</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="en" data-cards="hidden">
-<p>Yesterday&#39;s real <a href="https://twitter.com/hashtag/gdp?src=hash">#gdp</a> release: 3.5% for Q3 (annualized, seaonally adjusted) <a href="http://t.co/79L8Td5v0P">pic.twitter.com/79L8Td5v0P</a></p>&mdash; gray (@grayclhn) <a href="https://twitter.com/grayclhn/status/528078256637874176">October 31, 2014</a></blockquote>
-
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/unemployment?src=hash">#unemployment</a> rate 5.8% in Nov. (same as Oct.) <a href="http://t.co/a1F7LUZEIQ">pic.twitter.com/a1F7LUZEIQ</a></p>&mdash; gray calhoun (@grayclhn) <a href="https://twitter.com/grayclhn/status/540910953328828416">December 5, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
