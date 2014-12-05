@@ -60,8 +60,14 @@ Documentation License][FDL] v1.3
   and code samples: [file1][stepdown_1], [file2][stepdown_2]; updated on Nov. 18)
 * [Introduction to Bayesian inference][bayes] (Nov. 20th, 2014, with [document source][bayes_source]
   and [code sample][bayes_R])
+* [Implemetning Bayesian estimators][bayes2] (Dec. 2nd and 4th, 2014, with [document source][bayes2_source]
+  and code samples: [file1][bayes2a_R], [file2][bayes2b_R])
 * [Local copy of the license][FDL_local]
 
+[bayes2]: bayes_implementation_slides_2014.pdf
+[bayes2_source]: https://github.com/grayclhn/674/blob/v0.9.0/bayes/2_evaluation.org
+[bayes2a_R]: https://github.com/grayclhn/674/blob/v0.9.0/bayes/evaluation_plots.R
+[bayes2b_R]: https://github.com/grayclhn/674/blob/v0.9.0/bayes/unrate.R
 [bayes]: bayes_intro_slides_2014.pdf
 [bayes_source]: https://github.com/grayclhn/674/blob/v0.8.1/inference/bayesian.org
 [bayes_R]: https://github.com/grayclhn/674/blob/v0.8.1/inference/bayesian_example.R
