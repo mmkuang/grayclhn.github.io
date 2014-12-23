@@ -118,6 +118,3 @@ updates.
 * [An extremely subjective guide to the economics job market](notes/job-market-notes) (August, 2009)
 
 You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
-
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/unemployment?src=hash">#unemployment</a> rate 5.8% in Nov. (same as Oct.) <a href="http://t.co/a1F7LUZEIQ">pic.twitter.com/a1F7LUZEIQ</a></p>&mdash; gray calhoun (@grayclhn) <a href="https://twitter.com/grayclhn/status/540910953328828416">December 5, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
