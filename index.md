@@ -78,7 +78,7 @@ updates.
   [repo](https://github.com/grayclhn/stepdown-paper/tree/jeconom_submission)
 * [An asymptotically normal out-of-sample test based on mixed
   estimation windows](dl/calhoun-mixed-window.pdf) with
-  [appendix](dl/calhoun-mixed-window-appendix)
+  [appendix](dl/calhoun-mixed-window-appendix.pdf)
   and [repo](https://github.com/grayclhn/mixedwindow)
 * [Block bootstrap consistency under weak
   assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
