@@ -76,9 +76,10 @@ updates.
 * [Improved stepdown methods for asymptotic control of generalized
   error rates](dl/calhoun-stepdown.pdf) with
   [repo](https://github.com/grayclhn/stepdown-paper/tree/jeconom_submission)
-* [An asymptotically normal out-of-sample test of equal predictive
-  accuracy for nested models](dl/calhoun-mixed-window.pdf) with
-  [repo](https://github.com/grayclhn/mixedwindow/tree/ecma-sub)
+* [An asymptotically normal out-of-sample test based on mixed
+  estimation windows](dl/calhoun-mixed-window.pdf) with
+  [appendix](dl/calhoun-mixed-window-appendix)
+  and [repo](https://github.com/grayclhn/mixedwindow)
 * [Block bootstrap consistency under weak
   assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
   with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
