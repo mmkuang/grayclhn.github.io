@@ -4,6 +4,10 @@ title: Some thoughts on the Reinhart and Rogoff debate
 author: Gray Calhoun
 ---
 
+(Update from February 6th, 2015: I've turned this post into a short
+paper, “[Causality in the Reinhart-Rogoff dataset, the plots
+thicken]({{ site.main }}/dl/calhoun-rr-graphics.pdf)”)
+
 I’ve linked to some of the debate over [Reinhart and Rogoff’s][RR]
 [suddenly suspect results on debt and economic growth] [umass] (the
 links are on my old blog, but you can find all the articles you want

@@ -73,6 +73,15 @@ updates.
 
 <a id="workingpapers"> </a>
 ## Working papers
+
+* [Out-of-sample comparisons of overfit
+  models](http://www.econ.iastate.edu/research/working-papers/p12462)
+  with [repo](https://github.com/grayclhn/oos-overfit/tree/REStud) and
+  [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
+* [Block bootstrap consistency under weak
+  assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
+  with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
+  [repo](https://github.com/grayclhn/statboot-paper/tree/ET_submission_3)
 * [Improved stepdown methods for asymptotic control of generalized
   error rates](dl/calhoun-stepdown.pdf) with
   [repo](https://github.com/grayclhn/stepdown-paper/tree/jeconom_submission)
@@ -80,14 +89,9 @@ updates.
   estimation windows](dl/calhoun-mixed-window.pdf) with
   [appendix](dl/calhoun-mixed-window-appendix.pdf)
   and [repo](https://github.com/grayclhn/mixedwindow)
-* [Block bootstrap consistency under weak
-  assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
-  with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
-  [repo](https://github.com/grayclhn/statboot-paper/tree/ET_submission_3)
-* [Out-of-sample comparisons of overfit
-  models](http://www.econ.iastate.edu/research/working-papers/p12462)
-  with [repo](https://github.com/grayclhn/oos-overfit/tree/REStud) and
-  [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
+* [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
+  with [archive](dl/calhoun-rr-graphics.zip) and
+  [source code repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics/tree/v2015-02-06).
 
 <a id="publications"> </a>
 ## Publications
@@ -116,6 +120,7 @@ updates.
 * [Short note: Slowly moving to Julia from R](notes/julia-intro) (February, 2014)
 * [Quick thoughts and advice on whether to get a PhD in economics](notes/econ-grad-school) (June, 2013)
 * [Some thoughts on the Reinhart and Rogoff debate](notes/reinhart-rogoff-thoughts) (April, 2013)
+  Note: I've turned this into a short paper, “[Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)”
 * [An extremely subjective guide to the economics job market](notes/job-market-notes) (August, 2009)
 
 You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
