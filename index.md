@@ -20,7 +20,6 @@ Office hours are 12-12:45 on Mondays and Wednesdays for spring, 2014.
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
-[blogroll](http://pseudotrue.com),
 and [Twitter](https://twitter.com/grayclhn)
 
 Also check out the [Econometrics Free Library Project][EFLP],
@@ -112,6 +111,7 @@ updates.
 {% endfor %}
 </ul>
 
+* [Blogroll](http://pseudotrue.com) (added February 11th, 2015)
 * [A visual analysis of some macroeconomic
   series](dl/graphics_slides.pdf) (slides for November 11th, 2014 talk
   at the statistics visualization working group)
@@ -119,8 +119,8 @@ updates.
 * [Short note: Cobbling together parallel random number generation in Julia](notes/parallel-rng-in-julia) (July, 2014)
 * [Short note: Slowly moving to Julia from R](notes/julia-intro) (February, 2014)
 * [Quick thoughts and advice on whether to get a PhD in economics](notes/econ-grad-school) (June, 2013)
-* [Some thoughts on the Reinhart and Rogoff debate](notes/reinhart-rogoff-thoughts) (April, 2013)
-  Note: I've turned this into a short paper, “[Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)”
+* [Some thoughts on the Reinhart and Rogoff debate](notes/reinhart-rogoff-thoughts) (April, 2013)  
+  Note: I've turned this into a short paper, “[Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf).”
 * [An extremely subjective guide to the economics job market](notes/job-market-notes) (August, 2009)
 
 You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
