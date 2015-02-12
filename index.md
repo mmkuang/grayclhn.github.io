@@ -28,7 +28,7 @@ a free/open-access textbook development project that you
 should contribute to.
 
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
-<http://pseudotrue.com>. They should be identical. You can also
+<http://gray.clhn.org>. They should be identical. You can also
 subscribe to the [site’s newsfeed]({{ site.main}}/feed.xml) for
 updates.
 
