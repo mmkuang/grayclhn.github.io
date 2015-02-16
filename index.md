@@ -83,7 +83,7 @@ updates.
   [repo](https://github.com/grayclhn/statboot-paper/tree/ET_submission_3)
 * [Improved stepdown methods for asymptotic control of generalized
   error rates](dl/calhoun-stepdown.pdf) with
-  [repo](https://github.com/grayclhn/stepdown-paper/tree/jeconom_submission)
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/tree/jeconom_submission)
 * [An asymptotically normal out-of-sample test based on mixed
   estimation windows](dl/calhoun-mixed-window.pdf) with
   [appendix](dl/calhoun-mixed-window-appendix.pdf)
