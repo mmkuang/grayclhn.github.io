@@ -87,7 +87,7 @@ updates.
 * [An asymptotically normal out-of-sample test based on mixed
   estimation windows](dl/calhoun-mixed-window.pdf) with
   [appendix](dl/calhoun-mixed-window-appendix.pdf)
-  and [Git repository](https://github.com/grayclhn/mixedwindow)
+  and [Git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow/tree/ecma-sub2)
 * [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
   with [source code archive](dl/calhoun-rr-graphics.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics/tree/v2015-02-06)
