@@ -20,6 +20,7 @@ Office hours are 12-12:45 on Mondays and Wednesdays for spring, 2014.
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
+[Pinboard (links)](https://pinboard.in/u:pseut),
 and [Twitter](https://twitter.com/grayclhn)
 
 Also check out the [Econometrics Free Library Project][EFLP],
