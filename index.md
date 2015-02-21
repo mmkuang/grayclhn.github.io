@@ -13,7 +13,6 @@ Elliott and Allan Timmermann.
 dot org» (personal email and IM)
 
 **Office:** 467 Heady Hall, (515) 294-6271.
-Office hours are 12-12:45 on Mondays and Wednesdays for spring, 2014.
 
 **Links:** [Curriculum vitae][cv],
 [IDEAS](http://ideas.repec.org/f/pca491.html),
