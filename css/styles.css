@@ -5,6 +5,12 @@
 body {
   font:16px "Source Sans Pro", "DejaVu Sans", sans-serif;
   font-weight:400;
+  -moz-font-feature-settings:"onum";
+  -moz-font-feature-settings:"onum=1";
+  -ms-font-feature-settings:"onum";
+  -o-font-feature-settings:"onum";
+  -webkit-font-feature-settings:"onum";
+  font-feature-settings:"onum";
 }
 
 h1, h2, h3, h4, h5, h6 {
