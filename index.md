@@ -91,6 +91,9 @@ updates.
 * [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
   with [source code archive](dl/calhoun-rr-graphics.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics/tree/v2015-02-06)
+* [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smoothirf.pdf)
+  with [source code archive](dl/calhoun-smoothirf.zip) and
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22)
 
 <a id="publications"> </a>
 ## Publications
