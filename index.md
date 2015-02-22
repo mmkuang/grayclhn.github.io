@@ -36,8 +36,7 @@ updates.
 
 <hr />
 
-<a id="students"> </a>
-## PhD Students on the 2014 job market
+## PhD Students on the 2014 job market <a href="/#students" id="students">#</a>
 
 **Anwen Yin** (Econ PhD, [Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and I are co-advisors)  
 [CV](http://anwenyin.weebly.com/cv.html),
@@ -52,8 +51,7 @@ updates.
 
 <hr />
 
-<a id="teaching"> </a>
-## Teaching
+## Teaching <a href="#teaching" id="teaching">#</a>
 * [Principles of Macroeconomics (Econ 102)](102)
 * [PhD Econometrics 1 — introduction to statistics
   and regression (Econ 671)](671)
@@ -70,8 +68,7 @@ updates.
 
 <hr />
 
-<a id="workingpapers"> </a>
-## Working papers
+## Working papers <a href = "workingpapers" id="workingpapers">#</a>
 
 * [Out-of-sample comparisons of overfit
   models](http://www.econ.iastate.edu/research/working-papers/p12462)
@@ -95,8 +92,7 @@ updates.
   with [source code archive](dl/calhoun-smoothirf.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22)
 
-<a id="publications"> </a>
-## Publications
+## Publications <a href="#publications" id="publications">#</a>
 * Hypothesis testing in linear regression when k/n is large. *Journal
   of Econometrics*, 165(2), 2011: 163–174.
   [Link](http://www.econ.iastate.edu/research/working-papers/p12216),
@@ -105,8 +101,7 @@ updates.
 
 <hr />
 
-<a id="ephemera"> </a>
-## Ephemera
+## Ephemera <a href="#ephemera" id="ephemera">#</a>
 
 <ul>
 {% for doc in site.categories.notes %}
