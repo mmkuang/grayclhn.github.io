@@ -72,24 +72,24 @@ updates.
 
 * [Out-of-sample comparisons of overfit
   models](http://www.econ.iastate.edu/research/working-papers/p12462)
-  with [Git repository](https://github.com/grayclhn/oos-overfit/tree/REStud) and
+  (2014-03-30) with [Git repository](https://github.com/grayclhn/oos-overfit/tree/REStud) and
   [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 * [Block bootstrap consistency under weak
   assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
-  with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
+  (2014-10-06) with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
   [Git repository](https://github.com/grayclhn/statboot-paper/tree/ET_submission_3)
 * [Improved stepdown methods for asymptotic control of generalized
-  error rates](dl/calhoun-stepdown.pdf) with
+  error rates](dl/calhoun-stepdown.pdf) (2014-09-24) with
   [Git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/tree/jeconom_submission)
 * [An asymptotically normal out-of-sample test based on mixed
-  estimation windows](dl/calhoun-mixed-window.pdf) with
+  estimation windows](dl/calhoun-mixed-window.pdf) (2015-01-09) with
   [appendix](dl/calhoun-mixed-window-appendix.pdf)
   and [Git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow/tree/ecma-sub2)
 * [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
-  with [source code archive](dl/calhoun-rr-graphics.zip) and
+  (2015-02-06) with [source code archive](dl/calhoun-rr-graphics.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics/tree/v2015-02-06)
 * [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smoothirf.pdf)
-  with [source code archive](dl/calhoun-smoothirf.zip) and
+  (2015-02-22) with [source code archive](dl/calhoun-smoothirf.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22)
 
 ## Publications
