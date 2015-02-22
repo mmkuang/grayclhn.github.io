@@ -27,9 +27,7 @@ a free/open-access textbook development project that you
 should contribute to.
 
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
-<http://gray.clhn.org>. They should be identical. You can also
-subscribe to the [site’s newsfeed]({{ site.main}}/feed.xml) for
-updates.
+<http://gray.clhn.org>. They should be identical.
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
@@ -120,5 +118,3 @@ updates.
 * [Some thoughts on the Reinhart and Rogoff debate](notes/reinhart-rogoff-thoughts) (April, 2013)  
   Note: I've turned this into a short paper, “[Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf).”
 * [An extremely subjective guide to the economics job market](notes/job-market-notes) (August, 2009)
-
-You can get updates from the [site newsfeed]({{ site.main }}/feed.xml).
