@@ -86,9 +86,9 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 * [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
   (2015-02-06, submitted) with [source code archive](dl/calhoun-rr-graphics.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics/tree/v2015-02-06)
-* [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smoothirf.pdf)
-  (2015-02-22) with [source code archive](dl/calhoun-smoothirf.zip) and
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22)
+* [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smooth-irf.pdf)
+  (2015-02-22b) with [source code archive](dl/calhoun-smooth-irf.zip) and
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22b)
 
 ## Publications
 * Hypothesis testing in linear regression when k/n is large. *Journal
