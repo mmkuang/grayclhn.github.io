@@ -19,8 +19,7 @@ dot org» (personal email and IM)
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
-[Pinboard (links)](https://pinboard.in/u:pseut),
-and [Twitter](https://twitter.com/grayclhn)
+and [Twitter](https://twitter.com/grayclhn).
 
 Also check out the [Econometrics Free Library Project][EFLP],
 a free/open-access textbook development project that you
@@ -107,7 +106,6 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 {% endfor %}
 </ul>
 
-* [Blogroll](http://pseudotrue.com) (added February 11th, 2015)
 * [A visual analysis of some macroeconomic
   series](dl/graphics_slides.pdf) (slides for November 11th, 2014 talk
   at the statistics visualization working group)
