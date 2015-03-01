@@ -48,6 +48,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <hr />
 
+<!--more-->
+
 ## Teaching
 * [Principles of Macroeconomics (Econ 102)](102)
 * [PhD Econometrics 1 — introduction to statistics
@@ -64,6 +66,8 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 [Heike Hofmann]: http://hofmann.public.iastate.edu/
 
 <hr />
+
+<!--more-->
 
 ## Working papers
 
@@ -110,9 +114,3 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
   series](dl/graphics_slides.pdf) (slides for November 11th, 2014 talk
   at the statistics visualization working group)
 * [Short macros and utility functions for Julia](https://gist.github.com/grayclhn/5e70f5f61d91606ddd93) (October, 2014)
-* [Short note: Cobbling together parallel random number generation in Julia](notes/parallel-rng-in-julia) (July, 2014)
-* [Short note: Slowly moving to Julia from R](notes/julia-intro) (February, 2014)
-* [Quick thoughts and advice on whether to get a PhD in economics](notes/econ-grad-school) (June, 2013)
-* [Some thoughts on the Reinhart and Rogoff debate](notes/reinhart-rogoff-thoughts) (April, 2013)  
-  Note: I've turned this into a short paper, “[Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf).”
-* [An extremely subjective guide to the economics job market](notes/job-market-notes) (August, 2009)
