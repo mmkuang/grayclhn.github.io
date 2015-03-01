@@ -26,7 +26,9 @@ a free/open-access textbook development project that you
 should contribute to.
 
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
-<http://gray.clhn.org>. They should be identical.
+<http://gray.clhn.org>. They should be identical. You can also
+subscribe to the [site’s newsfeed]({{ site.main}}/feed.xml) for
+updates.
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
@@ -106,11 +108,12 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 
 <ul>
 {% for doc in site.categories.notes %}
-<li><a href="{{ site.url}}{{ doc.url }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})</li>
+<li>
+{% if post.link %}
+<a href="{{ site.url}}{{ doc.link }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})
+{% else %}
+<a href="{{ site.url}}{{ doc.url }}">{{ doc.title }}</a> (link, {{ doc.date | date_to_string }})
+{% endif %}
+</li>
 {% endfor %}
 </ul>
-
-* [A visual analysis of some macroeconomic
-  series](dl/graphics_slides.pdf) (slides for November 11th, 2014 talk
-  at the statistics visualization working group)
-* [Short macros and utility functions for Julia](https://gist.github.com/grayclhn/5e70f5f61d91606ddd93) (October, 2014)
