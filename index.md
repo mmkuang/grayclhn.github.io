@@ -90,7 +90,7 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 * [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
   (2015-02-06, submitted) with [source code archive](dl/calhoun-rr-graphics.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics/tree/v2015-02-06).
-  (This is a more formal version of a blog post I had written at the time.)
+  (This is a more formal version of a blog post I had written earlier.)
 * [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smooth-irf.pdf)
   (2015-02-22b) with [source code archive](dl/calhoun-smooth-irf.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22b)
