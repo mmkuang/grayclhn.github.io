@@ -26,9 +26,7 @@ a free/open-access textbook development project that you
 should contribute to.
 
 This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
-<http://gray.clhn.org>. They should be identical. You can also
-subscribe to the [site’s newsfeed]({{ site.main}}/feed.xml) for
-updates.
+<http://gray.clhn.org>. They should be identical.
 
 [cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
@@ -46,7 +44,8 @@ updates.
 **Matt Simpson** (Econ and Stats PhD; [Jarad Niemi](http://www.jarad.me/) and I are co-advisors)  
 [CV](http://www.themattsimpson.com/wp-content/uploads/2014/10/CV.pdf),
 [research](http://www.themattsimpson.com/research-2/),
-[homepage](http://www.themattsimpson.com/).
+[homepage](http://www.themattsimpson.com/).  
+Matt’s taken a postdoc at University of Missouri and is no longer on the job market.
 
 <hr />
 
@@ -107,13 +106,16 @@ updates.
 ## Ephemera
 
 <ul>
-{% for doc in site.categories.notes %}
+{% for post in site.categories.notes %}
 <li>
 {% if post.link %}
-<a href="{{ site.url}}{{ doc.link }}">{{ doc.title }}</a> (blog post, {{ doc.date | date_to_string }})
+<a href="{{ post.link }}">{{ post.title }}</a> (link, {{ post.date | date_to_string }})
 {% else %}
-<a href="{{ site.url}}{{ doc.url }}">{{ doc.title }}</a> (link, {{ doc.date | date_to_string }})
+<a href="{{ site.url}}{{ post.url }}">{{ post.title }}</a> (blog, {{ post.date | date_to_string }})
 {% endif %}
 </li>
 {% endfor %}
 </ul>
+
+You can subscribe to the [site’s newsfeed]({{ site.main}}/feed.xml)
+for updates.
