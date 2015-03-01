@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: front
 title: Economics 102 course page
 ---
 
