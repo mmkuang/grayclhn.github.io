@@ -24,6 +24,24 @@ Professorship in the Economics Department at Iowa State University.
 
 — Gray Calhoun
 
+Other job market guides
+-----------------------
+
+* John Crawley's *Job Market Guide and Advice* is the official guide,
+  and you should read it before reading any further here. (First,
+  because it's better than my guide. Second, because I'm going to
+  assume you've read it.) The [JOE website][JOE] links to the latest
+  version.
+
+* [William Thomson's *A Guide for the Young
+  Economist*](http://mitpress.mit.edu/books/guide-young-economist-0)
+  covers the job market (in the second edition), and you should read
+  the book anyway.  Lucky you, the [sample
+  chapter](http://mitpress.mit.edu/sites/default/files/titles/content/9780262016162_sch_0001.pdf)
+  that MIT Press has put online is the one covering the job market.
+
+[JOE]: https://www.aeaweb.org/joe/
+
 <hr />
 
 Brief time frame for job market
