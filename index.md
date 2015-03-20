@@ -39,7 +39,9 @@ This page is available at <http://www.econ.iastate.edu/~gcalhoun> or
 [CV](http://anwenyin.weebly.com/cv.html),
 [job market paper](http://anwenyin.weebly.com/uploads/4/1/6/0/41609955/cv_model_averaging_20141104.pdf),
 [homepage](http://anwenyin.weebly.com/),
-[LinkedIn](http://www.linkedin.com/pub/anwen-yin/27/650/970).
+[LinkedIn](http://www.linkedin.com/pub/anwen-yin/27/650/970).  
+Anwen’s taken a position as an Assistant Professor of Economics at
+Texas A&M International University and is no longer on the job market.
 
 **Matt Simpson** (Econ and Stats PhD; [Jarad Niemi](http://www.jarad.me/) and I are co-advisors)  
 [CV](http://www.themattsimpson.com/wp-content/uploads/2014/10/CV.pdf),
