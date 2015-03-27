@@ -93,8 +93,9 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
   (2015-02-06, submitted) with [source code archive](dl/calhoun-rr-graphics.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics/tree/v2015-02-06).
   (This is a more formal version of a blog post I had written earlier.)
-* [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smooth-irf.pdf)
-  (2015-02-22b) with [source code archive](dl/calhoun-smooth-irf.zip) and
+* [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smooth-irf.pdf),
+  joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
+  (2015-03-27) with [source code archive](dl/calhoun-smooth-irf.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22b)
 
 ## Publications
