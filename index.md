@@ -110,7 +110,7 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 ## Ephemera
 
 <ul>
-{% for post in site.categories.notes %}
+{% for post in site.categories.blog %}
 <li>
 {% if post.link %}
 <a href="{{ post.link }}">{{ post.title }}</a> (link, {{ post.date | date_to_string }})
@@ -121,6 +121,5 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 {% endfor %}
 </ul>
 
-* [Miscellaneous notes]({{ site.main }}/blog)
-* You can subscribe to the [site’s newsfeed]({{ site.main}}/feed.xml)
-  for updates.
+You can subscribe to the [site’s newsfeed]({{ site.main}}/feed.xml)
+for updates.
