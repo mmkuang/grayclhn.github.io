@@ -51,8 +51,6 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 
 <hr />
 
-<!--more-->
-
 ## Teaching
 * [Principles of Macroeconomics (Econ 102)](102)
 * [PhD Econometrics 1 — introduction to statistics
@@ -69,8 +67,6 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 [Heike Hofmann]: http://hofmann.public.iastate.edu/
 
 <hr />
-
-<!--more-->
 
 ## Working papers
 
@@ -97,6 +93,9 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
   joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
   (2015-03-27) with [source code archive](dl/calhoun-smooth-irf.zip) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22b)
+* [A simple block bootstrap for asymptotically normla out-of-sample test
+  statistics](dl/calhoun-oosbootstrap.pdf) (2015-04-21) with
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap/tree/v2015-04-21)
 
 ## Publications
 * Hypothesis testing in linear regression when k/n is large. *Journal
