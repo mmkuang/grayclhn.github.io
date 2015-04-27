@@ -79,8 +79,8 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
   (2014-10-06, submitted) with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
   [Git repository](https://github.com/grayclhn/statboot-paper/tree/ET_submission_3)
 * [Improved stepdown methods for asymptotic control of generalized
-  error rates](dl/calhoun-stepdown.pdf) (2014-09-24, submitted) with
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/tree/jeconom_submission)
+  error rates](dl/calhoun-stepdown.pdf) (2015-04-27, submitted) with
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/)
 * [An asymptotically normal out-of-sample test based on mixed
   estimation windows](dl/calhoun-mixed-window.pdf) (2015-01-09, submitted) with
   [appendix](dl/calhoun-mixed-window-appendix.pdf)
