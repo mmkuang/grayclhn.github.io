@@ -47,6 +47,7 @@ Publications
 
 1. "Hypothesis testing in linear regression when *k/n* is large."
    *Journal of Econometrics*, 165(2), 2011: 163–174.
+   [[Link]](http://www.econ.iastate.edu/research/working-papers/p12216)
 
 Working papers (submitted to journals)
 --------------------------------------
