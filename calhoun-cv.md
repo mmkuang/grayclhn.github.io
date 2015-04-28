@@ -109,19 +109,20 @@ Other external talks
 Teaching
 --------
 
-* Courses taught at Iowa State University
+* Courses taught regularly at Iowa State University
 
-  * PhD Macroeconometrics (Econ 674), Spring 2013, Fall 2014
-  * PhD Econometrics 1 (Econ 671), Fall 2009 to 2014
-  * Principles of Macroeconomics (Econ 102), Spring 2010 to 2014
+  * PhD Macroeconometrics (Econ 674)
+  * PhD Econometrics 1 (Econ 671)
+  * Principles of Macroeconomics (Econ 102)
 
 * Courses taught at UC San Diego (as main instructor)
   * Undergraduate Econometrics 3 (Econ 120 C), Spring 2009
 
 * PhD Advising
 
-  * Anwen Yin (co-advisor with Helle Bunzel)
-  * Matt Simpson (Econ and Statistics PhD; co-advisor with Jarad Niemi)
+  * Anwen Yin (co-advisor with Helle Bunzel, graduating in 2015)
+  * Matt Simpson (Econ and Statistics PhD, co-advisor with Jarad
+    Niemi; graduating in 2015)
 
 * PhD student committee memberships
 
@@ -131,17 +132,17 @@ Teaching
   * Ziran Li (Economics)
   * Soumnyadip Roy (Economics)
   * Zabid Iqbal (Economics)
-  * Matthew Clancy (Economics)
-  * Xiying Liu (Economics)
-  * Deung-Yong Heo (Economics, graduated in 2015)
+  * Xiying Liu (Economics, graduating in 2015)
+  * Matthew Clancy (Economics, graduating in 2015)
+  * Deung-Yong Heo (Economics, graduating in 2015)
   * Yihui Xie (Statistics, 2013)
   * Jeremiah Richey (Economics, 2012)
   * Ozgu Serttas (Economics, 2010)
 
 * Master's degree committee memberships:
 
-  * Jessica Short (Statistics)
-  * Sam Helmich (Statistics, graduated in 2015)
+  * Jessica Short (Statistics, graduating in 2015)
+  * Sam Helmich (Statistics, graduating in 2015)
   * Nathan Zimmerman (Statistics, 2013)
 
 Professional service
