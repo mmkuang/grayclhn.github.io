@@ -14,7 +14,8 @@ dot org» (personal email and IM)
 
 **Office:** 467 Heady Hall, (515) 294-6271.
 
-**Links:** [Curriculum vitae][cv],
+**Links:**
+[Curriculum vitae](/calhoun-cv.html),
 [IDEAS](http://ideas.repec.org/f/pca491.html),
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
@@ -25,7 +26,6 @@ Also check out the [Econometrics Free Library Project][EFLP],
 a free/open-access textbook development project that you
 should contribute to.
 
-[cv]: http://www.econ.iastate.edu/sites/default/files/profile/cv/calhoun-cv.pdf
 [EFLP]: http://www.econometricslibrary.org
 
 <hr />
