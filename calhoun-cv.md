@@ -49,8 +49,8 @@ Publications
    *Journal of Econometrics*, 165(2), 2011: 163–174.
    [[link](http://www.econ.iastate.edu/research/working-papers/p12216)]
 
-Working papers (submitted to journals)
---------------------------------------
+Working papers
+--------------
 
 1. "Out-of-sample comparisons of overfit models." Working Paper 11002,
    Iowa State University, 2014 (submitted to *Quantitative Economics*)
@@ -73,22 +73,11 @@ Working papers (submitted to journals)
    (submitted to *Economic Letters*)
    [[link](dl/calhoun-rr-graphics.pdf)]
 
-Other working papers and research in progress
----------------------------------------------
-
-1. "Forecasting with STAR models." 2012 (joint with Graham Elliott)
-
-2. "Out-of-sample comparisons under instability." 2012 (joint with
-   Helle Bunzel)
-
-3. "A bootstrap procedure for real-time out-of-sample comparisons."
-   2013 (joint with Todd Clark and Michael McCracken)
-
-4. "Graphing better Impulse Response Functions for discrete-time
+6. "Graphing better Impulse Response Functions for discrete-time
    linear models." 2015 (joint with Seth Pruitt)
    [[link](dl/calhoun-smooth-irf.pdf)]
 
-5. "A simple block bootstrap for asymptotically normal out-of-sample
+7. "A simple block bootstrap for asymptotically normal out-of-sample
    test statistics." 2015
    [[link](dl/calhoun-oosbootstrap.pdf)]
 
