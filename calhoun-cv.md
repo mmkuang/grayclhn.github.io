@@ -47,26 +47,31 @@ Publications
 
 1. "Hypothesis testing in linear regression when *k/n* is large."
    *Journal of Econometrics*, 165(2), 2011: 163–174.
-   [[Link]](http://www.econ.iastate.edu/research/working-papers/p12216)
+   [[link](http://www.econ.iastate.edu/research/working-papers/p12216)]
 
 Working papers (submitted to journals)
 --------------------------------------
 
 1. "Out-of-sample comparisons of overfit models." Working Paper 11002,
    Iowa State University, 2014 (submitted to *Quantitative Economics*)
+   [[link](http://www.econ.iastate.edu/research/working-papers/p12462)]
 
 2. "Block bootstrap consistency under weak assumptions." Working Paper
    11017, Iowa State University, 2014 (3rd revise and resubmit,
    *Econometric Theory*)
+   [[link](http://www.econ.iastate.edu/research/working-papers/p14313)]
 
 3. "An asymptotically normal out-of-sample test based on mixed
-   estimation windows." 2013 (revise and resubmit, *Econometrica*)
+   estimation windows." 2015 (revise and resubmit, *Econometrica*)
+   [[link](dl/calhoun-mixed-window.pdf)]
 
 4. "Improved stepdown methods for asymptotic control of generalized
    error rates." 2014 (revise and resubmit, *Journal of Econometrics*)
+   [[link](dl/calhoun-stepdown.pdf)]
 
 5. "Causality in the Reinhart-Rogoff dataset, the plots thicken." 2015
    (submitted to *Economic Letters*)
+   [[link](dl/calhoun-rr-graphics.pdf)]
 
 Other working papers and research in progress
 ---------------------------------------------
@@ -81,9 +86,11 @@ Other working papers and research in progress
 
 4. "Graphing better Impulse Response Functions for discrete-time
    linear models." 2015 (joint with Seth Pruitt)
+   [[link](dl/calhoun-smooth-irf.pdf)]
 
 5. "A simple block bootstrap for asymptotically normal out-of-sample
    test statistics." 2015
+   [[link](dl/calhoun-oosbootstrap.pdf)]
 
 Invited talks
 -------------
@@ -112,9 +119,9 @@ Teaching
 
 * Courses taught regularly at Iowa State University
 
-  * PhD Macroeconometrics (Econ 674)
-  * PhD Econometrics 1 (Econ 671)
-  * Principles of Macroeconomics (Econ 102)
+  * PhD Macroeconometrics (Econ 674) [[webpage](/674)]
+  * PhD Econometrics 1 (Econ 671) [[webpage](/671)]
+  * Principles of Macroeconomics (Econ 102) [[webpage](/102)]
 
 * Courses taught at UC San Diego (as main instructor)
   * Undergraduate Econometrics 3 (Econ 120 C), Spring 2009
@@ -122,8 +129,12 @@ Teaching
 * PhD Advising
 
   * Anwen Yin (co-advisor with Helle Bunzel, graduating in 2015)
+    * placement: Assistant Professor of Economics at Texas A&M International University
+    * webpage: <http://anwenyin.weebly.com/cv.html>
   * Matt Simpson (Econ and Statistics PhD, co-advisor with Jarad
     Niemi; graduating in 2015)
+    * placement: Postdoc in Statistics at University of Missouri
+    * [[webpage](http://www.themattsimpson.com)]
 
 * PhD student committee memberships
 
