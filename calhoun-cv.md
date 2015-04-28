@@ -134,7 +134,7 @@ Teaching
   * Matt Simpson (Econ and Statistics PhD, co-advisor with Jarad
     Niemi; graduating in 2015)
     * placement: Postdoc in Statistics at University of Missouri
-    * [[webpage](http://www.themattsimpson.com)]
+    * webpage: <http://www.themattsimpson.com>
 
 * PhD student committee memberships
 
