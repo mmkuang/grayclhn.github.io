@@ -16,13 +16,14 @@ dot org» (personal email and IM)
 
 **Links:**
 [Curriculum vitae](/calhoun-cv.pdf)
-([odt](/calhoun-cv.odt), based on a template from
-[LifeClever](http://www.lifeclever.com/give-your-resume-a-face-lift/)),
+(or as [odt](/calhoun-cv.odt)),
 [IDEAS](http://ideas.repec.org/f/pca491.html),
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
 and [Twitter](https://twitter.com/grayclhn).
+The CV is based on a template from
+[lifeclever.com](http://www.lifeclever.com/give-your-resume-a-face-lift/).
 
 Also check out the [Econometrics Free Library Project][EFLP],
 a free/open-access textbook development project that you
