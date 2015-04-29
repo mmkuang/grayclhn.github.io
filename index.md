@@ -69,12 +69,14 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 
 * [Out-of-sample comparisons of overfit
   models](http://www.econ.iastate.edu/research/working-papers/p12462)
-  (2014-03-30, submitted) with [Git repository](https://github.com/grayclhn/oos-overfit/tree/REStud) and
+  (2014-03-30, submitted) with
+  [Git repository](https://github.com/grayclhn/oos-overfit) and
   [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 
 * [Block bootstrap consistency under weak
   assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
-  (2014-10-06, submitted) with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
+  (2014-10-06, submitted) with
+  [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
   [Git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper)
 
 * [Improved stepdown methods for asymptotic control of generalized
@@ -84,21 +86,21 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 * [An asymptotically normal out-of-sample test based on mixed
   estimation windows](dl/calhoun-mixed-window.pdf) (2015-01-09, submitted) with
   [appendix](dl/calhoun-mixed-window-appendix.pdf)
-  and [Git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow/tree/ecma-sub2)
+  and [Git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow)
 
 * [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
   (2015-02-06, submitted) with [source code archive](dl/calhoun-rr-graphics.zip) and
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics/tree/v2015-02-06).
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics).
   (This is a more formal version of a blog post I had written earlier.)
 
 * [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smooth-irf.pdf),
   joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
   (2015-03-27) with [source code archive](dl/calhoun-smooth-irf.zip) and
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf/tree/2015-02-22b)
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf)
 
 * [A simple block bootstrap for asymptotically normal out-of-sample test
   statistics](dl/calhoun-oosbootstrap.pdf), (2015-04-21) with
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap/tree/v2015-04-21)
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap)
 
 ## Publications
 
