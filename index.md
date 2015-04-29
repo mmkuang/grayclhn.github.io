@@ -70,7 +70,7 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 * [Out-of-sample comparisons of overfit
   models](http://www.econ.iastate.edu/research/working-papers/p12462)
   (2014-03-30, submitted) with
-  [Git repository](https://github.com/grayclhn/oos-overfit) and
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) and
   [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
 
 * [Block bootstrap consistency under weak
