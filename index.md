@@ -75,7 +75,7 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 * [Block bootstrap consistency under weak
   assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
   (2014-10-06, submitted) with [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
-  [Git repository](https://github.com/grayclhn/statboot-paper/tree/ET_submission_3)
+  [Git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper)
 
 * [Improved stepdown methods for asymptotic control of generalized
   error rates](dl/calhoun-stepdown.pdf) (2015-04-27, submitted) with
