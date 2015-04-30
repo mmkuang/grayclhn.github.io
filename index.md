@@ -87,7 +87,8 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 
 * [An asymptotically normal out-of-sample test based on mixed estimation windows](dl/calhoun-mixed-window.pdf)
   (2015-01-09, submitted) with
-  [appendix](dl/calhoun-mixed-window-appendix.pdf).
+  [appendix](dl/calhoun-mixed-window-appendix.pdf) and
+  [source code archive](dl/calhoun-mixedwindow-2015-04-23.zip).
   <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
 * [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
