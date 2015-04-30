@@ -70,40 +70,39 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 
 ## Working papers
 
-* [Out-of-sample comparisons of overfit
-  models](http://www.econ.iastate.edu/research/working-papers/p12462)
+* [Out-of-sample comparisons of overfit models](http://www.econ.iastate.edu/research/working-papers/p12462)
   (2014-03-30, submitted) with
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) and
-  [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf)
+  [supplemental appendix](dl/calhoun-oosoverfit-appendix.pdf).
+  <!-- [Git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) -->
 
-* [Block bootstrap consistency under weak
-  assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
+* [Block bootstrap consistency under weak assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
   (2014-10-06, submitted) with
-  [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf) and
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper)
+  [supplemental appendix](dl/calhoun-bootstrap-appendix.pdf).
+  <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper) -->
 
-* [Improved stepdown methods for asymptotic control of generalized
-  error rates](dl/calhoun-stepdown.pdf) (2015-04-27, submitted) with
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/)
+* [Improved stepdown methods for asymptotic control of generalized error rates](dl/calhoun-stepdown.pdf)
+  (2015-04-27, submitted).
+  <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/) -->
 
-* [An asymptotically normal out-of-sample test based on mixed
-  estimation windows](dl/calhoun-mixed-window.pdf) (2015-01-09, submitted) with
-  [appendix](dl/calhoun-mixed-window-appendix.pdf)
-  and [Git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow)
+* [An asymptotically normal out-of-sample test based on mixed estimation windows](dl/calhoun-mixed-window.pdf)
+  (2015-01-09, submitted) with
+  [appendix](dl/calhoun-mixed-window-appendix.pdf).
+  <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
 * [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun-rr-graphics.pdf)
-  (2015-02-06, submitted) with [source code archive](dl/calhoun-rr-graphics.zip) and
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics).
+  (2015-02-06, submitted) with
+  [source code archive](dl/calhoun-rr-graphics.zip).
   (This is a more formal version of a blog post I had written earlier.)
+  <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics) -->
 
 * [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhoun-smooth-irf.pdf),
   joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
-  (2015-03-27) with [source code archive](dl/calhoun-smooth-irf.zip) and
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf)
+  (2015-03-27) with [source code archive](dl/calhoun-smooth-irf.zip).
+  <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
-* [A simple block bootstrap for asymptotically normal out-of-sample test
-  statistics](dl/calhoun-oosbootstrap.pdf), (2015-04-21) with
-  [Git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap)
+* [A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun-oosbootstrap.pdf)
+  (2015-04-21).
+  <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
 ## Publications
 
