@@ -25,7 +25,7 @@ and the
   + Sept 26 – 27, 2015 at University of Guelph
   + May 15 submission deadline
 * [Midwest Econometrics Group](http://research.stlouisfed.org/conferences/MEG2015/)
-  + Oct 9 – 10, 2015
+  + Oct 9 – 10, 2015 at the St. Louis Fed.
   + July 15 submission deadline
 * [Advances in Econometrics Conference](http://faculty.smu.edu/millimet/AiE.html)
   + Spatial and Spatiotemporal Econometrics focus
