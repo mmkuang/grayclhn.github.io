@@ -103,8 +103,9 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
   (2015-03-27) with [source code archive](dl/calhoun-smooth-irf.zip).
   <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
-* [A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun-oosbootstrap.pdf)
-  (2015-04-21).
+* [A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun_oosbootstrap_v2015-04-21.pdf)
+  (2015-04-21) with
+  [source code archive](dl/calhoun_oosbootstrap_v2015-04-21.zip).
   <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
 ## Publications
