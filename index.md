@@ -15,8 +15,8 @@ dot org» (personal email and IM)
 **Office:** 467 Heady Hall, (515) 294-6271.
 
 **Links:**
-[Curriculum vitae](/calhoun-cv.pdf)
-(or as [odt](/calhoun-cv.odt)),
+[Curriculum vitae](dl/calhoun-cv.pdf)
+(or as [odt](dl/calhoun-cv.odt)),
 [IDEAS](http://ideas.repec.org/f/pca491.html),
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
