@@ -127,7 +127,7 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 {% if post.link %}
 <a href="{{ post.link }}">{{ post.title }}</a> (link, {{ post.date | date_to_string }})
 {% else %}
-<a href="{{ site.url}}{{ post.url }}">{{ post.title }}</a> (blog, {{ post.date | date_to_string }})
+<a href="{{ post.url }}">{{ post.title }}</a> (blog, {{ post.date | date_to_string }})
 {% endif %}
 </li>
 {% endfor %}
