@@ -33,7 +33,8 @@ should contribute to.
 
 <hr />
 
-## PhD Students on the 2014 job market
+PhD Students on the 2014 job market
+-----------------------------------
 
 **Anwen Yin** (Econ PhD, [Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and I are co-advisors)  
 [CV](http://anwenyin.weebly.com/cv.html),
@@ -51,7 +52,9 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 
 <hr />
 
-## Teaching
+Teaching
+--------
+
 * [Principles of Macroeconomics (Econ 102)](102)
 * [PhD Econometrics 1 — introduction to statistics
   and regression (Econ 671)](671)
@@ -68,7 +71,8 @@ Matt’s taken a postdoc at University of Missouri and is no longer on the job m
 
 <hr />
 
-## Working papers
+Working papers
+--------------
 
 [Out-of-sample comparisons of overfit models](http://www.econ.iastate.edu/research/working-papers/p12462)
 (2014-03-30, submitted) with
@@ -108,7 +112,8 @@ joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
 [source code archive](dl/calhoun_oosbootstrap_v2015-04-21.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
-## Publications
+Publications
+------------
 
 Hypothesis testing in linear regression when k/n is large. *Journal
 of Econometrics*, 165(2), 2011: 163–174.
@@ -119,7 +124,8 @@ of Econometrics*, 165(2), 2011: 163–174.
 
 <hr />
 
-## Ephemera
+Ephemera
+--------
 
 <ul>
 {% for post in site.categories.blog %}
