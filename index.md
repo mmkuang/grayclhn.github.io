@@ -75,29 +75,29 @@ Working papers
 --------------
 
 [Out-of-sample comparisons of overfit models](http://www.econ.iastate.edu/research/working-papers/p12462)
-(2014-03-30, submitted) with
+(2014-03-30, revise and resubmit at *Quantitative Economics*) with
 [supplemental appendix](dl/calhoun_oosoverfit_appendix_v2014-03-30.pdf) and
 [source code archive](dl/calhoun_oosoverfit_v2014-09-22.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) -->
 
 [Block bootstrap consistency under weak assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
-(2014-10-06, submitted) with
+(2014-10-06, revise and resubmit at *Econometric Theory*) with
 [supplemental appendix](dl/calhoun_bootstrap_appendix_v2014-10-06.pdf).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper) -->
 
 [Improved stepdown methods for asymptotic control of generalized error rates](dl/calhoun_stepdown_v2015-04-27.pdf)
-(2015-04-27, submitted) with
+(2015-04-27, revise and resubmit at *Journal of Econometrics*) with
 [source code archive](dl/calhoun_stepdown_v2015-04-27.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/) -->
 
 [An asymptotically normal out-of-sample test based on mixed estimation windows](dl/calhoun_mixedwindow_v2015-01-09.pdf)
-(2015-01-09, submitted) with
+(2015-01-09, revise and resubmit at *Econometrica*) with
 [appendix](dl/calhoun_mixedwindow_appendix_v2015-01-09.pdf) and
 [source code archive](dl/calhoun_mixedwindow_v2015-04-23.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
 [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun_rrgraphics_v2015-02-06.pdf)
-(2015-02-06, submitted) with
+(2015-02-06, submitted to *Economic Letters*) with
 [source code archive](dl/calhoun_rrgraphics_v2015-02-06.zip).
 (This is a more formal version of a blog post I had written earlier.)
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics) -->
