@@ -25,11 +25,7 @@ and [Twitter](https://twitter.com/grayclhn).
 The CV is based on a template from
 [lifeclever.com](http://www.lifeclever.com/give-your-resume-a-face-lift/).
 
-Also check out the [Econometrics Free Library Project][EFLP],
-a free/open-access textbook development project that you
-should contribute to.
-
-[EFLP]: http://www.econometricslibrary.org
+This website was last updated on 2015-05-06.
 
 <hr />
 
