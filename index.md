@@ -29,8 +29,8 @@ This website was last updated on 2015-05-06.
 
 <hr />
 
-PhD Students about to graduate ~~on the 2014 job market~~
-------------------------------
+PhD Students ~~on the 2014 job market~~ about to graduate
+---------------------------------------------------------
 
 **Anwen Yin** (Econ PhD, [Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and I are co-advisors)  
 [CV](http://anwenyin.weebly.com/cv.html),
