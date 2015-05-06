@@ -16,7 +16,7 @@ I'll try to update this list as time goes on.
   + May 8 – 9, 2015
 * **[IAAE 2015 Annual Conference](http://www.iaae2015.org/)**
   + June 25 – 27 at University of Macedonia
-* [Bristol Econometric Study Group](https://sites.google.com/site/bristoleconometricstudygroup)**
+* **[Bristol Econometric Study Group](https://sites.google.com/site/bristoleconometricstudygroup)**
   + July 9 – 11 at University of Bristol
   <!--  + May 1 submission deadline -->
 * **[NBER Summer Institute](http://conference.nber.org/confer/2015/SI2015/EFWW/EFWWprg.html)**
