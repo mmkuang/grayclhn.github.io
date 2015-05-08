@@ -104,7 +104,7 @@ joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
 [A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun_oosbootstrap_v2015-04-21.pdf)
-(2015-04-21)
+(2015-04-21) [source code archive](dl/calhounpruitt_oosbootstrap_v2015-05-08.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
 Publications
