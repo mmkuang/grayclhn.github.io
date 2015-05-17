@@ -25,7 +25,7 @@ they may be updated again before the course starts.
 * [Additional required reading](reading-2015.zip) (password protected)
 * Recommended textbooks:
   * Thomson (2011), [*A Guide for the Young Economist*](http://mitpress.mit.edu/books/guide-young-economist-0)
-  * Freedman (2009). [*Statistical Models: Theory and Practice*](http://www.stat.berkeley.edu/~census) (second edition)
+  * Freedman (2009). [*Statistical Models: Theory and Practice*](http://www.stat.berkeley.edu/~census), second edition
 * [A list of additional free econometrics resources]([EFLP]: http://www.econometricslibrary.org)
   (with especially relevant material [here](http://www.econometricslibrary.org/#core))
 
@@ -40,20 +40,20 @@ from year to year, so don’t use past exams as study guides. But the
 old exams might help you learn what sort of questions I find
 interesting.
 
-* 2014 [syllabus](syllabus-2014.pdf) and [reading guide](readingguide-2014.pdf).
-* 2013 [syllabus](syllabus-2013) and [final exam](test-final-2013.pdf).
+* 2014 [syllabus](syllabus-2014.pdf) and [reading guide](readingguide-2014pdf)
+* 2013 [syllabus](syllabus-2013) and [final exam](test-final-2013.pdf)
 * 2012 [syllabus](syllabus-2012),
   [midterm 1](test1-2012.pdf) and
-  [midterm 2](test2-2012.pdf).
+  [midterm 2](test2-2012.pdf)
 * 2011 [syllabus](syllabus-2011.pdf),
   [midterm](test1-2011.pdf), and
-  [final](test-final-2011.pdf).
+  [final](test-final-2011.pdf)
 * 2010 [syllabus](syllabus-2010.pdf),
   [midterm](test1-2010.pdf), and
-  [final](test-final-2010.pdf).
+  [final](test-final-2010.pdf)
 * 2009 [syllabus](syllabus-2009.pdf),
   [midterm](test1-2009.pdf), and
-  [final](test-final-2009.pdf).
+  [final](test-final-2009.pdf)
 
 Feel free to use any of this material if you are teaching a similar
 class. I will try to help out with lecture notes, etc., if you email
