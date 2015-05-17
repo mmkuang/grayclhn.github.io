@@ -16,7 +16,7 @@ they may be updated again before the course starts.
 * You can use [Blackboard Learn][] to check your grade throughout the
   semester and to send messages to your team. But all of the course
   material will be put on this webpage.
-* [Reading guide](reading-guide-2015.pdf) (subject to change).
+* [Reading guide](readingguide-2015.pdf) (subject to change).
 * [Copies of assigned papers](reading-2015.zip) (password protected).
 * Required textbooks:
   * Hayashi (2000), [*Econometrics*](http://press.princeton.edu/titles/6946.html)
