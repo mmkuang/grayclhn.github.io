@@ -14,7 +14,7 @@ my own reference.
 * Freedman, [*Statistical Models: Theory and Practice*](http://www.cambridge.org/us/academic/subjects/statistics-probability/statistical-theory-and-methods/statistical-models-theory-and-practice-2nd-edition)
 * Gallant, [*An Introduction to Econometric Theory*](http://press.princeton.edu/titles/6216.html)
 * Geweke, [*Complete and Incomplete Econometric Models*](http://press.princeton.edu/titles/9218.html)
-* Hunt and Thomas, [*Pragmatic Programmer*](https://pragprog.com/the-pragmatic-programmer)
+* Hunt and Thomas, [*The Pragmatic Programmer*](https://pragprog.com/the-pragmatic-programmer)
 * Jaynes, [*Probability Theory: The Logic of Science*](http://www.cambridge.org/us/academic/subjects/physics/theoretical-physics-and-mathematical-physics/probability-theory-logic-science?format=HB)
 * Manski, [*Identification for Prediction and Decision*](http://www.hup.harvard.edu/catalog.php?isbn=9780674026537)
 * Miller, [*The Chicago Guide to Writing about Multivariate
