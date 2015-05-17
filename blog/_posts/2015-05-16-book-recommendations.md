@@ -4,11 +4,8 @@ layout: blog
 author: Gray Calhoun
 ---
 
-Like before, mostly for my own reference. Here’s a list of books I
-recommend.
-
-Statistics and econometrics
----------------------------
+Here’s a list of books I recommend. I'm putting it online mostly for
+my own reference.
 
 * Cleveland’s [*Elements of Graphing Data*](http://store.hobart.com/theelementsofgraphingdata.aspx) and
   [*Visualizing Data*](http://store.hobart.com/visualizingdata.aspx)
