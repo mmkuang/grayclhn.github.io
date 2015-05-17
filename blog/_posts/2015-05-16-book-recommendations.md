@@ -26,7 +26,7 @@ my own reference.
 * Strunk and White,
   [*The Elements of Style*](http://en.wikipedia.org/wiki/The_Elements_of_Style) (4th
   edition)
-* Thomson, [*Guide for the Young Economist*](http://mitpress.mit.edu/books/guide-young-economist-0)
+* Thomson, [*A Guide for the Young Economist*](http://mitpress.mit.edu/books/guide-young-economist-0)
 * Tufte, [*Envisioning
   Information*](http://www.edwardtufte.com/tufte/books_ei) and
   [*The Visual Display of Quantitative
