@@ -12,12 +12,10 @@ I’ve put some early versions of course documents on this page, but
 they may be updated again before the course starts.
 
 * [Course syllabus](syllabus-2015.pdf) with contact information and
-  class details (subject to change).
-* You can use [Blackboard Learn][] to check your grade throughout the
-  semester and to send messages to your team. But all of the course
-  material will be put on this webpage.
-* [Reading guide](readingguide-2015.pdf) (subject to change).
-* [Copies of assigned papers](reading-2015.zip) (password protected).
+  class details (subject to change)
+* [Reading guide](readingguide-2015.pdf) (subject to change)
+* [Introductory email to incoming PhD students](/blog/intro-phd-email)
+* [Copies of assigned papers](reading-2015.zip) (password protected)
 * Required textbooks:
   * Hayashi (2000), [*Econometrics*](http://press.princeton.edu/titles/6946.html)
   * Ramanathan (1993), [*Statistical Methods in Econometrics*](http://www.worldcat.org/oclc/786257362)
@@ -28,6 +26,9 @@ they may be updated again before the course starts.
   * Freedman (2009). [*Statistical Models: Theory and Practice*](http://www.stat.berkeley.edu/~census), second edition
 * [A list of additional free econometrics resources]([EFLP]: http://www.econometricslibrary.org)
   (with especially relevant material [here](http://www.econometricslibrary.org/#core))
+* You can use [Blackboard Learn][] to check your grade throughout the
+  semester and to send messages to your team. But all of the course
+  material will be put on this webpage.
 
 [Blackboard Learn]: https://bb.its.iastate.edu
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
