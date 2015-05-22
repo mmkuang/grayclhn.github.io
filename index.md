@@ -49,14 +49,15 @@ Teaching
 Current and former PhD students
 -------------------------------
 
-[Anwen Yin](http://anwenyin.weebly.com). 2015 PhD in Economics,
-[Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and
-I were co-advisors. Now an Assistant Professor of Economics at Texas
-A&M International University.
+[Anwen Yin](http://anwenyin.weebly.com). 2015 PhD in Economics, [Helle
+Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and
+I were co-advisors. Starting in August as an Assistant Professor of
+Economics at Texas A&M International University.
 
 [Matt Simpson](http://www.themattsimpson.com/). 2015 PhD in Economics
 and Statitstics, [Jarad Niemi](http://www.jarad.me/) and I were
-co-advisors. Now a postdoc in Statistics at University of Missouri.
+co-advisors. Starting in August as a postdoc in Statistics at
+University of Missouri.
 
 <hr />
 
