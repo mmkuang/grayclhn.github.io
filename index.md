@@ -24,6 +24,9 @@ dot org» (personal email and IM)
 and [Twitter](https://twitter.com/grayclhn).
 The CV is based on a template from
 [lifeclever.com](http://www.lifeclever.com/give-your-resume-a-face-lift/).
+Also, let me know if you want the password to my [family
+blog](http://family.clhn.org). (Don’t feel left out, it’s mostly
+pictures of my kids.)
 
 This website was last updated on 2015-05-06.
 
