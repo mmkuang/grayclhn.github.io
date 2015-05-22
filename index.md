@@ -29,25 +29,6 @@ This website was last updated on 2015-05-06.
 
 <hr />
 
-PhD Students ~~on the 2014 job market~~
----------------------------------------
-
-**Anwen Yin** (Econ PhD, [Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and I are co-advisors)  
-[CV](http://anwenyin.weebly.com/cv.html),
-[job market paper](http://anwenyin.weebly.com/uploads/4/1/6/0/41609955/cv_model_averaging_20141104.pdf),
-[homepage](http://anwenyin.weebly.com/),
-[LinkedIn](http://www.linkedin.com/pub/anwen-yin/27/650/970).  
-Anwen’s taken a position as an Assistant Professor of Economics at
-Texas A&M International University and is no longer on the job market.
-
-**Matt Simpson** (Econ and Stats PhD; [Jarad Niemi](http://www.jarad.me/) and I are co-advisors)  
-[CV](http://www.themattsimpson.com/wp-content/uploads/2014/10/CV.pdf),
-[research](http://www.themattsimpson.com/research-2/),
-[homepage](http://www.themattsimpson.com/).  
-Matt’s taken a postdoc at University of Missouri and is no longer on the job market.
-
-<hr />
-
 Teaching
 --------
 
@@ -64,6 +45,18 @@ Teaching
 
 [590f]: https://github.com/heike/stat590f
 [Heike Hofmann]: http://hofmann.public.iastate.edu/
+
+Current and former PhD students
+-------------------------------
+
+[Anwen Yin](http://anwenyin.weebly.com). 2015 PhD in Economics,
+[Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and
+I were co-advisors. Now an Assistant Professor of Economics at Texas
+A&M International University.
+
+[Matt Simpson](http://www.themattsimpson.com/). 2015 PhD in Economics
+and Statitstics, [Jarad Niemi](http://www.jarad.me/) and I were
+co-advisors. Now a postdoc in Statistics at University of Missouri.
 
 <hr />
 
