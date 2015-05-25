@@ -32,6 +32,7 @@ This website was last updated on 2015-05-22.
 
 <hr />
 
+<a id="teaching">
 Teaching
 --------
 
@@ -49,6 +50,7 @@ Teaching
 [590f]: https://github.com/heike/stat590f
 [Heike Hofmann]: http://hofmann.public.iastate.edu/
 
+<a id="students">
 Current and former PhD students
 -------------------------------
 
@@ -64,6 +66,7 @@ University of Missouri.
 
 <hr />
 
+<a id="workingpapers">
 Working papers
 --------------
 
@@ -104,6 +107,7 @@ joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
 (2015-04-21) [source code archive](dl/calhoun_oosbootstrap_v2015-05-08.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
+<a id="publications">
 Publications
 ------------
 
@@ -116,6 +120,7 @@ of Econometrics*, 165(2), 2011: 163–174.
 
 <hr />
 
+<a id="ephemera">
 Ephemera
 --------
 
