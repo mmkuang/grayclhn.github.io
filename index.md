@@ -93,7 +93,7 @@ Working papers
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
 [Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun_rrgraphics_v2015-06-01.pdf)
-(2015-06-01, submitted to *Economics Bulletin*) with
+(2015-06-01) with
 [source code archive](dl/calhoun_rrgraphics_v2015-06-01.zip).
 (This is a more formal version of a blog post I had written earlier.)
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics) -->
