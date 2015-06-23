@@ -92,9 +92,9 @@ Working papers
 [source code archive](dl/calhoun_mixedwindow_v2015-04-23.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
-[Causality in the Reinhart-Rogoff dataset, the plots thicken](dl/calhoun_rrgraphics_v2015-06-01.pdf)
-(2015-06-01) with
-[source code archive](dl/calhoun_rrgraphics_v2015-06-01.zip).
+[A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics_v2015-06-23.pdf)
+(2015-06-23) with
+[source code archive](dl/calhoun_rrgraphics_v2015-06-23.zip).
 (This is a more formal version of a blog post I had written earlier.)
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics) -->
 
