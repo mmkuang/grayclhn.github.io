@@ -6,32 +6,39 @@
     amssymb,
     amsthm,
     bibentry,
-    newtxmath,
+    calc,
     ragged2e,
     setspace,
     tabularx,
-    times,
     url,
 }
+
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}
+
 \usepackage[letterspace=35]{microtype}
 
-\RaggedRight
 \urlstyle{same}
 \newcommand{\allcaps}[1]{\textls{\MakeUppercase{#1}}}
 
 \usepackage[tiny,raggedright]{titlesec}
 \titleformat{\section}{\bf\lsstyle\uppercase}{}{}{}{}
 \titlespacing*{\section}{0pt}{2\baselineskip}{\baselineskip}
-\titlespacing*{\subsection}{0pt}{\baselineskip}{\baselineskip}
+\titlespacing*{\subsection}{0pt}{\baselineskip}{\itemsep}
 
 \usepackage[margin=1in]{geometry}
 \usepackage[shortlabels,inline]{enumitem}
 \setenumerate{topsep=0pt,parsep=0pt,partopsep=0pt,leftmargin=0pt}
 \setitemize{topsep=0pt,parsep=0pt,partopsep=0pt,leftmargin=0pt}
-\setdescription{font=\normalfont}
+\newlength{\lmargin}
+\setlength{\lmargin}{\widthof{2000\;}+2\labelsep}
+\setdescription{font=\normalfont,topsep=0pt,parsep=0pt,%
+partopsep=0pt,leftmargin=\lmargin,labelsep=2\labelsep}
 
 \frenchspacing
 \begin{document}
+\RaggedRight
 
 \begin{center}
   \allcaps{\textbf{\large Gray Calhoun}}              \\
@@ -48,19 +55,19 @@ Ames, \allcaps{IA} 50011 & \url{http://gray.clhn.org}
 \section*{Education}
 
 \begin{description}[noitemsep]
-\item[2009.] Ph.D. in Economics. University of California, San Diego
-\item[2006.] M.S. in Statistics. University of California, San Diego
-\item[2001.] B.A. in Mathematics. Tufts University
+\item[2009] Ph.D. in Economics. University of California, San Diego
+\item[2006] M.S. in Statistics. University of California, San Diego
+\item[2001] B.A. in Mathematics. Tufts University
 \end{description}
 
 \section*{Academic Positions}
 
 \begin{description}
-\item[2009 -- present.] Assistant Professor of Economics, Iowa State University
+\item[2009 -- present] Assistant Professor of Economics, Iowa State University
 \end{description}
 
 \section*{Publications}
-\bibliographystyle{plainnat}
+\bibliographystyle{plain}
 \nobibliography{calhoun-ref}
 \subsection*{Refereed Journal Articles}
 
@@ -87,18 +94,18 @@ Ames, \allcaps{IA} 50011 & \url{http://gray.clhn.org}
 \section*{Honors and Awards}
 
 \begin{description}
-\item[2006.] Walter P. Heller Award for Outstanding Third-Year Paper,
+\item[2006] Walter P. Heller Award for Outstanding Third-Year Paper,
 \allcaps{UCSD} Economics Department
 \end{description}
 
 \section*{Grants and Fellowships}
 
 \begin{description}
-\item[2015 -- 2016.] \allcaps{NSF} 1541790, ``\allcaps{FEW}: Coupling
+\item[2015 -- 2016:] \allcaps{NSF} 1541790, ``\allcaps{FEW}: Coupling
   Economic Models with Agronomic, Hydrologic, and Bioenergy Models for
   Sustainable Food, Energy, and Water Systems,'' Co-\allcaps{PI} with
   Cathy Kling, Raymond Arritt, and David Keiser (\$45,922)
-\item[2012.] Iowa State University Strategic Initiative, ``Graphical
+\item[2012] Iowa State University Strategic Initiative, ``Graphical
   Processing Units (\allcaps{GPU}) for Parallel Computing,'' with
   Helle Bunzel, Jarad Niemi, and Mervyn Marasinghe (\$87,727.39)
 \end{description}
@@ -108,28 +115,28 @@ Ames, \allcaps{IA} 50011 & \url{http://gray.clhn.org}
 \subsection*{Invited Seminars}
 
 \begin{description}
-\item[2015.] University of Montreal (4/23)
+\item[2015] University of Montreal (4/23)
 \end{description}
 
 \subsection*{Invited Conference Presentations}
 \begin{description}
-\item[2015.] \allcaps{CIREQ} Montreal Econometrics Conference (5/8)
+\item[2015] \allcaps{CIREQ} Montreal Econometrics Conference (5/8)
 \end{description}
 
 \subsection*{Other Presentations}
 \begin{description}
-\item[2014.] \allcaps{NBER} Summer Institute (Forecasting \& Empirical Methods in
+\item[2014] \allcaps{NBER} Summer Institute (Forecasting \& Empirical Methods in
   Macro \& Finance); Joint Statistical Meetings
-\item[2013.] \allcaps{NBER}-\allcaps{NSF} Time Series Conference
+\item[2013] \allcaps{NBER}-\allcaps{NSF} Time Series Conference
   (poster session); Annual Meetings of the Midwest Econometrics Group
-\item[2012.] First Conference of the International Society for
+\item[2012] First Conference of the International Society for
   Non-Parametric Statistics
-\item[2011.] \allcaps{NBER}-\allcaps{NSF} Time Series Conference;
+\item[2011] \allcaps{NBER}-\allcaps{NSF} Time Series Conference;
   Annual Meetings of the Midwest Econometrics Group
-\item[2010.] Annual Meetings of the Midwest Econometrics Group; Joint
+\item[2010] Annual Meetings of the Midwest Econometrics Group; Joint
   Statistical Meetings; International Symposium on Forecasting;
   Midwest Economics Association Annual Meetings
-\item[2009.] Federal Deposit Insurance Corporation; Iowa State
+\item[2009] Federal Deposit Insurance Corporation; Iowa State
   University; Federal Reserve Bank of Kansas City; Wayne State
   University
 \end{description}
@@ -137,18 +144,18 @@ Ames, \allcaps{IA} 50011 & \url{http://gray.clhn.org}
 \section*{Teaching Experience}
 
 \begin{description}[noitemsep]
-\item[2011 -- present.] PhD Macroeconometrics
-\item[2010 -- present.] Principles of Macroeconomics
-\item[2009 -- present.] PhD Econometrics 1
-\item[2009.] Undergraduate Econometrics 3 (at \allcaps{UCSD})
+\item[2011 -- present] PhD Macroeconometrics
+\item[2010 -- present] Principles of Macroeconomics
+\item[2009 -- present] PhD Econometrics 1
+\item[2009:] Undergraduate Econometrics 3 (at \allcaps{UCSD})
 \end{description}
 
 \section*{Graduate Student Advising}
 \begin{description}
-\item[2015.] Matt Simpson, Ph.D. Economics and Statistics.  Co-advisor
+\item[2015] Matt Simpson, Ph.D. Economics and Statistics.  Co-advisor
 with Jarad Niemi. \\
 Placement: Post-Doctoral Researcher in Statistics at University of Missouri.
-\item[2015.] Anwen Yin, Ph.D. Economics. Co-advisor with Helle Bunzel. \\
+\item[2015] Anwen Yin, Ph.D. Economics. Co-advisor with Helle Bunzel. \\
 Placement: Assistant Professor of Economics at Texas A\&M
 International University
 \end{description}
@@ -171,17 +178,17 @@ International University
 \subsection*{University Committees at Iowa State}
 
 \begin{description}[noitemsep]
-\item[2014 -- present.] Faculty Representative Assembly Executive
+\item[2014 -- present] Faculty Representative Assembly Executive
 Committee
-\item[2013 -- present.] Faculty Representative Assembly
+\item[2013 -- present] Faculty Representative Assembly
 \end{description}
 \subsection*{Departmental Committees at Iowa State}
 \begin{description}[noitemsep]
-\item[2014 -- 2015.] Agricultural economist hiring committee
-\item[2013 -- 2014.] Environmental and resource economist hiring committee
-\item[2012 -- 2013.] Computer support staff hiring committee
-\item[2009 -- 2013.] Graduate Student Admissions committee
-\item[2009 -- 2014.] Computer Committee
+\item[2014 -- 2015] Agricultural economist hiring committee
+\item[2013 -- 2014] Environmental and resource economist hiring committee
+\item[2012 -- 2013] Computer support staff hiring committee
+\item[2009 -- 2013] Graduate Student Admissions committee
+\item[2009 -- 2014] Computer Committee
 \end{description}
 \subsection*{Professional Membership}
 American Economic Association, American Statistical Association,
