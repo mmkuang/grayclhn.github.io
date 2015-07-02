@@ -16,19 +16,18 @@ dot org» (personal email and IM)
 
 **Links:**
 [Curriculum vitae](dl/calhoun-cv.pdf)
-(or as [odt](dl/calhoun-cv.odt)),
+([LaTeX](dl/calhoun-cv.tex), [BibTeX](dl/calhoun-ref.bib),
+and [tips](http://theprofessorisin.com/2012/01/12/dr-karens-rules-of-the-academic-cv/)),
 [IDEAS](http://ideas.repec.org/f/pca491.html),
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
 and [Twitter](https://twitter.com/grayclhn).
-The CV is based on a template from
-[lifeclever.com](http://www.lifeclever.com/give-your-resume-a-face-lift/).
-Also, let me know if you want the password to my [family
+Let me know if you want the password to my [family
 blog](http://clhn.org). (Don’t feel left out, it’s mostly
 pictures of my kids.)
 
-This website was last updated on 2015-05-22.
+This website was last updated on 2015-07-02.
 
 <hr />
 
