@@ -90,13 +90,17 @@ after Thanksgiving. At the miniumum, you need:
 
 * A CV: UCSD encouraged us to use its template, which is
   (unfortunately) very ugly.  It probably doesn’t matter if it is
-  ugly... but I didn’t use their template.  I also didn’t use my
-  current online CV, which is also ugly.
+  ugly... but I didn’t use their template. [Karen Kelsky has fantastic
+  instructions putting together a
+  CV](http://theprofessorisin.com/2012/01/12/dr-karens-rules-of-the-academic-cv/),
+  and I tried to follow them the last time I rewrote my CV. (LaTeX
+  source for mine is [here](https://github.com/grayclhn/grayclhn.github.io/blob/master/dl/calhoun-cv.tex).
+  Feel free to use and change it.)
 
-* A webpage. Nothing fancy, just links to your CV and your job
-  market paper, which should be clearly labeled “job market paper” if
-  you have more than one paper online. A picture of yourself looking
-  relaxed but professional is good too.
+* A webpage. Nothing fancy, just links to your CV and your job market
+  paper, which should be clearly labeled “job market paper” if you
+  have more than one paper online (or even if you don't). A picture of
+  yourself looking relaxed but professional is good too.
 
 ### Additional material you might want beyond the minimum
 
