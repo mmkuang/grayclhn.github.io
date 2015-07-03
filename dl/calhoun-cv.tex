@@ -28,12 +28,11 @@
 
 \usepackage[margin=1in]{geometry}
 \usepackage[shortlabels,inline]{enumitem}
+\newlength\dwidth
+\setlength{\dwidth}{\widthof{2000\ --\ }-\labelsep}
 \setenumerate{topsep=0pt,parsep=0pt,partopsep=0pt,leftmargin=0pt}
-\setitemize{topsep=0pt,parsep=0pt,partopsep=0pt,leftmargin=0pt}
-\newlength{\lmargin}
-\setlength{\lmargin}{\widthof{2000\;}+2\labelsep}
-\setdescription{font=\normalfont,topsep=0pt,parsep=0pt,%
-partopsep=0pt,leftmargin=\lmargin,labelsep=2\labelsep}
+\setitemize{topsep=0pt,parsep=0pt,partopsep=0pt,leftmargin=0pt,label={}}
+\setdescription{font=\normalfont,topsep=0pt,parsep=0pt,partopsep=0pt,leftmargin=!,labelwidth=\dwidth}
 
 \frenchspacing
 \begin{document}
@@ -54,29 +53,30 @@ Ames, \allcaps{IA} 50011 & \url{http://gray.clhn.org}
 \section*{Education}
 
 \begin{description}[noitemsep]
-\item[2009] PhD in Economics. University of California, San Diego
-\item[2006] \allcaps{MS} in Statistics. University of California, San Diego
-\item[2001] \allcaps{BA} in Mathematics. Tufts University
+\item[2009] PhD Economics. University of California, San Diego \\
+Dissertation title: \textit{Limit theory for overfit models}
+\item[2006] \allcaps{MS} Statistics. University of California, San Diego
+\item[2001] \allcaps{BA} Mathematics. Tufts University
 \end{description}
 
 \section*{Academic Positions}
 
 \begin{description}
-\item[2009 -- present] Assistant Professor of Economics, Iowa State University
+\item[2009 -- present.] Assistant Professor of Economics, Iowa State University
 \end{description}
 
 \section*{Publications}
 \subsection*{Refereed Journal Articles}
 
-\begin{itemize}[label={}]
-\item Hypothesis testing for linear regression when
-  \textit{k}/\textit{n} is large. \textit{Journal of Econometrics},
-  165(2):163--174, 2011
-\end{itemize}
-
+\begin{description}
+\item[2011] Hypothesis testing for linear regression when
+\textit{k}/\textit{n} is large. \textit{Journal of Econometrics},
+165(2):163--174, 2011
+\end{description}
+  
 \subsection*{Manuscripts in Submission}
 
-\begin{itemize}[label={}]
+\begin{itemize}
 \item A graphical analysis of causality in the Reinhart-Rogoff
   dataset. Submitted to \textit{Contemporary Economic Policy}
 \item An asymptotically normal out-of-sample test based on mixed
@@ -90,11 +90,11 @@ Ames, \allcaps{IA} 50011 & \url{http://gray.clhn.org}
   University Working Paper 11002. Revise and resubmit at
   \textit{Quantitative Economics}
 \end{itemize}
-
+  
 \subsection*{Manuscripts in Preparation}
-\begin{itemize}[label={}]
+\begin{itemize}
 \item Graphing better Impulse Response Functions for discrete-time
-  linear models. Joint with Seth Pruitt
+  linear models (with Seth Pruitt)
 \item A simple block bootstrap for asymptotically normal out-of-sample
   test statistics
 \end{itemize}
@@ -155,7 +155,7 @@ Ames, \allcaps{IA} 50011 & \url{http://gray.clhn.org}
 \item[2011 -- present] PhD Macroeconometrics
 \item[2010 -- present] Principles of Macroeconomics
 \item[2009 -- present] PhD Econometrics 1
-\item[2009] Undergraduate Econometrics 3 (taught at \allcaps{UCSD})
+\item[2009\rlap{:}] Undergraduate Econometrics 3 (taught at \allcaps{UCSD})
 \end{description}
 
 \section*{Graduate Student Advising}
