@@ -138,6 +138,10 @@ highly recommended):
 
 ### Miscellaneous other points about this stage of the job market:
 
+* If you are not a native English speaker, you absolutely need to have
+  a classmate who is a native English speaker proofread all of your
+  jobmarket documents.
+
 * Other academic departments (other than economics; statistics or
   public policy, for example) may be on a slightly earlier or later
   schedule than the econ job market.  Government departments that
