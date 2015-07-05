@@ -93,12 +93,8 @@ after Thanksgiving. At the miniumum, you need:
   ugly... but I didn’t use their template. [Karen Kelsky has fantastic
   instructions for putting together a
   CV](http://theprofessorisin.com/2012/01/12/dr-karens-rules-of-the-academic-cv/),
-  and I tried to follow them the last time I rewrote my CV. (LaTeX
-  source for mine is
-  [here](https://github.com/grayclhn/grayclhn.github.io/blob/master/dl/calhoun-cv.tex).
-  Feel free to use and change it. It’s not great, but lots of the
-  LaTeX CV templates you see online are truly awful, so you could do
-  worse.)
+  and I tried to follow them the last time I rewrote my CV. A LaTeX
+  template is available [here.](https://github.com/grayclhn/safecv)
 
 * A webpage. Nothing fancy, just links to your CV and your job market
   paper, which should be clearly labeled “job market paper” if you
