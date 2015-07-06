@@ -1,9 +1,10 @@
-\documentclass[11pt]{article}%
+\documentclass[12pt]{article}%
 \author{Gray Calhoun}
 \title{Curriculum Vitae}
-\usepackage{helvet}
-\renewcommand\familydefault{\sfdefault} 
 \frenchspacing
+\usepackage[T1]{fontenc}
+\usepackage{textcomp} % to get the right copyright, etc.
+\usepackage{lucidabr}
 
 % Semi-detailed preamble follows
 \usepackage{
@@ -12,18 +13,20 @@
     ragged2e,
     url,
 }
-\usepackage[T1]{fontenc}
-\usepackage[margin=1in]{geometry}
+%\usepackage[T1]{fontenc}
+\usepackage[top=.75in,left=1in,right=1in,bottom=1in]{geometry}
 \usepackage[letterspace=30]{microtype}
 
 \RaggedRight
 \urlstyle{same} %<- Do not monospace urls.
-\newcommand{\allcaps}[1]{\textls[30]{\MakeUppercase{#1}}}
+\newcommand{\allcaps}[1]{\textls{\MakeUppercase{#1}}}
+\newcommand{\smallcaps}[1]{\textls{\MakeLowercase{#1}}}
 
 % Set spacing and size of sections and subsections. (Don't use
 % anything below subsection.)
 \usepackage[tiny,raggedright]{titlesec}
-\titleformat{\section}{\bf\lsstyle\uppercase}{}{}{}{}
+\titleformat{\section}{\bf\lsstyle\scshape\lowercase}{}{}{}{}
+\titleformat{\subsection}{\bf\small}{}{}{}{}
 \titlespacing*{\section}{0pt}{2\baselineskip}{\baselineskip}
 \titlespacing*{\subsection}{0pt}{\baselineskip}{\itemsep}
 
@@ -169,7 +172,7 @@ Dissertation title: \textit{Limit theory for overfit models}
 \item[2011\,--\,present] PhD Macroeconometrics
 \item[2010\,--\,present] Principles of Macroeconomics
 \item[2009\,--\,present] PhD Econometrics 1
-\item[2009] Undergraduate Econometrics 3 (taught at \allcaps{UCSD})
+\item[2009\p] Undergraduate Econometrics 3 (taught at \allcaps{UCSD})
 \end{description}
 
 \section*{Graduate student advising}
