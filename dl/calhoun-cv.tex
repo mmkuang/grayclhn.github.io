@@ -5,6 +5,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{textcomp} % to get the right copyright, etc.
 \usepackage{lucidabr}
+%\renewcommand{\familydefault}{\sfdefault}
 \DeclareEncodingSubset{TS1}{hlh}{1}
 
 % Semi-detailed preamble follows
@@ -16,7 +17,7 @@
     url,
 }
 \usepackage[margin=1in]{geometry}
-\usepackage[letterspace=35]{microtype}
+\usepackage[letterspace=30]{microtype}
 
 \pagestyle{fancy}
 \cfoot{\oldstylenums{\thepage}}
@@ -25,12 +26,12 @@
 \RaggedRight
 \urlstyle{same} %<- Do not monospace urls.
 \newcommand{\allcaps}[1]{\textls{\MakeUppercase{#1}}}
-\newcommand{\smallcaps}[1]{\textls{\MakeLowercase{#1}}}
+\newcommand{\smallcaps}[1]{\textsc{\textls{\MakeLowercase{#1}}}}
 
 % Set spacing and size of sections and subsections. (Don't use
 % anything below subsection.)
 \usepackage[tiny,raggedright]{titlesec}
-\titleformat{\section}{\bf\lsstyle\scshape\lowercase}{}{}{}{}
+\titleformat{\section}{\bf\lsstyle\small\uppercase}{}{}{}{}
 \titleformat{\subsection}{\bf\small}{}{}{}{}
 \titlespacing*{\section}{0pt}{2\baselineskip}{\baselineskip}
 \titlespacing*{\subsection}{0pt}{\baselineskip}{\itemsep}
