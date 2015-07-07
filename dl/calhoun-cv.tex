@@ -5,17 +5,22 @@
 \usepackage[T1]{fontenc}
 \usepackage{textcomp} % to get the right copyright, etc.
 \usepackage{lucidabr}
+\DeclareEncodingSubset{TS1}{hlh}{1}
 
 % Semi-detailed preamble follows
 \usepackage{
     calc,
+    fancyhdr,
     hyperref,
     ragged2e,
     url,
 }
-%\usepackage[T1]{fontenc}
 \usepackage[margin=1in]{geometry}
-\usepackage[letterspace=30]{microtype}
+\usepackage[letterspace=35]{microtype}
+
+\pagestyle{fancy}
+\cfoot{\oldstylenums{\thepage}}
+\renewcommand{\headrulewidth}{0pt}
 
 \RaggedRight
 \urlstyle{same} %<- Do not monospace urls.
