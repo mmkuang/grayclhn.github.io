@@ -33,7 +33,7 @@ spots in different sections of the CV. Don't do that.
 Please open an issue if you find errors. Pull requests are welcome
 too. And read [Dr. Karen's advice][1] most of all.
 
-[1]: http://theprofessorisin.com/2012/01/12/dr-karens-rules-of-the-academic-cv/)
+[1]: http://theprofessorisin.com/2012/01/12/dr-karens-rules-of-the-academic-cv/
 [2]: http://gray.clhn.org/dl/calhoun-cv.pdf
 [3]: https://github.com/grayclhn/safecv
 [4]: https://tug.org/store/lucida/
