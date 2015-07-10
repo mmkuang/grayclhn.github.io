@@ -94,7 +94,7 @@ after Thanksgiving. At the miniumum, you need:
   instructions for putting together a
   CV](http://theprofessorisin.com/2012/01/12/dr-karens-rules-of-the-academic-cv/),
   and I tried to follow them the last time I rewrote my CV. A LaTeX
-  template is available [here.](https://github.com/grayclhn/safecv)
+  template is available [here](https://github.com/grayclhn/safecv).
 
 * A webpage. Nothing fancy, just links to your CV and your job market
   paper, which should be clearly labeled “job market paper” if you
