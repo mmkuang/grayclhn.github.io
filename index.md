@@ -71,11 +71,13 @@ Working papers
 (2014-03-30, revise and resubmit at *Quantitative Economics*) with
 [supplemental appendix](dl/calhoun_oosoverfit_appendix_v2014-03-30.pdf) and
 [source code archive](dl/calhoun_oosoverfit_v2014-09-22.zip).
+Iowa State University Economics Department Working Paper #11002.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) -->
 
 [Block bootstrap consistency under weak assumptions](http://www.econ.iastate.edu/research/working-papers/p14313)
 (2014-10-06, revise and resubmit at *Econometric Theory*) with
 [supplemental appendix](dl/calhoun_bootstrap_appendix_v2014-10-06.pdf).
+Iowa State University Economics Department Working Paper #11017.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper) -->
 
 [Improved stepdown methods for asymptotic control of generalized error rates](dl/calhoun_stepdown_v2015-04-27.pdf)
@@ -89,9 +91,10 @@ Working papers
 [source code archive](dl/calhoun_mixedwindow_v2015-04-23.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
-[A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics_v2015-06-23.pdf)
-(2015-06-23) with
-[source code archive](dl/calhoun_rrgraphics_v2015-06-23.zip).
+[A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics)
+(2015-07-19) with
+[source code archive](dl/calhoun_rrgraphics.zip).
+Iowa State University Economics Department Working Paper [#15014](https://www.econ.iastate.edu/research/%5Bpublication-menu-cat%5D/p19889).
 (This is a more formal version of a blog post I had written earlier.)
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics) -->
 
