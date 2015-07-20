@@ -91,7 +91,7 @@ Iowa State University Economics Department Working Paper #11017.
 [source code archive](dl/calhoun_mixedwindow_v2015-04-23.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
-[A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics)
+[A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics.pdf)
 (2015-07-19) with
 [source code archive](dl/calhoun_rrgraphics.zip).
 Iowa State University Economics Department Working Paper [#15014](https://www.econ.iastate.edu/research/%5Bpublication-menu-cat%5D/p19889).
