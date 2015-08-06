@@ -15,7 +15,6 @@ they may be updated again before the course starts.
   class details (subject to change)
 * [Reading guide](readingguide-2015.pdf) (subject to change)
 * [Introductory email to incoming PhD students](/blog/intro-phd-email)
-* [Copies of assigned papers](reading-2015.zip) (password protected)
 * Required textbooks:
   * Hayashi (2000), [*Econometrics*](http://press.princeton.edu/titles/6946.html)
   * Ramanathan (1993), [*Statistical Methods in Econometrics*](http://www.worldcat.org/oclc/786257362)
