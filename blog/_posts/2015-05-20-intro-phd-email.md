@@ -42,9 +42,9 @@ following:
 * Freedman, Pisani, and Purves's "Statistics." It's currently on the
   4th edition, but you can buy an older edition. (Or get a copy from
   the library, you're probably not going to need it as a reference.)
-  This is a very, very basic stats 101 level treatment --- e.g. it
-  doesn't really get more advanced than the t-test, and you can
-  probably read it in a week --- but it will give you a good
+  This is a very, very basic stats 101 level treatment. E.g. it
+  doesn't really get more advanced than the t-test and you can
+  probably read it in a week. But it will give you a good
   introduction to probability and statistics if you've never seen them
   before.
 
