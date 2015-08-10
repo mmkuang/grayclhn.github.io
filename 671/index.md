@@ -40,7 +40,7 @@ from year to year, so don’t use past exams as study guides. But the
 old exams might help you learn what sort of questions I find
 interesting.
 
-* 2014 [syllabus](syllabus-2014.pdf) and [reading guide](readingguide-2014pdf)
+* 2014 [syllabus](syllabus-2014.pdf) and [reading guide](readingguide-2014.pdf)
 * 2013 [syllabus](syllabus-2013) and [final exam](test-final-2013.pdf)
 * 2012 [syllabus](syllabus-2012),
   [midterm 1](test1-2012.pdf) and
