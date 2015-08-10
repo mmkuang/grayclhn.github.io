@@ -23,7 +23,7 @@ they may be updated again before the course starts.
 * Recommended textbooks:
   * Thomson (2011), [*A Guide for the Young Economist*](http://mitpress.mit.edu/books/guide-young-economist-0)
   * Freedman (2009), [*Statistical Models: Theory and Practice*](http://www.stat.berkeley.edu/~census), second edition
-* [A list of additional free econometrics resources]([EFLP]: http://www.econometricslibrary.org)
+* [A list of additional free econometrics resources](http://www.econometricslibrary.org)
   (with especially relevant material [here](http://www.econometricslibrary.org/#core))
 * You can use [Blackboard Learn][] to check your grade throughout the
   semester and to send messages to your team. But all of the course
