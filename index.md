@@ -14,6 +14,11 @@ dot org» (personal email and IM)
 
 **Office:** 467 Heady Hall, (515) 294-6271.
 
+**Schedule for 2015–2016:** I'm teaching Tuesdays and Thursdays both
+Fall and Spring semesters, 9–11 in the Fall and 2–3 in the
+Spring. Office hours are held in my office for 45 minutes or so after
+the lecture.
+
 **Links:**
 [CV](dl/calhoun-cv.pdf),
 [IDEAS](http://ideas.repec.org/f/pca491.html),
@@ -25,7 +30,7 @@ Let me know if you want the password to my [family
 blog](http://clhn.org). (Don’t feel left out, it’s mostly
 pictures of my kids.)
 
-This website was last updated on 2015-07-02.
+This website was last updated on 2015-08-13.
 
 <hr />
 
