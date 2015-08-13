@@ -15,7 +15,7 @@ dot org» (personal email and IM)
 **Office:** 467 Heady Hall, (515) 294-6271.
 
 **Schedule for 2015–2016:** I'm teaching Tuesdays and Thursdays both
-Fall and Spring semesters, 9–11 in the Fall and 2–3 in the
+Fall and Spring semesters, 9–11 in the Fall and 2–3:30 in the
 Spring. Office hours are held in my office for 45 minutes or so after
 the lecture.
 
