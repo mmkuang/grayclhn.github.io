@@ -12,8 +12,8 @@ I’ve put some early versions of course documents on this page, but
 they may be updated again before the course starts.
 
 * [Course syllabus](syllabus-2015.pdf) with contact information and
-  class details (subject to change)
-* [Reading guide](readingguide-2015.pdf) (subject to change)
+  class details
+* [Reading guide](readingguide-2015.pdf)
 * [Introductory email to incoming PhD students](/blog/intro-phd-email)
 * Required textbooks:
   * Hayashi (2000), [*Econometrics*](http://press.princeton.edu/titles/6946.html)
