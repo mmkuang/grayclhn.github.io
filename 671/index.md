@@ -5,8 +5,9 @@ title: Economics 671 course page
 
 This is the course webpage for Economics 671 at Iowa State, PhD
 Econometrics (Fall 2015). The class meets 9–11 in Heady 272 on
-Tuesdays and Thursdays. The TA for this fall has not been assigned
-yet. Before emailing me or the TA about this class, please read [these
+Tuesdays and Thursdays. The TA for this fall is Zack Martin and
+his contact information is on the course syllabus.
+Before emailing me or the TA about this class, please read [these
 email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
 I’ve put some early versions of course documents on this page, but
 they may be updated again before the course starts.
