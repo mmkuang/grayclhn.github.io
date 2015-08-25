@@ -9,8 +9,6 @@ Tuesdays and Thursdays. The TA for this fall is Zack Martin and
 his contact information is on the course syllabus.
 Before emailing me or the TA about this class, please read [these
 email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
-I’ve put some early versions of course documents on this page, but
-they may be updated again before the course starts.
 
 * [Course syllabus](syllabus-2015.pdf) with contact information and
   class details
