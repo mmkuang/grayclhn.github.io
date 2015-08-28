@@ -30,7 +30,7 @@ Let me know if you want the password to my [family
 blog](http://clhn.org). (Don’t feel left out, it’s mostly
 pictures of my kids.)
 
-This website was last updated on 2015-08-13.
+This website was last updated on 2015-08-29.
 
 <hr />
 
