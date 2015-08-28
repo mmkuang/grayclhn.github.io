@@ -32,11 +32,10 @@ email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
 
 Grade weights for 2015 were negotiated to be:
 
-* Individual scores: 20%
-  * iRAT: 70%
-  * Final exam: 30%
-* Team scores: 60%
-* Peer evaluations: 20%
+Individual scores: 20% (further split into 70% for the iRATs and 30%
+for the final exam)  
+Team scores: 60%  
+Peer evaluations: 20%
 
 [Blackboard Learn]: https://bb.its.iastate.edu
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
