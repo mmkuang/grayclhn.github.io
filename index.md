@@ -56,7 +56,7 @@ Teaching
 Current and former PhD students
 -------------------------------
 
-[Kevin Duncan](http://www.econ.iastate.edu/people/graduate-students/duncan-kevin). Current economics PhD student.
+[Kevin Duncan](http://kdduncan.github.io/index.html). Current economics PhD student.
 
 [Anwen Yin](http://anwenyin.weebly.com). 2015 PhD in Economics, [Helle
 Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle) and
