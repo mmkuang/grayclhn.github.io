@@ -30,6 +30,14 @@ email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
   semester and to send messages to your team. But all of the course
   material will be put on this webpage.
 
+Grade weights for 2015 were negotiated to be:
+
+* Individual scores: 20%
+  * iRAT: 70%
+  * Final exam: 30%
+* Team scores: 60%
+* Peer evaluations: 20%
+
 [Blackboard Learn]: https://bb.its.iastate.edu
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
 
