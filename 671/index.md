@@ -30,8 +30,7 @@ email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
   semester and to send messages to your team. But all of the course
   material will be put on this webpage.
 
-Grade weights for 2015 were negotiated to be:
-
+Grade weights for 2015 were negotiated to be:  
 Individual scores: 20% (further split into 70% for the iRATs and 30%
 for the final exam)  
 Team scores: 60%  
