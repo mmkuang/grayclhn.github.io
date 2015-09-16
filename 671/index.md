@@ -20,7 +20,9 @@ email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
   * Hayashi (2000), [*Econometrics*](http://press.princeton.edu/titles/6946.html)
   * Ramanathan (1993), [*Statistical Methods in Econometrics*](http://www.worldcat.org/oclc/786257362)
   * Teetor (2011), [*R Cookbook*](http://shop.oreilly.com/product/9780596809164.do)
-* [Additional required reading](reading-2015.zip) (password protected)
+* Additional required reading:
+  * Imbens and Wooldridge (2009), [Recent developments in the econometrics of program evaluation](https://www.aeaweb.org/articles.php?doi=10.1257/jel.47.1.5)
+  * Rubin (2008), [For objective causal inference, design trumps analysis](https://projecteuclid.org/euclid.aoas/1223908042).
 * Recommended textbooks:
   * Thomson (2011), [*A Guide for the Young Economist*](http://mitpress.mit.edu/books/guide-young-economist-0)
   * Freedman (2009), [*Statistical Models: Theory and Practice*](http://www.stat.berkeley.edu/~census), second edition
@@ -33,7 +35,7 @@ email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
 Grade weights for 2015 were negotiated to be:  
 Individual scores: 20% (further split into 70% for the iRATs and 30%
 for the final exam)  
-Team scores: 60%  
+Team scores: 60% (30% tRAT and 70% graded class activities)  
 Peer evaluations: 20%
 
 [Blackboard Learn]: https://bb.its.iastate.edu
