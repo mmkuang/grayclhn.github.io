@@ -48,47 +48,27 @@ Partial lecture notes
 ---------------------
 
 Please let me know when you find errors or broken links. The documents in this section
-are copyright 2014 by Gray Calhoun, and licensed under the [GNU Free
-Documentation License][FDL] v1.3
+are copyright 2014-2015 by Gray Calhoun. You're free to use it, but contact me if you
+have specific licensing requirements.
 
-* [Estimating and using VARs][VAR1] (Sept. 9th, 2014, with [source code][VAR1src] and [data][VAR1data])
-* [Structural VARs][VAR2] (Sept. 11th, 2014, with [source code][VAR2src] and [data][VAR2data])
-* [Stochastic integrals and spurious regression][spurious] (Nov. 4th, 2014, with [document source][spurious_source])
-* [Basics of estimating cointegrated time series][coint1] (Nov. 6th, 2014, with [document source][coint1_source])
-* [Inference in cointegrated time series][coint2] (Nov. 11th, 2014, with [document source][coint2_source])
-* [Stepdown multiple testing procedures][stepdown] (Nov. 13th and 18th, 2014, with [document source][stepdown_source]
-  and code samples: [file1][stepdown_1], [file2][stepdown_2]; updated on Nov. 18)
-* [Introduction to Bayesian inference][bayes] (Nov. 20th, 2014, with [document source][bayes_source]
-  and [code sample][bayes_R])
-* [Implemetning Bayesian estimators][bayes2] (Dec. 2nd and 4th, 2014, with [document source][bayes2_source]
-  and code samples: [file1][bayes2a_R], [file2][bayes2b_R])
+* [Estimating and using VARs][VAR1] (Sept. 9th, 2014)
+* [Structural VARs][VAR2] (Sept. 11th, 2014)
+* [Stochastic integrals and spurious regression][spurious] (Nov. 4th, 2014)
+* [Basics of estimating cointegrated time series][coint1] (Nov. 6th, 2014)
+* [Inference in cointegrated time series][coint2] (Nov. 11th, 2014)
+* [Stepdown multiple testing procedures][stepdown] (Nov. 13th and 18th, 2014)
+* [Introduction to Bayesian inference][bayes] (Nov. 20th, 2014)
+* [Implemetning Bayesian estimators][bayes2] (Dec. 2nd and 4th, 2014)
 * [Local copy of the license][FDL_local]
 
-[bayes2]: bayes_implementation_slides_2014.pdf
-[bayes2_source]: https://github.com/grayclhn/674/blob/v0.9.0/bayes/2_evaluation.org
-[bayes2a_R]: https://github.com/grayclhn/674/blob/v0.9.0/bayes/evaluation_plots.R
-[bayes2b_R]: https://github.com/grayclhn/674/blob/v0.9.0/bayes/unrate.R
 [bayes]: bayes_intro_slides_2014.pdf
-[bayes_source]: https://github.com/grayclhn/674/blob/v0.8.1/inference/bayesian.org
-[bayes_R]: https://github.com/grayclhn/674/blob/v0.8.1/inference/bayesian_example.R
-[stepdown_2]: https://github.com/grayclhn/674/blob/v0.6.2/inference/pretest2.R
-[stepdown_1]: https://github.com/grayclhn/674/blob/v0.6.2/inference/pretest1.R
-[stepdown_source]: https://github.com/grayclhn/674/blob/v0.6.2/inference/selection.org
+[bayes2]: bayes_implementation_slides_2014.pdf
 [stepdown]: multiple_testing_slides_2014.pdf
-[coint2_source]: https://github.com/grayclhn/674/blob/v0.5.0/cointegration/estimation_basics.org
 [coint2]: cointegration_inference_slides_2014.pdf
-[coint1_source]: https://github.com/grayclhn/674/blob/v0.4.0/cointegration/estimation_basics.org
 [coint1]: cointegration_estimation_slides_2014.pdf
-[VAR1]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.6/var_forecasts.ipynb
-[VAR2]: http://nbviewer.ipython.org/github/grayclhn/674/blob/v0.2.6/svar_lecture.ipynb
-[VAR1src]: https://github.com/grayclhn/674/blob/v0.2.6/var_forecasts.ipynb
-[VAR2src]: https://github.com/grayclhn/674/blob/v0.2.6/svar_lecture.ipynb
-[VAR1data]: https://github.com/grayclhn/674/blob/v0.2.6/data/bivariate_example.csv
-[VAR2data]: https://github.com/grayclhn/674/blob/v0.2.6/data/bivariate_example2.csv
+[VAR1]: https://github.com/grayclhn/grayclhn.github.io/674/var_forecasts.ipynb
+[VAR2]: https://github.com/grayclhn/grayclhn.github.io/674/svar_lecture.ipynb
 [spurious]: stochastic_integration_slides_2014.pdf
-[spurious_source]: https://github.com/grayclhn/674/blob/v0.3.2/lectures/stochastic_integration.org
-[FDL]: http://www.gnu.org/copyleft/fdl.html
-[FDL_local]: GNU_FDL/
 
 <hr />
 
@@ -100,7 +80,7 @@ These are interesting and should be broadly accessible.
 * Much of what we study in this class originates with
   [Thomas Sargent](https://files.nyu.edu/ts43/public/) and
   [Chris Sims’s](http://www.princeton.edu/~sims/)
-  Nobel prize winning research. So it’s worth reading The Nobel Prize
+  Nobel prize winning research. So it’s worth reading the Nobel Prize
   Committee’s [summary of that research][Nobel11] as well as their
   individual Nobel Lectures. ([Sargent’s lecture][], [Sims’s
   lecture][]) [Lars Peter Hansen’s](http://www.larspeterhansen.org/)
