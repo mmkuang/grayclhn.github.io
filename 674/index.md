@@ -66,8 +66,8 @@ have specific licensing requirements.
 [stepdown]: multiple_testing_slides_2014.pdf
 [coint2]: cointegration_inference_slides_2014.pdf
 [coint1]: cointegration_estimation_slides_2014.pdf
-[VAR1]: https://github.com/grayclhn/grayclhn.github.io/674/var_forecasts.ipynb
-[VAR2]: https://github.com/grayclhn/grayclhn.github.io/674/svar_lecture.ipynb
+[VAR1]: https://github.com/grayclhn/grayclhn.github.io/tree/master/674/var_forecasts.ipynb
+[VAR2]: https://github.com/grayclhn/grayclhn.github.io/tree/master/674/svar_lecture.ipynb
 [spurious]: stochastic_integration_slides_2014.pdf
 
 <hr />
