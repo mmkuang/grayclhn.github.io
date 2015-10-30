@@ -10,6 +10,12 @@ his contact information is on the course syllabus.
 Before emailing me or the TA about this class, please read [these
 email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
 
+[Blackboard Learn]: https://bb.its.iastate.edu
+[leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
+
+Links to course material and reading
+----------------------------------------------------------------------
+
 * [Course syllabus](syllabus-2015.pdf) with contact information and
   class details
 * [Reading guide](readingguide-2015.pdf)
@@ -32,17 +38,9 @@ email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
   semester and to send messages to your team. But all of the course
   material will be put on this webpage.
 
-Grade weights for 2015 were negotiated to be:  
-Individual scores: 20% (further split into 70% for the iRATs and 30%
-for the final exam)  
-Team scores: 60% (30% tRAT and 70% graded class activities)  
-Peer evaluations: 20%
-
-[Blackboard Learn]: https://bb.its.iastate.edu
-[leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
-
 Practice questions from the textbooks
 ----------------------------------------------------------------------
+
 It would be especially good preparation for the final exam to work on answers
 to the following questions. (All of them are from the end of chapter exercises.)
 
@@ -52,8 +50,18 @@ to the following questions. (All of them are from the end of chapter exercises.)
 If you have time, the other questions are also good. But you should prioritize
 these questions.
 
+Fall, 2015 Grade Weights
+----------------------------------------------------------------------
+
+Grade weights for 2015 were negotiated to be:
+
+* Individual scores: 20% (further split into 70% for the iRATs and 30%
+  for the final exam)
+* Team scores: 60% (30% tRAT and 70% graded class activities)
+* Peer evaluations: 20%
+
 Material from previous years
-----------------------------
+----------------------------------------------------------------------
 
 I’ve changed the order and presentation of the material substantially
 from year to year, so don’t use past exams as study guides. But the
