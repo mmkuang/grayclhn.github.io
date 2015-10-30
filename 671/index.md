@@ -41,6 +41,17 @@ Peer evaluations: 20%
 [Blackboard Learn]: https://bb.its.iastate.edu
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
 
+Practice questions from the textbooks
+----------------------------------------------------------------------
+It would be especially good preparation for the final exam to work on answers
+to the following questions. (All of them are from the end of chapter exercises.)
+
+* Ramanathan: 5.4, 6.9, 7.3, 8.8, 9.9
+* Hayashi chapter 1: 1, 2, 4, and 5; chapter 2: 2, 3, and 7.
+
+If you have time, the other questions are also good. But you should prioritize
+these questions.
+
 Material from previous years
 ----------------------------
 
