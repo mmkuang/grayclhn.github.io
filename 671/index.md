@@ -22,18 +22,25 @@ Links to course material and reading
 * [Introductory email to incoming PhD students](/blog/intro-phd-email)
 * [Slides for first class meeting](intro-2015.pdf)
 * [Software installation handout](software-installation.pdf)
-* Required textbooks:
+* **Required textbooks:**
   * Hayashi (2000), *[Econometrics][Ha00]*
   * Ramanathan (1993), *[Statistical Methods in Econometrics][Ra93]*
   * Teetor (2011), *[R Cookbook][Te11]*
-* Additional required reading:
+* **Additional required reading:**
   * Imbens and Wooldridge (2009), [Recent developments in the econometrics of
     program evaluation][IW09]
   * Rubin (2008), [For objective causal inference, design trumps analysis][Ru08]
-* Recommended textbooks:
+* **Recommended textbooks:**
   * Thomson (2011), *[A Guide for the Young Economist][Th11]*
   * Freedman (2009), *[Statistical Models: Theory and Practice][Fr09]*,
     second edition
+* **Git resources:**
+  * [The Git Parable][Pr09]: basic motivation for why software like Git
+    is useful.
+  * [Best practices for teams][GFT]: very simple guidelines for how to
+    use source control. (Includes advice for 'teams of one.') The author
+    has a book ([Git for Teams][GFT2]) that's very good too.
+  * [Pro Git][CS14]: an excellent and free book entirely about Git.
 * [A list of additional free econometrics resources][EFLP] (with especially
   relevant material [here][EFLP2])
 * You can use [Blackboard Learn][] to check your grade throughout the
@@ -49,6 +56,10 @@ Links to course material and reading
 [Fr09]: http://www.stat.berkeley.edu/~census
 [EFLP]: http://www.econometricslibrary.org
 [EFLP2]: http://www.econometricslibrary.org/#core
+[Pr09]: http://tom.preston-werner.com/2009/05/19/the-git-parable.html
+[GFT]: http://www.gitforteams.com/resources/best-practices-team.html
+[GFT2]: http://shop.oreilly.com/product/0636920034520.do
+[CS14]: http://git-scm.com/book/en/v2
 
 Practice questions from the textbooks
 ----------------------------------------------------------------------
