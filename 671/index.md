@@ -23,20 +23,32 @@ Links to course material and reading
 * [Slides for first class meeting](intro-2015.pdf)
 * [Software installation handout](software-installation.pdf)
 * Required textbooks:
-  * Hayashi (2000), [*Econometrics*](http://press.princeton.edu/titles/6946.html)
-  * Ramanathan (1993), [*Statistical Methods in Econometrics*](http://www.worldcat.org/oclc/786257362)
-  * Teetor (2011), [*R Cookbook*](http://shop.oreilly.com/product/9780596809164.do)
+  * Hayashi (2000), *[Econometrics][Ha00]*
+  * Ramanathan (1993), *[Statistical Methods in Econometrics][Ra93]*
+  * Teetor (2011), *[R Cookbook][Te11]*
 * Additional required reading:
-  * Imbens and Wooldridge (2009), [Recent developments in the econometrics of program evaluation](https://www.aeaweb.org/articles.php?doi=10.1257/jel.47.1.5)
-  * Rubin (2008), [For objective causal inference, design trumps analysis](https://projecteuclid.org/euclid.aoas/1223908042).
+  * Imbens and Wooldridge (2009), [Recent developments in the econometrics of
+    program evaluation][IW09]
+  * Rubin (2008), [For objective causal inference, design trumps analysis][Ru08]
 * Recommended textbooks:
-  * Thomson (2011), [*A Guide for the Young Economist*](http://mitpress.mit.edu/books/guide-young-economist-0)
-  * Freedman (2009), [*Statistical Models: Theory and Practice*](http://www.stat.berkeley.edu/~census), second edition
-* [A list of additional free econometrics resources](http://www.econometricslibrary.org)
-  (with especially relevant material [here](http://www.econometricslibrary.org/#core))
+  * Thomson (2011), *[A Guide for the Young Economist][Th11]*
+  * Freedman (2009), *[Statistical Models: Theory and Practice][Fr09]*,
+    second edition
+* [A list of additional free econometrics resources][EFLP] (with especially
+  relevant material [here][EFLP2])
 * You can use [Blackboard Learn][] to check your grade throughout the
   semester and to send messages to your team. But all of the course
   material will be put on this webpage.
+
+[Ha00]: http://press.princeton.edu/titles/6946.html
+[Ra93]: http://www.worldcat.org/oclc/786257362
+[Te11]: http://shop.oreilly.com/product/9780596809164.do
+[IW09]: https://www.aeaweb.org/articles.php?doi=10.1257/jel.47.1.5
+[Ru08]: https://projecteuclid.org/euclid.aoas/1223908042
+[Th11]: http://mitpress.mit.edu/books/guide-young-economist-0
+[Fr09]: http://www.stat.berkeley.edu/~census
+[EFLP]: http://www.econometricslibrary.org
+[EFLP2]: http://www.econometricslibrary.org/#core
 
 Practice questions from the textbooks
 ----------------------------------------------------------------------
