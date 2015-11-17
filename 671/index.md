@@ -65,6 +65,7 @@ Selected programming assignments
 --------------------------------
 
 * [Notes on unemployment rate forecasting exercise](instructions.html)
+  and [slides from lecture](forecasting-slides.pdf)
 * [Hayashi Ch1, empirical exercise answers](4-Hayashi-answers.html)
 * [Hayashi Ch2, empirical exercise 1 answers](5-Hayashi-answers-1.html)
 * [Hayashi Ch2, empirical exercise 2 answers](5-Hayashi-answers-2.html)
