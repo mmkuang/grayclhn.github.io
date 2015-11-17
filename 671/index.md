@@ -61,6 +61,14 @@ Links to course material and reading
 [GFT2]: http://shop.oreilly.com/product/0636920034520.do
 [CS14]: http://git-scm.com/book/en/v2
 
+Answers to selected programming assignments
+-------------------------------------------
+
+* [Hayashi Ch1, empirical exercise](4-Hayashi-answers.html)
+* [Hayashi Ch2, empirical exercise 1](5-Hayashi-answers-1.html)
+* [Hayashi Ch2, empirical exercise 2](5-Hayashi-answers-2.html)
+
+
 Practice questions from the textbooks
 ----------------------------------------------------------------------
 
