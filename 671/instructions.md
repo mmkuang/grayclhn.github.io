@@ -4,6 +4,8 @@ layout: blog
 author: Gray Calhoun
 ---
 
+[FRED]: https://research.stlouisfed.org/fred2
+
 First, you need to install and load some packages. Install first if you need to:
 
 {% highlight r %}
@@ -18,7 +20,7 @@ require(quantmod)
 require(dplyr)
 {% endhighlight %}
 
-The quantmod package will let us download data directly from the FRED database. The state unemployment series are called "ALUR", "AKUR", etc. in the database. Other state-level variables follow the same naming scheme: state abbreviation followd by variable name.
+The quantmod package will let us download data directly from the [FRED][] database. The state unemployment series are called "ALUR", "AKUR", etc. in the database. Other state-level variables follow the same naming scheme: state abbreviation followd by variable name.
 
 Before worrying about the state-level data, though, let's define the function 'getdata' to retrieve an individual series from the FRED database and reformat it to make it a little more convenient.
 
@@ -102,18 +104,28 @@ f(B, C, D, A)
 By now you are probably wondering why this is useful. Well, it is pretty common to apply lots of functions in a row when you're transforming data, often with lots of arguments. In that case, using `%>%` to write the transformations sequentially can lead to much simpler code than nesting the functions:
 
 {% highlight r %}
-d %>% firstfunction(oneargument, anotherargument) %>%
-    secondfunction(some, more, arguments) %>%
-    thirdfunction(thereare, somemore, . , argumentz, inhere) -> newd
+d %>%
+  firstfunction(oneargument, anotherargument) %>%
+  secondfunction(some, more, arguments) %>%
+  thirdfunction(thereare, somemore, . , argumentz, inhere) -> newd
 {% endhighlight %}
 
 instead of
 
 {% highlight r %}
 newd <- thirdfunction(thereare, somemore,
-    secondfunction(firstfunction(d, oneargument, anotherargument),
-        some, more, arguments),
-    argumentz, inhere)
+  secondfunction(firstfunction(d, oneargument, anotherargument),
+    some, more, arguments),
+  argumentz, inhere)
+{% endhighlight %}
+
+or (aligning at the left parentheses but otherwise the same)
+
+{% highlight r %}
+newd <- thirdfunction(thereare, somemore,
+                      secondfunction(firstfunction(d, oneargument, anotherargument),
+                                     some, more, arguments),
+                      argumentz, inhere)
 {% endhighlight %}
 
 This is especially true when you consider how we usually write these expressions, which is to start with the initial transformation and make sure that works, then add the second transformation, and finally the third. This writing process works perfectly with pipes, but becomes super awkward with heavily nested function calls.
@@ -186,9 +198,11 @@ saveForecasts <- function(d, mreg, filename) {
 How to use lagged variables as regressors
 -----------------------------------------
 
-We can use the "group\_by" and "mutate" functions to add lags. So, suppose that you want to fit the model \[
-  u_{it} = \beta_0 + \beta_1 u_{i,t-1} + \beta_2 u_{i,t-2} + \varepsilon_{it}
-\] where \(i\) indicates the state and \(t\) the time period. The easiest way to go is to add \(u_{i,t-1}\) and \(u_{i,t-2}\) as an additional column in our dataframe:
+We can use the "group\_by" and "mutate" functions to add lags. So, suppose that
+you want to fit the model
+$$u_{it} = \beta_0 + \beta_1 u_{i,t-1} + \beta_2 u_{i,t-2} + \varepsilon_{it}$$
+where $i$ indicates the state and $t$ the time period. The easiest way to go is
+to add $u_{i,t-1}$ and $u_{i,t-2}$ as an additional column in our dataframe:
 
 {% highlight r %}
 group_by(d, state) %>% mutate(u_1 = lag(u), u_2 = lag(u, 2)) -> d
@@ -212,6 +226,7 @@ filter(d, state == "IA") %>% head
     ## 5 1976-05-01   4.0    IA   4.1   4.2
     ## 6 1976-06-01   3.9    IA   4.0   4.1
 
+and
 {% highlight r %}
 filter(d, state == "IA") %>% tail
 {% endhighlight %}
@@ -258,7 +273,7 @@ newdata
 How to include other variables
 ------------------------------
 
-You probably want to use variables other than the unemployment rate in your analysis. Let's add new housing units as another variable. (Mostly because I don't expect it to be that helpful....) It has the label suffix "BPPRIVSA".
+You probably want to use variables other than the unemployment rate in your analysis. Let's add new housing units as another variable. (Mostly because I don't expect it to be that helpful....) It has the label suffix `BPPRIVSA`. (How did I find this variable and its label? By poking around on [FRED][])
 
 Download the data using the same function as before:
 
@@ -407,4 +422,6 @@ Final remarks
 
 2.  Don't forget the "state" factor. At the very least, you'll want to allow the intercept to vary by state: `lm(u ~ state, d)` is going to forecast much better than `lm(u ~ 1, d)`. You may also want to let some coefficients vary by state.
 
-3.  This is an absurdly simplistic treatment of panel data. (Data that have repeated observations on multiple individuals.) We should be thinking much more about correlation between states and autocorrelation across time. You can look at Chapter 5 of Hayashi for more details, but things are much more complicated and interesting than they appear here.
+3.  The unemployment rate is probably not stationary. You should consider modeling it in differences or modeling it as stationary around a (changing) trend. Probably neither of those approaches is true, but should be reasonable for forecasting. If you choose "trend stationary," use recession indicators to determine whether it's trending up or down.
+
+4.  This is an absurdly simplistic treatment of panel data. (Data that have repeated observations on multiple individuals.) We should be thinking much more about correlation between states and autocorrelation across time. You can look at Chapter 5 of Hayashi for more details, but things are much more complicated and interesting than they appear here.
