@@ -64,5 +64,5 @@ That said, here are some more thoughts, in no particular order.
 
 * [Noah Smith is much more positive than I am](http://noahpinionblog.blogspot.de/2013/05/if-you-get-phd-get-economics-phd.html)
 * [Chris Blattman is more specific](http://chrisblattman.com/about/contact/gradschool/)
-* [Susan Athey’s advice on applying to grad schools](http://kuznets.fas.harvard.edu/~athey/gradadv.html)
+* [Susan Athey’s advice on applying to grad schools](https://faculty-gsb.stanford.edu/athey/gradadvising.html)
   looks great and you should definitely read it.
