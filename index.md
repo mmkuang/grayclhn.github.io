@@ -25,6 +25,7 @@ the lecture.
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
+[Pinboard](https://pinboard.in/u:pseut),
 and [Twitter](https://twitter.com/grayclhn).
 Let me know if you want the password to my [family
 blog](http://clhn.org). (Don’t feel left out, it’s mostly
