@@ -116,6 +116,9 @@ joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
 (2015-04-21) [source code archive](dl/calhoun_oosbootstrap_v2015-05-08.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
+[Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs with the Uniform Kernel](dl/bartalotti_calhoun_he_rdboot.pdf)
+(2016-03-01) source code and data will be made available soon.
+
 <a id="publications">
 Publications
 ------------
