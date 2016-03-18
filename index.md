@@ -71,8 +71,8 @@ Current and former PhD students
 <hr />
 
 <a id="workingpapers">
-Working papers
---------------
+Work in progress
+----------------
 
 [Out-of-sample comparisons of overfit models](http://www.econ.iastate.edu/research/working-papers/p12462)
 (2014-03-30, revise and resubmit at *Quantitative Economics*) with
@@ -100,13 +100,6 @@ Iowa State University Economics Department Working Paper #11017.
 [source code archive](dl/calhoun_mixedwindow_v2015-04-23.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
-[A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics.pdf)
-(2015-07-19) with
-[source code archive](dl/calhoun_rrgraphics.zip).
-Iowa State University Economics Department Working Paper [#15014](https://www.econ.iastate.edu/research/%5Bpublication-menu-cat%5D/p19889).
-(This is a more formal version of a blog post I had written earlier.)
-<!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics) -->
-
 [Graphing better Impulse Response Functions for discrete-time linear models](dl/calhounpruitt_smoothirf_v2015-03-27.pdf),
 joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
 (2015-03-27) with [source code archive](dl/calhounpruitt_smoothirf_v2015-03-27.zip).
@@ -122,8 +115,8 @@ and [Yang He](https://www.econ.iastate.edu/people/graduate-students/he-yang)
 (2016-03-11); source code and data will be made available soon.
 
 <a id="publications">
-Publications
-------------
+Refereed publications
+---------------------
 
 Hypothesis testing in linear regression when k/n is large. *Journal
 of Econometrics*, 165(2), 2011: 163–174.
@@ -131,6 +124,20 @@ of Econometrics*, 165(2), 2011: 163–174.
 [published version](http://www.sciencedirect.com/science/article/pii/S0304407611001448),
 [R package](dl/ftestLargeK_1.0.tar.gz), and
 [additional files](dl/calhoun_ftest_2010.tar.gz)
+
+Other working papers
+--------------------
+
+[Research Needs and Challenges in the FEW System: Coupling Economic Models with Agronomic, Hydrologic, and Bioenergy Models for Sustainable Food, Energy, and Water Systems](http://www.card.iastate.edu/publications/dbs/pdffiles/16wp563.pdf)
+(with Catherine L. Kling, Raymond W. Arritt, David A. Keiser, and 25 others),
+March 2016. CARD Working Paper #563.
+
+[A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics.pdf)
+(2015-07-19) with
+[source code archive](dl/calhoun_rrgraphics.zip).
+Iowa State University Economics Department Working Paper [#15014](https://www.econ.iastate.edu/research/%5Bpublication-menu-cat%5D/p19889).
+(This is a more formal version of a blog post I had written earlier.)
+<!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/rr_graphics) -->
 
 <hr />
 
