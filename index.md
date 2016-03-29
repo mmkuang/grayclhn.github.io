@@ -100,9 +100,8 @@ Iowa State University Economics Department Working Paper #11017.
 [source code archive](dl/calhoun_mixedwindow_v2015-04-23.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
-[Graphing better Impulse Response Functions for discrete-time linear models](dl/calhounpruitt_smoothirf_v2015-03-27.pdf),
-joint with [Seth Pruitt](https://sites.google.com/site/sethpruittnet/)
-(2015-03-27) with [source code archive](dl/calhounpruitt_smoothirf_v2015-03-27.zip).
+[A method for smoothing Impulse Response Functions for discrete-time linear models](dl/calhoun_smoothirf.pdf),
+(2016-03-28) with [source code archive](https://github.com/grayclhn/smooth_irf).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
 [A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun_oosbootstrap_v2015-04-21.pdf)
