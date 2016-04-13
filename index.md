@@ -58,7 +58,7 @@ Information for PhD students at Iowa State
 ------------------------------------------
 
 * [Information about PhD Econometrics this Fall (2015) at Iowa State](http://gray.clhn.org/blog/intro-phd-email)
-* [Expectations for *econometrics* PhD students](https://slack-files.com/T0F8SPJGJ-F0WMAGK4Y-7cb66a33a8)
+* [Expectations for “econometrics” PhD students](https://slack-files.com/T0F8SPJGJ-F0WMAGK4Y-7cb66a33a8)
 
 <a id="students">
 Current and former PhD students
