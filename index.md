@@ -118,7 +118,8 @@ Iowa State University Economics Department Working Paper #11017.
 [Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs with the Uniform Kernel](dl/bartalotti_calhoun_he_rdboot.pdf),
 joint with [Otávio Bartalotti](https://www.econ.iastate.edu/people/faculty/bartalotti-ot%C3%A1vio)
 and [Yang He](https://www.econ.iastate.edu/people/graduate-students/he-yang)
-(2016-03-11); source code and data will be made available soon.
+(2016-03-11)
+[source code repository](https://git.ece.iastate.edu/gcalhoun/bootstrap-bias-discontinuity.git)
 
 <a id="publications">
 Refereed publications
