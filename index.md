@@ -119,7 +119,7 @@ Iowa State University Economics Department Working Paper #11017.
 joint with [Otávio Bartalotti](https://www.econ.iastate.edu/people/faculty/bartalotti-ot%C3%A1vio)
 and [Yang He](https://www.econ.iastate.edu/people/graduate-students/he-yang)
 (2016-03-11)
-[source code repository](https://git.ece.iastate.edu/gcalhoun/bootstrap-bias-discontinuity.git)
+[source code repository](https://github.com/grayclhn/boot-rd)
 
 <a id="publications">
 Refereed publications
